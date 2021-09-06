@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="lessons">
+            <div>
+                <h3>Wähle Klasse und Thema:</h3>
+            </div>
+            <div>
+                <select name="grade" id="grade">
+                    <option value="" selected></option>
+                    <option value="klasse_7">Klasse 7</option>
+                    <option value="all">Alle</option>
+                </select>
+                <select name="topic" id="topic" style="display: none;">
+                    <option value="" selected></option>
+                    <option value="topic_1">topic 1</option>
+                    <option value="topic_2">topic 2</option>
+                    <option value="topic_3">topic 3</option>
+                    <option value="all">Alle</option>
+                </select>
+                <select name="lesson" id="lesson" style="display: none;">
+                    <option value="" selected></option>
+                    <option value="lesson_1">lesson 1</option>
+                    <option value="lesson2">lesson 2</option>
+                    <option value="lesson_3">lesson 3</option>
+                    <option value="all">Alle</option>
+                </select>
+                <button id="load-data-btn" disabled="disabled">Lade Daten</button>
+            </div>
+        </div>
+        
+        <div class="excercises">
+            <button id="learn-btn" class="excercises">Lerne</button>
+            <button id="repeat-btn" class="excercises">Widerhole</button>
+            <button id="find-btn" class="excercises">Ordne zu</button>
+            <button id="type-btn" class="excercises">Schreibe</button>
+            <button id="listen-btn" class="excercises">Höre zu</button>
+        </div>
+        <div id="main" class="flex-container">
+        </div>
+        <div class="panel flex-container">
+            <button id="prev-btn">Previous</button>
+            <button id="next-btn">Next</button>
+        </div>
+        <div class="stats">
+            <h4>5 Wörter geladen (Klasse 7 -> Alle)</h4>
+        </div>
+    </div>
+    <script src="bundle.js"></script>
+</body>
+</html>

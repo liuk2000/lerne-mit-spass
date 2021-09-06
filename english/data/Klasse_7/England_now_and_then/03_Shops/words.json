@@ -1,0 +1,49 @@
+[
+    {
+        "german": "Souvenirladen",
+        "english": "souvenir shop",
+        "audio": "souvenir_shop.ogg"
+    },
+    {
+        "german": "Bäckerei",
+        "english": "baker's",
+        "audio": "backery.ogg",
+        "alternatives": [
+            "bakery"
+        ]
+    },
+    {
+        "german": "Juwelierladen",
+        "english": "jeweller's",
+        "audio": "jeweller.ogg",
+        "alternatives": [
+            "jeweller"
+        ]
+    },
+    {
+        "german": "Zeitschriftenladen",
+        "english": "newsagent's",
+        "audio": "newsagents.ogg"
+    },
+    {
+        "german": "Obst- und Gemüseladen",
+        "english": "greengrocer's",
+        "audio": "greengrocers.ogg",
+        "alternatives": [
+            "greengrocer's shop"
+        ]
+    },
+    {
+        "german": "Metzgerei",
+        "english": "butcher's",
+        "audio": "butchers.ogg",
+        "alternatives": [
+            "butcher's shop"
+        ]
+    },
+    {
+        "german": "Tierhandlung",
+        "english": "pet shop",
+        "audio": "pet_shop.ogg"
+    }
+]

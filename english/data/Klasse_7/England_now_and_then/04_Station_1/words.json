@@ -1,0 +1,133 @@
+[
+    {
+        "german": "Weg",
+        "english": "way",
+        "audio": "way.ogg"
+    },
+    {
+        "german": "fast, beinahe",
+        "english": "almost",
+        "audio": "almost.ogg"
+    },
+    {
+        "german": "Ich kenne mich hier aus",
+        "english": "I know my way around here"
+    },
+    {
+        "german": "sich interessieren für",
+        "english": "to be interested in",
+        "audio": "be_interested_in.ogg",
+        "alternatives": [
+            "be interested in something",
+            "to be interested in something"
+        ]
+    },
+    {
+        "german": "etwas erfahren über",
+        "english": "to learn about something",
+        "audio": "learn_about.ogg",
+        "alternatives": [
+            "learn about something",
+            "to learn about something"
+        ]
+    },
+    {
+        "german": "Geschichte",
+        "english": "history",
+        "audio": "history.ogg"
+    },
+    {
+        "german": "überqueren",
+        "english": "to cross",
+        "audio": "cross.ogg",
+        "alternatives": [
+            "cross"
+        ]
+    },
+    {
+        "german": "wert sein",
+        "english": "to be worth",
+        "audio": "be_worth.ogg",
+        "alternatives": [
+            "be worth"
+        ]
+    },
+    {
+        "german": "Besuch",
+        "english": "visit",
+        "audio": "visit.ogg"
+    },
+    {
+        "german": "wie etwas war",
+        "english": "what something was like"
+    },
+    {
+        "german": "freundlich, nett",
+        "english": "friendly",
+        "audio": "friendly.ogg"
+    },
+    {
+        "german": "vorbei (an)",
+        "english": "past",
+        "audio": "past.ogg"
+    },
+    {
+        "german": "rechts",
+        "english": "right",
+        "audio": "right.ogg"
+    },
+    {
+        "german": "links",
+        "english": "left",
+        "audio": "left.ogg"
+    },
+    {
+        "german": "vekaufen",
+        "english": "to sell",
+        "audio": "sell.ogg",
+        "alternatives": [
+            "sell"
+        ]
+    },
+    {
+        "german": "Helm",
+        "english": "helmet",
+        "audio": "helmet.ogg"
+    },
+    {
+        "german": "Wie komme ich dahin?",
+        "english": "How do I get there?",
+        "alternatives": [
+            "how do I get there"
+        ]
+    },
+    {
+        "german": "entlang, herunter, hinunter",
+        "english": "down",
+        "audio": "down.ogg"
+    },
+    {
+        "german": "weit",
+        "english": "far",
+        "audio": "far.ogg"
+    },
+    {
+        "german": "fünf Minuten zu Fuß",
+        "english": "a five minute walk"
+    },
+    {
+        "german": "nah",
+        "english": "near",
+        "audio": "near.ogg"
+    },
+    {
+        "german": "Fahrschein, Eintrittskarte",
+        "english": "ticket",
+        "audio": "ticket.ogg"
+    },
+    {
+        "german": "Straße",
+        "english": "street",
+        "audio": "street.ogg"
+    }
+]

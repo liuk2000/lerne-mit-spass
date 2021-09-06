@@ -1,0 +1,190 @@
+[
+    {
+        "german": "damals",
+        "english": "then",
+        "audio": "then.ogg"
+    },
+    {
+        "german": "Kreis, Ring",
+        "english": "circle",
+        "audio": "circle.ogg"
+    },
+    {
+        "german": "Stein",
+        "english": "stone",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "im Süden von",
+        "english": "to the south of",
+        "audio": "south_of.ogg"
+    },
+    {
+        "german": "die Römer",
+        "english": "the Romans",
+        "audio": "romans.ogg",
+        "alternatives": [
+            "Romans"
+        ]
+    },
+    {
+        "german": "Norden",
+        "english": "north",
+        "audio": "north.ogg",
+        "picture": "north.svg"
+    },
+    {
+        "german": "markieren, kennzeichnen",
+        "english": "to mark",
+        "audio": "mark.ogg",
+        "alternatives": [
+            "mark"
+        ]
+    },
+    {
+        "german": "Grenze",
+        "english": "border",
+        "audio": "border.ogg"
+    },
+    {
+        "german": "Reich, Kaiserreich",
+        "english": "empire",
+        "audio": "empire.ogg"
+    },
+    {
+        "german": "dauern",
+        "english": "to take",
+        "audio": "take.ogg",
+        "alternatives": [
+            "take"
+        ]
+    },
+    {
+        "german": "Osten",
+        "english": "east",
+        "audio": "east.ogg",
+        "picture": "east.svg"
+    },
+    {
+        "german": "Westen",
+        "english": "west",
+        "audio": "west.ogg",
+        "picture": "west.svg"
+    },
+    {
+        "german": "Wikinger-Armee, Heer",
+        "english": "Viking army",
+        "audio": "viking.ogg",
+        "picture": "viking.jpeg",
+        "alternatives": [
+            "viking"
+        ]
+    },
+    {
+        "german": "einmarschieren, eindringen",
+        "english": "to invade",
+        "audio": "invade.ogg",
+        "alternatives": [
+            "invade",
+            "invade something"
+        ]
+    },
+    {
+        "german": "Dänemark",
+        "english": "Denmark",
+        "audio": "denmark.ogg"
+    },
+    {
+        "german": "Norwegen",
+        "english": "Norway",
+        "audio": "norway.ogg"
+    },
+    {
+        "german": "nördlich",
+        "english": "northern",
+        "audio": "northern.ogg"
+    },
+    {
+        "german": "die Normannen",
+        "english": "the Normans",
+        "audio": "norman.ogg",
+        "alternatives": [
+            "Normans",
+            "Norman"
+        ]
+    },
+    {
+        "german": "über",
+        "english": "across",
+        "audio": "across.ogg"
+    },
+    {
+        "german": "kämpfen, (sich) streiten",
+        "english": "to fight",
+        "audio": "fight.ogg",
+        "alternatives": [
+            "fight"
+        ]
+    },
+    {
+        "german": "Schlacht, Kampf",
+        "english": "battle",
+        "audio": "battle.ogg"
+    },
+    {
+        "german": "die Engländer",
+        "english": "the English",
+        "audio": "the_english.ogg",
+        "alternatives": [
+            "english"
+        ]
+    },
+    {
+        "german": "Anführer",
+        "english": "leader",
+        "audio": "leader.ogg"
+    },
+    {
+        "german": "König",
+        "english": "king",
+        "audio": "king.ogg"
+    },
+    {
+        "german": "Industrie",
+        "english": "Industry",
+        "audio": "industry.ogg"
+    },
+    {
+        "german": "während",
+        "english": "during",
+        "audio": "during.ogg"
+    },
+    {
+        "german": "industrielle Revolution",
+        "english": "Industrial Revolution",
+        "audio": "industrial.ogg",
+        "alternatives": [
+            "industrial"
+        ]
+    },
+    {
+        "german": "Million",
+        "english": "million",
+        "audio": "million.ogg"
+    },
+    {
+        "german": "Sonne",
+        "english": "sun",
+        "audio": "sun.ogg"
+    },
+    {
+        "german": "krank",
+        "english": "sick",
+        "audio": "sick.ogg"
+    },
+    {
+        "german": "Grab",
+        "english": "grave",
+        "audio": "grave.ogg"
+    }
+]

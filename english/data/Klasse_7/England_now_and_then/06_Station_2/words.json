@@ -1,0 +1,151 @@
+[
+    {
+        "german": "eine halbe Million",
+        "english": "half a million",
+        "audio": "million.ogg",
+        "alternatives": [
+            "million"
+        ]
+    },
+    {
+        "german": "Einwohner, Bewohner",
+        "english": "inhabitant",
+        "audio": "inhabitant.ogg"
+    },
+    {
+        "german": "Verkehr",
+        "english": "traffic",
+        "audio": "traffic.ogg"
+    },
+    {
+        "german": "auf die Nerven gehen",
+        "english": "to get on one's nerves",
+        "audio": "get_on_someones_nerves.ogg",
+        "alternatives": [
+            "get on someone's nerves",
+            "to get on someone's nerves"
+        ]
+    },
+    {
+        "german": "andererseits",
+        "english": "then again",
+        "audio": "then_again.ogg"
+    },
+    {
+        "german": "herumkommen",
+        "english": "to get around",
+        "audio": "get_around.ogg",
+        "alternatives": [
+            "get around"
+        ]
+    },
+    {
+        "german": "Vergangenheit",
+        "english": "past",
+        "audio": "past.ogg"
+    },
+    {
+        "german": "Fabrik, Werk",
+        "english": "factory",
+        "audio": "factory.ogg"
+    },
+    {
+        "german": "Kohle",
+        "english": "coal",
+        "audio": "coal.ogg"
+    },
+    {
+        "german": "Bergwerk",
+        "english": "mine",
+        "audio": "mine.ogg"
+    },
+    {
+        "german": "Stadtzentrum, Stadtmitte",
+        "english": "city centre",
+        "audio": "city_centre.ogg"
+    },
+    {
+        "german": "Dorf",
+        "english": "village",
+        "audio": "village.ogg"
+    },
+    {
+        "german": "(wohnte) fruher",
+        "english": "used to (live)",
+        "audio": "we_used_to_live_in_the_country.ogg",
+        "alternatives": [
+            "we used to live in the country",
+            "used to",
+            "used to live"
+        ]
+    },
+    {
+        "german": "Land, Landschaft",
+        "english": "countryside",
+        "audio": "countryside.ogg"
+    },
+    {
+        "german": "dennoch",
+        "english": "still",
+        "audio": "still.ogg"
+    },
+    {
+        "german": "Ziege",
+        "english": "goat",
+        "audio": "goat.ogg"
+    },
+    {
+        "german": "Kuh",
+        "english": "cow",
+        "audio": "cow.ogg"
+    },
+    {
+        "german": "melken",
+        "english": "to milk",
+        "audio": "milk.ogg",
+        "alternatives": [
+            "milk"
+        ]
+    },
+    {
+        "german": "nennen",
+        "english": "to call",
+        "audio": "call.ogg",
+        "alternatives": [
+            "call"
+        ]
+    },
+    {
+        "german": "schlimmste, schlechteste",
+        "english": "worst",
+        "audio": "worst.ogg"
+    },
+    {
+        "german": "unfair",
+        "english": "unfair",
+        "audio": "unfair.ogg"
+    },
+    {
+        "german": "öffentliche Verkehrsmittel",
+        "english": "public transport",
+        "audio": "public_transport.ogg"
+    },
+    {
+        "german": "überprüfen, kontrollieren",
+        "english": "to check",
+        "audio": "check.ogg",
+        "alternatives": [
+            "check"
+        ]
+    },
+    {
+        "german": "Schlamm, Matsch",
+        "english": "mud",
+        "audio": "mud.ogg"
+    },
+    {
+        "german": "kopfüber",
+        "english": "head first",
+        "audio": "head_first.ogg"
+    }
+]

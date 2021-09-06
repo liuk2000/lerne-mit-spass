@@ -1,0 +1,71 @@
+[
+    {
+        "german": "Nordwesten",
+        "english": "northwest",
+        "audio": "northwest.ogg"
+    },
+    {
+        "german": "Nordosten",
+        "english": "northeast",
+        "audio": "northeast.ogg"
+    },
+    {
+        "german": "Südwesten",
+        "english": "southwest",
+        "audio": "southwest.ogg"
+    },
+    {
+        "german": "laut",
+        "english": "noisy",
+        "audio": "noisy.ogg"
+    },
+    {
+        "german": "ruhig, leise, still",
+        "english": "quiet",
+        "audio": "quiet.ogg"
+    },
+    {
+        "german": "in der Mitte von",
+        "english": "in the centre of",
+        "audio": "centre.ogg",
+        "alternatives": [
+            "centre"
+        ]
+    },
+    {
+        "german": "in den Bergen",
+        "english": "in the mountains",
+        "audio": "mountains.ogg",
+        "alternatives": [
+            "mountains"
+        ]
+    },
+    {
+        "german": "klein, winzig",
+        "english": "tiny",
+        "audio": "tiny.ogg"
+    },
+    {
+        "german": "Entfernung, Distanz",
+        "english": "distance",
+        "audio": "distance.ogg"
+    },
+    {
+        "german": "nördlich von",
+        "english": "to the north of",
+        "audio": "to_the_north_of.ogg"
+    },
+    {
+        "german": "an der Küste",
+        "english": "on the coast",
+        "audio": "coast.ogg",
+        "alternatives": [
+            "coast"
+        ]
+    },
+    {
+        "german": "riesig, riesengroß",
+        "english": "huge",
+        "audio": "huge.ogg"
+    }
+]

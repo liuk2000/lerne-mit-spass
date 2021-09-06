@@ -1,0 +1,56 @@
+[
+    {
+        "german": "Die Britischen Inseln",
+        "english": "The British Isles",
+        "audio": "british_isles.ogg",
+        "picture": "british_isles.svg",
+        "alternatives": [
+            "British Isles"
+        ]
+    },
+    {
+        "german": "Schottland",
+        "english": "Scotland",
+        "audio": "scotland.ogg",
+        "picture": "scotland.svg"
+    },
+    {
+        "german": "Nordirland",
+        "english": "Northern Ireland",
+        "audio": "northern_ireland.ogg",
+        "picture": "northern_ireland.svg"
+    },
+    {
+        "german": "Irland",
+        "english": "Ireland",
+        "audio": "ireland.ogg",
+        "picture": "ireland.svg"
+    },
+    {
+        "german": "Wales",
+        "english": "Wales",
+        "audio": "wales.ogg",
+        "picture": "wales.svg"
+    },
+    {
+        "german": "Vereinigtes Königreich",
+        "english": "United Kingdom",
+        "audio": "united_kingdom.ogg",
+        "picture": "united_kingdom.svg",
+        "alternatives": [
+            "the United Kingdom"
+        ]
+    },
+    {
+        "german": "Großbritannien",
+        "english": "Great Britain",
+        "audio": "great_britain.ogg",
+        "picture": "great_britain.svg"
+    },
+    {
+        "german": "Hobby",
+        "english": "hobby",
+        "audio": "hobby.ogg",
+        "picture": "hobby.jpeg"
+    }
+]
