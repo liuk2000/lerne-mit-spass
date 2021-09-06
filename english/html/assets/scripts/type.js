@@ -6,7 +6,9 @@ const type_data = (current, current_index, data) => {
     <button id="check">
         <span>Check</span>
         <span class="inline-result"></span>
-    </button>`
+    </button>
+    <button id="help">Hilfe</button>
+    <h3 id="english"></h3>`
 
     document.getElementById('check').addEventListener('click', () => {
         const word = document.getElementById('hidden-text').value
@@ -34,7 +36,16 @@ const type_data = (current, current_index, data) => {
     })
 
     document.getElementById('german').innerHTML = current.german
+    document.getElementById('english').style.display = 'none'
+    document.getElementById('english').innerHTML = current.english
     document.getElementById('hidden-text').value = current.english
+
+    document.getElementById('help').addEventListener('click', () => {
+        document.getElementById('english').style.display = 'block'
+        setTimeout(() => {
+            document.getElementById('english').style.display = 'none'
+        }, 200)
+    })
 
     for (const elem of document.querySelectorAll('button.excercises')) {
         elem.classList.remove('active')

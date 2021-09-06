@@ -23,6 +23,7 @@
         "german": "die Römer",
         "english": "the Romans",
         "audio": "romans.ogg",
+        "picture": "roman.png",
         "alternatives": [
             "Romans"
         ]
@@ -108,6 +109,7 @@
         "german": "die Normannen",
         "english": "the Normans",
         "audio": "norman.ogg",
+        "picture": "norman.png",
         "alternatives": [
             "Normans",
             "Norman"
@@ -135,6 +137,7 @@
         "german": "die Engländer",
         "english": "the English",
         "audio": "the_english.ogg",
+        "picture": "english.png",
         "alternatives": [
             "english"
         ]
@@ -147,7 +150,8 @@
     {
         "german": "König",
         "english": "king",
-        "audio": "king.ogg"
+        "audio": "king.ogg",
+        "picture": "king.png"
     },
     {
         "german": "Industrie",
@@ -175,12 +179,14 @@
     {
         "german": "Sonne",
         "english": "sun",
-        "audio": "sun.ogg"
+        "audio": "sun.ogg",
+        "picture": "sun.png"
     },
     {
         "german": "krank",
         "english": "sick",
-        "audio": "sick.ogg"
+        "audio": "sick.ogg",
+        "picture": "sick.png"
     },
     {
         "german": "Grab",
