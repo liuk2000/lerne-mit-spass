@@ -67,6 +67,7 @@ const shuffle_data = (data) => {
 }
 
 document.getElementById('learn-btn').addEventListener('click', () => {
+<<<<<<< HEAD
   document.querySelector('.main .container .main__grid').style.display = 'grid'
   document.querySelector('.main .container .main__container').style.display =
     'none'
@@ -79,6 +80,19 @@ document.getElementById('learn-btn').addEventListener('click', () => {
     document.querySelector('#check:checked').checked = false
   }
   learn_data(get_subject(), current_index, learn_page_size, data)
+=======
+    document.querySelector('.main .container .main__grid').style.display = 'grid'
+    document.querySelector('.main .container .main__container').style.display = 'none'
+    current_index = 0
+    for (const elem of document.querySelectorAll('nav ul li')) {
+        elem.classList.remove('selected')
+    }
+    document.getElementById('learn-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
+    learn_data(get_subject(), current_index, learn_page_size, data)
+>>>>>>> 6b8a850 (Fixed problem with checked)
 })
 
 document.getElementById('repeat-btn').addEventListener('click', () => {
@@ -97,6 +111,7 @@ document.getElementById('repeat-btn').addEventListener('click', () => {
         </div>
         <div id="picture" class="picture"></div>
     </div>`
+<<<<<<< HEAD
   current_index = 0
   data = shuffle_data(data)
   current = data[current_index]
@@ -108,6 +123,19 @@ document.getElementById('repeat-btn').addEventListener('click', () => {
     document.querySelector('#check:checked').checked = false
   }
   repeat_data(get_subject(), current, current_index, data)
+=======
+    current_index = 0
+    data = shuffle_data(data)
+    current = data[current_index]
+    for (const elem of document.querySelectorAll('nav ul li')) {
+        elem.classList.remove('selected')
+    }
+    document.getElementById('repeat-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
+    repeat_data(get_subject(), current, current_index, data)
+>>>>>>> 6b8a850 (Fixed problem with checked)
 })
 
 document.getElementById('find-btn').addEventListener('click', () => {
@@ -122,6 +150,7 @@ document.getElementById('find-btn').addEventListener('click', () => {
         </div>
         <div id="words" class="words"></div>
     </div>`
+<<<<<<< HEAD
   current_index = 0
   data = shuffle_data(data)
   current = data[current_index]
@@ -197,6 +226,55 @@ document.getElementById('listen-btn').addEventListener('click', () => {
     document.querySelector('#check:checked').checked = false
   }
   listen_data(subject, current, current_index, data)
+=======
+    current_index = 0
+    data = shuffle_data(data)
+    current = data[current_index]
+    for (const elem of document.querySelectorAll('nav ul li')) {
+        elem.classList.remove('selected')
+    }
+    document.getElementById('find-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
+    find_data(get_subject(), current, current_index, data)
+})
+
+document.getElementById('type-btn').addEventListener('click', () => {
+    const subject = get_subject()
+    document.querySelector('.main .container .main__grid').style.display = 'none'
+    document.querySelector('.main .container .main__container').style.display = 'block'
+    document.querySelector('.main .container .main__container').innerHTML = `<div class="card mono"></div>`
+    current_index = 0
+    data = shuffle_data(data)
+    current = data[current_index]
+    for (const elem of document.querySelectorAll('nav ul li')) {
+        elem.classList.remove('selected')
+    }
+    document.getElementById('type-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
+    type_data(subject, current, current_index, data)
+})
+
+document.getElementById('listen-btn').addEventListener('click', () => {
+    const subject = get_subject()
+    document.querySelector('.main .container .main__grid').style.display = 'none'
+    document.querySelector('.main .container .main__container').style.display = 'block'
+    document.querySelector('.main .container .main__container').innerHTML = `<div class="card mono"></div>`
+    current_index = 0
+    data = shuffle_data(data)
+    current = data[current_index]
+    for (const elem of document.querySelectorAll('nav ul li')) {
+        elem.classList.remove('selected')
+    }
+    document.getElementById('listen-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
+    listen_data(subject, current, current_index, data)
+>>>>>>> 6b8a850 (Fixed problem with checked)
 })
 
 const grade_select = document.getElementById('grade')
