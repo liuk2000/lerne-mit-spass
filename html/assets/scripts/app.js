@@ -68,6 +68,9 @@ document.getElementById('learn-btn').addEventListener('click', () => {
         elem.classList.remove('selected')
     }
     document.getElementById('learn-btn').classList.add('selected')
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
     learn_data(get_subject(), current_index, learn_page_size, data)
 })
 
@@ -91,7 +94,9 @@ document.getElementById('repeat-btn').addEventListener('click', () => {
         elem.classList.remove('selected')
     }
     document.getElementById('repeat-btn').classList.add('selected')
-    document.querySelector('#check:checked').checked = false
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
     repeat_data(get_subject(), current, current_index, data)
 })
 
@@ -111,7 +116,9 @@ document.getElementById('find-btn').addEventListener('click', () => {
         elem.classList.remove('selected')
     }
     document.getElementById('find-btn').classList.add('selected')
-    document.querySelector('#check:checked').checked = false
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
     find_data(get_subject(), current, current_index, data)
 })
 
@@ -127,7 +134,9 @@ document.getElementById('type-btn').addEventListener('click', () => {
         elem.classList.remove('selected')
     }
     document.getElementById('type-btn').classList.add('selected')
-    document.querySelector('#check:checked').checked = false
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
     type_data(subject, current, current_index, data)
 })
 
@@ -143,7 +152,9 @@ document.getElementById('listen-btn').addEventListener('click', () => {
         elem.classList.remove('selected')
     }
     document.getElementById('listen-btn').classList.add('selected')
-    document.querySelector('#check:checked').checked = false
+    if (document.querySelector('#check:checked')) {
+        document.querySelector('#check:checked').checked = false
+    }
     listen_data(subject, current, current_index, data)
 })
 
