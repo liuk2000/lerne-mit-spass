@@ -1,0 +1,80 @@
+[
+    {
+        "german": "der Schulbeginn",
+        "french": "la rentrée",
+        "audio": "then.ogg",
+        "alternatives": [
+            "la rentree"
+        ]
+    },
+    {
+        "german": "Die Schule hat begonnen",
+        "french": "C'est la rentrée",
+        "audio": "circle.ogg",
+        "alternatives": [
+            "c'est la rentree"
+        ]
+    },
+    {
+        "german": "in Frankreich",
+        "french": "en France",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "da(s) ist/sind",
+        "french": "voilà",
+        "audio": "south_of.ogg",
+        "alternatives": [
+            "voila"
+        ]
+    },
+    {
+        "german": "ein Lineal",
+        "french": "une règle",
+        "audio": "romans.ogg",
+        "picture": "roman.png",
+        "alternatives": [
+            "une regle"
+        ]
+    },
+    {
+        "german": "ein Stift/Kuli",
+        "french": "un stylo",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Buch",
+        "french": "un livre",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Rücksack/eine Tasche",
+        "french": "un sac",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Radiergummi",
+        "french": "une gomme",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Stift/ein Bleistift",
+        "french": "un crayon",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Tintenkiller",
+        "french": "un effaceur",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Heft",
+        "french": "un cahier",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "ein Mäppchen",
+        "french": "une trousse",
+        "audio": "stone.ogg"
+    }
+]

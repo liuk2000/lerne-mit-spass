@@ -1,0 +1,90 @@
+[
+    {
+        "german": "Wer ist das",
+        "french": "C'est qui?",
+        "audio": "qui.ogg",
+        "alternatives": [
+            "c'est qui",
+            "qui"
+        ]
+    },
+    {
+        "german": "Wie geht's?",
+        "french": "Ça va?",
+        "audio": "ca_va.ogg",
+        "alternatives": [
+            "Ça va",
+            "ca va",
+            "ca va?"
+        ]
+    },
+    {
+        "german": "ja",
+        "french": "oui",
+        "audio": "oui.ogg"
+    },
+    {
+        "german": "Es geht (mir) git",
+        "french": "Ça va",
+        "audio": "ca_va.ogg",
+        "alternatives": [
+            "ca va"
+        ]
+    },
+    {
+        "german": "Auf Wiedersehen",
+        "french": "Au revoir",
+        "audio": "au_revoir.ogg",
+        "alternatives": [
+            "Romans"
+        ]
+    },
+    {
+        "german": "Frau",
+        "french": "madame",
+        "audio": "madame.ogg"
+    },
+    {
+        "german": "Herr",
+        "french": "Monsieur",
+        "audio": "monsieur.ogg"
+    },
+    {
+        "german": "danke",
+        "french": "merci",
+        "audio": "merci.ogg"
+    },
+    {
+        "german": "Entschuldigung",
+        "french": "Pardon",
+        "audio": "pardon.ogg"
+    },
+    {
+        "german": "Wie heißt du?",
+        "french": "Tu t'appelles comment?",
+        "audio": "tu_tappelles_comment.mp3",
+        "alternatives": [
+            "Tu t'appelles comment",
+            "Comment tu t'appelles"
+        ]
+    },
+    {
+        "german": "ich (betont)",
+        "french": "moi",
+        "audio": "moi.ogg"
+    },
+    {
+        "german": "Das ist",
+        "french": "C'est"
+    },
+    {
+        "german": "Hallo",
+        "french": "Coucou",
+        "audio": "coucou.ogg"
+    },
+    {
+        "german": "Ich bin's",
+        "french": "C'est moi",
+        "audio": "cest_moi.mp3"
+    }
+]

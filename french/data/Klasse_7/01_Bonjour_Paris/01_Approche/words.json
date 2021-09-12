@@ -1,0 +1,43 @@
+[
+    {
+        "german": "Guten Tag",
+        "french": "Bonjour",
+        "audio": "bonjour.ogg"
+    },
+    {
+        "german": "Hallo / Tschüs",
+        "french": "Salut",
+        "audio": "salut.ogg"
+    },
+    {
+        "german": "ich heiße",
+        "french": "je m'appelle",
+        "audio": "sappeller.ogg",
+        "alternatives": [
+            "s'appeller"
+        ]
+    },
+    {
+        "german": "und du?",
+        "french": "et toi?",
+        "audio": "et_toi.ogg",
+        "alternatives": [
+            "et toi"
+        ]
+    },
+    {
+        "german": "und",
+        "french": "et",
+        "audio": "et.ogg"
+    },
+    {
+        "german": "ich wohne in ...",
+        "french": "J'habite à ...",
+        "audio": "habiter.ogg",
+        "alternatives": [
+            "j'habite a",
+            "j'habite a ...",
+            "habiter"
+        ]
+    }
+]

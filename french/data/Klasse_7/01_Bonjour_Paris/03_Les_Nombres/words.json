@@ -1,0 +1,62 @@
+[
+    {
+        "german": "ein",
+        "french": "un",
+        "audio": "un.ogg"
+    },
+    {
+        "german": "zwei",
+        "french": "deux",
+        "audio": "deux.ogg"
+    },
+    {
+        "german": "drei",
+        "french": "trois",
+        "audio": "trois.ogg"
+    },
+    {
+        "german": "vier",
+        "french": "quatre",
+        "audio": "quatre.ogg"
+    },
+    {
+        "german": "fünf",
+        "french": "cinq",
+        "audio": "cinq.ogg"
+    },
+    {
+        "german": "sechs",
+        "french": "six",
+        "audio": "six.ogg"
+    },
+    {
+        "german": "sieben",
+        "french": "sept",
+        "audio": "sept.ogg"
+    },
+    {
+        "german": "acht",
+        "french": "huit",
+        "audio": "huit.ogg"
+    },
+    {
+        "german": "neun",
+        "french": "neuf",
+        "audio": "neuf.ogg"
+    },
+    {
+        "german": "zehn",
+        "french": "dix",
+        "audio": "dix.ogg"
+    },
+    {
+        "german": "elf",
+        "french": "onze",
+        "audio": "onze.ogg"
+    },
+    {
+        "german": "zwölf",
+        "french": "douze",
+        "audio": "douze.ogg"
+    }
+]

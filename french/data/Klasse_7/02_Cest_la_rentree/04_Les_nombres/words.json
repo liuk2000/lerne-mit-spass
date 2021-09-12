@@ -1,0 +1,103 @@
+[
+    {
+        "german": "dreizehn",
+        "french": "treize",
+        "audio": "then.ogg"
+    },
+    {
+        "german": "vierzehn",
+        "french": "quatorze",
+        "audio": "circle.ogg"
+    },
+    {
+        "german": "fünfzehn",
+        "french": "quinze",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "sechszehn",
+        "french": "seize",
+        "audio": "south_of.ogg"
+    },
+    {
+        "german": "siebzehn",
+        "french": "dix-sept",
+        "audio": "romans.ogg",
+        "picture": "roman.png"
+    },
+    {
+        "german": "achtzehn",
+        "french": "dix-huit",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "neunzehn",
+        "french": "dix-neuf",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "zwanzig",
+        "french": "vingt",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "einundzwanzig",
+        "french": "vingt-et-un",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "zweiundzwanzig",
+        "french": "vingt-deux",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "dreiundzwanzid",
+        "french": "vingt-trois",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "vierundzwanzig",
+        "french": "vingt-quatre",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "fünfundzwanzig",
+        "french": "vingt-cinq",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "sechsundzwanzig",
+        "french": "vingt-six",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "siebenundzwanzig",
+        "french": "vingt-sept",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "achtundzwanzig",
+        "french": "vingt-huit",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "neunundzwanzig",
+        "french": "vingt-neuf",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "dreizig",
+        "french": "trente",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "einunddreizig",
+        "french": "trente-et-un",
+        "audio": "stone.ogg"
+    },
+    {
+        "german": "zweiunddreizig",
+        "french": "trente-deux",
+        "audio": "stone.ogg"
+    }
+]
