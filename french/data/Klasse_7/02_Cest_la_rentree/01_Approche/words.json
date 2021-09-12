@@ -2,7 +2,7 @@
     {
         "german": "der Schulbeginn",
         "french": "la rentrée",
-        "audio": "then.ogg",
+        "audio": "rentree.ogg",
         "alternatives": [
             "la rentree"
         ]
@@ -10,20 +10,20 @@
     {
         "german": "Die Schule hat begonnen",
         "french": "C'est la rentrée",
-        "audio": "circle.ogg",
+        "audio": "rentree.ogg",
         "alternatives": [
-            "c'est la rentree"
+            "c'est la rentree",
+            "rentree"
         ]
     },
     {
         "german": "in Frankreich",
-        "french": "en France",
-        "audio": "stone.ogg"
+        "french": "en France"
     },
     {
         "german": "da(s) ist/sind",
         "french": "voilà",
-        "audio": "south_of.ogg",
+        "audio": "voila.ogg",
         "alternatives": [
             "voila"
         ]
@@ -31,50 +31,77 @@
     {
         "german": "ein Lineal",
         "french": "une règle",
-        "audio": "romans.ogg",
-        "picture": "roman.png",
+        "audio": "regle.ogg",
         "alternatives": [
-            "une regle"
+            "une regle",
+            "regle"
         ]
     },
     {
         "german": "ein Stift/Kuli",
         "french": "un stylo",
-        "audio": "stone.ogg"
+        "audio": "stylo.ogg",
+        "alternatives": [
+            "stylo"
+        ]
     },
     {
         "german": "ein Buch",
         "french": "un livre",
-        "audio": "stone.ogg"
+        "audio": "livre.ogg",
+        "alternatives": [
+            "livre"
+        ]
     },
     {
         "german": "ein Rücksack/eine Tasche",
         "french": "un sac",
-        "audio": "stone.ogg"
+        "audio": "sac.ogg",
+        "alternatives": [
+            "sac",
+            "le sac"
+        ]
     },
     {
         "german": "ein Radiergummi",
         "french": "une gomme",
-        "audio": "stone.ogg"
+        "audio": "gomme.ogg",
+        "alternatives": [
+            "gomme"
+        ]
     },
     {
         "german": "ein Stift/ein Bleistift",
         "french": "un crayon",
-        "audio": "stone.ogg"
+        "audio": "crayon.ogg",
+        "alternatives": [
+            "crayon",
+            "le crayon"
+        ]
     },
     {
         "german": "ein Tintenkiller",
         "french": "un effaceur",
-        "audio": "stone.ogg"
+        "audio": "effaceur.ogg",
+        "alternatives": [
+            "effaceur"
+        ]
     },
     {
         "german": "ein Heft",
         "french": "un cahier",
-        "audio": "stone.ogg"
+        "audio": "cahier.ogg",
+        "alternatives": [
+            "cahier"
+        ]
     },
     {
         "german": "ein Mäppchen",
         "french": "une trousse",
-        "audio": "stone.ogg"
+        "audio": "la_trousse.mp3",
+        "alternatives": [
+            "trousse",
+            "la trousse"
+        ]
     }
 ]

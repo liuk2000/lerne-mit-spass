@@ -2,7 +2,6 @@
     {
         "german": "von",
         "french": "de, d'",
-        "audio": "then.ogg",
         "alternatives": [
             "de",
             "d'"
@@ -11,31 +10,29 @@
     {
         "german": "vor (örtlich)",
         "french": "devant",
-        "audio": "circle.ogg"
+        "audio": "devant.ogg"
     },
     {
         "german": "ein Collège/eine Schule",
         "french": "un collège",
-        "audio": "stone.ogg",
+        "audio": "college.ogg",
         "alternatives": [
-            "un college"
+            "un college",
+            "college",
+            "collège"
         ]
     },
     {
         "german": "ein Deutschlehrer",
-        "french": "un prof d'allemand",
-        "audio": "south_of.ogg"
+        "french": "un prof d'allemand"
     },
     {
         "german": "eine Mathelehrerin",
-        "french": "une prof de maths",
-        "audio": "romans.ogg",
-        "picture": "roman.png"
+        "french": "une prof de maths"
     },
     {
         "german": "Hat er einen Bruder?",
         "french": "Il a un frère?",
-        "audio": "stone.ogg",
         "alternatives": [
             "il a un frere",
             "il a un frere?"
@@ -44,7 +41,6 @@
     {
         "german": "Hat sie einen Bruder?",
         "french": "Elle a un frère?",
-        "audio": "stone.ogg",
         "alternatives": [
             "elle a un frere",
             "elle a un frere?"
@@ -53,7 +49,7 @@
     {
         "german": "ein Bruder",
         "french": "un frère",
-        "audio": "stone.ogg",
+        "audio": "frere.ogg",
         "alternatives": [
             "frere"
         ]
@@ -61,91 +57,95 @@
     {
         "german": "eine Schwester",
         "french": "une sœur",
-        "audio": "stone.ogg",
+        "audio": "soeur.ogg",
         "alternatives": [
-            "une soeur"
+            "une soeur",
+            "soeur"
         ]
     },
     {
         "german": "sie heißt",
-        "french": "elle s'appelle",
-        "audio": "stone.ogg"
+        "french": "elle s'appelle"
     },
     {
         "german": "Wie alt ist er?",
-        "french": "Il a quel age?",
-        "audio": "stone.ogg",
-        "alternatives": [
-            "il a quel age"
-        ]
+        "french": "Il a quel age?"
     },
     {
         "german": "Wie alst ist sie?",
-        "french": "Elle a quel age?",
-        "audio": "stone.ogg",
-        "alternatives": [
-            "elle a quel age"
-        ]
+        "french": "Elle a quel age?"
     },
     {
         "german": "Er ist acht Jahre als",
-        "french": "Il a huit ans",
-        "audio": "stone.ogg"
+        "french": "Il a huit ans"
     },
     {
         "german": "Was?",
         "french": "Quoi?",
-        "audio": "stone.ogg",
+        "audio": "quoi.mp3",
         "alternatives": [
             "quoi"
         ]
     },
     {
         "german": "Schau mal",
-        "french": "Regarde",
-        "audio": "stone.ogg"
+        "french": "Regarde"
     },
     {
         "german": "Papa",
         "french": "papa",
-        "audio": "stone.ogg"
+        "audio": "papa.ogg"
     },
     {
         "german": "Halt!/Stopp!",
         "french": "Stop!",
-        "audio": "stone.ogg",
+        "audio": "stop.ogg",
         "alternatives": [
             "stop"
         ]
     },
     {
         "german": "zu spät",
-        "french": "trop tard",
-        "audio": "stone.ogg"
+        "french": "trop tard"
     },
     {
         "german": "ein Handy",
         "french": "un portable",
-        "audio": "stone.ogg"
+        "audio": "portable.ogg",
+        "alternatives": [
+            "portable"
+        ]
+    },
+    {
+        "german": "Die Geschichte",
+        "french": "L'histoire",
+        "audio": "histoire.ogg",
+        "alternatives": [
+            "histoire"
+        ]
+    },
+    {
+        "german": "weiter machen, fortsetzen",
+        "french": "continuer",
+        "audio": "continuer.ogg"
     },
     {
         "german": "Die Geschichte geht weiter",
-        "french": "L'histoire continue",
-        "audio": "stone.ogg"
+        "french": "L'histoire continue"
     },
     {
         "german": "haben",
         "french": "avoir",
-        "audio": "stone.ogg"
+        "audio": "avoir.ogg"
     },
     {
         "german": "die Zahlen",
         "french": "les nombres",
-        "audio": "stone.ogg"
+        "audio": "les_nombres.mp3"
     },
     {
         "german": "plus",
         "french": "plus",
-        "audio": "stone.ogg"
+        "audio": "plus.ogg"
     }
 ]

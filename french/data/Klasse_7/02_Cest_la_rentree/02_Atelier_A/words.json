@@ -2,38 +2,42 @@
     {
         "german": "Mist",
         "french": "Mince",
-        "audio": "then.ogg"
+        "audio": "mince.mp3"
     },
     {
         "german": "eine Minute",
         "french": "une minute",
-        "audio": "circle.ogg"
+        "audio": "minute.ogg",
+        "alternatives": [
+            "minute"
+        ]
     },
     {
         "german": "ein Freund",
         "french": "un copain",
-        "audio": "stone.ogg"
+        "audio": "copain.ogg",
+        "alternatives": [
+            "copain"
+        ]
     },
     {
         "german": "eine Freundine",
-        "french": "une copine",
-        "audio": "south_of.ogg"
+        "french": "une copine"
     },
     {
         "german": "Was ist das",
         "french": "Qu'est-ce que c'est",
-        "audio": "romans.ogg",
-        "picture": "roman.png"
+        "audio": "was_ist_das.ogg"
     },
     {
         "german": "für",
         "french": "pour",
-        "audio": "stone.ogg"
+        "audio": "pour.ogg"
     },
     {
         "german": "bitte",
         "french": "s'il vous plaît",
-        "audio": "stone.ogg",
+        "audio": "sil_vous_plait.ogg",
         "alternatives": [
             "s'il vous plait"
         ]
@@ -41,7 +45,7 @@
     {
         "german": "bitte (zu jemandem, den man duzt)",
         "french": "s'il te plaît",
-        "audio": "stone.ogg",
+        "audio": "sil_te_plait.ogg",
         "alternatives": [
             "s'il vous plait"
         ]
@@ -49,7 +53,7 @@
     {
         "german": "hier bitte",
         "french": "voilà",
-        "audio": "stone.ogg",
+        "audio": "voila.ogg",
         "alternatives": [
             "voila"
         ]
@@ -57,37 +61,41 @@
     {
         "german": "ein Euro",
         "french": "un euro",
-        "audio": "stone.ogg"
+        "audio": "euro.ogg",
+        "alternatives": [
+            "euro"
+        ]
     },
     {
         "german": "eine Fußballzeitschrift",
-        "french": "un magazine de foot",
-        "audio": "stone.ogg"
+        "french": "un magazine de foot"
     },
     {
         "german": "mit",
         "french": "avec",
-        "audio": "stone.ogg"
+        "audio": "avec.ogg"
     },
     {
         "german": "eine Baseballkappe",
         "french": "une casquette",
-        "audio": "stone.ogg"
+        "audio": "casquette.ogg",
+        "alternatives": [
+            "csquette"
+        ]
     },
     {
         "german": "cool",
         "french": "cool",
-        "audio": "stone.ogg"
+        "audio": "cool.ogg"
     },
     {
         "german": "also",
         "french": "alors",
-        "audio": "stone.ogg"
+        "audio": "alors.ogg"
     },
     {
         "german": "Das macht",
         "french": "Ça fait",
-        "audio": "stone.ogg",
         "alternatives": [
             "ca fait"
         ]
@@ -95,7 +103,6 @@
     {
         "german": "Hast du auch einen Hund?",
         "french": "Tu as aussi un chien?",
-        "audio": "stone.ogg",
         "alternatives": [
             "tu as aussi un chien"
         ]
@@ -103,31 +110,36 @@
     {
         "german": "ein Hund",
         "french": "un chien",
-        "audio": "stone.ogg"
+        "audio": "chien.ogg",
+        "alternatives": [
+            "chien"
+        ]
     },
     {
         "german": "auch",
         "french": "aussi",
-        "audio": "stone.ogg"
+        "audio": "aussi.ogg"
     },
     {
         "german": "aber",
         "french": "mais",
-        "audio": "stone.ogg"
+        "audio": "mais.ogg"
     },
     {
         "german": "Ich habe eine Katze",
-        "french": "J'ai un chat",
-        "audio": "stone.ogg"
+        "french": "J'ai un chat"
     },
     {
         "german": "eine Katze",
         "french": "un chat",
-        "audio": "stone.ogg"
+        "audio": "chat.ogg",
+        "alternatives": [
+            "chat"
+        ]
     },
     {
         "german": "super/toll",
         "french": "super",
-        "audio": "stone.ogg"
+        "audio": "super.ogg"
     }
 ]

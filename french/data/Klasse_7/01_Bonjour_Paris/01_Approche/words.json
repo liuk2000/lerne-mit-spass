@@ -12,10 +12,7 @@
     {
         "german": "ich heiße",
         "french": "je m'appelle",
-        "audio": "sappeller.ogg",
-        "alternatives": [
-            "s'appeller"
-        ]
+        "audio": "je_mappelle.ogg"
     },
     {
         "german": "und du?",
