@@ -18,7 +18,8 @@
     },
     {
         "german": "in Frankreich",
-        "french": "en France"
+        "french": "en France",
+        "picture": "france.png"
     },
     {
         "german": "da(s) ist/sind",
@@ -32,6 +33,7 @@
         "german": "ein Lineal",
         "french": "une règle",
         "audio": "regle.ogg",
+        "picture": "regle.jpeg",
         "alternatives": [
             "une regle",
             "regle"
@@ -41,6 +43,7 @@
         "german": "ein Stift/Kuli",
         "french": "un stylo",
         "audio": "stylo.ogg",
+        "picture": "pen.png",
         "alternatives": [
             "stylo"
         ]
@@ -49,6 +52,7 @@
         "german": "ein Buch",
         "french": "un livre",
         "audio": "livre.ogg",
+        "picture": "livres.jpeg",
         "alternatives": [
             "livre"
         ]
@@ -57,6 +61,7 @@
         "german": "ein Rücksack/eine Tasche",
         "french": "un sac",
         "audio": "sac.ogg",
+        "picture": "sac.jpeg",
         "alternatives": [
             "sac",
             "le sac"
@@ -66,6 +71,7 @@
         "german": "ein Radiergummi",
         "french": "une gomme",
         "audio": "gomme.ogg",
+        "picture": "gomme.jpeg",
         "alternatives": [
             "gomme"
         ]
@@ -74,6 +80,7 @@
         "german": "ein Stift/ein Bleistift",
         "french": "un crayon",
         "audio": "crayon.ogg",
+        "picture": "crayon.jpeg",
         "alternatives": [
             "crayon",
             "le crayon"
@@ -91,6 +98,7 @@
         "german": "ein Heft",
         "french": "un cahier",
         "audio": "cahier.ogg",
+        "picture": "cahier.jpeg",
         "alternatives": [
             "cahier"
         ]
@@ -99,6 +107,7 @@
         "german": "ein Mäppchen",
         "french": "une trousse",
         "audio": "la_trousse.mp3",
+        "picture": "trousse.jpeg",
         "alternatives": [
             "trousse",
             "la trousse"
