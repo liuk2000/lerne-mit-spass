@@ -1,0 +1,107 @@
+[
+    {
+        "german": "der Taschenrechner",
+        "french": "la calculatrice",
+        "audio": "calculatrice.ogg",
+        "alternatives": [
+            "calculatrice"
+        ]
+    },
+    {
+        "german": "der Schlüssel",
+        "french": "la clé",
+        "audio": "cle.ogg",
+        "alternatives": [
+            "clé",
+            "cle"
+        ]
+    },
+    {
+        "german": "der MP3-Player",
+        "french": "le lecteur MP3",
+        "audio": "lecteur_mp3.ogg",
+        "alternatives": [
+            "lecteur mp3"
+        ]
+    },
+    {
+        "german": "der Papagei",
+        "french": "le perroquet",
+        "audio": "perroquet.ogg",
+        "alternatives": [
+            "perroquet"
+        ]
+    },
+    {
+        "german": "die Maus",
+        "french": "la souris",
+        "audio": "souris.ogg",
+        "alternatives": [
+            "souris"
+        ]
+    },
+    {
+        "german": "das Kaninchen",
+        "french": "le lapin",
+        "audio": "lapin.ogg",
+        "alternatives": [
+            "lapin"
+        ]
+    },
+    {
+        "german": "der Hamster",
+        "french": "l'hamster",
+        "audio": "hamster.ogg",
+        "alternatives": [
+            "hamster"
+        ]
+    },
+    {
+        "german": "der Wellensittich",
+        "french": "la perruche",
+        "audio": "perruche.ogg",
+        "alternatives": [
+            "perruche"
+        ]
+    },
+    {
+        "german": "die Schildkröte",
+        "french": "la tortue",
+        "audio": "tortue.ogg",
+        "alternatives": [
+            "tortue"
+        ]
+    },
+    {
+        "german": "das Pferd",
+        "french": "le cheval",
+        "audio": "cheval.ogg",
+        "alternatives": [
+            "cheval"
+        ]
+    },
+    {
+        "german": "das Meerschweinchen",
+        "french": "le cochon d'Inde",
+        "audio": "cochon_dinde.mp3",
+        "alternatives": [
+            "cochon d'Inde"
+        ]
+    },
+    {
+        "german": "der Fisch",
+        "french": "le poisson",
+        "audio": "poisson.ogg",
+        "alternatives": [
+            "poisson"
+        ]
+    },
+    {
+        "german": "das Erdmännchen",
+        "french": "le suricate",
+        "audio": "suricate.ogg",
+        "alternatives": [
+            "suricate"
+        ]
+    }
+]
