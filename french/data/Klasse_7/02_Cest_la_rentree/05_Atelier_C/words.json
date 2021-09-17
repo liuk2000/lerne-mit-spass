@@ -1,0 +1,110 @@
+[
+    {
+        "german": "ein Rap",
+        "french": "un rap",
+        "audio": "rap.ogg",
+        "alternatives": [
+            "rap"
+        ]
+    },
+    {
+        "german": "sehr",
+        "french": "très",
+        "audio": "tres.ogg",
+        "alternatives": [
+            "tres"
+        ]
+    },
+    {
+        "german": "nett",
+        "french": "sympa",
+        "audio": "sympa.ogg"
+    },
+    {
+        "german": "manchmal",
+        "french": "parfois",
+        "audio": "parfois.ogg"
+    },
+    {
+        "german": "Was für ein Durcheinander!",
+        "french": "Quel Bazar!",
+        "audio": "bazar.ogg",
+        "alternatives": [
+            "bazar",
+            "quel bazar"
+        ]
+    },
+    {
+        "german": "Ich habe die Nase voll",
+        "french": "J'en ai marre",
+        "audio": "jen_ai_marre.mp3"
+    },
+    {
+        "german": "Hor auf!",
+        "french": "arrête!",
+        "audio": "arreter.ogg",
+        "alternatives": [
+            "arrête",
+            "arrêter",
+            "arrete",
+            "arrete!",
+            "arreter"
+        ]
+    },
+    {
+        "german": "ein Refrain",
+        "french": "un refrain",
+        "audio": "refrain.ogg",
+        "alternatives": [
+            "refrain"
+        ]
+    },
+    {
+        "german": "Das reicht!",
+        "french": "ça suffit",
+        "audio": "suffire.ogg",
+        "alternatives": [
+            "ca suffit",
+            "suffire"
+        ]
+    },
+    {
+        "german": "ein Strumpf/eine Socke",
+        "french": "une chaussette",
+        "audio": "chaussette.ogg",
+        "alternatives": [
+            "chaussette"
+        ]
+    },
+    {
+        "german": "ein (großer) Ball",
+        "french": "un ballon",
+        "audio": "ballon.ogg",
+        "alternatives": [
+            "ballon"
+        ]
+    },
+    {
+        "german": "ein Bonbon",
+        "french": "un bonbon",
+        "audio": "bonbon.ogg",
+        "alternatives": [
+            "bonbon"
+        ]
+    },
+    {
+        "german": "Du stellst Fragen",
+        "french": "Tu poses des questions",
+        "audio": "poser_question.mp3",
+        "alternatives": [
+            "poser des questions",
+            "poser question",
+            "poser questions"
+        ]
+    },
+    {
+        "german": "oder",
+        "french": "ou",
+        "audio": "ou.ogg"
+    }
+]
