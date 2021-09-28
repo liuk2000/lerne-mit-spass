@@ -1,0 +1,272 @@
+[
+    {
+        "german": "tod, tödlich",
+        "english": "deadly",
+        "audio": "deadly.ogg"
+    },
+    {
+        "german": "Stille, Schweigen, Ruhe",
+        "english": "silence",
+        "audio": "silence.ogg"
+    },
+    {
+        "german": "Tunnel",
+        "english": "tunnel",
+        "audio": "tunnel.ogg"
+    },
+    {
+        "german": "nachdem sie weg ist",
+        "english": "after it's gone",
+        "audio": "gone.ogg",
+        "alternatives": [
+            "gone"
+        ]
+    },
+    {
+        "german": "Dunkelheit",
+        "english": "the dark",
+        "audio": "dark.ogg",
+        "alternatives": [
+            "dark"
+        ]
+    },
+    {
+        "german": "Das liegt daran, dass",
+        "english": "That's because",
+        "audio": "because.ogg",
+        "alternatives": [
+            "because"
+        ]
+    },
+    {
+        "german": "hergestellt sein aus",
+        "english": "to be made of",
+        "audio": "be_made_of_something.ogg",
+        "alternatives": [
+            "to be made of something",
+            "be made of something"
+        ]
+    },
+    {
+        "german": "Kanarienvogel",
+        "english": "canary",
+        "audio": "canary.ogg"
+    },
+    {
+        "german": "Gas",
+        "english": "gas",
+        "audio": "gas.ogg"
+    },
+    {
+        "german": "berühren",
+        "english": "to touch",
+        "audio": "touch.ogg",
+        "alternatives": [
+            "touch"
+        ]
+    },
+    {
+        "german": "Flamme",
+        "english": "flame",
+        "audio": "flame.ogg"
+    },
+    {
+        "german": "explodieren",
+        "english": "to explode",
+        "audio": "explode.ogg"
+    },
+    {
+        "german": "Explosion",
+        "english": "explosion",
+        "audio": "explosion.ogg"
+    },
+    {
+        "german": "töten",
+        "english": "to kill",
+        "audio": "kill.ogg",
+        "alternatives": [
+            "kill"
+        ]
+    },
+    {
+        "german": "Bergarbeiter, Bergarbeiterin",
+        "english": "miner",
+        "audio": "miner.ogg"
+    },
+    {
+        "german": "bemerken, wahrnehmen",
+        "english": "to notice",
+        "audio": "notice.ogg",
+        "alternatives": [
+            "notice"
+        ]
+    },
+    {
+        "german": "still werden",
+        "english": "to go quiet",
+        "audio": "quiet.ogg",
+        "alternatives": [
+            "quiet"
+        ]
+    },
+    {
+        "german": "ein paar, wenige, einige",
+        "english": "a few",
+        "audio": "a_few.ogg",
+        "alternatives": [
+            "few"
+        ]
+    },
+    {
+        "german": "eines Tages",
+        "english": "one day",
+        "audio": "one_day.ogg"
+    },
+    {
+        "german": "husten",
+        "english": "to cough",
+        "audio": "cough.ogg",
+        "alternatives": [
+            "cough"
+        ]
+    },
+    {
+        "german": "sehr, schwer",
+        "english": "badly",
+        "audio": "badly.ogg"
+    },
+    {
+        "german": "dass",
+        "english": "that",
+        "audio": "that.ogg"
+    },
+    {
+        "german": "sterben",
+        "english": "to die",
+        "audio": "die.ogg",
+        "alternatives": [
+            "die"
+        ]
+    },
+    {
+        "german": "immer noch, noch",
+        "english": "still",
+        "audio": "still.ogg"
+    },
+    {
+        "german": "konnte",
+        "english": "could",
+        "audio": "could.ogg"
+    },
+    {
+        "german": "schweigsam, stumm",
+        "english": "silent",
+        "audio": "silent.ogg"
+    },
+    {
+        "german": "warscheinlich",
+        "english": "probably",
+        "audio": "probably.ogg"
+    },
+    {
+        "german": "Wagen, Karre",
+        "english": "truck",
+        "audio": "truck.ogg"
+    },
+    {
+        "german": "jede",
+        "english": "any",
+        "audio": "any.ogg"
+    },
+    {
+        "german": "warnen",
+        "english": "to warn",
+        "audio": "warn_someone.ogg",
+        "alternatives": [
+            "warn",
+            "warn someone"
+        ]
+    },
+    {
+        "german": "Ton, Laut, Geräusch",
+        "english": "sound",
+        "audio": "sound.ogg"
+    },
+    {
+        "german": "nichts",
+        "english": "nothing",
+        "audio": "nothing.ogg"
+    },
+    {
+        "german": "Mal",
+        "english": "time",
+        "audio": "time.ogg"
+    },
+    {
+        "german": "atmen",
+        "english": "to breathe",
+        "audio": "breathe.ogg",
+        "alternatives": [
+            "breathe"
+        ]
+    },
+    {
+        "german": "Stimme",
+        "english": "voice",
+        "audio": "voice.ogg"
+    },
+    {
+        "german": "Komm schon!",
+        "english": "Come on!",
+        "audio": "come_on.ogg",
+        "alternatives": [
+            "come on"
+        ]
+    },
+    {
+        "german": "jemand",
+        "english": "somebody",
+        "audio": "somebody.ogg"
+    },
+    {
+        "german": "umdrehen",
+        "english": "to turn around",
+        "audio": "turn_around.ogg",
+        "alternatives": [
+            "turn around"
+        ]
+    },
+    {
+        "german": "tot",
+        "english": "dead",
+        "audio": "dead.ogg"
+    },
+    {
+        "german": "in Sicherheit, sicher",
+        "english": "safe",
+        "audio": "safe.ogg"
+    },
+    {
+        "german": "offen, geöffnet",
+        "english": "open",
+        "audio": "open.ogg",
+        "alternatives": [
+            "open"
+        ]
+    },
+    {
+        "german": "am Leben",
+        "english": "alive",
+        "audio": "alive.ogg"
+    },
+    {
+        "german": "gefeuert, hinausgeworfen",
+        "english": "fired",
+        "audio": "fired.ogg"
+    },
+    {
+        "german": "Geruch",
+        "english": "smell",
+        "audio": "smell.ogg"
+    }
+]

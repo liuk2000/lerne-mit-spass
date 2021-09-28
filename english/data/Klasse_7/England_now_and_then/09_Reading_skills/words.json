@@ -1,0 +1,30 @@
+[
+    {
+        "german": "Sorte, Typ, Art",
+        "english": "type",
+        "audio": "type.ogg"
+    },
+    {
+        "german": "Broschüre, Prospekt",
+        "english": "brochure",
+        "audio": "brochure.ogg"
+    },
+    {
+        "german": "gehen um, handeln von",
+        "english": "to be about",
+        "audio": "be_about.ogg",
+        "alternatives": [
+            "be about"
+        ]
+    },
+    {
+        "german": "Königin",
+        "english": "queen",
+        "audio": "queen.ogg"
+    },
+    {
+        "german": "in, innen in, im Innern",
+        "english": "inside",
+        "audio": "inside.ogg"
+    }
+]

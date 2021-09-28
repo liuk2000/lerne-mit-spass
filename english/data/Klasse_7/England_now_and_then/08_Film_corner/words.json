@@ -1,0 +1,75 @@
+[
+    {
+        "german": "viktorianisches Zeitalter",
+        "english": "Victorian era",
+        "audio": "victorian.ogg",
+        "alternatives": [
+            "victorian"
+        ]
+    },
+    {
+        "german": "einschlafen",
+        "english": "to fall asleep",
+        "audio": "fall_asleep.ogg",
+        "alternatives": [
+            "fall asleep"
+        ]
+    },
+    {
+        "german": "träumen",
+        "english": "to dream",
+        "audio": "dream.ogg",
+        "alternatives": [
+            "dream"
+        ]
+    },
+    {
+        "german": "Jahrhundert",
+        "english": "century",
+        "audio": "century.ogg"
+    },
+    {
+        "german": "Ich würde lieber",
+        "english": "I'd rather",
+        "audio": "i_would_rather.ogg",
+        "alternatives": [
+            "I would rather"
+        ]
+    },
+    {
+        "german": "wünschen",
+        "english": "to wish",
+        "audio": "wish.ogg",
+        "alternatives": [
+            "wish"
+        ]
+    },
+    {
+        "german": "schlafen",
+        "english": "to be asleep",
+        "audio": "be_asleep.ogg",
+        "alternatives": [
+            "be asleep"
+        ]
+    },
+    {
+        "german": "verwirrt, wirr",
+        "english": "confused",
+        "audio": "confused.ogg"
+    },
+    {
+        "german": "Projekt",
+        "english": "project",
+        "audio": "project.ogg"
+    },
+    {
+        "german": "Moderator, Moderatoring",
+        "english": "presenter",
+        "audio": "presenter.ogg"
+    },
+    {
+        "german": "informativ",
+        "english": "informative",
+        "audio": "informative.ogg"
+    }
+]
