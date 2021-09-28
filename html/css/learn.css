@@ -110,7 +110,7 @@ nav li:hover a, nav li.selected a {
     color: var(--primary-clr);
 }
 
-nav #subject {
+nav #subject, nav #item {
     cursor: pointer;
 }
 
@@ -485,7 +485,7 @@ audio {
 
 /* Subjects */
 
-section.subjects, section.topics {
+section.subjects, section.topics, section.items {
     z-index: -1;
     display: none;
     position: fixed;
@@ -508,13 +508,13 @@ section.subjects, section.topics {
     margin-top: 1rem;
 }
 
-div.subjects-container {
+div.subjects-container, div.items-container {
     display: flex;
     flex-direction: column;
     width: min(20rem, 100%);
 }
 
-div.card.subject {
+div.card.subject, div.card.item {
     height: 8rem;
     display: flex;
     flex-direction: row;
@@ -524,12 +524,16 @@ div.card.subject {
     color: var(--primary-clr);
 }
 
-div.card.subject:hover {
+div.card.subject:hover, div.card.item:hover {
     background-color: whitesmoke;
 }
 
 div.subject-image img {
     width: 6rem;
+}
+
+div.item-image img {
+    height: 4rem;
 }
 
 /* End of Subjects */
@@ -574,4 +578,31 @@ div.subject-image img {
 
 .card div.invisible, .invisible {
     display: none;
+}
+
+/* Construct */
+
+.mono .letters-container {
+    margin-top: 1rem;
+}
+
+.mono div.letter {
+    display: inline;
+    padding: 0.5rem 1rem;
+    border: solid var(--primary-clr) 1px;
+    cursor: pointer;
+}
+
+.mono div.letter:hover {
+    background-color: var(--primary-clr);
+    color: white;
+}
+
+/* End of Construct */
+
+div.cmath {
+    display: block;
+    margin: 0px 0px 0px 30px;
+    padding-left: 16px; padding-top: 8px; padding-bottom: 8px;
+    white-space : pre;
 }

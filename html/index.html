@@ -15,7 +15,7 @@
             <label for="check" class="bars">
                 <i class="fa fa-bars"></i>
             </label>
-            <label class="logo">Vokabeln</label>
+            <label class="logo"><span id="item">Vokabeln</span></label>
             <ul>
                 <li id="learn-btn" class="selected"><a>Lerne</a></li>
                 <li id="repeat-btn"><a>Widerhole</a></li>
@@ -67,6 +67,46 @@
                     </div>
                     <div class="subject-image">
                         <img src="images/flag_french.svg">
+                    </div>
+                </div>
+            </div>
+          
+        </div>
+        
+    </section>
+
+    <section class="items">
+        <div class="container center">
+            <h4>Wähle was du lernen möchtest</h4>
+
+            <div class="items-container">
+                <div class="item card">
+                    <div class="item-name">
+                        <strong>Vokabeln</strong>
+                        <input type="hidden" name="item_name" value="vokabeln">
+                    </div>
+                    <div class="item-image">
+                        <img src="images/vokabeln.png">
+                    </div>
+                </div>
+            
+                <div class="item card">
+                    <div class="item-name">
+                        <strong>Verben</strong>
+                        <input type="hidden" name="item_name" value="verben">
+                    </div>
+                    <div class="item-image">
+                        <img src="images/verben.png">
+                    </div>
+                </div>
+
+                <div class="item card">
+                    <div class="item-name">
+                        <strong>Grammatik</strong>
+                        <input type="hidden" name="item_name" value="grammatik">
+                    </div>
+                    <div class="item-image">
+                        <img src="images/grammatik.png">
                     </div>
                 </div>
             </div>

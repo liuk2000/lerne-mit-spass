@@ -4,11 +4,13 @@ import { find_data } from './find.js'
 import { type_data } from './type.js'
 import { listen_data } from './listen.js'
 
+let local_storage_data = {}
 let data = []
 let current_index = 0
 let current = data[current_index]
 
 let subject = null
+let item = null
 let topics = null
 
 const learn_page_size = 4
@@ -240,28 +242,29 @@ lesson_select.addEventListener('change', () => {
     toggle_load_data_btn()
 })
 
-// window.addEventListener('load', () => {
-//     document.querySelector('div.excercises').style.display = 'none'
-//     document.querySelector('div#main').style.display = 'none'
-//     document.querySelector('div.panel').style.display = 'none'
-//     fetch(`/api/list/all`)
-//         .then(response => response.json())
-//         .then(data => {
-//             let html = '<option value=""></option>'
-//             for (const elem of data) {
-//                 html += `<option value="${elem}">${elem.replaceAll('_', ' ')}</option>`
-//             }
-//             html += '<option value="all">Alle</option>'
-//             grade_select.innerHTML = html
-//         });
-// })
-
-// toggle_load_data_btn()
-// //document.getElementById('learn-btn').click()
 document.getElementById('load-data-btn').addEventListener('click', () => {
     set_topics()
     init_page()
 })
+
+const read_local_storage = () => {
+    local_storage_data = JSON.parse(localStorage.getItem('data'))
+    subject = local_storage_data.subject
+    item = null
+    data = null
+    if (subject && local_storage_data[subject]) {
+        item = local_storage_data[subject].item
+        data = local_storage_data[subject].data
+    }
+}
+
+const get_item = () => {
+    return localStorage.getItem('item')
+}
+
+const set_item = (item) => {
+    return localStorage.setItem('item', item)
+}
 
 const get_subject = () => {
     return localStorage.getItem('subject')
@@ -301,9 +304,23 @@ for (const subject_card of document.querySelectorAll('section.subjects div.subje
     })
 }
 
+for (const item_card of document.querySelectorAll('section.items div.item.card')) {
+    item_card.addEventListener('click', () => {
+        const name = item_card.querySelector('div.item-name input[type="hidden"]').value
+        set_item(name)
+        init_page()
+    })
+}
+
 document.querySelector('section.subjects').addEventListener('click', () => {
     if (get_subject()) {
         hide_subjects()
+    }
+})
+
+document.querySelector('section.items').addEventListener('click', () => {
+    if (get_subject()) {
+        hide_items()
     }
 })
 
@@ -321,6 +338,11 @@ document.querySelector('section.menu span#subject').addEventListener('click', ()
     display_subjects()
 })
 
+document.querySelector('section.menu span#item').addEventListener('click', () => {
+    console.log('display items')
+    display_items()
+})
+
 const hide_subjects = () => {
     document.querySelector('section.subjects').style.display = 'none'
     document.querySelector('section.subjects').style.zIndex = "-1"
@@ -329,6 +351,16 @@ const hide_subjects = () => {
 const display_subjects = () => {
     document.querySelector('section.subjects').style.display = 'block'
     document.querySelector('section.subjects').style.zIndex = "1"
+}
+
+const hide_items = () => {
+    document.querySelector('section.items').style.display = 'none'
+    document.querySelector('section.items').style.zIndex = "-1"
+}
+
+const display_items = () => {
+    document.querySelector('section.items').style.display = 'block'
+    document.querySelector('section.items').style.zIndex = "1"
 }
 
 const hide_topics = () => {
@@ -479,6 +511,11 @@ const init_page = () => {
     console.log(subject)
     if (!subject) {
         display_subjects()
+        return
+    }
+    item = get_item()
+    if (!item) {
+        display_items()
         return
     }
     console.log(document.querySelector('section.menu span#subject img'))
