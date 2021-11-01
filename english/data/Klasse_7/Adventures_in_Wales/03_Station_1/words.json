@@ -1,0 +1,199 @@
+[
+    {
+        "german": "Freiluft-, Outdoor-",
+        "english": "outdoor",
+        "audio": "outdoor.ogg"
+    },
+    {
+        "german": "Jugendzentrum",
+        "english": "activity centre",
+        "audio": "activity.ogg",
+        "alternatives": [
+            "activity"
+        ]
+    },
+    {
+        "german": "eine Fahrt machen",
+        "english": "to take a trip"
+    },
+    {
+        "german": "entspannend, erholsam",
+        "english": "relaxing",
+        "audio": "relaxing.ogg"
+    },
+    {
+        "german": "enthalten sein",
+        "english": "to be included",
+        "audio": "included.ogg",
+        "alternatives": [
+            "included",
+            "be included"
+        ]
+    },
+    {
+        "german": "sollte",
+        "english": "should",
+        "audio": "should.ogg"
+    },
+    {
+        "german": "Rugby",
+        "english": "rugby",
+        "audio": "rugby.ogg"
+    },
+    {
+        "german": "Regel",
+        "english": "rule",
+        "audio": "rule.ogg"
+    },
+    {
+        "german": "Wald",
+        "english": "wood",
+        "audio": "wood.ogg"
+    },
+    {
+        "german": "Lehrer, Lehrerin",
+        "english": "instructor",
+        "audio": "instructor.ogg",
+        "picture": "hobby.jpeg"
+    },
+    {
+        "german": "Hallen-, Innen-",
+        "english": "indoor",
+        "audio": "indoor.ogg"
+    },
+    {
+        "german": "nützlich, hilfsreich",
+        "english": "useful",
+        "audio": "useful.ogg"
+    },
+    {
+        "german": "Ausrüstung",
+        "english": "equipment",
+        "audio": "equipment.ogg"
+    },
+    {
+        "german": "schützen",
+        "english": "to keep safe"
+    },
+    {
+        "german": "genug, genügend",
+        "english": "enough",
+        "audio": "enough.ogg"
+    },
+    {
+        "german": "frech",
+        "english": "cheeky",
+        "audio": "cheeky.ogg"
+    },
+    {
+        "german": "Spaß haben, sich amüsieren",
+        "english": "to enjoy oneself",
+        "audio": "enjoy_oneself.ogg",
+        "alternatives": [
+            "enjoy oneself"
+        ]
+    },
+    {
+        "german": "(ich) selbst, (ich) selber",
+        "english": "myself",
+        "audio": "myself.ogg"
+    },
+    {
+        "german": "klettern, steigen, besteigen",
+        "english": "to climb",
+        "audio": "climb.ogg",
+        "alternatives": [
+            "climb"
+        ]
+    },
+    {
+        "german": "ziemlich",
+        "english": "quite",
+        "audio": "quite.ogg"
+    },
+    {
+        "german": "gefährlich",
+        "english": "dangerous",
+        "audio": "dangerous.ogg"
+    },
+    {
+        "german": "Das ist nichts für mich",
+        "english": "That's not for me"
+    },
+    {
+        "german": "Das mache ich auf keinen Fall noch mal",
+        "english": "No way am I doing that again"
+    },
+    {
+        "german": "Witze machen, scherzen",
+        "english": "to joke",
+        "audio": "joke.ogg",
+        "alternatives": [
+            "joke"
+        ]
+    },
+    {
+        "german": "trotzdem, jedenfalls",
+        "english": "anyway",
+        "audio": "anyway.ogg"
+    },
+    {
+        "german": "einander, sich gegenseitig",
+        "english": "each other",
+        "audio": "each_other.ogg"
+    },
+    {
+        "german": "selbst, sich",
+        "english": "self",
+        "audio": "self.ogg"
+    },
+    {
+        "german": "(er) sich (selbst), (er) selbst",
+        "english": "himself",
+        "audio": "himself.ogg",
+        "picture": "hobby.jpeg"
+    },
+    {
+        "german": "dafür sorgen, sich versichern",
+        "english": "to make sure",
+        "audio": "make_sure.ogg",
+        "alternatives": [
+            "make sure"
+        ]
+    },
+    {
+        "german": "lächeln",
+        "english": "to smile",
+        "audio": "smile.ogg",
+        "alternatives": [
+            "smile"
+        ]
+    },
+    {
+        "german": "Klasse",
+        "english": "class",
+        "audio": "class.ogg"
+    },
+    {
+        "german": "Camping, Zelten",
+        "english": "camping",
+        "audio": "camping.ogg"
+    },
+    {
+        "german": "schießen, treten",
+        "english": "to kick",
+        "audio": "kick.ogg",
+        "alternatives": [
+            "kick"
+        ]
+    },
+    {
+        "german": "wegend",
+        "english": "because of",
+        "audio": "because_of.ogg"
+    },
+    {
+        "german": "Wie musst du sein?",
+        "english": "What must you be like?"
+    }
+]

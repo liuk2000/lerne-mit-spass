@@ -1,0 +1,78 @@
+[
+    {
+        "german": "langsam",
+        "english": "slow",
+        "audio": "slow.ogg"
+    },
+    {
+        "german": "hart",
+        "english": "tough",
+        "audio": "tough.ogg"
+    },
+    {
+        "german": "stark",
+        "english": "strong",
+        "audio": "strong.ogg"
+    },
+    {
+        "german": "fit; in Form",
+        "english": "fit",
+        "audio": "fit.ogg"
+    },
+    {
+        "german": "schwierig",
+        "english": "difficult",
+        "audio": "difficult.ogg"
+    },
+    {
+        "german": "unfreundlich",
+        "english": "unfriendly",
+        "audio": "unfriendly.ogg"
+    },
+    {
+        "german": "schwach",
+        "english": "weak",
+        "audio": "weak.ogg"
+    },
+    {
+        "german": "trocken",
+        "english": "dry",
+        "audio": "dry.ogg"
+    },
+    {
+        "german": "unpopulär, unbeliebt",
+        "english": "unpopular",
+        "audio": "unpopular.ogg"
+    },
+    {
+        "german": "laut",
+        "english": "loud",
+        "audio": "loud.ogg"
+    },
+    {
+        "german": "wettkampforientiert, leistungsorientiert",
+        "english": "competitive",
+        "audio": "competitive.ogg"
+    },
+    {
+        "german": "begabt, talentiert",
+        "english": "talented",
+        "audio": "talented.ogg"
+    },
+    {
+        "german": "erschöpft",
+        "english": "exhausted",
+        "audio": "exhausted.ogg"
+    },
+    {
+        "german": "geduldig",
+        "english": "patient",
+        "audio": "patient.ogg",
+        "picture": "hobby.jpeg"
+    },
+    {
+        "german": "erfolgreich",
+        "english": "successful",
+        "audio": "successful.ogg"
+    }
+]
