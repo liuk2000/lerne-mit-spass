@@ -1,0 +1,116 @@
+[
+    {
+        "german": "Walisisch, Waliser, Waliserin",
+        "english": "Welsh",
+        "audio": "welsh.ogg",
+        "picture": "wales.svg"
+    },
+    {
+        "german": "Schild, Zeichen",
+        "english": "sign",
+        "audio": "sign.ogg"
+    },
+    {
+        "german": "Kurs",
+        "english": "course",
+        "audio": "course.ogg"
+    },
+    {
+        "german": "Konversation, Gespräch, Unterhaltung",
+        "english": "conversation",
+        "audio": "conversation.ogg"
+    },
+    {
+        "german": "Seilrutsche",
+        "english": "zip line"
+    },
+    {
+        "german": "über",
+        "english": "over",
+        "audio": "over.ogg"
+    },
+    {
+        "german": "Skifahren",
+        "english": "skiing",
+        "audio": "skiing.ogg"
+    },
+    {
+        "german": "Hauptstadt",
+        "english": "capital",
+        "audio": "capital.ogg",
+        "alternatives": [
+            "be located"
+        ]
+    },
+    {
+        "german": "liegen",
+        "english": "to be located",
+        "audio": "be_located.ogg",
+        "alternatives": [
+            "be located"
+        ]
+    },
+    {
+        "german": "Küste",
+        "english": "coast",
+        "audio": "coast.ogg"
+    },
+    {
+        "german": "Rafting",
+        "english": "rafting",
+        "audio": "rafting.ogg"
+    },
+    {
+        "german": "Surfen, Wellenreiten",
+        "english": "surfing",
+        "audio": "surfing.ogg"
+    },
+    {
+        "german": "beliebt",
+        "english": "popular",
+        "audio": "popular.ogg"
+    },
+    {
+        "german": "Freiwilliger, ehrenamtlicher Helfer",
+        "english": "volunteer",
+        "audio": "volunteer.ogg"
+    },
+    {
+        "german": "Rettungsboat",
+        "english": "lifeboat",
+        "audio": "lifeboat.ogg"
+    },
+    {
+        "german": "Schwierigkeiten, Problem, Ärger",
+        "english": "trouble",
+        "audio": "trouble.ogg"
+    },
+    {
+        "german": "Teenager, Jugendlicher",
+        "english": "teenager",
+        "audio": "teenager.ogg"
+    },
+    {
+        "german": "Gast",
+        "english": "guest",
+        "audio": "guest.ogg"
+    },
+    {
+        "german": "fließend, flüssig",
+        "english": "fluent",
+        "audio": "fluent.ogg"
+    },
+    {
+        "german": "die ganze Zeit",
+        "english": "all the time",
+        "audio": "all_the_time.ogg"
+    },
+    {
+        "german": "bedeuten, meinen",
+        "english": "to mean",
+        "audio": "mean.ogg",
+        "alternative": [
+            "mean"
+        ]
+    }
+]
