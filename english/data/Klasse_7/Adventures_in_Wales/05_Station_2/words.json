@@ -1,0 +1,127 @@
+[
+    {
+        "german": "Notfall",
+        "english": "emergency",
+        "audio": "emergency.ogg"
+    },
+    {
+        "german": "Vermittlung",
+        "english": "operator",
+        "audio": "operator.ogg"
+    },
+    {
+        "german": "Notdienst, Rettungsdienst",
+        "english": "emergency service",
+        "audio": "emergency_service.ogg"
+    },
+    {
+        "german": "Dienst",
+        "english": "service",
+        "audio": "service.ogg"
+    },
+    {
+        "german": "Krankenwagen",
+        "english": "ambulance",
+        "audio": "ambulance.ogg"
+    },
+    {
+        "german": "Unfall",
+        "english": "accident",
+        "audio": "accident.ogg"
+    },
+    {
+        "german": "fallen, hinfallen, umfallen",
+        "english": "to fall (over)",
+        "second_form": "fell",
+        "third_form": "fallen",
+        "audio": "fall_over.ogg",
+        "alternatives": [
+            "fall over",
+            "to fall over",
+            "fall (over)"
+        ]
+    },
+    {
+        "german": "Fels, Stein",
+        "english": "rock",
+        "audio": "rock.ogg"
+    },
+    {
+        "german": "schwer, ernst",
+        "english": "serious",
+        "audio": "serious.ogg"
+    },
+    {
+        "german": "bei Bewustsein, wach",
+        "english": "awake",
+        "audio": "awake.ogg"
+    },
+    {
+        "german": "jetzt gerade",
+        "english": "right now",
+        "audio": "right_now.ogg"
+    },
+    {
+        "german": "Telefonnummer",
+        "english": "phone number"
+    },
+    {
+        "german": "das Richtige tun",
+        "english": "to do the right thing"
+    },
+    {
+        "german": "Polizei",
+        "english": "police",
+        "audio": "police.ogg"
+    },
+    {
+        "german": "Notruf",
+        "english": "emergency call",
+        "audio": "emergency_call.ogg"
+    },
+    {
+        "german": "ohne",
+        "english": "without",
+        "audio": "without.ogg"
+    },
+    {
+        "german": "Kuscheltier",
+        "english": "cuddly toy",
+        "audio": "cuddly_toy.ogg"
+    },
+    {
+        "german": "fallen, herunterfallen",
+        "english": "to fall off",
+        "audio": "fall_off_something.ogg",
+        "alternatives": [
+            "fall off something",
+            "to fall off something",
+            "fall off"
+        ]
+    },
+    {
+        "german": "(sich) stoßen, anstoßen",
+        "english": "to hit",
+        "second_form": "hit",
+        "third_form": "hit",
+        "audio": "hit.ogg",
+        "alternatives": [
+            "hit"
+        ]
+    },
+    {
+        "german": "Training",
+        "english": "training",
+        "audio": "training.ogg"
+    },
+    {
+        "german": "Skateboard",
+        "english": "skateboard",
+        "audio": "skateboard.ogg"
+    },
+    {
+        "german": "Kunststück",
+        "english": "trick",
+        "audio": "trick.ogg"
+    }
+]

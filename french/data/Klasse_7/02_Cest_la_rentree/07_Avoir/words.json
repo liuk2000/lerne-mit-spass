@@ -1,0 +1,36 @@
+[
+    {
+        "german": "ich habe",
+        "french": "j'ai",
+        "audio": "j_ai.mp3"
+    },
+    {
+        "german": "du hast",
+        "french": "tu as",
+        "audio": "tu_as.mp3"
+    },
+    {
+        "german": "er hat",
+        "french": "il a",
+        "audio": "il_a.mp3"
+    },
+    {
+        "german": "sie hat",
+        "french": "elle a"
+    },
+    {
+        "german": "wir haben",
+        "french": "nous avons",
+        "audio": "nous_avons.mp3"
+    },
+    {
+        "german": "Sie haben",
+        "french": "vous avez",
+        "audio": "vous_avez.mp3"
+    },
+    {
+        "german": "sie haben",
+        "french": "ils/elles ont",
+        "audio": "ils_ont.mp3"
+    }
+]

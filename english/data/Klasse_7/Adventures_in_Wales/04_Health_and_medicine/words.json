@@ -1,0 +1,121 @@
+[
+    {
+        "german": "bluten",
+        "english": "to bleed",
+        "second_form": "bled",
+        "third_form": "bled",
+        "audio": "bleed.ogg",
+        "alternatives": [
+            "bleed"
+        ]
+    },
+    {
+        "german": "Verletzung",
+        "english": "injury",
+        "audio": "injury.ogg"
+    },
+    {
+        "german": "Finger",
+        "english": "finger",
+        "audio": "finger.ogg"
+    },
+    {
+        "german": "Zahn",
+        "english": "tooth",
+        "audio": "tooth.ogg"
+    },
+    {
+        "german": "Zähne",
+        "english": "teeth"
+    },
+    {
+        "german": "Knie",
+        "english": "knee",
+        "audio": "knee.ogg"
+    },
+    {
+        "german": "verbrennen, brennen",
+        "english": "to burn",
+        "second_form": "burnt",
+        "third_form": "burnt",
+        "audio": "burn.ogg",
+        "alternatives": [
+            "burn"
+        ]
+    },
+    {
+        "german": "verstauchen, verrenken",
+        "english": "to sprain",
+        "audio": "sprain.ogg",
+        "alternatives": [
+            "sprain"
+        ]
+    },
+    {
+        "german": "Gips",
+        "english": "cast",
+        "audio": "cast.ogg"
+    },
+    {
+        "german": "anlegen, anziehen",
+        "english": "to put on",
+        "audio": "put_on.ogg",
+        "alternatives": [
+            "put on"
+        ]
+    },
+    {
+        "german": "Verband",
+        "english": "bandage",
+        "audio": "bandage.ogg"
+    },
+    {
+        "german": "kühlen",
+        "english": "to cool",
+        "audio": "cool.ogg",
+        "alternatives": [
+            "cool"
+        ]
+    },
+    {
+        "german": "(sich) bewegen",
+        "english": "to move",
+        "audio": "move.ogg",
+        "alternatives": [
+            "move"
+        ]
+    },
+    {
+        "german": "Pflaster",
+        "english": "plaster",
+        "audio": "plaster.ogg"
+    },
+    {
+        "german": "Spritze",
+        "english": "injection",
+        "audio": "injection.ogg"
+    },
+    {
+        "german": "Operation",
+        "english": "operation",
+        "audio": "operation.ogg"
+    },
+    {
+        "german": "Schlaf",
+        "english": "sleep",
+        "audio": "sleep.ogg"
+    },
+    {
+        "german": "Medikamente, Medizin",
+        "english": "medicine",
+        "audio": "medicine.ogg"
+    },
+    {
+        "german": "ein freier Tag",
+        "english": "a day off",
+        "audio": "day_off.ogg",
+        "alternatives": [
+            "day off"
+        ]
+    }
+]
