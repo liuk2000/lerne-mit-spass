@@ -1,0 +1,47 @@
+[
+    {
+        "german": "die Freiteitaktivitäten, Freizeit",
+        "french": "les loisirs",
+        "audio": "les_loisirs.ogg"
+    },
+    {
+        "german": "Fußball (als Sportart)",
+        "french": "le foot",
+        "audio": "le_foot.ogg"
+    },
+    {
+        "german": "die Musik",
+        "french": "la musique",
+        "audio": "la_musique.ogg"
+    },
+    {
+        "german": "das Tanzen, der Tanz",
+        "french": "la danse",
+        "audio": "la_danse.ogg"
+    },
+    {
+        "german": "Inlineskaten",
+        "french": "le roller",
+        "audio": "le_roller.ogg"
+    },
+    {
+        "german": "die Inliner (pl)",
+        "french": "les rollers",
+        "audio": "les_rollers.ogg"
+    },
+    {
+        "german": "Skateboarden",
+        "french": "le skate",
+        "audio": "le_skate.ogg"
+    },
+    {
+        "german": "die Videospiele",
+        "french": "les jeux vidéo",
+        "audio": "les_jeux_video.ogg"
+    },
+    {
+        "german": "ich mag, ich liebe",
+        "french": "j'aime",
+        "audio": "jaime.ogg"
+    }
+]
