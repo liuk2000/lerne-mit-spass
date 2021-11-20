@@ -42,12 +42,18 @@
     {
         "german": "Gehen wir (hin)?",
         "french": "On y va?",
-        "audio": "on_y_va.ogg"
+        "audio": "on_y_va.ogg",
+        "alternatives": [
+            "on y va"
+        ]
     },
     {
         "german": "Tanzt du gern?",
         "french": "Tu aimes la danse?",
-        "audio": "tu_aimes_la_danse.ogg"
+        "audio": "tu_aimes_la_danse.ogg",
+        "alternatives": [
+            "tu aimes la danse"
+        ]
     },
     {
         "german": "Ich liebe Hip-Hop",
@@ -82,12 +88,18 @@
     {
         "german": "Er liebt das",
         "french": "Il adore ça",
-        "audio": "il_adore_ca.ogg"
+        "audio": "il_adore_ca.ogg",
+        "alternatives": [
+            "il adore ca"
+        ]
     },
     {
         "german": "Gute Idee",
         "french": "Bonne idée",
-        "audio": "bonne_idee.ogg"
+        "audio": "bonne_idee.ogg",
+        "alternatives": [
+            "bonne idee"
+        ]
     },
     {
         "german": "Ich schaue mir das Finale an",
@@ -127,7 +139,10 @@
     {
         "german": "(überhaupt) nicht mögen, hassen",
         "french": "détester",
-        "audio": "detester.ogg"
+        "audio": "detester.ogg",
+        "alternatives": [
+            "detester"
+        ]
     },
     {
         "german": "eine E-Mail",
