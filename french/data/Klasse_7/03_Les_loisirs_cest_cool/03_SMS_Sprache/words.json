@@ -1,0 +1,31 @@
+[
+    {
+        "german": "hallo",
+        "french": "slt (salut)",
+        "alternatives": [
+            "slt"
+        ],
+        "audio": "slt.ogg"
+    },
+    {
+        "german": "Küsschen",
+        "french": "biz (bisous/bises)",
+        "alternatives": [
+            "biz"
+        ],
+        "audio": "biz.ogg"
+    },
+    {
+        "german": "Bis dann! / Tschüs!",
+        "french": "A+ (A plus!)",
+        "alternatives": [
+            "A+"
+        ],
+        "audio": "a_plus.ogg"
+    },
+    {
+        "german": "lol",
+        "french": "mdr",
+        "audio": "mdr.ogg"
+    }
+]
