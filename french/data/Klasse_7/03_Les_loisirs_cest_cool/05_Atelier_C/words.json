@@ -1,0 +1,151 @@
+[
+    {
+        "german": "eine Crêpe",
+        "french": "une crêpe",
+        "audio": "une_crêpe.ogg",
+        "alternatives": [
+            "une crepe"
+        ]
+    },
+    {
+        "german": "jeder / alle (Leute)",
+        "french": "tout le monde",
+        "audio": "tout_le_monde.ogg"
+    },
+    {
+        "german": "nach (zeitlich)",
+        "french": "après",
+        "audio": "apres.ogg",
+        "alternatives": [
+            "apres"
+        ]
+    },
+    {
+        "german": "ein Freund",
+        "french": "un ami",
+        "audio": "un_ami.ogg"
+    },
+    {
+        "german": "eine Freundin",
+        "french": "une amie",
+        "audio": "une_amie.ogg"
+    },
+    {
+        "german": "kommen / ankommen",
+        "french": "arriver",
+        "audio": "arriver.ogg"
+    },
+    {
+        "german": "bei / zu (Personen)",
+        "french": "chez",
+        "audio": "chez.ogg"
+    },
+    {
+        "german": "eine Crêperie",
+        "french": "une crêperie",
+        "audio": "une_crêperie.ogg",
+        "alternatives": [
+            "une creperie"
+        ]
+    },
+    {
+        "german": "Die Freunde haben Hunger und Durst",
+        "french": "Les copains ont faim et soif",
+        "audio": "les_copains_ont_faim_et_soif.ogg"
+    },
+    {
+        "german": "Ich habe Hunger",
+        "french": "J'ai faim",
+        "audio": "jai_faim.ogg"
+    },
+    {
+        "german": "Ich habe Durst",
+        "french": "J'ai soif",
+        "audio": "jai_soif.ogg"
+    },
+    {
+        "german": "Mama / Mami",
+        "french": "maman",
+        "audio": "maman.ogg"
+    },
+    {
+        "german": "der Pokal",
+        "french": "la coupe",
+        "audio": "la_coupe.ogg"
+    },
+    {
+        "german": "Wir haben den Pokal",
+        "french": "Nous avons la coupe",
+        "audio": "nous_avons_la_coupe.ogg"
+    },
+    {
+        "german": "Habt ihr Hunger?",
+        "french": "Vous avez faim?",
+        "audio": "vous_avez_faim.ogg",
+        "alternatives": [
+            "Vous avez faim"
+        ]
+    },
+    {
+        "german": "Zu Tisch! / Essen kommen!",
+        "french": "A table!",
+        "audio": "a_table.ogg",
+        "alternatives": [
+            "A table"
+        ]
+    },
+    {
+        "german": "Da(s) sind",
+        "french": "Ce sont",
+        "audio": "ce_sont.ogg"
+    },
+    {
+        "german": "die Schokolade",
+        "french": "le chocolat",
+        "audio": "le_chocolat.ogg"
+    },
+    {
+        "german": "eine Schokoladencrêpe",
+        "french": "une crêpe au chocolat",
+        "audio": "une_crêpe_au_chocolat.ogg",
+        "alternatives": [
+            "une crepe au chocolat"
+        ]
+    },
+    {
+        "german": "ein Foto",
+        "french": "une photo",
+        "audio": "une_photo.ogg"
+    },
+    {
+        "german": "vorbereiten / zubereiten",
+        "french": "préparer",
+        "audio": "preparer.ogg",
+        "alternatives": [
+            "preparer"
+        ]
+    },
+    {
+        "german": "eine Idee",
+        "french": "une idée",
+        "audio": "une_idee.ogg",
+        "alternatives": [
+            "une idee"
+        ]
+    },
+    {
+        "german": "haben",
+        "french": "avoir",
+        "audio": "avoir.ogg"
+    },
+    {
+        "german": "ein Tag",
+        "french": "un jour",
+        "audio": "un_jour.ogg"
+    },
+    {
+        "german": "eine Woche",
+        "french": "une semaine",
+        "audio": "une_semaine.ogg"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "german": "die Sportarten",
+        "french": "les sports",
+        "audio": "les_sports.ogg"
+    },
+    {
+        "german": "die Freizeitaktivitäten",
+        "french": "les activités",
+        "audio": "les_activites.ogg",
+        "alternatives": [
+            "les activites"
+        ]
+    },
+    {
+        "german": "Reiten",
+        "french": "l'équitation",
+        "audio": "lequitation.ogg",
+        "alternatives": [
+            "l'equitation'"
+        ]
+    },
+    {
+        "german": "Rugby",
+        "french": "le rugby",
+        "audio": "le_rugby.ogg"
+    },
+    {
+        "german": "Schwimmen",
+        "french": "la natation",
+        "audio": "la_natation.ogg"
+    },
+    {
+        "german": "Basketball",
+        "french": "le basket",
+        "audio": "le_basket.ogg"
+    },
+    {
+        "german": "Handball",
+        "french": "le handball",
+        "audio": "le_handball.ogg"
+    },
+    {
+        "german": "Tennis",
+        "french": "le tennis",
+        "audio": "le_tennis.ogg"
+    },
+    {
+        "german": "Judo",
+        "french": "le judo",
+        "audio": "le_judo.ogg"
+    }
+]

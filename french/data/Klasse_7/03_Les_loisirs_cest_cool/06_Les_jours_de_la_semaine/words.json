@@ -1,0 +1,37 @@
+[
+    {
+        "german": "Montag",
+        "french": "lundi",
+        "audio": "lundi.ogg"
+    },
+    {
+        "german": "Dienstag",
+        "french": "mardi",
+        "audio": "mardi.ogg"
+    },
+    {
+        "german": "Mittwoch",
+        "french": "mercredi",
+        "audio": "mercredi.ogg"
+    },
+    {
+        "german": "Donnerstag",
+        "french": "jeudi",
+        "audio": "jeudi.ogg"
+    },
+    {
+        "german": "Freitag",
+        "french": "vendredi",
+        "audio": "vendredi.ogg"
+    },
+    {
+        "german": "Samstag",
+        "french": "samedi",
+        "audio": "samedi.ogg"
+    },
+    {
+        "german": "Sonntag",
+        "french": "dimanche",
+        "audio": "dimanche.ogg"
+    }
+]

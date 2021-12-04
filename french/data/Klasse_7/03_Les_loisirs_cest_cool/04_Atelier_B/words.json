@@ -1,0 +1,233 @@
+[
+    {
+        "german": "in/im",
+        "french": "dans",
+        "audio": "dans.ogg"
+    },
+    {
+        "german": "ein Kaugummi",
+        "french": "un chewing-gum",
+        "audio": "un_chewing_gum.ogg"
+    },
+    {
+        "german": "ein Schlüssel",
+        "french": "une clé",
+        "audio": "une_cle.ogg",
+        "alternatives": [
+            "une cle"
+        ]
+    },
+    {
+        "german": "ein T-Shirt",
+        "french": "un t-shirt",
+        "audio": "un_t_shirt.ogg"
+    },
+    {
+        "german": "ein Schuh",
+        "french": "une chaussure",
+        "audio": "une_chaussure.ogg"
+    },
+    {
+        "german": "heute",
+        "french": "ajourd'hui",
+        "audio": "ajourdhui.ogg"
+    },
+    {
+        "german": "suchen",
+        "french": "chercher",
+        "audio": "chercher.ogg"
+    },
+    {
+        "german": "Suchst du etwas?",
+        "french": "Tu cherches quelque chose?",
+        "audio": "tu_cherches_quelque_chose.ogg",
+        "alternatives": [
+            "Tu cherches quelque chose"
+        ]
+    },
+    {
+        "german": "nur",
+        "french": "seulment",
+        "audio": "seulment.ogg"
+    },
+    {
+        "german": "Was ist los/Was gibt es?",
+        "french": "Qu'est-ce qu'il y a?",
+        "audio": "quest_ce_quil_y_a.ogg",
+        "alternatives": [
+            "Qu'est-ce qu'il y a"
+        ]
+    },
+    {
+        "german": "Es tut mir leid!",
+        "french": "Désolé!",
+        "audio": "desole.ogg",
+        "alternatives": [
+            "Désolé",
+            "Desole",
+            "Desole!"
+        ]
+    },
+    {
+        "german": "bleiben",
+        "french": "rester",
+        "audio": "rester.ogg"
+    },
+    {
+        "german": "ein Junge",
+        "french": "un garçon",
+        "audio": "un_garcon.ogg",
+        "alternatives": [
+            "un garcon"
+        ]
+    },
+    {
+        "german": "Ihr bleibt cool/ruhig",
+        "french": "Vous restez cool",
+        "audio": "vous_restez_cool.ogg"
+    },
+    {
+        "german": "ja",
+        "french": "Ouais",
+        "audio": "ouais.ogg"
+    },
+    {
+        "german": "ein Mädchen",
+        "french": "une fille",
+        "audio": "une_fille.ogg"
+    },
+    {
+        "german": "Die Mädchen schauen sich das Spiel an",
+        "french": "Les filles regardent le match",
+        "audio": "les_filles_regardent_le_match.ogg"
+    },
+    {
+        "german": "ansehen/anschauen, betrachten",
+        "french": "regarder",
+        "audio": "regarder.ogg"
+    },
+    {
+        "german": "tanzen",
+        "french": "danser",
+        "audio": "danser.ogg"
+    },
+    {
+        "german": "singen",
+        "french": "chanter",
+        "audio": "chanter.ogg"
+    },
+    {
+        "german": "Los!",
+        "french": "Allez!",
+        "audio": "allez.ogg",
+        "alternatives": [
+            "Allez"
+        ]
+    },
+    {
+        "german": "Los geht's, Jungs!",
+        "french": "Allez, les garçons!",
+        "audio": "allez_les_garcons.ogg",
+        "alternatives": [
+            "Allez, les garçons",
+            "Allez, les garcons",
+            "Allez, les garcons!"
+        ]
+    },
+    {
+        "german": "ein Sieger",
+        "french": "un champion",
+        "audio": "un_champion.ogg"
+    },
+    {
+        "german": "eine Siegerin",
+        "french": "une championne",
+        "audio": "une_championne.ogg"
+    },
+    {
+        "german": "Was macht er?",
+        "french": "Qu'est-ce qu'il fait?",
+        "audio": "quest_ce_quil_fait.ogg",
+        "alternatives": [
+            "Qu'est-ce qu'il fait"
+        ]
+    },
+    {
+        "german": "Was macht sie?",
+        "french": "Qu'est-ce qu'elle fait?",
+        "audio": "quest_ce_quelle_fait.ogg",
+        "alternatives": [
+            "Qu'est-ce qu'elle fait"
+        ]
+    },
+    {
+        "german": "Achtung/Pass auf!",
+        "french": "Attention!",
+        "audio": "attention.ogg",
+        "alternatives": [
+            "Attention"
+        ]
+    },
+    {
+        "german": "fallen / hinfallen",
+        "french": "tomber",
+        "audio": "tomber.ogg"
+    },
+    {
+        "german": "spielen",
+        "french": "jouer",
+        "audio": "jouer.ogg"
+    },
+    {
+        "german": "jetzt",
+        "french": "maintenant",
+        "audio": "maintenant.ogg"
+    },
+    {
+        "german": "Das ist o.k.",
+        "french": "C'est O.K.",
+        "audio": "cest_ok.ogg",
+        "alternatives": [
+            "C'est OK"
+        ]
+    },
+    {
+        "german": "Viel Glück!",
+        "french": "Bonne chance!",
+        "audio": "bonne_chance.ogg",
+        "alternatives": [
+            "Bonne chance"
+        ]
+    },
+    {
+        "german": "alle",
+        "french": "tous",
+        "audio": "tous.ogg"
+    },
+    {
+        "german": "Tor!",
+        "french": "But!",
+        "audio": "but.ogg",
+        "alternatives": [
+            "But"
+        ]
+    },
+    {
+        "german": "Bravo!",
+        "french": "Bravo!",
+        "audio": "bravo.ogg",
+        "alternatives": [
+            "Bravo"
+        ]
+    },
+    {
+        "german": "ein Satz",
+        "french": "une phrase",
+        "audio": "une_phrase.ogg"
+    },
+    {
+        "german": "ein Pantomimenspiel",
+        "french": "un jeu de mime",
+        "audio": "un_jeu_de_mime.ogg"
+    }
+]
