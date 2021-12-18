@@ -1,0 +1,270 @@
+[
+    {
+        "german": "Ich habe",
+        "french": "J'ai",
+        "audio": "jai.ogg"
+    },
+    {
+        "german": "Du haßt",
+        "french": "Tu as",
+        "audio": "tu_as.ogg"
+    },
+    {
+        "german": "Er hat",
+        "french": "Il a",
+        "audio": "il_a.ogg"
+    },
+    {
+        "german": "Sie hat",
+        "french": "Elle a",
+        "audio": "elle_a.ogg"
+    },
+    {
+        "german": "Ich heiße",
+        "french": "Je m'appelle",
+        "audio": "je_mappelle.ogg"
+    },
+    {
+        "german": "Du heißt",
+        "french": "Tu t'appelles",
+        "audio": "tu_tappelles.ogg"
+    },
+    {
+        "german": "Er heißt",
+        "french": "Il s'appelle",
+        "audio": "il_sappelle.ogg"
+    },
+    {
+        "german": "Sie heißt",
+        "french": "Elle s'appelle",
+        "audio": "elle_sappelle.ogg"
+    },
+    {
+        "german": "Wie heißt du?",
+        "french": "Tu t'appelles comment?",
+        "audio": "tu_tappelles_comment.ogg",
+        "alternatives": [
+            "Tu t'appelles comment"
+        ]
+    },
+    {
+        "german": "Hast du eine Schwester oder einen Bruder?",
+        "french": "Tu as une sœur ou un frère?",
+        "audio": "tu_as_une_sœur_ou_un_frere.ogg",
+        "alternatives": [
+            "Tu as une sœur ou un frère",
+            "Tu as une sœur ou un frere",
+            "Tu as une sœur ou un frere?",
+            "Tu as une soeur ou un frère",
+            "Tu as une soeur ou un frère?",
+            "Tu as une soeur ou un frere",
+            "Tu as une soeur ou un frere?"
+        ]
+    },
+    {
+        "german": "Ich habe einen Bruder",
+        "french": "J'ai un frère",
+        "audio": "jai_un_frere.ogg",
+        "alternatives": [
+            "J'ai un frere"
+        ]
+    },
+    {
+        "german": "Er heißt Félix",
+        "french": "Il s'appelle Félix",
+        "audio": "il_sappelle_felix.ogg",
+        "alternatives": [
+            "Il s'appelle Felix"
+        ]
+    },
+    {
+        "german": "Wie alt ist dein Bruder Félix?",
+        "french": "Ton frère Félix a quel âge?",
+        "audio": "ton_frere_felix_a_quel_âge.ogg",
+        "alternatives": [
+            "Ton frère Félix a quel âge",
+            "Ton frere Felix a quel age?",
+            "Ton frere Felix a quel age",
+            "Ton frère Felix a quel age?",
+            "Ton frère Felix a quel age",
+            "Ton frère Félix a quel age?",
+            "Ton frère Félix a quel age"
+        ]
+    },
+    {
+        "german": "Mein Bruder Félix ist 9 Jahre alt",
+        "french": "Mon frère Félix a neuf ans",
+        "audio": "mon_frere_felix_a_neuf_ans.ogg",
+        "alternatives": [
+            "Mon frere Félix a neuf ans",
+            "Mon frère Felix a neuf ans",
+            "Mon frere Felix a neuf ans"
+        ]
+    },
+    {
+        "german": "Hast du einen Hund oder eine Katze?",
+        "french": "Tu as un chien ou un chat?",
+        "audio": "tu_as_un_chien_ou_un_chat.ogg",
+        "alternatives": [
+            "Tu as un chien ou un chat",
+            "Tu as un chien ou une chatte",
+            "Tu as un chien ou une chatte?"
+        ]
+    },
+    {
+        "german": "Ich habe eine Katze",
+        "french": "J'ai une chatte",
+        "audio": "jai_une_chatte.ogg",
+        "alternatives": [
+            "J'ai un chat"
+        ]
+    },
+    {
+        "german": "Sie heißt Milou",
+        "french": "Elle s'appelle Milou",
+        "audio": "elle_sappelle_milou.ogg"
+    },
+    {
+        "german": "Hast du ein Handy?",
+        "french": "Tu as un portable?",
+        "audio": "tu_as_un_portable.ogg",
+        "alternatives": [
+            "Tu as un portable"
+        ]
+    },
+    {
+        "german": "Ja, meine Telefonnummer ist 01 53 44 12 47",
+        "french": "Oui, mon numéro de téléphone est 01 53 44 12 47",
+        "audio": "oui_mon_numero_de_telephone_est_01_53_44_12_47.ogg"
+    },
+    {
+        "german": "Danke und auf Wiedersehen",
+        "french": "Merci et au revoir",
+        "audio": "merci_et_au_revoir.ogg"
+    },
+    {
+        "german": "Ich mag",
+        "french": "J'aime",
+        "audio": "jaime.ogg"
+    },
+    {
+        "german": "Ich mag sehr",
+        "french": "J'adore",
+        "audio": "jadore.ogg"
+    },
+    {
+        "german": "Ich hasse",
+        "french": "Je déteste",
+        "audio": "je_deteste.ogg"
+    },
+    {
+        "german": "Du magst",
+        "french": "Tu aimes",
+        "audio": "tu_aimes.ogg"
+    },
+    {
+        "german": "Du magst sehr",
+        "french": "Tu adores",
+        "audio": "tu_adores.ogg"
+    },
+    {
+        "german": "Du hasst",
+        "french": "Tu détestes",
+        "audio": "tu_detestes.ogg"
+    },
+    {
+        "german": "Er mag",
+        "french": "Il aime",
+        "audio": "il_aime.ogg"
+    },
+    {
+        "german": "Er mag sehr",
+        "french": "Il adore",
+        "audio": "il_adore.ogg"
+    },
+    {
+        "german": "Er hasst",
+        "french": "Il déteste",
+        "audio": "il_deteste.ogg"
+    },
+    {
+        "german": "Sie mag",
+        "french": "Elle aime",
+        "audio": "elle_aime.ogg"
+    },
+    {
+        "german": "Sie mag sehr",
+        "french": "Elle adore",
+        "audio": "elle_adore.ogg"
+    },
+    {
+        "german": "Sie hasst",
+        "french": "Elle déteste",
+        "audio": "elle_deteste.ogg"
+    },
+    {
+        "german": "Mag Julie Fußball?",
+        "french": "Julie aime le foot?",
+        "audio": "julie_aime_le_foot.ogg",
+        "alternatives": [
+            "Julie aime le foot"
+        ]
+    },
+    {
+        "german": "Nein, sie hasst Fußball",
+        "french": "Non, elle déteste le foot",
+        "audio": "non_elle_deteste_le_foot.ogg"
+    },
+    {
+        "german": "Mag Amir Tanzen?",
+        "french": "Amir aime la dance?",
+        "audio": "amir_aime_la_dance.ogg",
+        "alternatives": [
+            "Amir aime la dance"
+        ]
+    },
+    {
+        "german": "Nein, er hasst es",
+        "french": "Non, il déteste la dance",
+        "audio": "non_il_deteste_la_dance.ogg"
+    },
+    {
+        "german": "Mag Maxime Skateboarden?",
+        "french": "Maxime aime le skate?",
+        "audio": "maxime_aime_le_skate.ogg",
+        "alternatives": [
+            "Maxime aime le skate"
+        ]
+    },
+    {
+        "german": "Ja, er liebt es",
+        "french": "Oui, il adore le skate",
+        "audio": "oui_il_adore_le_skate.ogg"
+    },
+    {
+        "german": "Mag Camille Videospiele?",
+        "french": "Camille aime les jeux vidéo?",
+        "audio": "camille_aime_les_jeux_video.ogg",
+        "alternatives": [
+            "Camille aime les jeux vidéo"
+        ]
+    },
+    {
+        "german": "Nein, sie mag Musik",
+        "french": "Non, elle aime la musique",
+        "audio": "non_elle_aime_la_musique.ogg"
+    },
+    {
+        "german": "Mag Titou Fußball?",
+        "french": "Titou aime le foot?",
+        "audio": "titou_aime_le_foot.ogg",
+        "alternatives": [
+            "Titou aime le foot"
+        ]
+    },
+    {
+        "german": "Ja, er liebt es",
+        "french": "Oui, il adore le foot",
+        "audio": "oui_il_adore_le_foot.ogg"
+    }
+]
