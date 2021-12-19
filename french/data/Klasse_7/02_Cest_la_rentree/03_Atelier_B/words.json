@@ -15,12 +15,7 @@
     {
         "german": "ein Collège/eine Schule",
         "french": "un collège",
-        "audio": "college.ogg",
-        "alternatives": [
-            "un college",
-            "college",
-            "collège"
-        ]
+        "audio": "college.ogg"
     },
     {
         "german": "ein Deutschlehrer",
@@ -32,35 +27,23 @@
     },
     {
         "german": "Hat er einen Bruder?",
-        "french": "Il a un frère?",
-        "alternatives": [
-            "il a un frere",
-            "il a un frere?"
-        ]
+        "french": "Il a un frère?"
     },
     {
         "german": "Hat sie einen Bruder?",
-        "french": "Elle a un frère?",
-        "alternatives": [
-            "elle a un frere",
-            "elle a un frere?"
-        ]
+        "french": "Elle a un frère?"
     },
     {
         "german": "ein Bruder",
         "french": "un frère",
-        "audio": "frere.ogg",
-        "alternatives": [
-            "frere"
-        ]
+        "audio": "frere.ogg"
     },
     {
         "german": "eine Schwester",
         "french": "une sœur",
         "audio": "soeur.ogg",
         "alternatives": [
-            "une soeur",
-            "soeur"
+            "une soeur"
         ]
     },
     {
@@ -69,11 +52,11 @@
     },
     {
         "german": "Wie alt ist er?",
-        "french": "Il a quel age?"
+        "french": "Il a quel âge?"
     },
     {
         "german": "Wie alst ist sie?",
-        "french": "Elle a quel age?"
+        "french": "Elle a quel âge?"
     },
     {
         "german": "Er ist acht Jahre alt",
@@ -111,18 +94,12 @@
     {
         "german": "ein Handy",
         "french": "un portable",
-        "audio": "portable.ogg",
-        "alternatives": [
-            "portable"
-        ]
+        "audio": "portable.ogg"
     },
     {
         "german": "Die Geschichte",
         "french": "L'histoire",
-        "audio": "histoire.ogg",
-        "alternatives": [
-            "histoire"
-        ]
+        "audio": "histoire.ogg"
     },
     {
         "german": "weiter machen, fortsetzen",
