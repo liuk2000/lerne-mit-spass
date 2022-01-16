@@ -1,0 +1,72 @@
+[
+    {
+        "german": "Draht, Kabel",
+        "english": "wire",
+        "audio": "wire.ogg"
+    },
+    {
+        "german": "Plastik, Kunststoff",
+        "english": "plastic",
+        "audio": "plastic.ogg"
+    },
+    {
+        "german": "Metall",
+        "english": "metal",
+        "audio": "metal.ogg"
+    },
+    {
+        "german": "Holz",
+        "english": "wood",
+        "audio": "wood.ogg"
+    },
+    {
+        "german": "Gummi",
+        "english": "rubber",
+        "audio": "rubber.ogg"
+    },
+    {
+        "german": "Leder",
+        "english": "leather",
+        "audio": "leather.ogg"
+    },
+    {
+        "german": "Papier",
+        "english": "paper",
+        "audio": "paper.ogg"
+    },
+    {
+        "german": "Baumwolle",
+        "english": "cotton",
+        "audio": "cotton.ogg"
+    },
+    {
+        "german": "Porzellan",
+        "english": "china",
+        "audio": "china.ogg"
+    },
+    {
+        "german": "Stahl",
+        "english": "steel",
+        "audio": "steel.ogg"
+    },
+    {
+        "german": "Beton",
+        "english": "concrete",
+        "audio": "concrete.ogg"
+    },
+    {
+        "german": "Pappe, Karton",
+        "english": "cardboard",
+        "audio": "cardboard.ogg"
+    },
+    {
+        "german": "Seide",
+        "english": "silk",
+        "audio": "silk.ogg"
+    },
+    {
+        "german": "Aluminium",
+        "english": "aluminium",
+        "audio": "aluminium.ogg"
+    }
+]
