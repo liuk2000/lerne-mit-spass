@@ -1,0 +1,132 @@
+[
+    {
+        "german": "Regen",
+        "english": "rain",
+        "audio": "rain.ogg"
+    },
+    {
+        "german": "hervorbringen, produzieren",
+        "english": "to produce",
+        "audio": "to_produce.ogg"
+    },
+    {
+        "german": "Universität",
+        "english": "university",
+        "audio": "university.ogg"
+    },
+    {
+        "german": "Erfinder, Erfinderin",
+        "english": "inventor",
+        "audio": "inventor.ogg"
+    },
+    {
+        "german": "geboren werden",
+        "english": "to be born",
+        "audio": "to_be_born.ogg"
+    },
+    {
+        "german": "schottisch",
+        "english": "Scottish",
+        "audio": "scottish.ogg"
+    },
+    {
+        "german": "Held",
+        "english": "hero",
+        "audio": "hero.ogg"
+    },
+    {
+        "german": "sein, ihr",
+        "english": "its",
+        "audio": "its.ogg"
+    },
+    {
+        "german": "Sonnen-, Solar-, solar",
+        "english": "solar",
+        "audio": "solar.ogg"
+    },
+    {
+        "german": "Energie, Kraft, Macht",
+        "english": "power",
+        "audio": "power.ogg"
+    },
+    {
+        "german": "Strom, Elektrizität",
+        "english": "electricity",
+        "audio": "electricity.ogg"
+    },
+    {
+        "german": "Windpark",
+        "english": "wind farm",
+        "audio": "wind_farm.ogg"
+    },
+    {
+        "german": "See",
+        "english": "lake",
+        "audio": "lake.ogg"
+    },
+    {
+        "german": "See (in Schottland)",
+        "english": "loch",
+        "audio": "loch.ogg"
+    },
+    {
+        "german": "Häuschen",
+        "english": "cottage",
+        "audio": "cottage.ogg"
+    },
+    {
+        "german": "wild",
+        "english": "wild",
+        "audio": "wild.ogg"
+    },
+    {
+        "german": "Tradition",
+        "english": "tradition",
+        "audio": "tradition.ogg"
+    },
+    {
+        "german": "Dudelsack",
+        "english": "bagpipes",
+        "audio": "bagpipes.ogg"
+    },
+    {
+        "german": "Schottenrock, Kilt",
+        "english": "kilt",
+        "audio": "kilt.ogg"
+    },
+    {
+        "german": "Schotte, Schottin",
+        "english": "Scot",
+        "audio": "scot.ogg"
+    },
+    {
+        "german": "Haferbrei",
+        "english": "porridge",
+        "audio": "porridge.ogg"
+    },
+    {
+        "german": "Hafer",
+        "english": "oat",
+        "audio": "oat.ogg"
+    },
+    {
+        "german": "Windrad",
+        "english": "turbine",
+        "audio": "turbine.ogg"
+    },
+    {
+        "german": "schützen",
+        "english": "to protect",
+        "audio": "to_protect.ogg"
+    },
+    {
+        "german": "Natur",
+        "english": "nature",
+        "audio": "nature.ogg"
+    },
+    {
+        "german": "Ausstellung",
+        "english": "exhibition",
+        "audio": "exhibition.ogg"
+    }
+]
