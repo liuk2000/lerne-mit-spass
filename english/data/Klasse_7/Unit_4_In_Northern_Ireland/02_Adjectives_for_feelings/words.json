@@ -1,0 +1,109 @@
+[
+    {
+        "german": "nützlich, hilfreich",
+        "english": "useful",
+        "audio": "useful.ogg"
+    },
+    {
+        "german": "einsam",
+        "english": "lonely",
+        "audio": "lonely.ogg"
+    },
+    {
+        "german": "schrecklich, furchtbar",
+        "english": "horrible",
+        "audio": "horrible.ogg",
+        "alternatives": [
+            "dreadful"
+        ]
+    },
+    {
+        "german": "positiv",
+        "english": "positive",
+        "audio": "positive.ogg"
+    },
+    {
+        "german": "dumm, doof",
+        "english": "silly",
+        "audio": "silly.ogg"
+    },
+    {
+        "german": "ehrlich",
+        "english": "honest",
+        "audio": "honest.ogg"
+    },
+    {
+        "german": "wütend",
+        "english": "furious",
+        "audio": "furious.ogg"
+    },
+    {
+        "german": "schlau, klug, intelligent",
+        "english": "smart",
+        "audio": "smart.ogg",
+        "alternatives": [
+            "intelligent"
+        ]
+    },
+    {
+        "german": "selbstsicher, selbstbewusst",
+        "english": "confident",
+        "audio": "confident.ogg"
+    },
+    {
+        "german": "optimistisch",
+        "english": "optimistic",
+        "audio": "optimistic.ogg"
+    },
+    {
+        "german": "vorsichtig, behutsam",
+        "english": "cautious",
+        "audio": "cautious.ogg"
+    },
+    {
+        "german": "deprimiert",
+        "english": "down",
+        "audio": "down.ogg"
+    },
+    {
+        "german": "furchtbar",
+        "english": "dreadful",
+        "audio": "dreadful.ogg",
+        "alternatives": [
+            "horrible"
+        ]
+    },
+    {
+        "german": "hoffnungsvoll",
+        "english": "hopeful",
+        "audio": "hopeful.ogg"
+    },
+    {
+        "german": "intelligent, klug, vernünftig",
+        "english": "intelligent",
+        "audio": "intelligent.ogg"
+    },
+    {
+        "german": "aufrichtig, geradlinig",
+        "english": "straightforward",
+        "audio": "straightforward.ogg"
+    },
+    {
+        "german": "verärgert",
+        "english": "annoyed",
+        "audio": "annoyed.ogg"
+    },
+    {
+        "german": "selbstsicher",
+        "english": "sure of oneself",
+        "audio": "sure_of_oneself.ogg",
+        "alternatives": [
+            "confident"
+        ]
+    },
+    {
+        "german": "vorsichtig, zurückhaltend",
+        "english": "guarded",
+        "audio": "guarded.ogg"
+    }
+]

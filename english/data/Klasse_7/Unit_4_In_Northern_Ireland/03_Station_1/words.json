@@ -1,0 +1,137 @@
+[
+    {
+        "german": "die Nase voll haben (von), sauer sein",
+        "english": "to be fed up (with)",
+        "audio": "to_be_fed_up_(with).ogg",
+        "alternatives": [
+            "to be fed up"
+        ]
+    },
+    {
+        "german": "nicht mehr",
+        "english": "not ... any more",
+        "audio": "not__any_more.ogg",
+        "alternatives": [
+            "not any more"
+        ]
+    },
+    {
+        "german": "abends",
+        "english": "in the evenings",
+        "audio": "in_the_evenings.ogg"
+    },
+    {
+        "german": "nörgeln, meckern",
+        "english": "to nag",
+        "audio": "to_nag.ogg",
+        "alternatives": [
+            "nag"
+        ]
+    },
+    {
+        "german": "wenigstens, mindestens",
+        "english": "at least",
+        "audio": "at_least.ogg"
+    },
+    {
+        "german": "jemanden verrückt machen",
+        "english": "to drive somebody crazy",
+        "audio": "to_drive_somebody_crazy.ogg",
+        "alternatives": [
+            "drive crazy",
+            "to drive crazy"
+        ]
+    },
+    {
+        "german": "so sehr",
+        "english": "so much",
+        "audio": "so_much.ogg"
+    },
+    {
+        "german": "ohne",
+        "english": "without",
+        "audio": "without.ogg"
+    },
+    {
+        "german": "scheinen",
+        "english": "to seem",
+        "audio": "to_seem.ogg",
+        "alternatives": [
+            "seem"
+        ]
+    },
+    {
+        "german": "jemand",
+        "english": "somebody",
+        "audio": "somebody.ogg"
+    },
+    {
+        "german": "sich beschweren, sich beklagen",
+        "english": "to complain",
+        "audio": "to_complain.ogg",
+        "alternatives": [
+            "complain"
+        ]
+    },
+    {
+        "german": "beibringen, unterrichten, lehren",
+        "english": "to teach (taught, taught)",
+        "audio": "to_teach_(taught_taught).ogg",
+        "alternatives": [
+            "to teach",
+            "teach"
+        ]
+    },
+    {
+        "german": "Milchmischgetränk, Milchshake",
+        "english": "milkshake",
+        "audio": "milkshake.ogg"
+    },
+    {
+        "german": "Beschwerde",
+        "english": "complaint",
+        "audio": "complaint.ogg"
+    },
+    {
+        "german": "meiner Meinung nach",
+        "english": "in my opinion",
+        "audio": "in_my_opinion.ogg"
+    },
+    {
+        "german": "unrecht haben, sich irren",
+        "english": "to be wrong",
+        "audio": "to_be_wrong.ogg"
+    },
+    {
+        "german": "Adjektiv, Eigenschaftswort",
+        "english": "adjective",
+        "audio": "adjective.ogg"
+    },
+    {
+        "german": "zu sich nach Hause",
+        "english": "to her place",
+        "audio": "to_her_place.ogg",
+        "alternatives": [
+            "to his place",
+            "to its place"
+        ]
+    },
+    {
+        "german": "küssen",
+        "english": "to kiss",
+        "audio": "to_kiss.ogg",
+        "alternatives": [
+            "kiss"
+        ]
+    },
+    {
+        "german": "Münze",
+        "english": "coin",
+        "audio": "coin.ogg"
+    },
+    {
+        "german": "Zeitreise",
+        "english": "time travel",
+        "audio": "time_travel.ogg"
+    }
+]
