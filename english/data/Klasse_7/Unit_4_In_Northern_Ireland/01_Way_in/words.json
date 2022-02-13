@@ -1,0 +1,70 @@
+[
+    {
+        "german": "Wandgemälde",
+        "english": "mural",
+        "audio": "mural.ogg"
+    },
+    {
+        "german": "protestantisch, Protestant(in)",
+        "english": "Protestant",
+        "audio": "protestant.ogg"
+    },
+    {
+        "german": "katholisch, Katolik(in)",
+        "english": "Catholic",
+        "audio": "catholic.ogg"
+    },
+    {
+        "german": "Bevölkerung, Einwohner, Einwohnerzahl",
+        "english": "population",
+        "audio": "population.ogg"
+    },
+    {
+        "german": "spektakulär",
+        "english": "spectacular",
+        "audio": "spectacular.ogg"
+    },
+    {
+        "german": "Riesen-, riesig",
+        "english": "giant",
+        "audio": "giant.ogg"
+    },
+    {
+        "german": "betreiben, leiten, führen",
+        "english": "run",
+        "audio": "run.ogg"
+    },
+    {
+        "german": "nordwestlich",
+        "english": "northwest of",
+        "audio": "northwest_of.ogg"
+    },
+    {
+        "german": "kostenlos",
+        "english": "free",
+        "audio": "free.ogg"
+    },
+    {
+        "german": "Opa",
+        "english": "grandad",
+        "audio": "grandad.ogg"
+    },
+    {
+        "german": "Erwachsene, Erwachsener",
+        "english": "adult",
+        "audio": "adult.ogg"
+    },
+    {
+        "german": "kosten",
+        "english": "to cost",
+        "audio": "to_cost.ogg",
+        "alternatives": [
+            "cost"
+        ]
+    },
+    {
+        "german": "Riese",
+        "english": "giant",
+        "audio": "giant.ogg"
+    }
+]
