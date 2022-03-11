@@ -1,0 +1,166 @@
+[
+    {
+        "german": "Katastrophe, Desaster, Unglück",
+        "english": "disaster",
+        "audio": "disaster.ogg"
+    },
+    {
+        "german": "gegen etw. fahren",
+        "english": "to hit",
+        "audio": "to_hit.ogg",
+        "alternatives": [
+            "hit"
+        ]
+    },
+    {
+        "german": "Eisberg",
+        "english": "iceberg",
+        "audio": "iceberg.ogg"
+    },
+    {
+        "german": "untergehen, sinken",
+        "english": "to sink (sank, sunk)",
+        "audio": "to_sink_(sank_sunk).ogg",
+        "alternatives": [
+            "to sink",
+            "sink"
+        ]
+    },
+    {
+        "german": "danach, später",
+        "english": "after",
+        "audio": "after.ogg"
+    },
+    {
+        "german": "Werft",
+        "english": "shipyard",
+        "audio": "shipyard.ogg"
+    },
+    {
+        "german": "kurz",
+        "english": "shortly",
+        "audio": "shortly.ogg"
+    },
+    {
+        "german": "Mitternacht",
+        "english": "midnight",
+        "audio": "midnight.ogg"
+    },
+    {
+        "german": "(sich) füllen)",
+        "english": "to fill",
+        "audio": "to_fill.ogg",
+        "alternatives": [
+            "fill"
+        ]
+    },
+    {
+        "german": "allererste",
+        "english": "very first",
+        "audio": "very_first.ogg"
+    },
+    {
+        "german": "Reise, Fahrt",
+        "english": "voyage",
+        "audio": "voyage.ogg"
+    },
+    {
+        "german": "Crew, Besatzung, Mannschaft",
+        "english": "crew",
+        "audio": "crew.ogg"
+    },
+    {
+        "german": "an Bord",
+        "english": "on board",
+        "audio": "on_board.ogg"
+    },
+    {
+        "german": "überleben",
+        "english": "to survive",
+        "audio": "to_survive.ogg",
+        "alternatives": [
+            "survive"
+        ]
+    },
+    {
+        "german": "Dampfbad",
+        "english": "Turkish bath",
+        "audio": "turkish_bath.ogg"
+    },
+    {
+        "german": "Fitnessraum",
+        "english": "gymnasium",
+        "audio": "gymnasium.ogg"
+    },
+    {
+        "german": "Schiffsbauer, Schiffsbauerin",
+        "english": "ship builder",
+        "audio": "ship_builder.ogg"
+    },
+    {
+        "german": "unmöglich",
+        "english": "not possibly",
+        "audio": "not_possibly.ogg"
+    },
+    {
+        "german": "Hälfte",
+        "english": "half (pl. halves)",
+        "alternatives": [
+            "half"
+        ]
+    },
+    {
+        "german": "Dr.",
+        "english": "Dr",
+        "audio": "dr.ogg"
+    },
+    {
+        "german": "jedoch",
+        "english": "however",
+        "audio": "however.ogg"
+    },
+    {
+        "german": "retten, bergen",
+        "english": "to save",
+        "audio": "to_save.ogg",
+        "alternatives": [
+            "save"
+        ]
+    },
+    {
+        "german": "Glück haben",
+        "english": "to be lucky",
+        "audio": "to_be_lucky.ogg",
+        "alternatives": [
+            "be lucky"
+        ]
+    },
+    {
+        "german": "laut, gemäß",
+        "english": "according to",
+        "audio": "according_to.ogg"
+    },
+    {
+        "german": "bellen",
+        "english": "to bark",
+        "audio": "to_bark.ogg",
+        "alternatives": [
+            "bark"
+        ]
+    },
+    {
+        "german": "Untergang",
+        "english": "sinking",
+        "audio": "sinking.ogg"
+    },
+    {
+        "german": "voll",
+        "english": "full",
+        "audio": "full.ogg"
+    },
+    {
+        "german": "Gesetz",
+        "english": "law",
+        "audio": "law.ogg"
+    }
+]
