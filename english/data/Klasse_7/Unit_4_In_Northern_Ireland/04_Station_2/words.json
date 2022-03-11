@@ -1,0 +1,173 @@
+[
+    {
+        "german": "Sonderangebot",
+        "english": "special offer",
+        "audio": "special_offer.ogg"
+    },
+    {
+        "german": "Kunde, Kundin",
+        "english": "customer",
+        "audio": "customer.ogg"
+    },
+    {
+        "german": "wiederholen",
+        "english": "to repeat",
+        "audio": "to_repeat.ogg",
+        "alternatives": [
+            "repeat"
+        ]
+    },
+    {
+        "german": "ausgehen (Ware)",
+        "english": "to run out of",
+        "audio": "to_run_out_of.ogg",
+        "alternatives": [
+            "run out of"
+        ]
+    },
+    {
+        "german": "Marke",
+        "english": "brand",
+        "audio": "brand.ogg"
+    },
+    {
+        "german": "exakt, genau",
+        "english": "exact",
+        "audio": "exact.ogg"
+    },
+    {
+        "german": "seine Meinung ändern",
+        "english": "to change one's mind",
+        "audio": "to_change_ones_mind.ogg"
+    },
+    {
+        "german": "eigentlich, tatsächlich, wirklich",
+        "english": "actually",
+        "audio": "actually.ogg"
+    },
+    {
+        "german": "Himbeere",
+        "english": "raspberry",
+        "audio": "raspberry.ogg"
+    },
+    {
+        "german": "Marmelade, Konfitüre",
+        "english": "jam",
+        "audio": "jam.ogg"
+    },
+    {
+        "german": "lecker, schmackhaft",
+        "english": "tasty",
+        "audio": "tasty.ogg"
+    },
+    {
+        "german": "Glas",
+        "english": "jar",
+        "audio": "jar.ogg"
+    },
+    {
+        "german": "In Scheiben geschnittenes Brot",
+        "english": "sliced bread",
+        "audio": "sliced_bread.ogg"
+    },
+    {
+        "german": "gesund",
+        "english": "healthy",
+        "audio": "healthy.ogg"
+    },
+    {
+        "german": "Brotlaib",
+        "english": "loaf",
+        "audio": "loaf.ogg"
+    },
+    {
+        "german": "aufgeben (einen Brief), abschicken (einen Brief)",
+        "english": "to post",
+        "audio": "to_post.ogg",
+        "alternatives": [
+            "post"
+        ]
+    },
+    {
+        "german": "Brief, Buchstabe",
+        "english": "letter",
+        "audio": "letter.ogg"
+    },
+    {
+        "german": "Nichte",
+        "english": "niece",
+        "audio": "niece.ogg"
+    },
+    {
+        "german": "weniger",
+        "english": "less",
+        "audio": "less.ogg"
+    },
+    {
+        "german": "Ich muss gehen",
+        "english": "I have to get going",
+        "audio": "i_have_to_get_going.ogg"
+    },
+    {
+        "german": "schulden",
+        "english": "to owe",
+        "audio": "to_owe.ogg",
+        "alternatives": [
+            "owe"
+        ]
+    },
+    {
+        "german": "(hier) verstehen",
+        "english": "to get",
+        "audio": "to_get.ogg",
+        "alternatives": [
+            "get"
+        ]
+    },
+    {
+        "german": "Brieftasche, Geldbörse",
+        "english": "wallet",
+        "audio": "wallet.ogg"
+    },
+    {
+        "german": "überprüfen, kontrollieren",
+        "english": "to check",
+        "audio": "to_check.ogg",
+        "alternatives": [
+            "check"
+        ]
+    },
+    {
+        "german": "übrig",
+        "english": "left",
+        "audio": "left.ogg"
+    },
+    {
+        "german": "Taschentuch",
+        "english": "tissue",
+        "audio": "tissue.ogg"
+    },
+    {
+        "german": "Mineralwasser",
+        "english": "mineral water",
+        "audio": "mineral_water.ogg"
+    },
+    {
+        "german": "Erdnussbutter",
+        "english": "peanut butter",
+        "audio": "peanut_butter.ogg"
+    },
+    {
+        "german": "ausgehen",
+        "english": "to go out",
+        "audio": "to_go_out.ogg",
+        "alternatives": [
+            "go out"
+        ]
+    },
+    {
+        "german": "Verkäufer, Verkäuferin",
+        "english": "assistant",
+        "audio": "assistant.ogg"
+    }
+]
