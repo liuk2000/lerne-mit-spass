@@ -1,0 +1,53 @@
+[
+    {
+        "german": "Alles Gute zum Geburtstag",
+        "french": "Joyeux anniversaire",
+        "audio": "joyeux_anniversaire.ogg",
+        "alternatives": [
+            "Joyeux anniversaire!"
+        ]
+    },
+    {
+        "german": "ein Geburtstag",
+        "french": "un anniversaire",
+        "audio": "un_anniversaire.ogg"
+    },
+    {
+        "german": "ein Monat",
+        "french": "un mois",
+        "audio": "un_mois.ogg"
+    },
+    {
+        "german": "ein Jahr",
+        "french": "une année",
+        "audio": "une_annee.ogg"
+    },
+    {
+        "german": "der erste",
+        "french": "le premier",
+        "audio": "le_premier.ogg"
+    },
+    {
+        "german": "Wann hast du Geburtstag",
+        "french": "Ton anniversaire, c'est quand?",
+        "audio": "ton_anniversaire_cest_quand.ogg",
+        "alternatives": [
+            "Ton anniversaire, c'est quand",
+            "Ton anniversaire c'est quand"
+        ]
+    },
+    {
+        "german": "Ich habe am ... Geburtstag",
+        "french": "Mon anniversaire, c'est le ...",
+        "audio": "mon_anniversaire_cest_le_.ogg",
+        "alternatives": [
+            "Mon anniversaire, c'est le",
+            "Mon anniversaire c'est le"
+        ]
+    },
+    {
+        "german": "ein Fest, eine Party",
+        "french": "une fête",
+        "audio": "une_fête.ogg"
+    }
+]
