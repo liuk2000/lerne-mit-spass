@@ -1,0 +1,88 @@
+[
+    {
+        "german": "Spielfeld",
+        "english": "court",
+        "audio": "court.ogg"
+    },
+    {
+        "german": "Bank, Sitzbank",
+        "english": "bench",
+        "audio": "bench.ogg"
+    },
+    {
+        "german": "leid tun",
+        "english": "to be sorry",
+        "audio": "to_be_sorry.ogg",
+        "alternatives": [
+            "be sorry"
+        ]
+    },
+    {
+        "german": "Autor, Autorin",
+        "english": "author",
+        "audio": "author.ogg"
+    },
+    {
+        "german": "Einleitung, Einführung",
+        "english": "introduction",
+        "audio": "introduction.ogg"
+    },
+    {
+        "german": "Schulleiter, Schulleiterin",
+        "english": "headteacher",
+        "audio": "headteacher.ogg"
+    },
+    {
+        "german": "stattfinden",
+        "english": "to take place",
+        "audio": "to_take_place.ogg",
+        "alternatives": [
+            "take place"
+        ]
+    },
+    {
+        "german": "obere",
+        "english": "upper",
+        "audio": "upper.ogg"
+    },
+    {
+        "german": "Ecke",
+        "english": "corner",
+        "audio": "corner.ogg"
+    },
+    {
+        "german": "oben",
+        "english": "at the top",
+        "audio": "at_the_top.ogg"
+    },
+    {
+        "german": "im Hintergrund",
+        "english": "in the background",
+        "audio": "in_the_background.ogg"
+    },
+    {
+        "german": "in der Mitte",
+        "english": "in the middle",
+        "audio": "in_the_middle.ogg"
+    },
+    {
+        "german": "untere",
+        "english": "lower",
+        "audio": "lower.ogg"
+    },
+    {
+        "german": "unten",
+        "english": "at the bottom",
+        "audio": "at_the_bottom.ogg"
+    },
+    {
+        "german": "im Vordergrund",
+        "english": "in the foreground",
+        "audio": "in_the_foreground.ogg"
+    },
+    {
+        "german": "Lieferwagen, Transporter",
+        "english": "van",
+        "audio": "van.ogg"
+    }
+]

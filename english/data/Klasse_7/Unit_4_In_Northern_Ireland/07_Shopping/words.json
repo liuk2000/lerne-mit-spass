@@ -1,0 +1,147 @@
+[
+    {
+        "german": "Wasser",
+        "english": "watter",
+        "audio": "watter.ogg"
+    },
+    {
+        "german": "Saft",
+        "english": "juice",
+        "audio": "juice.ogg"
+    },
+    {
+        "german": "Ketchup",
+        "english": "ketchup",
+        "audio": "ketchup.ogg"
+    },
+    {
+        "german": "Milch",
+        "english": "milk",
+        "audio": "milk.ogg"
+    },
+    {
+        "german": "Limonade",
+        "english": "lemonade",
+        "audio": "lemonade.ogg"
+    },
+    {
+        "german": "Schokolade",
+        "english": "chocolate",
+        "audio": "chocolate.ogg"
+    },
+    {
+        "german": "Dose",
+        "english": "can",
+        "audio": "can.ogg"
+    },
+    {
+        "german": "Tierfutter",
+        "english": "pet food",
+        "audio": "pet_food.ogg"
+    },
+    {
+        "german": "Tomaten",
+        "english": "tomatoes",
+        "audio": "tomatoes.ogg"
+    },
+    {
+        "german": "Pfirsiche",
+        "english": "Peaches",
+        "audio": "peaches.ogg"
+    },
+    {
+        "german": "Einmachglas",
+        "english": "jar",
+        "audio": "jar.ogg"
+    },
+    {
+        "german": "Marmelade",
+        "english": "jam",
+        "audio": "jam.ogg"
+    },
+    {
+        "german": "Honig",
+        "english": "honey",
+        "audio": "honey.ogg"
+    },
+    {
+        "german": "Erdnussbutter",
+        "english": "peanut butter",
+        "audio": "peanut_butter.ogg"
+    },
+    {
+        "german": "Teebeutel",
+        "english": "tea bag",
+        "audio": "tea_bag.ogg"
+    },
+    {
+        "german": "Ei",
+        "english": "egg",
+        "audio": "egg.ogg"
+    },
+    {
+        "german": "Sack",
+        "english": "bag",
+        "audio": "bag.ogg"
+    },
+    {
+        "german": "Mehl",
+        "english": "flour",
+        "audio": "flour.ogg"
+    },
+    {
+        "german": "Chips",
+        "english": "crisps",
+        "audio": "crisps.ogg"
+    },
+    {
+        "german": "Nüsse",
+        "english": "nuts",
+        "audio": "nuts.ogg"
+    },
+    {
+        "german": "Äpfel",
+        "english": "apples",
+        "audio": "apples.ogg"
+    },
+    {
+        "german": "Packung",
+        "english": "packet",
+        "audio": "packet.ogg"
+    },
+    {
+        "german": "Taschentücher",
+        "english": "tissues",
+        "audio": "tissues.ogg"
+    },
+    {
+        "german": "Plätzchen",
+        "english": "biscuits",
+        "audio": "biscuits.ogg"
+    },
+    {
+        "german": "Tee",
+        "english": "tea",
+        "audio": "tea.ogg"
+    },
+    {
+        "german": "Kerzen",
+        "english": "candles",
+        "audio": "candles.ogg"
+    },
+    {
+        "german": "Zucker",
+        "english": "sugar",
+        "audio": "sugar.ogg"
+    },
+    {
+        "german": "Leib",
+        "english": "loaf",
+        "audio": "loaf.ogg"
+    },
+    {
+        "german": "Brot",
+        "english": "bread",
+        "audio": "bread.ogg"
+    }
+]
