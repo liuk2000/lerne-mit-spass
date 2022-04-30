@@ -1,0 +1,82 @@
+[
+    {
+        "german": "der Vater",
+        "french": "le père",
+        "audio": "le_pere.ogg"
+    },
+    {
+        "german": "die Mutter",
+        "french": "la mère",
+        "audio": "la_mere.ogg"
+    },
+    {
+        "german": "die Eltern",
+        "french": "les parents",
+        "audio": "les_parents.ogg"
+    },
+    {
+        "german": "der Großvater / Opa",
+        "french": "le grand-père",
+        "audio": "le_grand_pere.ogg"
+    },
+    {
+        "german": "die Großmutter / Oma",
+        "french": "la grand-mère",
+        "audio": "la_grand_mere.ogg"
+    },
+    {
+        "german": "die Großeltern",
+        "french": "les grands-parents",
+        "audio": "les_grands_parents.ogg"
+    },
+    {
+        "german": "ein Bruder",
+        "french": "un frère",
+        "audio": "un_frere.ogg"
+    },
+    {
+        "german": "eine Schwester",
+        "french": "une sœur",
+        "audio": "une_sœur.ogg"
+    },
+    {
+        "german": "ein Sohn",
+        "french": "un fils",
+        "audio": "un_fils.ogg"
+    },
+    {
+        "german": "eine Tochter",
+        "french": "une fille",
+        "audio": "une_fille.ogg"
+    },
+    {
+        "german": "eine Tante",
+        "french": "une tante",
+        "audio": "une_tante.ogg"
+    },
+    {
+        "german": "ein Onkel",
+        "french": "un oncle",
+        "audio": "un_oncle.ogg"
+    },
+    {
+        "german": "der Stiefvater",
+        "french": "le beau-père",
+        "audio": "le_beau_pere.ogg"
+    },
+    {
+        "german": "die Stiefmutter",
+        "french": "la belle-mère",
+        "audio": "la_belle_mere.ogg"
+    },
+    {
+        "german": "ein Cousin",
+        "french": "un cousin",
+        "audio": "un_cousin.ogg"
+    },
+    {
+        "german": "eine Cousine",
+        "french": "une cousine",
+        "audio": "une_cousine.ogg"
+    }
+]
