@@ -1,0 +1,174 @@
+[
+    {
+        "german": "Entschuldigen Sie bitte ...",
+        "french": "Pardon Monsieur, Madame",
+        "audio": "pardon_monsieur_madame.ogg"
+    },
+    {
+        "german": "Haben Sie 10 Minuten für uns?",
+        "french": "Vous avez deux minutes pour nous?",
+        "audio": "vous_avez_deux_minutes_pour_nous.ogg",
+        "alternatives": [
+            "Vous avez deux minutes pour nous"
+        ]
+    },
+    {
+        "german": "Wir sind Schüller aus einer Schule in der nähe von Köln in Deutschland",
+        "french": "Nous sommes des élèves d'un college près de Cologne en Allemagne",
+        "audio": "nous_sommes_des_eleves_dun_college_pres_de_cologne_en_allemagne.ogg"
+    },
+    {
+        "german": "Wir möchten eine kleine Interview mit Ihnen durchführen",
+        "french": "On voudrait faire une petite interview avec vous",
+        "audio": "on_voudrait_faire_une_petite_interview_avec_vous.ogg"
+    },
+    {
+        "german": "Ist das möglich?",
+        "french": "C'est possible?",
+        "audio": "cest_possible.ogg",
+        "alternatives": [
+            "C'est possible"
+        ]
+    },
+    {
+        "german": "Sind Sie Belgier?",
+        "french": "Vous êtes belge?",
+        "audio": "vous_êtes_belge.ogg",
+        "alternatives": [
+            "Vous êtes belge"
+        ]
+    },
+    {
+        "german": "Sind Sie aus Lüttich?",
+        "french": "Vous êtes de Liège?",
+        "audio": "vous_êtes_de_liege.ogg",
+        "alternatives": [
+            "Vous êtes de Liège"
+        ]
+    },
+    {
+        "german": "Welche Spezialitäten finden Sie in Lüttich?",
+        "french": "Quelles spécialités est-ce qu'on trouve à Liège?",
+        "audio": "quelles_specialites_est_ce_quon_trouve_à_liege.ogg",
+        "alternatives": [
+            "Quelles spécialités est-ce qu'on trouve à Liège"
+        ]
+    },
+    {
+        "german": "Welche Sprachen sprechen Sie?",
+        "french": "Vous parles quelles langues?",
+        "audio": "vous_parles_quelles_langues.ogg",
+        "alternatives": [
+            "Vous parles quelles langues"
+        ]
+    },
+    {
+        "german": "Kennen Sie Deutschland?",
+        "french": "Vous connaissez l'Allemagne?",
+        "audio": "vous_connaissez_lallemagne.ogg",
+        "alternatives": [
+            "Vous connaissez l'Allemagne"
+        ]
+    },
+    {
+        "german": "Was ist Ihr Beruf?",
+        "french": "Quel est vorte métier?",
+        "audio": "quel_est_vorte_metier.ogg",
+        "alternatives": [
+            "Quel est vorte métier"
+        ]
+    },
+    {
+        "german": "Was ist Ihr Name?",
+        "french": "Quel est votre nom?",
+        "audio": "quel_est_votre_nom.ogg",
+        "alternatives": [
+            "Quel est votre nom"
+        ]
+    },
+    {
+        "german": "Entschuldigung",
+        "french": "Pardon",
+        "audio": "pardon.ogg"
+    },
+    {
+        "german": "Hats du 10 Minuten für uns?",
+        "french": "Tu as deux minutes pour nous?",
+        "audio": "tu_as_deux_minutes_pour_nous.ogg",
+        "alternatives": [
+            "Tu as deux minutes pour nous"
+        ]
+    },
+    {
+        "german": "Wir möchten eine kleine Interview mit dir durchführen",
+        "french": "On voudrait faire une petite interview avec toi",
+        "audio": "on_voudrait_faire_une_petite_interview_avec_toi.ogg"
+    },
+    {
+        "german": "Das ist nicht schlimm",
+        "french": "Ce n'est pas grave",
+        "audio": "ce_nest_pas_grave.ogg"
+    },
+    {
+        "german": "Auf Wiedersehen und einen schönen Tag",
+        "french": "Au revoir et bonne journée",
+        "audio": "au_revoir_et_bonne_journee.ogg"
+    },
+    {
+        "german": "Bist du Belgier?",
+        "french": "Tu es Belge?",
+        "audio": "tu_es_belge.ogg",
+        "alternatives": [
+            "Tu es Belge"
+        ]
+    },
+    {
+        "german": "Bist du aus Lüttich?",
+        "french": "Tu es de Liège?",
+        "audio": "tu_es_de_liege.ogg",
+        "alternatives": [
+            "Tu es de Liège"
+        ]
+    },
+    {
+        "german": "Welche Sprachen sprichst du?",
+        "french": "Tu parles quelles langues?",
+        "audio": "tu_parles_quelles_langues.ogg",
+        "alternatives": [
+            "Tu parles quelles langues"
+        ]
+    },
+    {
+        "german": "Kennst du Deutschland?",
+        "french": "Tu connais l'Allemagne?",
+        "audio": "tu_connais_lallemagne.ogg",
+        "alternatives": [
+            "Tu connais l'Allemagne"
+        ]
+    },
+    {
+        "german": "Welsche Städte/Regionen kennst du?",
+        "french": "Tu connais quelles villes/régions?",
+        "audio": "tu_connais_quelles_villesregions.ogg",
+        "alternatives": [
+            "Tu connais quelles villes/régions",
+            "Tu connais quelles villes / régions"
+        ]
+    },
+    {
+        "german": "Bist du Student?",
+        "french": "Tu es étudiant?",
+        "audio": "tu_es_etudiant.ogg",
+        "alternatives": [
+            "Tu es étudiant"
+        ]
+    },
+    {
+        "german": "Bist du Schüller?",
+        "french": "Tu es élève?",
+        "audio": "tu_es_eleve.ogg",
+        "alternatives": [
+            "Tu es élève"
+        ]
+    }
+]

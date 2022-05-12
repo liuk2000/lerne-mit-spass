@@ -1,0 +1,121 @@
+[
+    {
+        "german": "eine Treppe",
+        "french": "un escalier",
+        "audio": "un_escalier.ogg"
+    },
+    {
+        "german": "notieren",
+        "french": "noter",
+        "audio": "noter.ogg"
+    },
+    {
+        "german": "ein Geschäft",
+        "french": "un magasin",
+        "audio": "un_magasin.ogg"
+    },
+    {
+        "german": "eine Buchhandlung",
+        "french": "une librarie",
+        "audio": "une_librarie.ogg"
+    },
+    {
+        "german": "ein Dessous-/Unterwäscheladen",
+        "french": "une lingerie",
+        "audio": "une_lingerie.ogg"
+    },
+    {
+        "german": "ein Passant / Vorbeigehender",
+        "french": "un passant",
+        "audio": "un_passant.ogg"
+    },
+    {
+        "german": "nah bei",
+        "french": "près de",
+        "audio": "pres_de.ogg"
+    },
+    {
+        "german": "einkaufen",
+        "french": "faire les courses",
+        "audio": "faire_les_courses.ogg"
+    },
+    {
+        "german": "ein Satz",
+        "french": "une phrase",
+        "audio": "une_phrase.ogg"
+    },
+    {
+        "german": "der Titel",
+        "french": "le titre",
+        "audio": "le_titre.ogg"
+    },
+    {
+        "german": "der Comic",
+        "french": "le BD",
+        "audio": "le_bd.ogg"
+    },
+    {
+        "german": "helfen",
+        "french": "aider",
+        "audio": "aider.ogg"
+    },
+    {
+        "german": "Können Sie uns helfen?",
+        "french": "Vous pouvez nous aider?",
+        "audio": "vous_pouvez_nous_aider.ogg",
+        "alternatives": [
+            "Vous pouvez nous aider"
+        ]
+    },
+    {
+        "german": "Können Sie uns sagen?",
+        "french": "Vous pouvez nous dire?",
+        "audio": "vous_pouvez_nous_dire.ogg",
+        "alternatives": [
+            "Vous pouvez nous dire"
+        ]
+    },
+    {
+        "german": "ein Produkt",
+        "french": "un produit",
+        "audio": "un_produit.ogg"
+    },
+    {
+        "german": "Man kann / Wir können",
+        "french": "On peut",
+        "audio": "on_peut.ogg"
+    },
+    {
+        "german": "Wir möchten ein Interview durchführen",
+        "french": "On voudrait faire une interview",
+        "audio": "on_voudrait_faire_une_interview.ogg"
+    },
+    {
+        "german": "Das ist nicht schlimm",
+        "french": "Ce n'est pas grave",
+        "audio": "ce_nest_pas_grave.ogg"
+    },
+    {
+        "german": "Bist du Belgier?",
+        "french": "Tu es belge?",
+        "audio": "tu_es_belge.ogg",
+        "alternatives": [
+            "Tu es belge"
+        ]
+    },
+    {
+        "german": "Welche Sprachen",
+        "french": "quelles langues",
+        "audio": "quelles_langues.ogg"
+    },
+    {
+        "german": "Kennst du",
+        "french": "Tu connais",
+        "audio": "tu_connais.ogg"
+    },
+    {
+        "german": "der Beruf",
+        "french": "le métier",
+        "audio": "le_metier.ogg"
+    }
+]
