@@ -143,5 +143,125 @@
         "german": "Brot",
         "english": "bread",
         "audio": "bread.ogg"
+    },
+    {
+        "german": "eine Flasche Wasser",
+        "english": "a bottle of water",
+        "audio": "a_bottle_of_water.ogg"
+    },
+    {
+        "german": "eine Flasche Saft",
+        "english": "a bottle of juice",
+        "audio": "a_bottle_of_juice.ogg"
+    },
+    {
+        "german": "eine Flasche Ketchup",
+        "english": "a bottle of ketchup",
+        "audio": "a_bottle_of_ketchup.ogg"
+    },
+    {
+        "german": "eine Flasche Milch",
+        "english": "a bottle of milk",
+        "audio": "a_bottle_of_milk.ogg"
+    },
+    {
+        "german": "eine Flasche Lemonade",
+        "english": "a bottle of lemonade",
+        "audio": "a_bottle_of_lemonade.ogg"
+    },
+    {
+        "german": "eine Tafel Schokolade",
+        "english": "a bar of chocolate",
+        "audio": "a_bar_of_chocolate.ogg"
+    },
+    {
+        "german": "eine Dose Tierfutter",
+        "english": "a can of pet food",
+        "audio": "a_can_of_pet_food.ogg"
+    },
+    {
+        "german": "eine Dose Tomaten",
+        "english": "a can of tomatoes",
+        "audio": "a_can_of_tomatoes.ogg"
+    },
+    {
+        "german": "eine Dose Pfirsiche",
+        "english": "a can of peaches",
+        "audio": "a_can_of_peaches.ogg"
+    },
+    {
+        "german": "Glas von Marmelade",
+        "english": "a jar of jam",
+        "audio": "a_jar_of_jam.ogg"
+    },
+    {
+        "german": "Glas Honig",
+        "english": "a jar of honey",
+        "audio": "a_jar_of_honey.ogg"
+    },
+    {
+        "german": "Ednussbutter-Glas",
+        "english": "a jar of peanut butter",
+        "audio": "a_jar_of_peanut_butter.ogg"
+    },
+    {
+        "german": "eine Schachtel mit Teebeutel",
+        "english": "a box of tea bags",
+        "audio": "a_box_of_tea_bags.ogg"
+    },
+    {
+        "german": "eine Pakung Eier",
+        "english": "a box of eggs",
+        "audio": "a_box_of_eggs.ogg"
+    },
+    {
+        "german": "eine Packung Mehl",
+        "english": "a bag of flower",
+        "audio": "a_bag_of_flower.ogg"
+    },
+    {
+        "german": "eine Packung Chips",
+        "english": "a bag of crisps",
+        "audio": "a_bag_of_crisps.ogg"
+    },
+    {
+        "german": "eine Packung Nüsse",
+        "english": "a bag of nuts",
+        "audio": "a_bag_of_nuts.ogg"
+    },
+    {
+        "german": "eine Packung Äpfel",
+        "english": "a bag of apples",
+        "audio": "a_bag_of_apples.ogg"
+    },
+    {
+        "german": "eine Packung Taschentücher",
+        "english": "a packet of tissues",
+        "audio": "a_packet_of_tissues.ogg"
+    },
+    {
+        "german": "eine Packung Kekse",
+        "english": "a packet of biscuits",
+        "audio": "a_packet_of_biscuits.ogg"
+    },
+    {
+        "german": "eine Packung Tee",
+        "english": "a packet of tea",
+        "audio": "a_packet_of_tea.ogg"
+    },
+    {
+        "german": "eine Packung Kerzen",
+        "english": "a packet of candles",
+        "audio": "a_packet_of_candles.ogg"
+    },
+    {
+        "german": "eine Packung Zucker",
+        "english": "a packet of sugar",
+        "audio": "a_packet_of_sugar.ogg"
+    },
+    {
+        "german": "ein Brotleib",
+        "english": "a loaf of bread",
+        "audio": "a_loaf_of_bread.ogg"
     }
 ]
