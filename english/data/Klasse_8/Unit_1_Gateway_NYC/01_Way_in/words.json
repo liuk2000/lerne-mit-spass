@@ -1,0 +1,151 @@
+[
+    {
+        "german": "Tor, Eingangstor",
+        "english": "gateway",
+        "audio": "gateway.ogg"
+    },
+    {
+        "german": "Stadtteil, Bezirk",
+        "english": "borough",
+        "audio": "borough.ogg"
+    },
+    {
+        "german": "Spitzname",
+        "english": "nickname",
+        "audio": "nickname.ogg"
+    },
+    {
+        "german": "auffallen, herausragen, herausstechen",
+        "english": "to stand out",
+        "audio": "to_stand_out.ogg",
+        "alternatives": [
+            "stand out"
+        ]
+    },
+    {
+        "german": "Skyline",
+        "english": "skyline",
+        "audio": "skyline.ogg"
+    },
+    {
+        "german": "Fuß (Längenmaß: 30,48 cm)",
+        "english": "foot",
+        "audio": "foot.ogg"
+    },
+    {
+        "german": "ersetzen",
+        "english": "to replace",
+        "audio": "to_replace.ogg",
+        "alternatives": [
+            "replace"
+        ]
+    },
+    {
+        "german": "Angriff, Attacke",
+        "english": "attack",
+        "audio": "attack.ogg"
+    },
+    {
+        "german": "Baseball",
+        "english": "baseball",
+        "audio": "baseball.ogg"
+    },
+    {
+        "german": "New Yorker, New Yorkerin",
+        "english": "New Yorker",
+        "audio": "new_yorker.ogg"
+    },
+    {
+        "german": "besonders, vor allem",
+        "english": "especially",
+        "audio": "especially.ogg"
+    },
+    {
+        "german": "bestbezahlt",
+        "english": "best paid",
+        "audio": "best_paid.ogg"
+    },
+    {
+        "german": "Zentrum, Mitte, Center",
+        "english": "center",
+        "audio": "center.ogg"
+    },
+    {
+        "german": "Theater",
+        "english": "theater",
+        "audio": "theater.ogg"
+    },
+    {
+        "german": "Sammlung, Kollektion",
+        "english": "collection",
+        "audio": "collection.ogg"
+    },
+    {
+        "german": "Kulturbewegung",
+        "english": "cultural movement",
+        "audio": "cultural_movement.ogg"
+    },
+    {
+        "german": "Unabhängigkeit",
+        "english": "independence",
+        "audio": "independence.ogg"
+    },
+    {
+        "german": "Immigrant(in), Einwanderer(in)",
+        "english": "immigrant",
+        "audio": "immigrant.ogg"
+    },
+    {
+        "german": "Symbol",
+        "english": "symbol",
+        "audio": "symbol.ogg"
+    },
+    {
+        "german": "Hoffnung",
+        "english": "hope",
+        "audio": "hope.ogg"
+    },
+    {
+        "german": "Ereignis, Veranstaltung",
+        "english": "event",
+        "audio": "event.ogg"
+    },
+    {
+        "german": "im Fernsehen",
+        "english": "on TV",
+        "audio": "on_tv.ogg"
+    },
+    {
+        "german": "Spitze",
+        "english": "top",
+        "audio": "top.ogg"
+    },
+    {
+        "german": "Aufzug",
+        "english": "elevator",
+        "audio": "elevator.ogg"
+    },
+    {
+        "german": "Licht",
+        "english": "light",
+        "audio": "light.ogg"
+    },
+    {
+        "german": "gelegen sein, sich befinden",
+        "english": "to be located",
+        "audio": "to_be_located.ogg",
+        "alternatives": [
+            "be located"
+        ]
+    },
+    {
+        "german": "Gelände, Gebiet",
+        "english": "grounds",
+        "audio": "grounds.ogg"
+    },
+    {
+        "german": "Milliarde",
+        "english": "billion",
+        "audio": "billion.ogg"
+    }
+]

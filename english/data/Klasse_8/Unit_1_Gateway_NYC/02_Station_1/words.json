@@ -1,0 +1,92 @@
+[
+    {
+        "german": "Stau",
+        "english": "traffic jam",
+        "audio": "traffic_jam.ogg"
+    },
+    {
+        "german": "Hauptverkehrszeit",
+        "english": "rush hour",
+        "audio": "rush_hour.ogg"
+    },
+    {
+        "german": "Straßenbauarbeiten",
+        "english": "roadwork",
+        "audio": "roadwork.ogg"
+    },
+    {
+        "german": "(im) Stadtzentrum",
+        "english": "downtown",
+        "audio": "downtown.ogg"
+    },
+    {
+        "german": "Wahrzeichen",
+        "english": "landmark",
+        "audio": "landmark.ogg"
+    },
+    {
+        "german": "Wolkenkratzer",
+        "english": "skyscraper",
+        "audio": "skyscraper.ogg"
+    },
+    {
+        "german": "Stockwerk, Etage",
+        "english": "story",
+        "audio": "story.ogg"
+    },
+    {
+        "german": "Block, Häuserblock",
+        "english": "block",
+        "audio": "block.ogg"
+    },
+    {
+        "german": "U-Bahn",
+        "english": "subway",
+        "audio": "subway.ogg"
+    },
+    {
+        "german": "Allee, Boulevard",
+        "english": "avenue",
+        "audio": "avenue.ogg"
+    },
+    {
+        "german": "Ampel",
+        "english": "lights",
+        "audio": "lights.ogg"
+    },
+    {
+        "german": "Kreuzung",
+        "english": "intersection",
+        "audio": "intersection.ogg"
+    },
+    {
+        "german": "Besichtigungstour",
+        "english": "sightseeing",
+        "audio": "sightseeing.ogg"
+    },
+    {
+        "german": "Gehweg, Bürgersteig",
+        "english": "sidewalk",
+        "audio": "sidewalk.ogg"
+    },
+    {
+        "german": "Parkplatz",
+        "english": "parking lot",
+        "audio": "parking_lot.ogg"
+    },
+    {
+        "german": "Pendler(in)",
+        "english": "commuter",
+        "audio": "commuter.ogg"
+    },
+    {
+        "german": "Baustelle",
+        "english": "construction site",
+        "audio": "construction_site.ogg"
+    },
+    {
+        "german": "Vorort",
+        "english": "suburb",
+        "audio": "suburb.ogg"
+    }
+]
