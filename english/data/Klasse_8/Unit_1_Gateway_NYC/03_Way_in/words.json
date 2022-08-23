@@ -1,0 +1,168 @@
+[
+    {
+        "german": "Fahrt, Ritt",
+        "english": "ride",
+        "audio": "ride.ogg"
+    },
+    {
+        "german": "lieber",
+        "english": "even",
+        "audio": "even.ogg"
+    },
+    {
+        "german": "Schnee",
+        "english": "snow",
+        "audio": "snow.ogg"
+    },
+    {
+        "german": "hineinkommen, hineingelangen",
+        "english": "to get into",
+        "audio": "to_get_into.ogg",
+        "alternatives": [
+            "get into"
+        ]
+    },
+    {
+        "german": "etwas sattbekommen, etwas satthaben",
+        "english": "to get tired of something",
+        "audio": "to_get_tired_of_something.ogg",
+        "alternatives": [
+            "to get tired of",
+            "get tired of",
+            "get tired of sth",
+            "to get tired of sth"
+        ]
+    },
+    {
+        "german": "finanziell, Finanz-",
+        "english": "financial",
+        "audio": "financial.ogg"
+    },
+    {
+        "german": "in der Ferne",
+        "english": "in the distance",
+        "audio": "in_the_distance.ogg"
+    },
+    {
+        "german": "damals",
+        "english": "back then",
+        "audio": "back_then.ogg"
+    },
+    {
+        "german": "Aussicht, Sicht, Ausblick, Blick",
+        "english": "view",
+        "audio": "view.ogg"
+    },
+    {
+        "german": "eigentlich",
+        "english": "anyway",
+        "audio": "anyway.ogg"
+    },
+    {
+        "german": "Bagel",
+        "english": "bagel",
+        "audio": "bagel.ogg"
+    },
+    {
+        "german": "Kaffee",
+        "english": "coffee",
+        "audio": "coffee.ogg"
+    },
+    {
+        "german": "anschauen, ausprobieren",
+        "english": "to check out",
+        "audio": "to_check_out.ogg",
+        "alternatives": [
+            "check out"
+        ]
+    },
+    {
+        "german": "Sternzeichen",
+        "english": "star sign",
+        "audio": "star_sign.ogg"
+    },
+    {
+        "german": "Zimmerdecke",
+        "english": "ceiling",
+        "audio": "ceiling.ogg"
+    },
+    {
+        "german": "richtig, korrekt",
+        "english": "correct",
+        "audio": "correct.ogg"
+    },
+    {
+        "german": "keine Ahnung haben",
+        "english": "to have no idea",
+        "audio": "to_have_no_idea.ogg",
+        "alternatives": [
+            "have no idea"
+        ]
+    },
+    {
+        "german": "um ... herum",
+        "english": "around",
+        "audio": "around.ogg"
+    },
+    {
+        "german": "Hot Dog",
+        "english": "hot dog",
+        "audio": "hot_dog.ogg"
+    },
+    {
+        "german": "Stand",
+        "english": "cart",
+        "audio": "cart.ogg"
+    },
+    {
+        "german": "gehören (zu)",
+        "english": "to belong (to)",
+        "audio": "to_belong_(to).ogg",
+        "alternatives": [
+            "to belong to",
+            "belong to",
+            "belong (to)"
+        ]
+    },
+    {
+        "german": "hinkommen zu, gelangen",
+        "english": "to get to",
+        "audio": "to_get_to.ogg",
+        "alternatives": [
+            "get to"
+        ]
+    },
+    {
+        "german": "Lasst uns weiterfahren! Auf geht's!",
+        "english": "Let's get moving",
+        "audio": "lets_get_moving.ogg"
+    },
+    {
+        "german": "Einkaufszentrum",
+        "english": "shopping mall",
+        "audio": "shopping_mall.ogg"
+    },
+    {
+        "german": "geradeaus",
+        "english": "right ahead",
+        "audio": "right_ahead.ogg"
+    },
+    {
+        "german": "zeigen, darauf hinweisen",
+        "english": "to point out",
+        "audio": "to_point_out.ogg",
+        "alternatives": [
+            "point out"
+        ]
+    },
+    {
+        "german": "dahin, daunten",
+        "english": "down there",
+        "audio": "down_there.ogg"
+    },
+    {
+        "german": "Ureinwohner(in) Amerikas, Indianer(in), indianisch",
+        "english": "native American",
+        "audio": "native_american.ogg"
+    }
+]
