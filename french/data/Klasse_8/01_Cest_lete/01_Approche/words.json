@@ -1,0 +1,65 @@
+[
+    {
+        "german": "der Sommer",
+        "french": "l'été",
+        "audio": "lete.ogg"
+    },
+    {
+        "german": "Es ist warm/heiß",
+        "french": "Il fait chaud",
+        "audio": "il_fait_chaud.ogg"
+    },
+    {
+        "german": "ein Grad",
+        "french": "un degré",
+        "audio": "un_degre.ogg"
+    },
+    {
+        "german": "Es ist kalt",
+        "french": "Il fait froid",
+        "audio": "il_fait_froid.ogg"
+    },
+    {
+        "german": "Wie ist das Wetter?",
+        "french": "Il fait quel temps?",
+        "audio": "il_fait_quel_temps.ogg",
+        "alternatives": [
+            "Il fait quel temps"
+        ]
+    },
+    {
+        "german": "das Wetter",
+        "french": "le temps",
+        "audio": "le_temps.ogg"
+    },
+    {
+        "german": "in der Bretagne",
+        "french": "en Bretagne",
+        "audio": "en_bretagne.ogg"
+    },
+    {
+        "german": "eine Frankraichreise",
+        "french": "un tour de France",
+        "audio": "un_tour_de_france.ogg"
+    },
+    {
+        "german": "eine Tour/Runde/Reise/Fahrt",
+        "french": "un tour",
+        "audio": "un_tour.ogg"
+    },
+    {
+        "german": "in Paris",
+        "french": "à Paris",
+        "audio": "à_paris.ogg"
+    },
+    {
+        "german": "an der Côte d'Azur",
+        "french": "sur la Côte d'Azur",
+        "audio": "sur_la_côte_dazur.ogg"
+    },
+    {
+        "german": "in den Pyrenäen",
+        "french": "dans les Pyrénées",
+        "audio": "dans_les_pyrenees.ogg"
+    }
+]
