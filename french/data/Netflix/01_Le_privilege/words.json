@@ -1,0 +1,319 @@
+[
+  {
+    "audio": "on_sera_de_retour.ogg",
+    "french": "On sera de retour",
+    "german": "Wir werden zurückkommen"
+  },
+  {
+    "audio": "attraper.ogg",
+    "french": "attraper",
+    "german": "fangen"
+  },
+  {
+    "audio": "monter.ogg",
+    "french": "monter",
+    "german": "aufsteigen, einsteigen"
+  },
+  {
+    "audio": "lâcher.ogg",
+    "french": "lâcher",
+    "german": "loslassen, fallen lassen"
+  },
+  {
+    "audio": "rambarde.ogg",
+    "french": "la rambarde",
+    "german": "Geländer",
+    "alternatives": ["rambarde"]
+  },
+  {
+    "audio": "reculer.ogg",
+    "french": "reculer",
+    "german": "zurück zu bewegen, rückwärts fahren, rückwärts rollen"
+  },
+  {
+    "audio": "pompier.ogg",
+    "french": "pompier",
+    "german": "Feuerwehrmann"
+  },
+  {
+    "audio": "londe.ogg",
+    "french": "l'onde (f)",
+    "german": "die Welle",
+    "alternatives": ["l'onde", "la onde"]
+  },
+  {
+    "audio": "endommager.ogg",
+    "french": "endommager",
+    "german": "Schaden verursachen"
+  },
+  {
+    "audio": "poursuivre.ogg",
+    "french": "poursuivre",
+    "german": "jagen, verfolgen, fortsetzen, weitermachen"
+  },
+  {
+    "audio": "affronter.ogg",
+    "french": "affronter",
+    "german": "konfrontieren, gegenübertreten"
+  },
+  {
+    "audio": "baisser.ogg",
+    "french": "baisser",
+    "german": "zu senken, sinken, fallen"
+  },
+  {
+    "audio": "se_soucier.ogg",
+    "french": "se soucier de qn.",
+    "german": "sich Gedanken machen, sich kümmern",
+    "alternatives": ["se soucier", "se socier de"]
+  },
+  {
+    "audio": "se_descendre.ogg",
+    "french": "se descendre",
+    "german": "runterkommen"
+  },
+  {
+    "audio": "jumelle.ogg",
+    "french": "jumelle",
+    "german": "die Zwilling",
+    "alternatives": ["la jumelle"]
+  },
+  {
+    "audio": "le_jumeau.ogg",
+    "french": "le jumeau",
+    "german": "der Zwilling"
+  },
+  {
+    "audio": "retenir.ogg",
+    "french": "retenir",
+    "german": "an etwas festhalten, sich etwas merken, zurückhalten"
+  },
+  {
+    "audio": "envoyer.ogg",
+    "french": "envoyer",
+    "german": "senden"
+  },
+  {
+    "audio": "sechapper.ogg",
+    "french": "s'échapper",
+    "german": "flüchten"
+  },
+  {
+    "audio": "fuir.ogg",
+    "french": "fuir",
+    "german": "weglaufen"
+  },
+  {
+    "audio": "supplier.ogg",
+    "french": "supplier",
+    "german": "betteln"
+  },
+  {
+    "audio": "barjo.ogg",
+    "french": "barjo",
+    "german": "verrückt, durchgeknallt, total daneben"
+  },
+  {
+    "audio": "la_gouine.ogg",
+    "french": "la gouine",
+    "german": "die Lesbe"
+  },
+  {
+    "audio": "lhote.ogg",
+    "french": "l'hôte",
+    "german": "der Wirt, der Gast",
+    "alternatives": ["le hôte"]
+  },
+  {
+    "audio": "migrer.ogg",
+    "french": "migrer",
+    "german": "wandern, umherziehen"
+  },
+  {
+    "audio": "impuissant.ogg",
+    "french": "impuissant",
+    "german": "machtlos, ohnmächtig, impotent"
+  },
+  {
+    "audio": "la_fourmi.ogg",
+    "french": "la fourmi",
+    "german": "die Ameise"
+  },
+  {
+    "audio": "taree.ogg",
+    "french": "tarée",
+    "german": "verrückt, bescheuert, schwachsinnig"
+  },
+  {
+    "audio": "le_chou.ogg",
+    "french": "le chou",
+    "german": "der Kohl"
+  },
+  {
+    "audio": "chou.ogg",
+    "french": "chou",
+    "german": "niedlich, süß"
+  },
+  {
+    "audio": "ne_rien_avoir_dans_le_chou.ogg",
+    "french": "ne rien avoir dans le chou",
+    "german": "nichts in der Birne haben"
+  },
+  {
+    "audio": "faire_le_mur.ogg",
+    "french": "faire le mur",
+    "german": "überspringen"
+  },
+  {
+    "audio": "sac_à_dos.ogg",
+    "french": "sac à dos",
+    "german": "Rucksack"
+  },
+  {
+    "audio": "degage.ogg",
+    "french": "Dégage",
+    "german": "Hau ab, zieh Leine, zisch ab"
+  },
+  {
+    "audio": "decoincer.ogg",
+    "french": "décoincer",
+    "german": "lösen, die Verklemmung beseitigen, locker machen"
+  },
+  {
+    "audio": "la_nausee.ogg",
+    "french": "la nausée",
+    "german": "Brechreiz, Übelkeit, Eckel"
+  },
+  {
+    "audio": "jai_des_nausees.ogg",
+    "french": "J'ai des nausées",
+    "german": "Mir ist übel"
+  },
+  {
+    "audio": "sinfliger.ogg",
+    "french": "s'infliger",
+    "german": "zufügen, sich etw. antun"
+  },
+  {
+    "audio": "convenir.ogg",
+    "french": "convenir",
+    "german": "vereinbaren, abmachen"
+  },
+  {
+    "audio": "linsomnie.ogg",
+    "french": "l'insomnie (f)",
+    "german": "Schlaflosigkeit",
+    "alternatives": ["l'insomnie", "la insomnie"]
+  },
+  {
+    "audio": "le_dessin.ogg",
+    "french": "le dessin",
+    "german": "die Zeichnung"
+  },
+  {
+    "audio": "zut.ogg",
+    "french": "Zut!",
+    "german": "Verdammt!",
+    "alternatives": ["zut"]
+  },
+  {
+    "audio": "surprendre.ogg",
+    "french": "surprendre",
+    "german": "überraschen"
+  },
+  {
+    "audio": "le_truc.ogg",
+    "french": "le truc",
+    "german": "die Sache, das Ding, die Masche"
+  },
+  {
+    "audio": "prier.ogg",
+    "french": "prier",
+    "german": "beten"
+  },
+  {
+    "audio": "tant.ogg",
+    "french": "tant",
+    "german": "so sehr, derart"
+  },
+  {
+    "audio": "pareil.ogg",
+    "french": "pareil",
+    "german": "das Gleiche"
+  },
+  {
+    "audio": "fâche.ogg",
+    "french": "fâché",
+    "german": "wütend, sauer, böse"
+  },
+  {
+    "audio": "fou.ogg",
+    "french": "fou",
+    "german": "wütend"
+  },
+  {
+    "audio": "le_fou.ogg",
+    "french": "le fou",
+    "german": "der Narr, der Verrückte"
+  },
+  {
+    "audio": "la_folle.ogg",
+    "french": "la folle",
+    "german": "die Närrin, die Verrückte"
+  },
+  {
+    "audio": "le_bordel.ogg",
+    "french": "le bordel",
+    "german": "die Unordnung, das Schlamassel, das Chaos"
+  },
+  {
+    "audio": "subir.ogg",
+    "french": "subir",
+    "german": "unterziehen, erleiden"
+  },
+  {
+    "audio": "la_commotion.ogg",
+    "french": "la commotion",
+    "german": "Gehirnerschütterung"
+  },
+  {
+    "audio": "à_part_ca.ogg",
+    "french": "à part ça",
+    "german": "abgesehen davon, ansonsten"
+  },
+  {
+    "audio": "la_hache.ogg",
+    "french": "la hache",
+    "german": "die Axt"
+  },
+  {
+    "audio": "disjoncter.ogg",
+    "french": "disjoncter",
+    "german": "ausrasten, spinnen"
+  },
+  {
+    "audio": "se_toucher.ogg",
+    "french": "se toucher",
+    "german": "sich berühren"
+  },
+  {
+    "audio": "pousser.ogg",
+    "french": "pousser",
+    "german": "drücken, drängeln"
+  },
+  {
+    "audio": "le_genou.ogg",
+    "french": "le genou",
+    "german": "Knie"
+  },
+  {
+    "audio": "meler.ogg",
+    "french": "mêler",
+    "german": "mischen"
+  },
+  {
+    "audio": "la_connerie.ogg",
+    "french": "la connerie",
+    "german": "Dummheit, Quatsch"
+  }
+]
