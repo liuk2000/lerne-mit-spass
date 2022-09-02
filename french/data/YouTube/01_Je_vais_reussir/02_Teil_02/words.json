@@ -1,0 +1,228 @@
+[
+  {
+    "audio": "câble.ogg",
+    "french": "le câble",
+    "german": "Kabel",
+    "alternatives": ["câble"]
+  },
+  {
+    "audio": "calculer.ogg",
+    "french": "calculer",
+    "german": "rechnen, berechnen"
+  },
+  {
+    "audio": "candidat.ogg",
+    "french": "le candidat",
+    "german": "der Kandidat, der Anwärter",
+    "alternatives": ["candidat"]
+  },
+  {
+    "audio": "annuler.ogg",
+    "french": "annuler",
+    "german": "abbrechen"
+  },
+  {
+    "audio": "capacite.ogg",
+    "french": "la capacité",
+    "german": "Fähigkeit, Können, Kapazität",
+    "alternatives": ["capacité"]
+  },
+  {
+    "audio": "capitaine.ogg",
+    "french": "le capitaine",
+    "german": "Kapitän",
+    "alternatives": ["capitaine"]
+  },
+  {
+    "audio": "carriere.ogg",
+    "french": "la carrière",
+    "german": "die Karriere, die Laufbahn, Werdegang",
+    "alternatives": ["carrière"]
+  },
+  {
+    "audio": "prudent.ogg",
+    "french": "prudent",
+    "german": "vorsichtig, behutsam"
+  },
+  {
+    "audio": "negligent.ogg",
+    "french": "négligent",
+    "german": "fahrlässig"
+  },
+  {
+    "audio": "tapis.ogg",
+    "french": "le tapis",
+    "german": "Teppich",
+    "alternatives": ["tapis"]
+  },
+  {
+    "audio": "plafond.ogg",
+    "french": "le plafond",
+    "german": "die Decke, die Zimmerdecke, die Obergrenze",
+    "alternatives": ["plafond"]
+  },
+  {
+    "audio": "celebrer.ogg",
+    "french": "célébrer",
+    "german": "feiern"
+  },
+  {
+    "audio": "defi.ogg",
+    "french": "le défi",
+    "german": "Herausforderung",
+    "alternatives": ["défi"]
+  },
+  {
+    "audio": "charite.ogg",
+    "french": "la charité",
+    "german": "Wohltätigkeit",
+    "alternatives": ["charité"]
+  },
+  {
+    "audio": "causer.ogg",
+    "french": "causer",
+    "german": "plaudern, sprechen, Chat, verursachen"
+  },
+  {
+    "audio": "joue.ogg",
+    "french": "la joue",
+    "german": "die Backe, die Wange",
+    "alternatives": ["joue"]
+  },
+  {
+    "audio": "poitrine.ogg",
+    "french": "la poitrine",
+    "german": "die Brust",
+    "alternatives": ["poitrine"]
+  },
+  {
+    "audio": "enfance.ogg",
+    "french": "la enfance",
+    "german": "Kindheit",
+    "alternatives": ["enfance"]
+  },
+  {
+    "audio": "choix.ogg",
+    "french": "le choix",
+    "german": "die Wahl, Auswahl",
+    "alternatives": ["choix"]
+  },
+  {
+    "audio": "citoyen.ogg",
+    "french": "le citoyen",
+    "german": "Bürger",
+    "alternatives": ["citoyen"]
+  },
+  {
+    "audio": "circonstance.ogg",
+    "french": "la circonstance",
+    "german": "Umstand",
+    "alternatives": ["circonstance"]
+  },
+  {
+    "audio": "cercle.ogg",
+    "french": "le cercle",
+    "german": "Kreis",
+    "alternatives": ["cercle"]
+  },
+  {
+    "audio": "client.ogg",
+    "french": "le client",
+    "german": "Kunde",
+    "alternatives": ["client"]
+  },
+  {
+    "audio": "nuage.ogg",
+    "french": "le nuage",
+    "german": "Wolke",
+    "alternatives": ["nuage"]
+  },
+  {
+    "audio": "charbon.ogg",
+    "french": "le charbon",
+    "german": "Kohle",
+    "alternatives": ["charbon"]
+  },
+  {
+    "audio": "piece_de_monnaie.ogg",
+    "french": "la pièce de monnaie",
+    "german": "die Münze"
+  },
+  {
+    "audio": "recipient.ogg",
+    "french": "le récipient",
+    "german": "Container, Behälter",
+    "alternatives": ["récipient"]
+  },
+  {
+    "audio": "crucial.ogg",
+    "french": "crucial",
+    "german": "maßgeblich, entscheidend, ausschlaggebend"
+  },
+  {
+    "audio": "confort.ogg",
+    "french": "le confort",
+    "german": "Komfort, Gemütlichkeit",
+    "alternatives": ["confort"]
+  },
+  {
+    "audio": "commentaire.ogg",
+    "french": "le commentaire",
+    "german": "Kommentar",
+    "alternatives": ["commentaire"]
+  },
+  {
+    "audio": "commettre.ogg",
+    "french": "commettre",
+    "german": "verüben, verpflichten (commit)"
+  },
+  {
+    "audio": "commun.ogg",
+    "french": "commun",
+    "german": "gewöhnlich, üblich, gemeinsames"
+  },
+  {
+    "audio": "competition.ogg",
+    "french": "la compétition",
+    "german": "Wettbewerb, Wettkampf",
+    "alternatives": ["compétition"]
+  },
+  {
+    "audio": "se_plaindre.ogg",
+    "french": "se plaindre",
+    "german": "sich beschweren"
+  },
+  {
+    "audio": "concentrer.ogg",
+    "french": "concentrer",
+    "german": "konzentrieren"
+  },
+  {
+    "audio": "connexion.ogg",
+    "french": "la connexion",
+    "german": "die Verbindung, der Zusammenhang",
+    "alternatives": ["connexion"]
+  },
+  {
+    "audio": "constamment.ogg",
+    "french": "constamment",
+    "german": "ständig, dauernd, stets"
+  },
+  {
+    "audio": "consommateur.ogg",
+    "french": "le consommateur",
+    "german": "der Verbraucher, der Kunde",
+    "alternatives": ["consommateur"]
+  },
+  {
+    "audio": "contenu.ogg",
+    "french": "le contenu",
+    "german": "Inhalt",
+    "alternatives": ["contenu"]
+  },
+  {
+    "audio": "convaincre.ogg",
+    "french": "convaincre",
+    "german": "überzeugen"
+  }
+]

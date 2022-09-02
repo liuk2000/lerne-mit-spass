@@ -1,0 +1,213 @@
+[
+  {
+    "audio": "chanceux.ogg",
+    "french": "chanceux",
+    "german": "glücklich, Glück haben"
+  },
+  {
+    "audio": "chanceuse.ogg",
+    "french": "chanceuse",
+    "german": "glücklich, Glück haben"
+  },
+  {
+    "audio": "honnete.ogg",
+    "french": "honnête",
+    "german": "ehrlich, anständig, aufrichtig"
+  },
+  {
+    "audio": "tromper.ogg",
+    "french": "tromper",
+    "german": "täuschen"
+  },
+  {
+    "audio": "agressive.ogg",
+    "french": "agressive",
+    "german": "aggressiv"
+  },
+  {
+    "audio": "adolescent.ogg",
+    "french": "adolescent",
+    "german": "Teenager"
+  },
+  {
+    "audio": "ainsi.ogg",
+    "french": "ainsi",
+    "german": "so, also, folgenderweise, daher"
+  },
+  {
+    "audio": "effrayant.ogg",
+    "french": "effrayant",
+    "german": "gruselig"
+  },
+  {
+    "audio": "sage.ogg",
+    "french": "sage",
+    "german": "weise"
+  },
+  {
+    "audio": "genial.ogg",
+    "french": "génial",
+    "german": "Großartig"
+  },
+  {
+    "audio": "mieux.ogg",
+    "french": "mieux",
+    "german": "besser"
+  },
+  {
+    "audio": "serieux.ogg",
+    "french": "sérieux",
+    "german": "ernst"
+  },
+  {
+    "audio": "reconnaissant.ogg",
+    "french": "reconnaissant",
+    "german": "dankbar"
+  },
+  {
+    "audio": "acceptable.ogg",
+    "french": "acceptable",
+    "german": "akzeptabel"
+  },
+  {
+    "audio": "inevitable.ogg",
+    "french": "inévitable",
+    "german": "unvermeidlich"
+  },
+  {
+    "audio": "loin_de.ogg",
+    "french": "loin de",
+    "german": "weit entfernt von"
+  },
+  {
+    "audio": "etonner.ogg",
+    "french": "étonner",
+    "german": "erstaunen, verwundern"
+  },
+  {
+    "audio": "disponible.ogg",
+    "french": "disponible",
+    "german": "verfügbar"
+  },
+  {
+    "audio": "ennuyer.ogg",
+    "french": "ennuyer",
+    "german": "nerven, ärgern, stören"
+  },
+  {
+    "audio": "arrogant.ogg",
+    "french": "arrogant",
+    "german": "arrogant, überheblich"
+  },
+  {
+    "audio": "honte.ogg",
+    "french": "la honte",
+    "german": "Schande, Scham",
+    "alternatives": ["honte"]
+  },
+  {
+    "audio": "jai_honte_de_moi.ogg",
+    "french": "J'ai honte de moi",
+    "german": "Ich schäme mich"
+  },
+  {
+    "audio": "inspirante.ogg",
+    "french": "inspirante",
+    "german": "inspirierend"
+  },
+  {
+    "audio": "etre_au_courant.ogg",
+    "french": "être au courant",
+    "german": "wissen, auf dem Laufenden sein"
+  },
+  {
+    "audio": "quotidien.ogg",
+    "french": "quotidien",
+    "german": "Täglich"
+  },
+  {
+    "audio": "humide.ogg",
+    "french": "humide",
+    "german": "nass, feucht"
+  },
+  {
+    "audio": "oser.ogg",
+    "french": "oser",
+    "german": "sich trauen, etw. wagen"
+  },
+  {
+    "audio": "sombre.ogg",
+    "french": "sombre",
+    "german": "dunkel"
+  },
+  {
+    "audio": "les_tenebres.ogg",
+    "french": "les ténèbres",
+    "german": "die Finsternis, die Dunkelheit",
+    "alternatives": ["ténèbres"]
+  },
+  {
+    "audio": "sourd.ogg",
+    "french": "sourd",
+    "german": "taub"
+  },
+  {
+    "audio": "la_dette.ogg",
+    "french": "la dette",
+    "german": "die Schuld",
+    "alternatives": ["dette"]
+  },
+  {
+    "audio": "la_decennie.ogg",
+    "french": "la décennie",
+    "german": "das Jahrzehnt",
+    "alternatives": ["décennie"]
+  },
+  {
+    "audio": "diminuer.ogg",
+    "french": "diminuer",
+    "german": "verringern"
+  },
+  {
+    "audio": "profond.ogg",
+    "french": "profond",
+    "german": "tief"
+  },
+  {
+    "audio": "le_retard.ogg",
+    "french": "le retard",
+    "german": "die Verzögerung, die Verspätung",
+    "alternatives": ["retard"]
+  },
+  {
+    "audio": "demontrer.ogg",
+    "french": "démontrer",
+    "german": "zeigen, demonstrieren"
+  },
+  {
+    "audio": "nier.ogg",
+    "french": "nier",
+    "german": "leugnen, bestreiten"
+  },
+  {
+    "audio": "deprime.ogg",
+    "french": "déprimé",
+    "german": "deprimiert"
+  },
+  {
+    "audio": "decrire.ogg",
+    "french": "décrire",
+    "german": "beschreiben"
+  },
+  {
+    "audio": "le_desert.ogg",
+    "french": "le désert",
+    "german": "die Wüste",
+    "alternatives": ["désert"]
+  },
+  {
+    "audio": "meriter.ogg",
+    "french": "mériter",
+    "german": "verdienen"
+  }
+]

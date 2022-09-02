@@ -1,0 +1,226 @@
+[
+  {
+    "audio": "biscuit.ogg",
+    "french": "le biscuit",
+    "german": "das Backwerk, das Plätzchen, der Keks",
+    "alternatives": ["biscuit"]
+  },
+  {
+    "audio": "conclure.ogg",
+    "french": "conclure",
+    "german": "daraus schließen, abschließen"
+  },
+  {
+    "audio": "coton.ogg",
+    "french": "le coton",
+    "german": "Baumwolle",
+    "alternatives": ["coton"]
+  },
+  {
+    "audio": "couple.ogg",
+    "french": "le couple",
+    "german": "Paar, Pärchen, das Ehepaar",
+    "alternatives": ["couple"]
+  },
+  {
+    "audio": "couverture.ogg",
+    "french": "la couverture",
+    "german": "das Cover, die Decke, der Umschlag, die Bettdecke, Startseite",
+    "alternatives": ["couverture"]
+  },
+  {
+    "audio": "crucial.ogg",
+    "french": "crucial",
+    "german": "entscheidend, maßgeblich"
+  },
+  {
+    "audio": "ecraser.ogg",
+    "french": "écraser",
+    "german": "überfahren, zertreten, zerquetschen, zermalmen"
+  },
+  {
+    "audio": "placard.ogg",
+    "french": "le placard",
+    "german": "Schrank, Wandschrank, Einbauschrank",
+    "alternatives": ["placard"]
+  },
+  {
+    "audio": "freiner.ogg",
+    "french": "freiner",
+    "german": "bremsen, abbremsen, hemmen, behindern"
+  },
+  {
+    "audio": "curieux.ogg",
+    "french": "curieux",
+    "german": "neugierig"
+  },
+  {
+    "audio": "rideau.ogg",
+    "french": "le rideau",
+    "german": "Vorhang, Gardine",
+    "alternatives": ["rideau"]
+  },
+  {
+    "audio": "courbe.ogg",
+    "french": "la courbe",
+    "german": "Kurve, Biegung, Wölbung",
+    "alternatives": ["courbe"]
+  },
+  {
+    "audio": "coutume.ogg",
+    "french": "la coutume",
+    "german": "der Brauch, die Sitte, die Gewohnheit",
+    "alternatives": ["coutume"]
+  },
+  {
+    "audio": "larme.ogg",
+    "french": "la larme",
+    "german": "Träne, kleiner Tropfen",
+    "alternatives": ["larme"]
+  },
+  {
+    "audio": "vœu.ogg",
+    "french": "le vœu",
+    "german": "der Wunsch",
+    "alternatives": ["voeu", "le voeu", "vœu"]
+  },
+  {
+    "audio": "richesse.ogg",
+    "french": "la richesse",
+    "german": "Reichtum, Vermögen",
+    "alternatives": ["richesse"]
+  },
+  {
+    "audio": "chagrin.ogg",
+    "french": "le chagrin",
+    "german": "Kummer",
+    "alternatives": ["chagrin"]
+  },
+  {
+    "audio": "jouet.ogg",
+    "french": "le jouet",
+    "german": "Spielzeug",
+    "alternatives": ["jouet"]
+  },
+  {
+    "audio": "tambour.ogg",
+    "french": "le tambour",
+    "german": "Trommel",
+    "alternatives": ["tambour"]
+  },
+  {
+    "audio": "flûte.ogg",
+    "french": "la flûte",
+    "german": "Flöte",
+    "alternatives": ["flûte"]
+  },
+  {
+    "audio": "guitare.ogg",
+    "french": "la guitare",
+    "german": "Gitarre",
+    "alternatives": ["guitare"]
+  },
+  {
+    "audio": "clavier.ogg",
+    "french": "le clavier",
+    "german": "Klaviatur",
+    "alternatives": ["clavier"]
+  },
+  {
+    "audio": "feu.ogg",
+    "french": "le feu",
+    "german": "Feuer",
+    "alternatives": ["feu"]
+  },
+  {
+    "audio": "voleur.ogg",
+    "french": "le voleur",
+    "german": "der Dieb",
+    "alternatives": ["voleur"]
+  },
+  {
+    "audio": "toux.ogg",
+    "french": "la toux",
+    "german": "der Husten",
+    "alternatives": ["toux"]
+  },
+  {
+    "audio": "nourriture.ogg",
+    "french": "la nourriture",
+    "german": "Lebensmittel",
+    "alternatives": ["nourriture"]
+  },
+  {
+    "audio": "dîner.ogg",
+    "french": "dîner",
+    "german": "zu Abend essen"
+  },
+  {
+    "audio": "futur.ogg",
+    "french": "le futur",
+    "german": "Zukunft",
+    "alternatives": ["futur"]
+  },
+  {
+    "audio": "le_coucher_du_soleil.ogg",
+    "french": "le coucher du soleil",
+    "german": "Sonnenuntergang",
+    "alternatives": ["coucher du soleil"]
+  },
+  {
+    "audio": "oncle.ogg",
+    "french": "le oncle",
+    "german": "Onkel",
+    "alternatives": ["oncle"]
+  },
+  {
+    "audio": "rarement.ogg",
+    "french": "rarement",
+    "german": "selten"
+  },
+  {
+    "audio": "autour.ogg",
+    "french": "autour",
+    "german": "um, rundum"
+  },
+  {
+    "audio": "en_dessous_de.ogg",
+    "french": "en dessous de",
+    "german": "unter, darunter"
+  },
+  {
+    "audio": "ci_dessous.ogg",
+    "french": "ci-dessous",
+    "german": "unter, darunter"
+  },
+  {
+    "audio": "remporter.ogg",
+    "french": "remporter",
+    "german": "gewinnen"
+  },
+  {
+    "audio": "au_dessus_de.ogg",
+    "french": "au-dessus de",
+    "german": "oben, daoben"
+  },
+  {
+    "audio": "pour_toujours.ogg",
+    "french": "pour toujours",
+    "german": "für immer"
+  },
+  {
+    "audio": "parfois.ogg",
+    "french": "parfois",
+    "german": "manchmal"
+  },
+  {
+    "audio": "en_avant.ogg",
+    "french": "en avant",
+    "german": "voraus"
+  },
+  {
+    "audio": "nulle_part.ogg",
+    "french": "nulle part",
+    "german": "nirgends, nirgendwo"
+  }
+]
