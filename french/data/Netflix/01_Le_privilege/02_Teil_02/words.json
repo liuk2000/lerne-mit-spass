@@ -1,0 +1,233 @@
+[
+  {
+    "audio": "linsomnie.ogg",
+    "french": "l'insomnie (f)",
+    "german": "Schlaflosigkeit",
+    "alternatives": ["l'insomnie", "la insomnie", "insomnie"]
+  },
+  {
+    "audio": "le_dessin.ogg",
+    "french": "le dessin",
+    "german": "die Zeichnung",
+    "alternatives": ["dessin"]
+  },
+  {
+    "audio": "zut.ogg",
+    "french": "Zut!",
+    "german": "Verdammt!",
+    "alternatives": ["zut"]
+  },
+  {
+    "audio": "surprendre.ogg",
+    "french": "surprendre",
+    "german": "überraschen"
+  },
+  {
+    "audio": "le_truc.ogg",
+    "french": "le truc",
+    "german": "die Sache, das Ding, die Masche",
+    "alternatives": ["truc"]
+  },
+  {
+    "audio": "prier.ogg",
+    "french": "prier",
+    "german": "beten"
+  },
+  {
+    "audio": "tant.ogg",
+    "french": "tant",
+    "german": "so sehr, derart"
+  },
+  {
+    "audio": "pareil.ogg",
+    "french": "pareil",
+    "german": "das Gleiche"
+  },
+  {
+    "audio": "fâche.ogg",
+    "french": "fâché",
+    "german": "wütend, sauer, böse",
+    "alternatives": ["fâchée"]
+  },
+  {
+    "audio": "fou.ogg",
+    "french": "fou",
+    "german": "wütend"
+  },
+  {
+    "audio": "le_fou.ogg",
+    "french": "le fou",
+    "german": "der Narr, der Verrückte",
+    "alternatives": ["fou"]
+  },
+  {
+    "audio": "la_folle.ogg",
+    "french": "la folle",
+    "german": "die Närrin, die Verrückte",
+    "alternatives": ["folle"]
+  },
+  {
+    "audio": "le_bordel.ogg",
+    "french": "le bordel",
+    "german": "die Unordnung, das Schlamassel, das Chaos",
+    "alternatives": ["bordel"]
+  },
+  {
+    "audio": "subir.ogg",
+    "french": "subir",
+    "german": "unterziehen, erleiden"
+  },
+  {
+    "audio": "la_commotion.ogg",
+    "french": "la commotion",
+    "german": "Gehirnerschütterung",
+    "alternatives": ["commotion"]
+  },
+  {
+    "audio": "à_part_ca.ogg",
+    "french": "à part ça",
+    "german": "abgesehen davon, ansonsten"
+  },
+  {
+    "audio": "la_hache.ogg",
+    "french": "la hache",
+    "german": "die Axt",
+    "alternatives": ["hache"]
+  },
+  {
+    "audio": "disjoncter.ogg",
+    "french": "disjoncter",
+    "german": "ausrasten, spinnen"
+  },
+  {
+    "audio": "se_toucher.ogg",
+    "french": "se toucher",
+    "german": "sich berühren"
+  },
+  {
+    "audio": "pousser.ogg",
+    "french": "pousser",
+    "german": "drücken, drängeln"
+  },
+  {
+    "audio": "le_genou.ogg",
+    "french": "le genou",
+    "german": "Knie",
+    "alternatives": ["genou"]
+  },
+  {
+    "audio": "meler.ogg",
+    "french": "mêler",
+    "german": "mischen"
+  },
+  {
+    "audio": "la_connerie.ogg",
+    "french": "la connerie",
+    "german": "Dummheit, Quatsch",
+    "alternatives": ["connerie"]
+  },
+  {
+    "audio": "avertir.ogg",
+    "french": "avertir",
+    "german": "warnen"
+  },
+  {
+    "alternatives": ["la ombre", "ombre"],
+    "audio": "ombre.ogg",
+    "french": "l'ombre (f)",
+    "german": "Schatten"
+  },
+  {
+    "audio": "la_foutaise.ogg",
+    "french": "la foutaise",
+    "german": "Quatsch",
+    "alternatives": ["foutaise"]
+  },
+  {
+    "audio": "setrangler.ogg",
+    "french": "s'étrangler",
+    "german": "ersticken"
+  },
+  {
+    "audio": "le_collier.ogg",
+    "french": "le collier",
+    "german": "Halskette, die Kette",
+    "alternatives": ["collier"]
+  },
+  {
+    "audio": "lennui.ogg",
+    "french": "l'ennui (m)",
+    "german": "Ärger",
+    "alternatives": ["le ennui", "ennui"]
+  },
+  {
+    "audio": "empirer.ogg",
+    "french": "empirer",
+    "german": "schlimmer werden, verschlechtern"
+  },
+  {
+    "audio": "degoûtant.ogg",
+    "french": "dégoûtant",
+    "german": "widerlich, ekelhaft"
+  },
+  {
+    "audio": "le_ver.ogg",
+    "french": "le ver",
+    "german": "der Wurm",
+    "alternatives": ["ver"]
+  },
+  {
+    "audio": "la_cave.ogg",
+    "french": "la cave",
+    "german": "der Keller, die Höhle",
+    "alternatives": ["cave"]
+  },
+  {
+    "audio": "moisir.ogg",
+    "french": "moisir",
+    "german": "schimmeln"
+  },
+  {
+    "audio": "avaler.ogg",
+    "french": "avaler",
+    "german": "schlucken"
+  },
+  {
+    "audio": "la_passerelle.ogg",
+    "french": "la passerelle",
+    "german": "Tor, schmale Fußgängerbrücke",
+    "alternatives": ["passerelle"]
+  },
+  {
+    "audio": "le_dieu.ogg",
+    "french": "le dieu",
+    "german": "der Gott",
+    "alternatives": ["dieu"]
+  },
+  {
+    "audio": "proceder.ogg",
+    "french": "procéder",
+    "german": "verlaufen,  vorgehen, verfahren"
+  },
+  {
+    "audio": "deconseiller.ogg",
+    "french": "déconseiller",
+    "german": "abraten"
+  },
+  {
+    "audio": "fouiller.ogg",
+    "french": "fouiller",
+    "german": "durchsuchen, absuchen, durchforsten"
+  },
+  {
+    "audio": "penible.ogg",
+    "french": "pénible",
+    "german": "schwer, anstrengend"
+  },
+  {
+    "audio": "cingle.ogg",
+    "french": "cinglé",
+    "german": "verrückt, nicht zu retten",
+    "alternatives": ["cinglée"]
+  }
+]

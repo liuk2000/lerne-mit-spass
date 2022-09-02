@@ -1,0 +1,213 @@
+[
+  {
+    "audio": "embeter.ogg",
+    "french": "embêter",
+    "german": "belästigen, ärgern"
+  },
+  {
+    "audio": "gener.ogg",
+    "french": "gêner",
+    "german": "stören, behindern"
+  },
+  {
+    "audio": "deconner.ogg",
+    "french": "déconner",
+    "german": "herumblödeln"
+  },
+  {
+    "audio": "la_graine.ogg",
+    "french": "la graine",
+    "german": "Samen",
+    "alternatives": ["graine"]
+  },
+  {
+    "audio": "le_chanvre.ogg",
+    "french": "le chanvre",
+    "german": "Hanf, Cannabis",
+    "alternatives": ["chanvre"]
+  },
+  {
+    "audio": "lecher.ogg",
+    "french": "lécher",
+    "german": "lecken"
+  },
+  {
+    "audio": "effrayer.ogg",
+    "french": "effrayer",
+    "german": "erschrecken"
+  },
+  {
+    "audio": "la_grenouille.ogg",
+    "french": "la grenouille",
+    "german": "der Frosch",
+    "alternatives": ["grenouille"]
+  },
+  {
+    "audio": "expulser.ogg",
+    "french": "expulser",
+    "german": "vertreiben, ausstoßen"
+  },
+  {
+    "audio": "rater.ogg",
+    "french": "rater",
+    "german": "versagen"
+  },
+  {
+    "audio": "deposer.ogg",
+    "french": "déposer",
+    "german": "einordnen, einliefern, abstellen"
+  },
+  {
+    "audio": "paraitre.ogg",
+    "french": "paraitre",
+    "german": "erscheinen"
+  },
+  {
+    "audio": "le_pretre.ogg",
+    "french": "le prêtre",
+    "german": "der Priester",
+    "alternatives": ["prêtre"]
+  },
+  {
+    "audio": "le_bâtard.ogg",
+    "french": "le bâtard",
+    "german": "Der Bastard",
+    "alternatives": ["bâtard"]
+  },
+  {
+    "audio": "se_derouler.ogg",
+    "french": "se dérouler",
+    "german": "verlaufen, entfalten"
+  },
+  {
+    "audio": "fier.ogg",
+    "french": "fier",
+    "german": "stolz"
+  },
+  {
+    "audio": "le_contretemps.ogg",
+    "french": "le contretemps",
+    "german": "der Zwischenfall, der Rückschlag",
+    "alternatives": ["contretemps"]
+  },
+  {
+    "audio": "accrocher.ogg",
+    "french": "accrocher",
+    "german": "befestigen, einhaken"
+  },
+  {
+    "audio": "le_verre.ogg",
+    "french": "le verre",
+    "german": "Glas",
+    "alternatives": ["verre"]
+  },
+  {
+    "audio": "se_battre.ogg",
+    "french": "se battre",
+    "german": "kämpfen"
+  },
+  {
+    "audio": "gentil.ogg",
+    "french": "gentil",
+    "german": "freundlich"
+  },
+  {
+    "audio": "malefique.ogg",
+    "french": "maléfique",
+    "german": "bösartig"
+  },
+  {
+    "audio": "hanter.ogg",
+    "french": "hanter",
+    "german": "heimsuchen, verfolgen"
+  },
+  {
+    "audio": "appartenir.ogg",
+    "french": "appartenir",
+    "german": "gehören"
+  },
+  {
+    "audio": "ordonner.ogg",
+    "french": "ordonner",
+    "german": "befehlen"
+  },
+  {
+    "audio": "seloigner.ogg",
+    "french": "s'éloigner",
+    "german": "sich entfernen"
+  },
+  {
+    "audio": "louer.ogg",
+    "french": "louer",
+    "german": "mieten"
+  },
+  {
+    "audio": "la_serre.ogg",
+    "french": "la serre",
+    "german": "das Gewächshaus",
+    "alternatives": ["serre"]
+  },
+  {
+    "audio": "la_percee.ogg",
+    "french": "la percée",
+    "german": "Durchbruch",
+    "alternatives": ["percée"]
+  },
+  {
+    "audio": "infirmiere.ogg",
+    "french": "infirmière",
+    "german": "Krankenschwester"
+  },
+  {
+    "audio": "la_gorge.ogg",
+    "french": "la gorge",
+    "german": "der Hals",
+    "alternatives": ["gorge"]
+  },
+  {
+    "audio": "lenfer.ogg",
+    "french": "l'enfer (m)",
+    "german": "Hölle",
+    "alternatives": ["le enfer", "l'enfer", "enfer"]
+  },
+  {
+    "audio": "lusine.ogg",
+    "french": "l'usine",
+    "german": "Fabrik",
+    "alternatives": ["usine", "la usine"]
+  },
+  {
+    "audio": "le_couloir.ogg",
+    "french": "le couloir",
+    "german": "der Flur",
+    "alternatives": ["couloir"]
+  },
+  {
+    "audio": "la_coupure.ogg",
+    "french": "la coupure",
+    "german": "der Schnitt, die Schnittwunde",
+    "alternatives": ["coupure"]
+  },
+  {
+    "audio": "la_douleur.ogg",
+    "french": "la douleur",
+    "german": "der Schmerz, das Leid",
+    "alternatives": ["douleur"]
+  },
+  {
+    "audio": "rouler.ogg",
+    "french": "rouler",
+    "german": "fahren, rollen"
+  },
+  {
+    "audio": "le_frein.ogg",
+    "french": "le frein",
+    "german": "die Bremse",
+    "alternatives": ["frein"]
+  },
+  {
+    "audio": "respirer.ogg",
+    "french": "respirer",
+    "german": "atmen"
+  }
+]
