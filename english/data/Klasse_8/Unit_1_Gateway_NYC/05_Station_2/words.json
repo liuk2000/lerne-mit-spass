@@ -1,0 +1,160 @@
+[
+    {
+        "german": "Interviewer(in), Befrager(in)",
+        "english": "interviewer",
+        "audio": "interviewer.ogg"
+    },
+    {
+        "german": "fortfahren, loslegen, vorangehen",
+        "english": "to go ahead",
+        "audio": "to_go_ahead.ogg",
+        "alternatives": [
+            "go ahead"
+        ]
+    },
+    {
+        "german": "Saison, Jahreszeit",
+        "english": "season",
+        "audio": "season.ogg"
+    },
+    {
+        "german": "bis jetzt",
+        "english": "so far",
+        "audio": "so_far.ogg"
+    },
+    {
+        "german": "Lateinamerika",
+        "english": "Latin America",
+        "audio": "latin_america.ogg"
+    },
+    {
+        "german": "Liga",
+        "english": "league",
+        "audio": "league.ogg"
+    },
+    {
+        "german": "Kuba",
+        "english": "Cuba",
+        "audio": "cuba.ogg"
+    },
+    {
+        "german": "Mama",
+        "english": "mom",
+        "audio": "mom.ogg"
+    },
+    {
+        "german": "fremd",
+        "english": "strange",
+        "audio": "strange.ogg"
+    },
+    {
+        "german": "arm",
+        "english": "poor",
+        "audio": "poor.ogg"
+    },
+    {
+        "german": "vor allen Dingen, in erster Linie",
+        "english": "above all",
+        "audio": "above_all.ogg"
+    },
+    {
+        "german": "kubanisch, aus Kuba, Kubaner(in)",
+        "english": "Cuban",
+        "audio": "cuban.ogg"
+    },
+    {
+        "german": "Güter, Waren",
+        "english": "goods",
+        "audio": "goods.ogg"
+    },
+    {
+        "german": "zählen",
+        "english": "to count",
+        "audio": "to_count.ogg",
+        "alternatives": [
+            "count"
+        ]
+    },
+    {
+        "german": "beginnen, anfangen",
+        "english": "to begin",
+        "audio": "to_begin.ogg",
+        "alternatives": [
+            "begin"
+        ]
+    },
+    {
+        "german": "(Etwas( ernst nehmen)",
+        "english": "to take (something) seriously",
+        "audio": "to_take_(something)_seriously.ogg",
+        "alternatives": [
+            "to take seriously",
+            "take seriously",
+            "to take something seriously"
+        ]
+    },
+    {
+        "german": "Highschool, Oberstufe",
+        "english": "high school",
+        "audio": "high_school.ogg"
+    },
+    {
+        "german": "durchstarten, abheben",
+        "english": "to take off",
+        "audio": "to_take_off.ogg",
+        "alternatives": [
+            "take off"
+        ]
+    },
+    {
+        "german": "allerdings",
+        "english": "certainly",
+        "audio": "certainly.ogg"
+    },
+    {
+        "german": "Beispiel",
+        "english": "example",
+        "audio": "example.ogg"
+    },
+    {
+        "german": "wahr werden, in Erfülling gehen",
+        "english": "to come true",
+        "audio": "to_come_true.ogg",
+        "alternatives": [
+            "come true"
+        ]
+    },
+    {
+        "german": "US-amerikanisch",
+        "english": "US",
+        "audio": "us.ogg"
+    },
+    {
+        "german": "(sich) entwickeln)",
+        "english": "to develop",
+        "audio": "to_develop.ogg",
+        "alternatives": [
+            "develop"
+        ]
+    },
+    {
+        "german": "Tourismus",
+        "english": "tourism",
+        "audio": "tourism.ogg"
+    },
+    {
+        "german": "Heimat, Heimatland",
+        "english": "home country",
+        "audio": "home_country.ogg"
+    },
+    {
+        "german": "die Philippinen",
+        "english": "The Philippines",
+        "audio": "the_philippines.ogg"
+    },
+    {
+        "german": "Leser(in)",
+        "english": "reader",
+        "audio": "reader.ogg"
+    }
+]

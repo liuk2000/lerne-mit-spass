@@ -1,0 +1,125 @@
+[
+    {
+        "german": "einwandern, immigrieren",
+        "english": "to immigrate",
+        "audio": "to_immigrate.ogg",
+        "alternatives": [
+            "immigrate"
+        ]
+    },
+    {
+        "german": "Entscheidung",
+        "english": "decision",
+        "audio": "decision.ogg"
+    },
+    {
+        "german": "arbeitslos",
+        "english": "unemployed",
+        "audio": "unemployed.ogg"
+    },
+    {
+        "german": "Mögligkeit",
+        "english": "chance",
+        "audio": "chance.ogg"
+    },
+    {
+        "german": "Gemeinde, Gemeinschaft",
+        "english": "community",
+        "audio": "community.ogg"
+    },
+    {
+        "german": "Beruf, Laufbahn, Karriere",
+        "english": "career",
+        "audio": "career.ogg"
+    },
+    {
+        "german": "Kultur",
+        "english": "culture",
+        "audio": "culture.ogg"
+    },
+    {
+        "german": "motiviert",
+        "english": "motivated",
+        "audio": "motivated.ogg"
+    },
+    {
+        "german": "ehrgeizig",
+        "english": "ambitious",
+        "audio": "ambitious.ogg"
+    },
+    {
+        "german": "Gelegenheit, Chance",
+        "english": "opportunity",
+        "audio": "opportunity.ogg"
+    },
+    {
+        "german": "Staatsbürger, Staatsangehöriger",
+        "english": "citizen",
+        "audio": "citizen.ogg"
+    },
+    {
+        "german": "Kontakt",
+        "english": "contact",
+        "audio": "contact.ogg"
+    },
+    {
+        "german": "fremd, ausländisch",
+        "english": "foreign",
+        "audio": "foreign.ogg"
+    },
+    {
+        "german": "sich an (etwas) gewöhnen",
+        "english": "to get used to (something)",
+        "audio": "to_get_used_to_(something).ogg",
+        "alternatives": [
+            "to get used to",
+            "get used to",
+            "to get used to sonething"
+        ]
+    },
+    {
+        "german": "auswandern, emmigrieren",
+        "english": "to emigrate",
+        "audio": "to_emigrate.ogg",
+        "alternatives": [
+            "emigrate"
+        ]
+    },
+    {
+        "german": "Erfolg haben, nachfolgen",
+        "english": "to succeed",
+        "audio": "to_succeed.ogg",
+        "alternatives": [
+            "succeed"
+        ]
+    },
+    {
+        "german": "versagen, ausfallen, fehlschlagen",
+        "english": "to fail",
+        "audio": "to_fail.ogg",
+        "alternatives": [
+            "fail"
+        ]
+    },
+    {
+        "german": "Unterstützung, Hilfe",
+        "english": "support",
+        "audio": "support.ogg"
+    },
+    {
+        "german": "sich anpassen",
+        "english": "to adopt to",
+        "audio": "to_adopt_to.ogg",
+        "alternatives": [
+            "adopt to"
+        ]
+    },
+    {
+        "german": "über die Grenze gehen, die Grenze überschreiten",
+        "english": "to cross the border",
+        "audio": "to_cross_the_border.ogg",
+        "alternatives": [
+            "cross the border"
+        ]
+    }
+]
