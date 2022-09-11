@@ -1,0 +1,223 @@
+[
+  {
+    "audio": "contrarie.ogg",
+    "french": "contrarié",
+    "german": "verärgert, verstimmt, ärgerlich"
+  },
+  {
+    "audio": "coupable.ogg",
+    "french": "coupable",
+    "german": "schuldig"
+  },
+  {
+    "audio": "ralentir.ogg",
+    "french": "ralentir",
+    "german": "verlangsamen, abbremsen"
+  },
+  {
+    "audio": "cependant.ogg",
+    "french": "cependant",
+    "german": "jedoch"
+  },
+  {
+    "audio": "suppression.ogg",
+    "french": "la suppression",
+    "german": "Streichung, Abschaffung, Löschung",
+    "alternatives": ["suppression"]
+  },
+  {
+    "audio": "verrouillage.ogg",
+    "french": "le verrouillage",
+    "german": "die Sperre, Blockierung, Ausgangssperre",
+    "alternatives": ["verrouillage"]
+  },
+  {
+    "audio": "eteindre.ogg",
+    "french": "éteindre",
+    "german": "ausschalten"
+  },
+  {
+    "audio": "jalouse.ogg",
+    "french": "jalouse",
+    "german": "neidisch, eifersüchtig"
+  },
+  {
+    "audio": "enseignant.ogg",
+    "french": "le enseignant",
+    "german": "Lehrer",
+    "alternatives": ["enseignant", "l'enseignant"]
+  },
+  {
+    "audio": "mignon.ogg",
+    "french": "mignon",
+    "german": "niedlich"
+  },
+  {
+    "audio": "herbe.ogg",
+    "french": "la herbe",
+    "german": "Gras",
+    "alternatives": ["herbe", "l'herbe"]
+  },
+  {
+    "audio": "voyelle.ogg",
+    "french": "la voyelle",
+    "german": "Vokal",
+    "alternatives": ["voyelle"]
+  },
+  {
+    "audio": "par_contre.ogg",
+    "french": "par contre",
+    "german": "jedoch, hingegen, wiederum"
+  },
+  {
+    "audio": "paisible.ogg",
+    "french": "paisible",
+    "german": "friedlich"
+  },
+  {
+    "audio": "eveille.ogg",
+    "french": "éveillé",
+    "german": "wach, aufgeweckt"
+  },
+  {
+    "audio": "endormi.ogg",
+    "french": "endormi",
+    "german": "träge, schlafend, eingeschlafen"
+  },
+  {
+    "audio": "riche.ogg",
+    "french": "riche",
+    "german": "reich"
+  },
+  {
+    "audio": "merveilleux.ogg",
+    "french": "merveilleux",
+    "german": "wunderbar"
+  },
+  {
+    "audio": "accueillir.ogg",
+    "french": "accueillir",
+    "german": "aufnehmen, empfangen, willkommen"
+  },
+  {
+    "audio": "inconnu.ogg",
+    "french": "inconnu",
+    "german": "unbekannt"
+  },
+  {
+    "audio": "fidele.ogg",
+    "french": "fidèle",
+    "german": "treu"
+  },
+  {
+    "audio": "talentueux.ogg",
+    "french": "talentueux",
+    "german": "talentiert"
+  },
+  {
+    "audio": "aveugle.ogg",
+    "french": "aveugle",
+    "german": "blind"
+  },
+  {
+    "audio": "soigne.ogg",
+    "french": "soigné",
+    "german": "gepflegt, sorgfältig"
+  },
+  {
+    "audio": "surnaturel.ogg",
+    "french": "surnaturel",
+    "german": "übernatürlich, übersinnlich"
+  },
+  {
+    "audio": "malchanceux.ogg",
+    "french": "le malchanceux",
+    "german": "Pechvogel, vom Pech verfolgt",
+    "alternatives": ["malchanceux"]
+  },
+  {
+    "audio": "evident.ogg",
+    "french": "évident",
+    "german": "offensichtlich"
+  },
+  {
+    "audio": "bourre.ogg",
+    "french": "bourré",
+    "german": "betrunken"
+  },
+  {
+    "audio": "ivre.ogg",
+    "french": "ivre",
+    "german": "betrunken"
+  },
+  {
+    "audio": "mechant.ogg",
+    "french": "méchant",
+    "german": "böse, mies"
+  },
+  {
+    "audio": "audacieux.ogg",
+    "french": "audacieux",
+    "german": "kühn, gewagt"
+  },
+  {
+    "audio": "sans_abri.ogg",
+    "french": "sans-abri",
+    "german": "obdachlos"
+  },
+  {
+    "audio": "inhabituel.ogg",
+    "french": "inhabituel",
+    "german": "ungewöhnlich"
+  },
+  {
+    "audio": "vide.ogg",
+    "french": "vide",
+    "german": "leer"
+  },
+  {
+    "audio": "plein.ogg",
+    "french": "plein",
+    "german": "voll"
+  },
+  {
+    "audio": "fabuleux.ogg",
+    "french": "fabuleux",
+    "german": "fabelhaft, märchenhaft"
+  },
+  {
+    "audio": "douloureux.ogg",
+    "french": "douloureux",
+    "german": "schmerzhaft"
+  },
+  {
+    "audio": "indolore.ogg",
+    "french": "indolore",
+    "german": "schmerzlos"
+  },
+  {
+    "audio": "courageux.ogg",
+    "french": "courageux",
+    "german": "mutig"
+  },
+  {
+    "audio": "utile.ogg",
+    "french": "utile",
+    "german": "nützlich"
+  },
+  {
+    "audio": "inutile.ogg",
+    "french": "inutile",
+    "german": "nutzlos, nicht zu gebrauchen"
+  },
+  {
+    "audio": "paresseux.ogg",
+    "french": "paresseux",
+    "german": "faul"
+  },
+  {
+    "audio": "muet.ogg",
+    "french": "muet",
+    "german": "stumm"
+  }
+]

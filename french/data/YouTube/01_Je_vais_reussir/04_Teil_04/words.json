@@ -1,0 +1,226 @@
+[
+  {
+    "audio": "toutefois.ogg",
+    "french": "toutefois",
+    "german": "nichtsdestotrotz"
+  },
+  {
+    "audio": "bidouiller.ogg",
+    "french": "bidouiller",
+    "german": "an etw. herumbasteln"
+  },
+  {
+    "audio": "neanmoins.ogg",
+    "french": "néanmoins",
+    "german": "jedoch, nichtsdestotrotz"
+  },
+  {
+    "audio": "supplementaire.ogg",
+    "french": "supplémentaire",
+    "german": "zusätzlich"
+  },
+  {
+    "audio": "imprimer.ogg",
+    "french": "imprimer",
+    "german": "drucken, ausdrucken"
+  },
+  {
+    "audio": "en_tant_que.ogg",
+    "french": "en tant que",
+    "german": "in der Eigenschaft als etw, als etw, insofern"
+  },
+  {
+    "audio": "tâche.ogg",
+    "french": "la tâche",
+    "german": "Aufgabe",
+    "alternatives": ["tâche"]
+  },
+  {
+    "audio": "de_bout_en_bout.ogg",
+    "french": "de bout en bout",
+    "german": "Ende zu Ende"
+  },
+  {
+    "audio": "composant.ogg",
+    "french": "le composant",
+    "german": "der Bestandteil, Bauteil, Bauelement",
+    "alternatives": ["composant"]
+  },
+  {
+    "audio": "pourtant.ogg",
+    "french": "pourtant",
+    "german": "dennoch, trotzdem"
+  },
+  {
+    "audio": "anodin.ogg",
+    "french": "anodin",
+    "german": "trivial, unbedeutend, harmls, unerheblich"
+  },
+  {
+    "audio": "grignoter.ogg",
+    "french": "grignoter",
+    "german": "knabbern, abknabbern, etw stückchenweise abbauen"
+  },
+  {
+    "audio": "demarrage.ogg",
+    "french": "le démarrage",
+    "german": "Start, Beginn, Anlaufen",
+    "alternatives": ["démarrage"]
+  },
+  {
+    "audio": "moyenne.ogg",
+    "french": "la moyenne",
+    "german": "der Durchschnitt",
+    "alternatives": ["moyenne"]
+  },
+  {
+    "audio": "legerement.ogg",
+    "french": "légèrement",
+    "german": "leicht"
+  },
+  {
+    "audio": "aleatoirement.ogg",
+    "french": "aléatoirement",
+    "german": "nach dem Zufallsprinzip, zufällig"
+  },
+  {
+    "audio": "stade.ogg",
+    "french": "le stade",
+    "german": "das Stadium, Stadion",
+    "alternatives": ["stade"]
+  },
+  {
+    "audio": "precoce.ogg",
+    "french": "précoce",
+    "german": "frühzeitig"
+  },
+  {
+    "audio": "elan.ogg",
+    "french": "le élan",
+    "german": "Schwung, Anlauf, Sprung, Auftrieb",
+    "alternatives": ["èlan", "l'élan"]
+  },
+  {
+    "audio": "prosperer.ogg",
+    "french": "prospérer",
+    "german": "gut funktionieren, aufblühen, gedeihen"
+  },
+  {
+    "audio": "par_ailleurs.ogg",
+    "french": "par ailleurs",
+    "german": "außerdem, andernfalls"
+  },
+  {
+    "audio": "lier.ogg",
+    "french": "lier",
+    "german": "binden, verbinden"
+  },
+  {
+    "audio": "poule.ogg",
+    "french": "la poule",
+    "german": "Hähnchen",
+    "alternatives": ["poule"]
+  },
+  {
+    "audio": "chevre.ogg",
+    "french": "la chèvre",
+    "german": "Ziege",
+    "alternatives": ["chèvre"]
+  },
+  {
+    "audio": "rat.ogg",
+    "french": "le rat",
+    "german": "Ratte",
+    "alternatives": ["rat"]
+  },
+  {
+    "audio": "boeuf.ogg",
+    "french": "le boeuf",
+    "german": "Bulle, Rindfleisch",
+    "alternatives": ["boeuf"]
+  },
+  {
+    "audio": "lion.ogg",
+    "french": "le lion",
+    "german": "Löwe",
+    "alternatives": ["lion"]
+  },
+  {
+    "audio": "canard.ogg",
+    "french": "le canard",
+    "german": "Ente",
+    "alternatives": ["canard"]
+  },
+  {
+    "audio": "singe.ogg",
+    "french": "le singe",
+    "german": "Affe",
+    "alternatives": ["singe"]
+  },
+  {
+    "audio": "âne.ogg",
+    "french": "le âne",
+    "german": "Esel",
+    "alternatives": ["âne"]
+  },
+  {
+    "audio": "lezard.ogg",
+    "french": "le lézard",
+    "german": "Eidechse",
+    "alternatives": ["lézard"]
+  },
+  {
+    "audio": "chauve_souris.ogg",
+    "french": "la chauve-souris",
+    "german": "Fledermaus",
+    "alternatives": ["chauve-souris"]
+  },
+  {
+    "audio": "serpent.ogg",
+    "french": "le serpent",
+    "german": "Schlange",
+    "alternatives": ["serpent"]
+  },
+  {
+    "audio": "mouton.ogg",
+    "french": "le mouton",
+    "german": "Schaf",
+    "alternatives": ["mouton"]
+  },
+  {
+    "audio": "sanglier.ogg",
+    "french": "le sanglier",
+    "german": "Wildschwein",
+    "alternatives": ["sanglier"]
+  },
+  {
+    "audio": "panthere.ogg",
+    "french": "la panthère",
+    "german": "Panther",
+    "alternatives": ["panthère"]
+  },
+  {
+    "audio": "coq.ogg",
+    "french": "le coq",
+    "german": "Hahn",
+    "alternatives": ["coq"]
+  },
+  {
+    "audio": "belier.ogg",
+    "french": "bélier",
+    "german": "der Widder, der Schafbock",
+    "alternatives": ["bélier"]
+  },
+  {
+    "audio": "poussin.ogg",
+    "french": "le poussin",
+    "german": "Küken",
+    "alternatives": ["poussin"]
+  },
+  {
+    "audio": "aigle.ogg",
+    "french": "le aigle",
+    "german": "Adler",
+    "alternatives": ["aigle"]
+  }
+]
