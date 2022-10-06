@@ -1,0 +1,180 @@
+[
+    {
+        "german": "Austausch",
+        "english": "exchange",
+        "audio": "exchange.ogg"
+    },
+    {
+        "german": "festsitzen, feststecken, nicht weg können, hängen bleiben",
+        "english": "to be stuck",
+        "audio": "to_be_stuck.ogg",
+        "alternatives": [
+            "be stuck"
+        ]
+    },
+    {
+        "german": "nirgendwo, nirgendwohin",
+        "english": "nowhere",
+        "audio": "nowhere.ogg"
+    },
+    {
+        "german": "(ein) Paar",
+        "english": "(a) couple of",
+        "audio": "(a)_couple_of.ogg",
+        "alternatives": [
+            "a couple of",
+            "couple of"
+        ]
+    },
+    {
+        "german": "vertraut, bekannt",
+        "english": "familiar",
+        "audio": "familiar.ogg"
+    },
+    {
+        "german": "(etw.) dürfen",
+        "english": "to be allowed to (do sth)",
+        "audio": "to_be_allowed_to_(do_sth).ogg",
+        "alternatives": [
+            "to be allowed to do something",
+            "to be allowed to",
+            "be allowed to"
+        ]
+    },
+    {
+        "german": "aufbewahren, behalten",
+        "english": "to keep (kept, kept)",
+        "audio": "to_keep_(kept_kept).ogg",
+        "alternatives": [
+            "to keep",
+            "keep"
+        ]
+    },
+    {
+        "german": "Zeug",
+        "english": "stuff",
+        "audio": "stuff.ogg"
+    },
+    {
+        "german": "stattdessen",
+        "english": "instead",
+        "audio": "instead.ogg"
+    },
+    {
+        "german": "eine Weile",
+        "english": "a while",
+        "audio": "a_while.ogg"
+    },
+    {
+        "german": "(zu etw.) fähig sein, (etw.) können, (etw.) dürfen",
+        "english": "to be able to (do sth)",
+        "audio": "to_be_able_to_(do_sth).ogg",
+        "alternatives": [
+            "to be able to do something",
+            "to be able to do",
+            "be able to do"
+        ]
+    },
+    {
+        "german": "versprechen",
+        "english": "to promise",
+        "audio": "to_promise.ogg",
+        "alternatives": [
+            "promise"
+        ]
+    },
+    {
+        "german": "wahr, treu",
+        "english": "true",
+        "audio": "true.ogg"
+    },
+    {
+        "german": "ziemlich, ganz schön",
+        "english": "pretty",
+        "audio": "pretty.ogg"
+    },
+    {
+        "german": "Astronomie",
+        "english": "astronomy",
+        "audio": "astronomy.ogg"
+    },
+    {
+        "german": "Journalistik, Journalismus",
+        "english": "journalism",
+        "audio": "journalism.ogg"
+    },
+    {
+        "german": "Mögligkeit, Option, Wahl",
+        "english": "option",
+        "audio": "option.ogg"
+    },
+    {
+        "german": "studieren, lernen",
+        "english": "to study",
+        "audio": "to_study.ogg",
+        "alternatives": [
+            "study"
+        ]
+    },
+    {
+        "german": "streng, strikt",
+        "english": "strict",
+        "audio": "strict.ogg"
+    },
+    {
+        "german": "Toilette, Bad(ezimmer)",
+        "english": "bathroom",
+        "audio": "bathroom.ogg"
+    },
+    {
+        "german": "zum Beispiel",
+        "english": "for example",
+        "audio": "for_example.ogg"
+    },
+    {
+        "german": "enden, beenden, aufhören",
+        "english": "to end",
+        "audio": "to_end.ogg",
+        "alternatives": [
+            "end"
+        ]
+    },
+    {
+        "german": "Konkurrenz",
+        "english": "competition",
+        "audio": "competition.ogg"
+    },
+    {
+        "german": "Gruppe, Team, Mannschaft",
+        "english": "squad",
+        "audio": "squad.ogg"
+    },
+    {
+        "german": "super, spitze",
+        "english": "awesome",
+        "audio": "awesome.ogg"
+    },
+    {
+        "german": "Gastfamilie",
+        "english": "host family",
+        "audio": "host_family.ogg"
+    },
+    {
+        "german": "damit, so dass",
+        "english": "so that",
+        "audio": "so_that.ogg"
+    },
+    {
+        "german": "Wahnsinnspaß",
+        "english": "blast",
+        "audio": "blast.ogg"
+    },
+    {
+        "german": "aufbleiben",
+        "english": "to stay up",
+        "audio": "to_stay_up.ogg",
+        "alternatives": [
+            "stay up"
+        ]
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "german": "weltberühmt",
+        "english": "best known",
+        "audio": "best_known.ogg"
+    },
+    {
+        "german": "flach, platt",
+        "english": "flat",
+        "audio": "flat.ogg"
+    },
+    {
+        "german": "Ackerland, Ackerboden, Landwirtschaftsflächen",
+        "english": "farmland",
+        "audio": "farmland.ogg"
+    },
+    {
+        "german": "Tornado, Wirbelsturm",
+        "english": "tornado",
+        "audio": "tornado.ogg"
+    },
+    {
+        "german": "Gasse, Weg",
+        "english": "alley",
+        "audio": "alley.ogg"
+    },
+    {
+        "german": "furchterregend, erschreckend",
+        "english": "terrifying",
+        "audio": "terrifying.ogg"
+    },
+    {
+        "german": "Sturm",
+        "english": "storm",
+        "audio": "storm.ogg"
+    },
+    {
+        "german": "Europäisch, aus Europa, Europäer(in)",
+        "english": "European",
+        "audio": "european.ogg"
+    },
+    {
+        "german": "Siedler(in)",
+        "english": "settler",
+        "audio": "settler.ogg"
+    },
+    {
+        "german": "Regierung",
+        "english": "government",
+        "audio": "government.ogg"
+    },
+    {
+        "german": "zwingen",
+        "english": "to force",
+        "audio": "to_force.ogg",
+        "alternatives": [
+            "force"
+        ]
+    },
+    {
+        "german": "Reservat",
+        "english": "reservation",
+        "audio": "reservation.ogg"
+    },
+    {
+        "german": "Teilzeit-, Halbtags-",
+        "english": "part-time",
+        "audio": "part_time.ogg"
+    },
+    {
+        "german": "Laden, Geschäft",
+        "english": "store",
+        "audio": "store.ogg"
+    },
+    {
+        "german": "abräumen, ausräumen",
+        "english": "to clear",
+        "audio": "to_clear.ogg",
+        "alternatives": [
+            "clear"
+        ]
+    },
+    {
+        "german": "servieren",
+        "english": "to serve",
+        "audio": "to_serve.ogg",
+        "alternatives": [
+            "serve"
+        ]
+    },
+    {
+        "german": "Note, Klasse",
+        "english": "grade",
+        "audio": "grade.ogg"
+    },
+    {
+        "german": "Stundenplan, Fahrplan",
+        "english": "schedule",
+        "audio": "schedule.ogg"
+    },
+    {
+        "german": "ehemalige, frühere",
+        "english": "former",
+        "audio": "former.ogg"
+    },
+    {
+        "german": "Ehemaligentreffen",
+        "english": "Homecoming",
+        "audio": "homecoming.ogg"
+    },
+    {
+        "german": "Tanz, Tanzveranstaltung, Ball",
+        "english": "dance",
+        "audio": "dance.ogg"
+    },
+    {
+        "german": "abstimmen über, wählen",
+        "english": "to vote for",
+        "audio": "to_vote_for.ogg",
+        "alternatives": [
+            "vote for"
+        ]
+    },
+    {
+        "german": "verdienen",
+        "english": "to earn",
+        "audio": "to_earn.ogg",
+        "alternatives": [
+            "earn"
+        ]
+    },
+    {
+        "german": "präsentieren",
+        "english": "to present",
+        "audio": "to_present.ogg",
+        "alternatives": [
+            "present"
+        ]
+    },
+    {
+        "german": "berichten (über)",
+        "english": "to report (on)",
+        "audio": "to_report_(on).ogg",
+        "alternatives": [
+            "to report",
+            "to report on",
+            "report",
+            "report on"
+        ]
+    },
+    {
+        "german": "fahren, treiben",
+        "english": "to drive (drove, driven)",
+        "audio": "to_drive_(drove_driven).ogg",
+        "alternatives": [
+            "to drive",
+            "drive"
+        ]
+    },
+    {
+        "german": "pro",
+        "english": "per",
+        "audio": "per.ogg"
+    },
+    {
+        "german": "Jäger(in), Verfolger(in)",
+        "english": "chaser",
+        "audio": "chaser.ogg"
+    },
+    {
+        "german": "Richtung",
+        "english": "direction",
+        "audio": "direction.ogg"
+    },
+    {
+        "german": "Wolke",
+        "english": "cloud",
+        "audio": "cloud.ogg"
+    },
+    {
+        "german": "kaputt machen, zerreißen, reißen",
+        "english": "to tear up (tore up, torn up)",
+        "audio": "to_tear_up_(tore_up_torn_up).ogg",
+        "alternatives": [
+            "to tear up",
+            "tear up"
+        ]
+    }
+]
