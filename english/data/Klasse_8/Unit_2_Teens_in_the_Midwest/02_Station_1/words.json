@@ -1,0 +1,107 @@
+[
+    {
+        "german": "Schließfach, Spind",
+        "english": "locker",
+        "audio": "locker.ogg"
+    },
+    {
+        "german": "mergendliche Ansprache",
+        "english": "morning message",
+        "audio": "morning_message.ogg"
+    },
+    {
+        "german": "Schulleiter(in)",
+        "english": "principal",
+        "audio": "principal.ogg"
+    },
+    {
+        "german": "Treueeid",
+        "english": "pledge of allegiance",
+        "audio": "pledge_of_allegiance.ogg"
+    },
+    {
+        "german": "Versprechen",
+        "english": "pledge",
+        "audio": "pledge.ogg"
+    },
+    {
+        "german": "Unterrichtsstunde, Kurs",
+        "english": "class",
+        "audio": "class.ogg"
+    },
+    {
+        "german": "Neuntklässler(in)",
+        "english": "freshman",
+        "audio": "freshman.ogg"
+    },
+    {
+        "german": "Mathematik, Mathe",
+        "english": "Math",
+        "audio": "math.ogg"
+    },
+    {
+        "german": "Wahlfach",
+        "english": "elective",
+        "audio": "elective.ogg"
+    },
+    {
+        "german": "Freistunde",
+        "english": "study hall period",
+        "audio": "study_hall_period.ogg"
+    },
+    {
+        "german": "Flur, Korridor, Diele",
+        "english": "hall",
+        "audio": "hall.ogg"
+    },
+    {
+        "german": "Ausweis, Pass",
+        "english": "pass",
+        "audio": "pass.ogg"
+    },
+    {
+        "german": "außerhalb des Lehrplans, außerunterrichtlich (Zusatzunterricht)",
+        "english": "extracurricular",
+        "audio": "extracurricular.ogg"
+    },
+    {
+        "german": "Cheerleader",
+        "english": "cheerleader",
+        "audio": "cheerleader.ogg"
+    },
+    {
+        "german": "Cheerleading (Aktivitäten der Cheerleader)",
+        "english": "cheerleading",
+        "audio": "cheerleading.ogg"
+    },
+    {
+        "german": "Nachsitzen",
+        "english": "detention",
+        "audio": "detention.ogg"
+    },
+    {
+        "german": "Campus, Schulgelände",
+        "english": "campus",
+        "audio": "campus.ogg"
+    },
+    {
+        "german": "Pflichtfach",
+        "english": "core subject",
+        "audio": "core_subject.ogg"
+    },
+    {
+        "german": "Ferien, Urlaub",
+        "english": "vacation",
+        "audio": "vacation.ogg"
+    },
+    {
+        "german": "Pause",
+        "english": "recess",
+        "audio": "recess.ogg"
+    },
+    {
+        "german": "Kleiderordnung, Bekleidungsvorschriften",
+        "english": "dress code",
+        "audio": "dress_code.ogg"
+    }
+]
