@@ -1,0 +1,72 @@
+[
+    {
+        "german": "hilfsbereit",
+        "english": "helpful",
+        "audio": "helpful.ogg"
+    },
+    {
+        "german": "kooperativ, hilfsbereit",
+        "english": "cooperative",
+        "audio": "cooperative.ogg"
+    },
+    {
+        "german": "verantwortlich, veranwortungsvoll",
+        "english": "responsible",
+        "audio": "responsible.ogg"
+    },
+    {
+        "german": "rechthaberisch",
+        "english": "bossy",
+        "audio": "bossy.ogg"
+    },
+    {
+        "german": "unmotiviert",
+        "english": "unmotivated",
+        "audio": "unmotivated.ogg"
+    },
+    {
+        "german": "faul",
+        "english": "lazy",
+        "audio": "lazy.ogg"
+    },
+    {
+        "german": "fleißig",
+        "english": "hard-working",
+        "audio": "hard_working.ogg"
+    },
+    {
+        "german": "unorganisiert",
+        "english": "disorganized",
+        "audio": "disorganized.ogg"
+    },
+    {
+        "german": "großzügig",
+        "english": "generous",
+        "audio": "generous.ogg"
+    },
+    {
+        "german": "unhöflich, unverschämt",
+        "english": "rude",
+        "audio": "rude.ogg"
+    },
+    {
+        "german": "eigensinnig, stur",
+        "english": "stubborn",
+        "audio": "stubborn.ogg"
+    },
+    {
+        "german": "selbstsüchtig",
+        "english": "selfish",
+        "audio": "selfish.ogg"
+    },
+    {
+        "german": "bereitwillig",
+        "english": "willing",
+        "audio": "willing.ogg"
+    },
+    {
+        "german": "schüchtern",
+        "english": "shy",
+        "audio": "shy.ogg"
+    }
+]
