@@ -1,0 +1,321 @@
+[
+    {
+        "german": "Lektion, Lehre",
+        "english": "lesson",
+        "audio": "lesson.ogg"
+    },
+    {
+        "german": "außerhalb",
+        "english": "outside",
+        "audio": "outside.ogg"
+    },
+    {
+        "german": "jährig, Jahre alt",
+        "english": "year-old",
+        "audio": "year_old.ogg"
+    },
+    {
+        "german": "dringend",
+        "english": "badly",
+        "audio": "badly.ogg"
+    },
+    {
+        "german": "Taschengeld, Unterhaltsgeld",
+        "english": "allowance",
+        "audio": "allowance.ogg"
+    },
+    {
+        "german": "einfach",
+        "english": "just",
+        "audio": "just.ogg"
+    },
+    {
+        "german": "Führerschein",
+        "english": "driver's license",
+        "audio": "drivers_license.ogg"
+    },
+    {
+        "german": "Freundin (in einer Paarbeziehung)",
+        "english": "girlfriend",
+        "audio": "girlfriend.ogg"
+    },
+    {
+        "german": "Annonce",
+        "english": "ad(vert), advertisement",
+        "audio": "ad(vert)_advertisement.ogg",
+        "alternatives": [
+            "ad",
+            "advert",
+            "advertisement"
+        ]
+    },
+    {
+        "german": "Stellenezeichnung, Berufsbezeichnung",
+        "english": "job title",
+        "audio": "job_title.ogg"
+    },
+    {
+        "german": "Verkäufer(in)",
+        "english": "sales associate",
+        "audio": "sales_associate.ogg"
+    },
+    {
+        "german": "Ausbildung, Erziehung, Bildung",
+        "english": "education",
+        "audio": "education.ogg"
+    },
+    {
+        "german": "verschwenden",
+        "english": "to waste",
+        "audio": "to_waste.ogg",
+        "alternatives": [
+            "waste"
+        ]
+    },
+    {
+        "german": "sich bewerben (für/um)",
+        "english": "to apply (for)",
+        "audio": "to_apply_(for).ogg",
+        "alternatives": [
+            "to apply",
+            "apply",
+            "apply for",
+            "to apply for"
+        ]
+    },
+    {
+        "german": "Vorstellungsgespräch",
+        "english": "interview",
+        "audio": "interview.ogg"
+    },
+    {
+        "german": "Manager(in), Geschäftsführer(in)",
+        "english": "manager",
+        "audio": "manager.ogg"
+    },
+    {
+        "german": "schwierig, knifflig",
+        "english": "tricky",
+        "audio": "tricky.ogg"
+    },
+    {
+        "german": "reagieren",
+        "english": "to react",
+        "audio": "to_react.ogg",
+        "alternatives": [
+            "react"
+        ]
+    },
+    {
+        "german": "stehlen",
+        "english": "to steal (stole, stolen)",
+        "audio": "to_steal_(stole_stolen).ogg",
+        "alternatives": [
+            "to steal",
+            "steal"
+        ]
+    },
+    {
+        "german": "glücklicherweise",
+        "english": "luckily",
+        "audio": "luckily.ogg"
+    },
+    {
+        "german": "anbieten, bieten",
+        "english": "to offer",
+        "audio": "to_offer.ogg",
+        "alternatives": [
+            "offer"
+        ]
+    },
+    {
+        "german": "Minimum, minimal, Mindest-",
+        "english": "minimum",
+        "audio": "minimum.ogg"
+    },
+    {
+        "german": "Lohn",
+        "english": "wage",
+        "audio": "wage.ogg"
+    },
+    {
+        "german": "Personal, Belegschaft, Kollegium",
+        "english": "staff",
+        "audio": "staff.ogg"
+    },
+    {
+        "german": "Arbeitskollege",
+        "english": "co-worker",
+        "audio": "co_worker.ogg"
+    },
+    {
+        "german": "falten, klappen",
+        "english": "to fold",
+        "audio": "to_fold.ogg",
+        "alternatives": [
+            "fold"
+        ]
+    },
+    {
+        "german": "Hose",
+        "english": "pants",
+        "audio": "pants.ogg"
+    },
+    {
+        "german": "zweimal, doppelt",
+        "english": "twice",
+        "audio": "twice.ogg"
+    },
+    {
+        "german": "abstauben, Staub wischen",
+        "english": "to dust",
+        "audio": "to_dust.ogg",
+        "alternatives": [
+            "dust"
+        ]
+    },
+    {
+        "german": "sortieren",
+        "english": "to sort",
+        "audio": "to_sort.ogg",
+        "alternatives": [
+            "sort"
+        ]
+    },
+    {
+        "german": "hänseln, sticheln, reizen",
+        "english": "to tease",
+        "audio": "to_tease.ogg",
+        "alternatives": [
+            "tease"
+        ]
+    },
+    {
+        "german": "lahm, schwach",
+        "english": "lame",
+        "audio": "lame.ogg"
+    },
+    {
+        "german": "solch",
+        "english": "such",
+        "audio": "such.ogg"
+    },
+    {
+        "german": "Trottel",
+        "english": "pinhead",
+        "audio": "pinhead.ogg"
+    },
+    {
+        "german": "werfen",
+        "english": "to throw (threw, thrown)",
+        "audio": "to_throw_(threw_thrown).ogg",
+        "alternatives": [
+            "to throw",
+            "throw"
+        ]
+    },
+    {
+        "german": "Rektion",
+        "english": "reaction",
+        "audio": "reaction.ogg"
+    },
+    {
+        "german": "Verhalten",
+        "english": "behavior",
+        "audio": "behavior.ogg"
+    },
+    {
+        "german": "sich benehmen, sich verhalten",
+        "english": "to behave",
+        "audio": "to_behave.ogg",
+        "alternatives": [
+            "behave"
+        ]
+    },
+    {
+        "german": "Arbeitszeit",
+        "english": "working hours",
+        "audio": "working_hours.ogg"
+    },
+    {
+        "german": "Bezahlung, Lohn, Gehalt",
+        "english": "pay",
+        "audio": "pay.ogg"
+    },
+    {
+        "german": "Bonus, Prämie",
+        "english": "bonus",
+        "audio": "bonus.ogg"
+    },
+    {
+        "german": "Stärke, Kraft",
+        "english": "strength",
+        "audio": "strength.ogg"
+    },
+    {
+        "german": "Schwäche",
+        "english": "weakness",
+        "audio": "weakness.ogg"
+    },
+    {
+        "german": "gehen, verlassen",
+        "english": "to leave",
+        "audio": "to_leave.ogg",
+        "alternatives": [
+            "leave"
+        ]
+    },
+    {
+        "german": "Toilette",
+        "english": "restroom",
+        "audio": "restroom.ogg"
+    },
+    {
+        "german": "gebrochen, kaputt",
+        "english": "broken",
+        "audio": "broken.ogg"
+    },
+    {
+        "german": "Paar",
+        "english": "pair",
+        "audio": "pair.ogg"
+    },
+    {
+        "german": "Hundeausführer(in)",
+        "english": "dog walker",
+        "audio": "dog_walker.ogg"
+    },
+    {
+        "german": "Zeitungsausträger",
+        "english": "paperboy",
+        "audio": "paperboy.ogg"
+    },
+    {
+        "german": "Zeitungsausträgerin",
+        "english": "papergirl",
+        "audio": "papergirl.ogg"
+    },
+    {
+        "german": "Babysitter(in)",
+        "english": "babysitter",
+        "audio": "babysitter.ogg"
+    },
+    {
+        "german": "sich um jemanden kümmern, für jemanden sorgen",
+        "english": "to take care of (somebody)",
+        "audio": "to_take_care_of_(somebody).ogg",
+        "alternatives": [
+            "to take care",
+            "to take care of",
+            "to take care of somebody",
+            "take care",
+            "take care of",
+            "take care of somebody"
+        ]
+    },
+    {
+        "german": "meistens, hauptsächlich",
+        "english": "mostly",
+        "audio": "mostly.ogg"
+    }
+]
