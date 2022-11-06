@@ -1,0 +1,131 @@
+[
+    {
+        "german": "ein Virtel",
+        "french": "un quartier",
+        "audio": "un_quartier.ogg"
+    },
+    {
+        "german": "Was gibt es im Virtel?",
+        "french": "Qu'est-ce qu'il y a dans le quartier?",
+        "audio": "quest_ce_quil_y_a_dans_le_quartier.ogg",
+        "alternatives": [
+            "Qu'est-ce qu'il y a dans le quartier"
+        ]
+    },
+    {
+        "german": "Es gibt ...",
+        "french": "Il y a ...",
+        "audio": "il_y_a_.ogg",
+        "alternatives": [
+            "il y a"
+        ]
+    },
+    {
+        "german": "ein Geschäft",
+        "french": "un magasin",
+        "audio": "un_magasin.ogg"
+    },
+    {
+        "german": "ein Supermarkt",
+        "french": "un supermarché",
+        "audio": "un_supermarche.ogg"
+    },
+    {
+        "german": "ein Hotel",
+        "french": "un hôtel",
+        "audio": "un_hôtel.ogg"
+    },
+    {
+        "german": "eine Brücke",
+        "french": "un pont",
+        "audio": "un_pont.ogg"
+    },
+    {
+        "german": "ein Theater",
+        "french": "un théâtre",
+        "audio": "un_theâtre.ogg"
+    },
+    {
+        "german": "eine Kathedrale",
+        "french": "une cathédrale",
+        "audio": "une_cathedrale.ogg"
+    },
+    {
+        "german": "ein Bahnhof",
+        "french": "une gare",
+        "audio": "une_gare.ogg"
+    },
+    {
+        "german": "U-Bahn",
+        "french": "le metro",
+        "audio": "le_metro.ogg"
+    },
+    {
+        "german": "die Natur",
+        "french": "la nature",
+        "audio": "la_nature.ogg"
+    },
+    {
+        "german": "Ort",
+        "french": "l'endroit",
+        "audio": "lendroit.ogg",
+        "alternatives": [
+            "le endroit"
+        ]
+    },
+    {
+        "german": "Mein Lieblingsort",
+        "french": "Mon endroit préféré",
+        "audio": "mon_endroit_prefere.ogg"
+    },
+    {
+        "german": "Trikolore (französische Flagge)",
+        "french": "le drapeau tricolore",
+        "audio": "le_drapeau_tricolore.ogg"
+    },
+    {
+        "german": "Butter",
+        "french": "le beurre",
+        "audio": "le_beurre.ogg"
+    },
+    {
+        "german": "Wein",
+        "french": "le vin",
+        "audio": "le_vin.ogg"
+    },
+    {
+        "german": "die Cafés",
+        "french": "des cafés",
+        "audio": "des_cafes.ogg"
+    },
+    {
+        "german": "ein Park",
+        "french": "un parc",
+        "audio": "un_parc.ogg"
+    },
+    {
+        "german": "der Swimmingpool",
+        "french": "une piscine",
+        "audio": "une_piscine.ogg"
+    },
+    {
+        "german": "die Straße",
+        "french": "la rue",
+        "audio": "la_rue.ogg"
+    },
+    {
+        "german": "die Bäckerei",
+        "french": "la boulangerie",
+        "audio": "la_boulangerie.ogg"
+    },
+    {
+        "german": "das Handelszentrum",
+        "french": "le centre commercial",
+        "audio": "le_centre_commercial.ogg"
+    },
+    {
+        "german": "ein Turm",
+        "french": "une tour",
+        "audio": "une_tour.ogg"
+    }
+]
