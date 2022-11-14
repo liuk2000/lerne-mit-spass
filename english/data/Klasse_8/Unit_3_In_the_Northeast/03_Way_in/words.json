@@ -1,0 +1,135 @@
+[
+    {
+        "german": "sich vorbereiten, sich fertig machen",
+        "english": "to get ready",
+        "audio": "to_get_ready.ogg",
+        "alternatives": [
+            "get ready"
+        ]
+    },
+    {
+        "german": "Ehemann",
+        "english": "husband",
+        "audio": "husband.ogg"
+    },
+    {
+        "german": "jugendlich",
+        "english": "teenage",
+        "audio": "teenage.ogg"
+    },
+    {
+        "german": "stecken bleiben",
+        "english": "to get stuck",
+        "audio": "to_get_stuck.ogg",
+        "alternatives": [
+            "get stuck"
+        ]
+    },
+    {
+        "german": "Türklingel",
+        "english": "doorbell",
+        "audio": "doorbell.ogg"
+    },
+    {
+        "german": "älter",
+        "english": "elderly",
+        "audio": "elderly.ogg"
+    },
+    {
+        "german": "Nachbar(in)",
+        "english": "neighbour",
+        "audio": "neighbour.ogg"
+    },
+    {
+        "german": "eiskalt, gefrierend",
+        "english": "freezing",
+        "audio": "freezing.ogg"
+    },
+    {
+        "german": "froh",
+        "english": "glad",
+        "audio": "glad.ogg"
+    },
+    {
+        "german": "es schaffen",
+        "english": "to make it",
+        "audio": "to_make_it.ogg",
+        "alternatives": [
+            "make it"
+        ]
+    },
+    {
+        "german": "hineingehen, hineinkommen, betreten, eintreten",
+        "english": "to enter",
+        "audio": "to_enter.ogg",
+        "alternatives": [
+            "enter"
+        ]
+    },
+    {
+        "german": "setz dich, setzen Sie sich",
+        "english": "have a seat",
+        "audio": "have_a_seat.ogg"
+    },
+    {
+        "german": "original, urspünglich",
+        "english": "original",
+        "audio": "original.ogg"
+    },
+    {
+        "german": "hinüber, herüber, quer durch",
+        "english": "across",
+        "audio": "across.ogg"
+    },
+    {
+        "german": "eine Kleinigkeit",
+        "english": "a little something",
+        "audio": "a_little_something.ogg"
+    },
+    {
+        "german": "Praline",
+        "english": "chocolate",
+        "audio": "chocolate.ogg"
+    },
+    {
+        "german": "Video",
+        "english": "video",
+        "audio": "video.ogg"
+    },
+    {
+        "german": "dankbar",
+        "english": "thankful",
+        "audio": "thankful.ogg"
+    },
+    {
+        "german": "Motor",
+        "english": "engine",
+        "audio": "engine.ogg"
+    },
+    {
+        "german": "landen",
+        "english": "to land",
+        "audio": "to_land.ogg",
+        "alternatives": [
+            "land"
+        ]
+    },
+    {
+        "german": "aufheben",
+        "english": "to save",
+        "audio": "to_save.ogg",
+        "alternatives": [
+            "save"
+        ]
+    },
+    {
+        "german": "genangweilt",
+        "english": "bored",
+        "audio": "bored.ogg"
+    },
+    {
+        "german": "Stress",
+        "english": "stress",
+        "audio": "stress.ogg"
+    }
+]

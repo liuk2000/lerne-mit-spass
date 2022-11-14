@@ -1,0 +1,36 @@
+[
+    {
+        "german": "Wie geht's?",
+        "english": "What's up?",
+        "audio": "whats_up.ogg",
+        "alternatives": [
+            "What's up"
+        ]
+    },
+    {
+        "german": "Wie geht's? Wie läuft's?",
+        "english": "How's it going?",
+        "audio": "hows_it_going.ogg",
+        "alternatives": [
+            "How's it going",
+            "How is it going",
+            "How is it going?"
+        ]
+    },
+    {
+        "german": "Wie geht's dir?",
+        "english": "How are you doing?",
+        "audio": "how_are_you_doing.ogg",
+        "alternatives": [
+            "How are you doing"
+        ]
+    },
+    {
+        "german": "Wie läuft's bei dir? Was hast du letzte Zeit gemacht?",
+        "english": "What have you been up to?",
+        "audio": "what_have_you_been_up_to.ogg",
+        "alternatives": [
+            "What have you been up to"
+        ]
+    }
+]
