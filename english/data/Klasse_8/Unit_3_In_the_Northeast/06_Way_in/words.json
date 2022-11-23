@@ -1,0 +1,155 @@
+[
+    {
+        "german": "amisch",
+        "english": "Amish",
+        "audio": "amish.ogg"
+    },
+    {
+        "german": "führen, anführen",
+        "english": "to lead (led, led)",
+        "audio": "to_lead_(led_led).ogg",
+        "alternatives": [
+            "to lead",
+            "lead"
+        ]
+    },
+    {
+        "german": "(sich) konzentrieren",
+        "english": "to concentrate",
+        "audio": "to_concentrate.ogg",
+        "alternatives": [
+            "concentrate"
+        ]
+    },
+    {
+        "german": "bedecken, abdecken",
+        "english": "to cover",
+        "audio": "to_cover.ogg",
+        "alternatives": [
+            "cover"
+        ]
+    },
+    {
+        "german": "Make-up, Schminke",
+        "english": "make-up",
+        "audio": "make_up.ogg"
+    },
+    {
+        "german": "anbauen, züchten, ziehen, wachsen",
+        "english": "to grow (grew, grown)",
+        "audio": "to_grow_(grew_grown).ogg",
+        "alternatives": [
+            "to grow",
+            "grow"
+        ]
+    },
+    {
+        "german": "sich kümmern um, sich interessieren für, wichtig nehmen",
+        "english": "to care about",
+        "audio": "to_care_about.ogg",
+        "alternatives": [
+            "care about",
+            "to care (about)",
+            "care (about)"
+        ]
+    },
+    {
+        "german": "Außenwelt",
+        "english": "outside world",
+        "audio": "outside_world.ogg"
+    },
+    {
+        "german": "verboten",
+        "english": "forbidden",
+        "audio": "forbidden.ogg"
+    },
+    {
+        "german": "Alkohol",
+        "english": "alcohol",
+        "audio": "alcohol.ogg"
+    },
+    {
+        "german": "bedauern",
+        "english": "to regret",
+        "audio": "to_regret.ogg",
+        "alternatives": [
+            "regret"
+        ]
+    },
+    {
+        "german": "vermuten, schätzen",
+        "english": "to guess",
+        "audio": "to_guess.ogg",
+        "alternatives": [
+            "guess"
+        ]
+    },
+    {
+        "german": "durschnittlich",
+        "english": "average",
+        "audio": "average.ogg"
+    },
+    {
+        "german": "Mode",
+        "english": "fashion",
+        "audio": "fashion.ogg"
+    },
+    {
+        "german": "Klatsch, Tratsch, Gerede",
+        "english": "gossip",
+        "audio": "gossip.ogg"
+    },
+    {
+        "german": "bügeln",
+        "english": "to iron",
+        "audio": "to_iron.ogg",
+        "alternatives": [
+            "iron"
+        ]
+    },
+    {
+        "german": "okay",
+        "english": "alright",
+        "audio": "alright.ogg"
+    },
+    {
+        "german": "rumhängen (mit), sich treffen (mit), sich herumtreiben (mit)",
+        "english": "to hang out (with)",
+        "audio": "to_hang_out_(with).ogg",
+        "alternatives": [
+            "to hang out with",
+            "hang out with",
+            "hang out (with)"
+        ]
+    },
+    {
+        "german": "Bowlen",
+        "english": "bowling",
+        "audio": "bowling.ogg"
+    },
+    {
+        "german": "Kino",
+        "english": "the movies",
+        "audio": "the_movies.ogg"
+    },
+    {
+        "german": "elektrisch",
+        "english": "electric",
+        "audio": "electric.ogg"
+    },
+    {
+        "german": "Superheld",
+        "english": "superhero",
+        "audio": "superhero.ogg"
+    },
+    {
+        "german": "vor",
+        "english": "before",
+        "audio": "before.ogg"
+    },
+    {
+        "german": "alles in allem, insgesamt",
+        "english": "all in all",
+        "audio": "all_in_all.ogg"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "german": "Gerät, Vorrichtung",
+        "english": "device",
+        "audio": "device.ogg"
+    },
+    {
+        "german": "Tablet",
+        "english": "tablet",
+        "audio": "tablet.ogg"
+    },
+    {
+        "german": "Wäschertrockner",
+        "english": "dryer",
+        "audio": "dryer.ogg"
+    },
+    {
+        "german": "Mikrowelle",
+        "english": "microwave",
+        "audio": "microwave.ogg"
+    },
+    {
+        "german": "Kopfhörer",
+        "english": "headphones",
+        "audio": "headphones.ogg"
+    },
+    {
+        "german": "Mobiltelefon, Handy",
+        "english": "cell phone",
+        "audio": "cell_phone.ogg"
+    },
+    {
+        "german": "Haarglätter",
+        "english": "hair straightener",
+        "audio": "hair_straightener.ogg"
+    },
+    {
+        "german": "Ventilator",
+        "english": "fan",
+        "audio": "fan.ogg"
+    },
+    {
+        "german": "Spülmaschine",
+        "english": "dishwasher",
+        "audio": "dishwasher.ogg"
+    },
+    {
+        "german": "Staubsauger",
+        "english": "vacuum cleaner",
+        "audio": "vacuum_cleaner.ogg"
+    },
+    {
+        "german": "Rasierer, Rasieapparat",
+        "english": "razor",
+        "audio": "razor.ogg"
+    },
+    {
+        "german": "Heizkörper",
+        "english": "radiator",
+        "audio": "radiator.ogg"
+    }
+]

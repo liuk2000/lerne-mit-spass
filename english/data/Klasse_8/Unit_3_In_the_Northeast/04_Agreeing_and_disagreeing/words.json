@@ -1,0 +1,54 @@
+[
+    {
+        "german": "genau",
+        "english": "exactly",
+        "audio": "exactly.ogg"
+    },
+    {
+        "german": "ganz und gar nicht",
+        "english": "absolutely not",
+        "audio": "absolutely_not.ogg"
+    },
+    {
+        "german": "soweit ich weiß ...",
+        "english": "as fas as I know",
+        "audio": "as_fas_as_i_know.ogg",
+        "alternatives": [
+            "as far as I know ..."
+        ]
+    },
+    {
+        "german": "Ich nehme an, dass ...",
+        "english": "I guess",
+        "audio": "i_guess.ogg",
+        "alternatives": [
+            "I guess ..."
+        ]
+    },
+    {
+        "german": "Ich bin überzeugt, dass ...",
+        "english": "I'm convinced that",
+        "audio": "im_convinced_that.ogg",
+        "alternatives": [
+            "I'm convinced that ...",
+            "I amm convinced that ...",
+            "I am convinced that"
+        ]
+    },
+    {
+        "german": "Mir ist klar, dass ...",
+        "english": "It's clear to me that",
+        "audio": "its_clear_to_me_that.ogg",
+        "alternatives": [
+            "It's clear to me that ..."
+        ]
+    },
+    {
+        "german": "Ich bezweifle, dass ...",
+        "english": "I doubt that",
+        "audio": "i_doubt_that.ogg",
+        "alternatives": [
+            "I doubt that ..."
+        ]
+    }
+]
