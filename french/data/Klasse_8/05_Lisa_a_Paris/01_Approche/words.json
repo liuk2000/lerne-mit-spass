@@ -1,0 +1,72 @@
+[
+    {
+        "german": "der Louvre",
+        "french": "le Louvre",
+        "audio": "le_louvre.ogg",
+        "alternatives": [
+            "Louvre"
+        ]
+    },
+    {
+        "german": "der Triumphbogen",
+        "french": "l'Arc de Triomphe",
+        "audio": "larc_de_triomphe.ogg",
+        "alternatives": [
+            "le arc de Triomphe",
+            "arc de Triomphe"
+        ]
+    },
+    {
+        "german": "der Eiffelturm",
+        "french": "la Tour Eiffel",
+        "audio": "la_tour_eiffel.ogg",
+        "alternatives": [
+            "Tour Eiffel"
+        ]
+    },
+    {
+        "german": "Herz-Jesu-Basilika",
+        "french": "le Sacré-Cœur",
+        "audio": "le_sacre_cœur.ogg",
+        "alternatives": [
+            "Sacré-Cœur",
+            "le Sacré-Coeur",
+            "Sacré-Coeur"
+        ]
+    },
+    {
+        "german": "Notre-Dame",
+        "french": "Notre-Dame",
+        "audio": "notre_dame.ogg"
+    },
+    {
+        "german": "ein ein (Stadt-)Viertel",
+        "french": "un arondissement",
+        "audio": "un_arondissement.ogg"
+    },
+    {
+        "german": "eine Stadtbesichtigung, eine Stadtrundfahrt",
+        "french": "une visite touristique",
+        "audio": "une_visite_touristique.ogg"
+    },
+    {
+        "german": "ein Monument, Denkmal",
+        "french": "un monument",
+        "audio": "un_monument.ogg"
+    },
+    {
+        "german": "ein Museum",
+        "french": "un musée",
+        "audio": "un_musee.ogg"
+    },
+    {
+        "german": "eine Kathedrale, ein Dom",
+        "french": "une cathédrale",
+        "audio": "une_cathedrale.ogg"
+    },
+    {
+        "german": "eine Kirche",
+        "french": "une église",
+        "audio": "une_eglise.ogg"
+    }
+]

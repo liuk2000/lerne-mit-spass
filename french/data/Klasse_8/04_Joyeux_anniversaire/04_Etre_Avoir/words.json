@@ -1,0 +1,76 @@
+[
+    {
+        "german": "ich bin",
+        "french": "je suis",
+        "audio": "je_suis.ogg"
+    },
+    {
+        "german": "du bist",
+        "french": "tu es",
+        "audio": "tu_es.ogg"
+    },
+    {
+        "german": "er / sie ist",
+        "french": "il / elle / on est",
+        "audio": "il__elle__on_est.ogg",
+        "alternatives": [
+            "il/elle est",
+            "il/elle/on est"
+        ]
+    },
+    {
+        "german": "wir sind",
+        "french": "nous sommes",
+        "audio": "nous_sommes.ogg"
+    },
+    {
+        "german": "Sie sind / Ihr seid",
+        "french": "vous êtes",
+        "audio": "vous_êtes.ogg"
+    },
+    {
+        "german": "sie sind",
+        "french": "ils / elles sont",
+        "audio": "ils__elles_sont.ogg",
+        "alternatives": [
+            "ils/elles sont"
+        ]
+    },
+    {
+        "german": "ich habe",
+        "french": "j'ai",
+        "audio": "jai.ogg"
+    },
+    {
+        "german": "du hast",
+        "french": "tu as",
+        "audio": "tu_as.ogg"
+    },
+    {
+        "german": "er / sie hat",
+        "french": "il / elle / on a",
+        "audio": "il__elle__on_a.ogg",
+        "alternatives": [
+            "il/elle a",
+            "il/elle/on a"
+        ]
+    },
+    {
+        "german": "wir haben",
+        "french": "nous avons",
+        "audio": "nous_avons.ogg"
+    },
+    {
+        "german": "Sie haben / Ihr habt",
+        "french": "vous avez",
+        "audio": "vous_avez.ogg"
+    },
+    {
+        "german": "sie haben",
+        "french": "ils / elles ont",
+        "audio": "ils__elles_ont.ogg",
+        "alternatives": [
+            "ils/elles ont"
+        ]
+    }
+]
