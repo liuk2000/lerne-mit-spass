@@ -1,0 +1,127 @@
+[
+    {
+        "german": "ein Bett",
+        "french": "un lit",
+        "audio": "un_lit.ogg"
+    },
+    {
+        "german": "ein Stuhl",
+        "french": "une chaise",
+        "audio": "une_chaise.ogg"
+    },
+    {
+        "german": "ein Schrank",
+        "french": "une armoire",
+        "audio": "une_armoire.ogg"
+    },
+    {
+        "german": "ein Tisch",
+        "french": "une table",
+        "audio": "une_table.ogg"
+    },
+    {
+        "german": "ein Schreibtisch",
+        "french": "un bureau",
+        "audio": "un_bureau.ogg"
+    },
+    {
+        "german": "die Schreibtische",
+        "french": "des bureaux",
+        "audio": "des_bureaux.ogg"
+    },
+    {
+        "german": "sein/ihr",
+        "french": "son",
+        "audio": "son.ogg"
+    },
+    {
+        "german": "seine/ihre",
+        "french": "sa",
+        "audio": "sa.ogg"
+    },
+    {
+        "german": "seine/ihre (plural)",
+        "french": "ses",
+        "audio": "ses.ogg"
+    },
+    {
+        "german": "ein Computer",
+        "french": "un ordinateur",
+        "audio": "un_ordinateur.ogg"
+    },
+    {
+        "german": "ein Comicheft",
+        "french": "une BD",
+        "audio": "une_bd.ogg"
+    },
+    {
+        "german": "eine elektrische Gitarre",
+        "french": "une guitare électrique",
+        "audio": "une_guitare_electrique.ogg"
+    },
+    {
+        "german": "unter",
+        "french": "sous",
+        "audio": "sous.ogg"
+    },
+    {
+        "german": "Rugby",
+        "french": "le rugby",
+        "audio": "le_rugby.ogg"
+    },
+    {
+        "german": "Was ist im Kleiderschrank?",
+        "french": "Qu'est-ce qu'il y a dans l'armoir?",
+        "audio": "quest_ce_quil_y_a_dans_larmoir.ogg"
+    },
+    {
+        "german": "die Sachen",
+        "french": "les affaires",
+        "audio": "les_affaires.ogg"
+    },
+    {
+        "german": "ein Kissen",
+        "french": "un coussin",
+        "audio": "un_coussin.ogg"
+    },
+    {
+        "german": "ein Spiegel",
+        "french": "une glace",
+        "audio": "une_glace.ogg"
+    },
+    {
+        "german": "Regal",
+        "french": "une étagère",
+        "audio": "une_etagere.ogg"
+    },
+    {
+        "german": "ein Poster",
+        "french": "un poster",
+        "audio": "un_poster.ogg"
+    },
+    {
+        "german": "ein Sofa",
+        "french": "un canapé",
+        "audio": "un_canape.ogg"
+    },
+    {
+        "german": "ein Sessel",
+        "french": "un fauteuil",
+        "audio": "un_fauteuil.ogg"
+    },
+    {
+        "german": "eine Lampe",
+        "french": "une lampe",
+        "audio": "une_lampe.ogg"
+    },
+    {
+        "german": "ein Teppich",
+        "french": "un tapis",
+        "audio": "un_tapis.ogg"
+    },
+    {
+        "german": "ein Zimmer",
+        "french": "une chambre",
+        "audio": "une_chambre.ogg"
+    }
+]

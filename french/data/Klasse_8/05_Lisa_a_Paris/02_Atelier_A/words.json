@@ -1,0 +1,245 @@
+[
+    {
+        "german": "nach/zu/in",
+        "french": "à la, à l', au, aux",
+        "audio": "à_la_à_l_au_aux.ogg",
+        "alternatives": [
+            "à la/à l'/au/aux"
+        ]
+    },
+    {
+        "german": "Wohin gehst du?",
+        "french": "Tu vas où?",
+        "audio": "tu_vas_où.ogg",
+        "alternatives": [
+            "Tu vas où"
+        ]
+    },
+    {
+        "german": "Ich gehe zum Eiffelturm",
+        "french": "Je vais à la tour Eiffel",
+        "audio": "je_vais_à_la_tour_eiffel.ogg"
+    },
+    {
+        "german": "Er geht zum Louvre",
+        "french": "Il va au Louvre",
+        "audio": "il_va_au_louvre.ogg"
+    },
+    {
+        "german": "Ich liebe dich",
+        "french": "Je t'aime",
+        "audio": "je_taime.ogg"
+    },
+    {
+        "german": "wohnen",
+        "french": "habiter",
+        "audio": "habiter.ogg"
+    },
+    {
+        "german": "in Deutschland",
+        "french": "en Allemagne",
+        "audio": "en_allemagne.ogg"
+    },
+    {
+        "german": "ein(e) Brieffreund(in)",
+        "french": "un(e) corres",
+        "audio": "un(e)_corres.ogg",
+        "alternatives": [
+            "un corres",
+            "une corres"
+        ]
+    },
+    {
+        "german": "der Nachmittag, am Nachmittag",
+        "french": "l'àpres-midi",
+        "audio": "làpres_midi.ogg"
+    },
+    {
+        "german": "Sie gehen zur Kirsche Sacré-Cœur",
+        "french": "Ils/Elles vont au Sacré-Cœur",
+        "audio": "ilselles_vont_au_sacre_cœur.ogg",
+        "alternatives": [
+            "Ils/Elles vont au Sacré-Coeur",
+            "Ils vont au Sacré-Cœur",
+            "Ils vont au Sacré-Coer",
+            "Elles vont au Sacré-Cœur",
+            "Elles vont au Sacré-Coer"
+        ]
+    },
+    {
+        "german": "eine (Aus)Sicht",
+        "french": "une vue",
+        "audio": "une_vue.ogg"
+    },
+    {
+        "german": "fantastisch/toll",
+        "french": "fantastique",
+        "audio": "fantastique.ogg"
+    },
+    {
+        "german": "wenn das Wetter schön ist",
+        "french": "quand il fait beau",
+        "audio": "quand_il_fait_beau.ogg"
+    },
+    {
+        "german": "Ich glaub, ich spinne!",
+        "french": "J'hallucine!",
+        "audio": "jhallucine.ogg",
+        "alternatives": [
+            "J'hallucine"
+        ]
+    },
+    {
+        "german": "halluzinieren, spinnen",
+        "french": "halluciner",
+        "audio": "halluciner.ogg"
+    },
+    {
+        "german": "Komm!",
+        "french": "Viens!",
+        "audio": "viens.ogg",
+        "alternatives": [
+            "Viens"
+        ]
+    },
+    {
+        "german": "Wo geht ihr hin?",
+        "french": "Vous allez où?",
+        "audio": "vous_allez_où.ogg",
+        "alternatives": [
+            "Vous allez où"
+        ]
+    },
+    {
+        "german": "Wie er jongliert!",
+        "french": "Comme il jongle!",
+        "audio": "comme_il_jongle.ogg",
+        "alternatives": [
+            "Comme il jongle"
+        ]
+    },
+    {
+        "german": "jonglieren",
+        "french": "jongler",
+        "audio": "jongler.ogg"
+    },
+    {
+        "german": "Das ist verrücht! Wahnsinn!",
+        "french": "C'est fou!",
+        "audio": "cest_fou.ogg",
+        "alternatives": [
+            "C'est fou"
+        ]
+    },
+    {
+        "german": "Schnell!",
+        "french": "Vite!",
+        "audio": "vite.ogg",
+        "alternatives": [
+            "Vite"
+        ]
+    },
+    {
+        "german": "ein(e) Tourist(in)",
+        "french": "un(e) touriste",
+        "audio": "un(e)_touriste.ogg",
+        "alternatives": [
+            "un touriste",
+            "une touriste"
+        ]
+    },
+    {
+        "german": "Wir gehen zum Place du Tertre",
+        "french": "Nous allons à la place du Tertre",
+        "audio": "nous_allons_à_la_place_du_tertre.ogg"
+    },
+    {
+        "german": "ein Platz",
+        "french": "une place",
+        "audio": "une_place.ogg"
+    },
+    {
+        "german": "ein(e) Künstler(in), Artist(in)",
+        "french": "un(e) artiste",
+        "audio": "un(e)_artiste.ogg",
+        "alternatives": [
+            "un artiste",
+            "une artiste"
+        ]
+    },
+    {
+        "german": "ein Verkäufer",
+        "french": "un vendeur",
+        "audio": "un_vendeur.ogg"
+    },
+    {
+        "german": "eine Verkäuferin",
+        "french": "une vendeuse",
+        "audio": "une_vendeuse.ogg"
+    },
+    {
+        "german": "ein Andenken, Souvenir, eine Erinnerung",
+        "french": "un souvenir",
+        "audio": "un_souvenir.ogg"
+    },
+    {
+        "german": "ein Schüsselanhänger",
+        "french": "un porte-clé",
+        "audio": "un_porte_cle.ogg"
+    },
+    {
+        "german": "Schlüsselanhänger (pl)",
+        "french": "des porte-clés",
+        "audio": "des_porte_cles.ogg"
+    },
+    {
+        "german": "ein Schal, ein Halstuch",
+        "french": "un foulard",
+        "audio": "un_foulard.ogg"
+    },
+    {
+        "german": "ein Armreif, Armband",
+        "french": "un bracelet",
+        "audio": "un_bracelet.ogg"
+    },
+    {
+        "german": "Fräulein (Anrede)",
+        "french": "mademoiselle",
+        "audio": "mademoiselle.ogg"
+    },
+    {
+        "german": "Das ist nicht teuer / Das ist billig",
+        "french": "Ce n'est pas cher",
+        "audio": "ce_nest_pas_cher.ogg"
+    },
+    {
+        "german": "für beide",
+        "french": "pour les deux",
+        "audio": "pour_les_deux.ogg"
+    },
+    {
+        "german": "Hier, nimm",
+        "french": "Tiens",
+        "audio": "tiens.ogg"
+    },
+    {
+        "german": "besichtigen",
+        "french": "visiter",
+        "audio": "visiter.ogg"
+    },
+    {
+        "german": "danach",
+        "french": "après",
+        "audio": "apres.ogg"
+    },
+    {
+        "german": "gehen, fahren",
+        "french": "aller",
+        "audio": "aller.ogg"
+    },
+    {
+        "german": "minus, weniger",
+        "french": "moins",
+        "audio": "moins.ogg"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "german": "eine Familie",
+        "french": "une famille",
+        "audio": "une_famille.ogg"
+    },
+    {
+        "german": "der Vater",
+        "french": "le père",
+        "audio": "le_pere.ogg"
+    },
+    {
+        "german": "die Mutter",
+        "french": "la mère",
+        "audio": "la_mere.ogg"
+    },
+    {
+        "german": "die Eltern",
+        "french": "les parents",
+        "audio": "les_parents.ogg"
+    },
+    {
+        "german": "der Großvater / Opa",
+        "french": "le grand-père",
+        "audio": "le_grand_pere.ogg"
+    },
+    {
+        "german": "die Großmutter / Oma",
+        "french": "la grand-mère",
+        "audio": "la_grand_mere.ogg"
+    },
+    {
+        "german": "die Großeltern",
+        "french": "les grands-parents",
+        "audio": "les_grands_parents.ogg"
+    },
+    {
+        "german": "mein",
+        "french": "mon",
+        "audio": "mon.ogg"
+    },
+    {
+        "german": "meine",
+        "french": "ma",
+        "audio": "ma.ogg"
+    },
+    {
+        "german": "meine (plural)",
+        "french": "mes",
+        "audio": "mes.ogg"
+    },
+    {
+        "german": "eine Küche",
+        "french": "une cuisine",
+        "audio": "une_cuisine.ogg"
+    },
+    {
+        "german": "dein",
+        "french": "ton",
+        "audio": "ton.ogg"
+    },
+    {
+        "german": "deine",
+        "french": "ta",
+        "audio": "ta.ogg"
+    },
+    {
+        "german": "deine (plural)",
+        "french": "tes",
+        "audio": "tes.ogg"
+    },
+    {
+        "german": "ein Kuchen",
+        "french": "un gâteau",
+        "audio": "un_gâteau.ogg"
+    },
+    {
+        "german": "bringen / mitbringen",
+        "french": "apporter",
+        "audio": "apporter.ogg"
+    },
+    {
+        "german": "eine Erdnuss",
+        "french": "une cacahuète",
+        "audio": "une_cacahuete.ogg"
+    },
+    {
+        "german": "die Chips",
+        "french": "les chips",
+        "audio": "les_chips.ogg"
+    },
+    {
+        "german": "ein Aperitif",
+        "french": "un apéritif",
+        "audio": "un_aperitif.ogg"
+    },
+    {
+        "german": "eine Cola",
+        "french": "un coca",
+        "audio": "un_coca.ogg"
+    },
+    {
+        "german": "ein Orangensaft",
+        "french": "un jus d'orange",
+        "audio": "un_jus_dorange.ogg"
+    },
+    {
+        "german": "aufräumen",
+        "french": "ranger",
+        "audio": "ranger.ogg"
+    },
+    {
+        "german": "ein (Schlaf-)Zimmer",
+        "french": "une chambre",
+        "audio": "une_chambre.ogg"
+    },
+    {
+        "german": "Opa / Opi",
+        "french": "papi",
+        "audio": "papi.ogg"
+    },
+    {
+        "german": "Oma / Omi",
+        "french": "mamie",
+        "audio": "mamie.ogg"
+    },
+    {
+        "german": "ein Lippenstift",
+        "french": "un rouge à lèvres",
+        "audio": "un_rouge_à_levres.ogg"
+    },
+    {
+        "german": "im Regal",
+        "french": "sur l'étagère",
+        "audio": "sur_letagere.ogg"
+    },
+    {
+        "german": "auf",
+        "french": "sur",
+        "audio": "sur.ogg"
+    },
+    {
+        "german": "ein Regal",
+        "french": "une étagère",
+        "audio": "une_etagere.ogg"
+    },
+    {
+        "german": "schon",
+        "french": "déjà",
+        "audio": "dejà.ogg"
+    },
+    {
+        "german": "Herzlichen Glückwunsch",
+        "french": "Bon anniversaire",
+        "audio": "bon_anniversaire.ogg"
+    },
+    {
+        "german": "ein Paket",
+        "french": "un paquet",
+        "audio": "un_paquet.ogg"
+    },
+    {
+        "german": "Es ist riesig",
+        "french": "Il est énorme",
+        "audio": "il_est_enorme.ogg"
+    },
+    {
+        "german": "ein Wohnzimmer",
+        "french": "un salon",
+        "audio": "un_salon.ogg"
+    },
+    {
+        "german": "Zeig mal",
+        "french": "Fais voir",
+        "audio": "fais_voir.ogg"
+    },
+    {
+        "german": "Er ist klasse",
+        "french": "Il est classe",
+        "audio": "il_est_classe.ogg"
+    },
+    {
+        "german": "das Tischfußballspiel, der Kicker",
+        "french": "le babyfoot",
+        "audio": "le_babyfoot.ogg"
+    },
+    {
+        "german": "Du bist dran",
+        "french": "A toi",
+        "audio": "a_toi.ogg"
+    },
+    {
+        "german": "Ich bin dran",
+        "french": "A moi",
+        "audio": "a_moi.ogg"
+    },
+    {
+        "german": "Gewonnen",
+        "french": "Gagné",
+        "audio": "gagne.ogg"
+    },
+    {
+        "german": "gewinnen",
+        "french": "gagner",
+        "audio": "gagner.ogg"
+    },
+    {
+        "german": "Wir sind dran",
+        "french": "C'est à nous",
+        "audio": "cest_à_nous.ogg"
+    },
+    {
+        "german": "eine SMS",
+        "french": "un SMS",
+        "audio": "un_sms.ogg"
+    },
+    {
+        "german": "der TVG (Hochgeschindigkeitszug)",
+        "french": "le TGV",
+        "audio": "le_tgv.ogg"
+    },
+    {
+        "german": "die SNCF (frz. Eisenbahn)",
+        "french": "la SNCF",
+        "audio": "la_sncf.ogg"
+    },
+    {
+        "german": "der PSG (Fußballmannschaft von Paris)",
+        "french": "le PSG",
+        "audio": "le_psg.ogg"
+    }
+]

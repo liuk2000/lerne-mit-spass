@@ -1,0 +1,62 @@
+[
+    {
+        "german": "Januar",
+        "french": "janvier",
+        "audio": "janvier.ogg"
+    },
+    {
+        "german": "Februar",
+        "french": "février",
+        "audio": "fevrier.ogg"
+    },
+    {
+        "german": "März",
+        "french": "mars",
+        "audio": "mars.ogg"
+    },
+    {
+        "german": "April",
+        "french": "avril",
+        "audio": "avril.ogg"
+    },
+    {
+        "german": "Mai",
+        "french": "mai",
+        "audio": "mai.ogg"
+    },
+    {
+        "german": "Juni",
+        "french": "juin",
+        "audio": "juin.ogg"
+    },
+    {
+        "german": "Juli",
+        "french": "juillet",
+        "audio": "juillet.ogg"
+    },
+    {
+        "german": "August",
+        "french": "aoùt",
+        "audio": "aoùt.ogg"
+    },
+    {
+        "german": "September",
+        "french": "septembre",
+        "audio": "septembre.ogg"
+    },
+    {
+        "german": "Oktober",
+        "french": "octobre",
+        "audio": "octobre.ogg"
+    },
+    {
+        "german": "November",
+        "french": "novembre",
+        "audio": "novembre.ogg"
+    },
+    {
+        "german": "Dezember",
+        "french": "décembre",
+        "audio": "decembre.ogg"
+    }
+]

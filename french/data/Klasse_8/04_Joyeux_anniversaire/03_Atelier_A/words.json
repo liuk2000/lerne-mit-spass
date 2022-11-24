@@ -1,0 +1,169 @@
+[
+    {
+        "german": "ein Geschenk / Geschenke",
+        "french": "un cadeau / des cadeaux",
+        "audio": "un_cadeau__des_cadeaux.ogg",
+        "alternatives": [
+            "un cadeau"
+        ]
+    },
+    {
+        "german": "morgen",
+        "french": "demain",
+        "audio": "demain.ogg"
+    },
+    {
+        "german": "Sie sind bei Fnac",
+        "french": "Ils / elles sont à la Fnac",
+        "audio": "ils__elles_sont_à_la_fnac.ogg",
+        "alternatives": [
+            "Ils sont à la Fnac",
+            "Elles sont à la Fnac"
+        ]
+    },
+    {
+        "german": "in/im/bei/auf",
+        "french": "à",
+        "audio": "à.ogg"
+    },
+    {
+        "german": "Was kaufen wir?",
+        "french": "Qu'est-ce qu'on achète?",
+        "audio": "quest_ce_quon_achete.ogg",
+        "alternatives": [
+            "Qu'est-ce qu'on achète"
+        ]
+    },
+    {
+        "german": "eine CD / CDs",
+        "french": "un CD / des CD",
+        "audio": "un_cd__des_cd.ogg",
+        "alternatives": [
+            "un CD"
+        ]
+    },
+    {
+        "german": "ein Videospiel / Videospiele",
+        "french": "un jeu vidéo / des jeux vidéo",
+        "audio": "un_jeu_video__des_jeux_video.ogg",
+        "alternatives": [
+            "un jeu vidéo"
+        ]
+    },
+    {
+        "german": "Wo sind ...?",
+        "french": "Où sont ...?",
+        "audio": "où_sont_.ogg",
+        "alternatives": [
+            "Où sont ...",
+            "Où sont",
+            "Où sont?"
+        ]
+    },
+    {
+        "german": "Das ist teuer",
+        "french": "C'est cher",
+        "audio": "cest_cher.ogg"
+    },
+    {
+        "german": "ein Film (Kino)",
+        "french": "un film",
+        "audio": "un_film.ogg"
+    },
+    {
+        "german": "Bist du einverstanden?",
+        "french": "Tu es d'accord?",
+        "audio": "tu_es_daccord.ogg",
+        "alternatives": [
+            "Tu es d'accord"
+        ]
+    },
+    {
+        "german": "eine DVD / DVDs",
+        "french": "un DVD / des DVD",
+        "audio": "un_dvd__des_dvd.ogg",
+        "alternatives": [
+            "un DVD"
+        ]
+    },
+    {
+        "german": "dort / dorthin",
+        "french": "lá-bas",
+        "audio": "lá_bas.ogg"
+    },
+    {
+        "german": "Er / sie / es ist cool",
+        "french": "Il / elle est cool",
+        "audio": "il__elle_est_cool.ogg",
+        "alternatives": [
+            "Il est cool",
+            "Elle est cool"
+        ]
+    },
+    {
+        "german": "Keine Ahnung / Ich weiß (es) nicht",
+        "french": "Je ne sais pas",
+        "audio": "je_ne_sais_pas.ogg"
+    },
+    {
+        "german": "Ich bin einverstanden",
+        "french": "Je suis d'accord",
+        "audio": "je_suis_daccord.ogg"
+    },
+    {
+        "german": "Ich auch",
+        "french": "Moi aussi",
+        "audio": "moi_aussi.ogg"
+    },
+    {
+        "german": "Hallo?",
+        "french": "Alló?",
+        "audio": "alló.ogg",
+        "alternatives": [
+            "Alló"
+        ]
+    },
+    {
+        "german": "ein Tischtennisschläger",
+        "french": "une raquette de ping-pong",
+        "audio": "une_raquette_de_ping_pong.ogg"
+    },
+    {
+        "german": "Warte mal",
+        "french": "Attends",
+        "audio": "attends.ogg"
+    },
+    {
+        "german": "Wo seid ihr?",
+        "french": "Vous étes où?",
+        "audio": "vous_etes_où.ogg",
+        "alternatives": [
+            "Vous étes où"
+        ]
+    },
+    {
+        "german": "wo / wohin",
+        "french": "où",
+        "audio": "où.ogg"
+    },
+    {
+        "german": "Wir sind im Bus",
+        "french": "Nous sommes dans le bus",
+        "audio": "nous_sommes_dans_le_bus.ogg"
+    },
+    {
+        "german": "ein Bus",
+        "french": "un bus",
+        "audio": "un_bus.ogg"
+    },
+    {
+        "german": "sein",
+        "french": "étre",
+        "audio": "etre.ogg"
+    },
+    {
+        "german": "am 12 April",
+        "french": "le 12 avril",
+        "audio": "le_12_avril.ogg"
+    }
+]
