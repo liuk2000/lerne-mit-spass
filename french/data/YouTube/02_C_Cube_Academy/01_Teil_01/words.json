@@ -1,0 +1,187 @@
+[
+  {
+    "audio": "pasteque.ogg",
+    "french": "la pastèque",
+    "german": "Wassermelone"
+  },
+  {
+    "audio": "raisins.ogg",
+    "french": "les raisins",
+    "german": "Trauben"
+  },
+  {
+    "audio": "mangue.ogg",
+    "french": "la mangue",
+    "german": "Mango"
+  },
+  {
+    "audio": "citron.ogg",
+    "french": "le citron",
+    "german": "Zitrone"
+  },
+  {
+    "audio": "noix_de_coco.ogg",
+    "french": "la noix de coco",
+    "german": "Kokosnuss"
+  },
+  {
+    "audio": "ananas.ogg",
+    "french": "le ananas",
+    "german": "Ananas"
+  },
+  {
+    "audio": "poire.ogg",
+    "french": "la poire",
+    "german": "Birne"
+  },
+  {
+    "audio": "cerise.ogg",
+    "french": "la cerise",
+    "german": "Kirsche"
+  },
+  {
+    "audio": "pamplemousse.ogg",
+    "french": "le pamplemousse",
+    "german": "Grapefruit"
+  },
+  {
+    "audio": "papaye.ogg",
+    "french": "la papaye",
+    "german": "Papaya"
+  },
+  {
+    "audio": "chandelle.ogg",
+    "french": "la chandelle",
+    "german": "Kerze"
+  },
+  {
+    "audio": "queue.ogg",
+    "french": "la queue",
+    "german": "Schwanz"
+  },
+  {
+    "audio": "râteau.ogg",
+    "french": "le râteau",
+    "german": "der Rechen (Граблі)"
+  },
+  {
+    "audio": "doigt.ogg",
+    "french": "le doigt",
+    "german": "Finger"
+  },
+  {
+    "audio": "casserole.ogg",
+    "french": "la casserole",
+    "german": "Pfanne"
+  },
+  {
+    "audio": "torchon.ogg",
+    "french": "le torchon",
+    "german": "Geschirrhandtuch"
+  },
+  {
+    "audio": "serviette.ogg",
+    "french": "la serviette",
+    "german": "Handtuch"
+  },
+  {
+    "audio": "etagere.ogg",
+    "french": "la étagère",
+    "german": "Regal"
+  },
+  {
+    "audio": "prise_electrique.ogg",
+    "french": "la prise électrique",
+    "german": "Steckdose"
+  },
+  {
+    "audio": "poignee_de_porte.ogg",
+    "french": "la poignée de porte",
+    "german": "Türschnalle"
+  },
+  {
+    "audio": "serrure.ogg",
+    "french": "la serrure",
+    "german": "Schloss, Türschloss"
+  },
+  {
+    "audio": "lavabo.ogg",
+    "french": "le lavabo",
+    "german": "Waschbecken"
+  },
+  {
+    "audio": "evier.ogg",
+    "french": "le évier",
+    "german": "Spülbecken"
+  },
+  {
+    "audio": "chargeur.ogg",
+    "french": "le chargeur",
+    "german": "Ladegerät"
+  },
+  {
+    "audio": "ordinateur_portable.ogg",
+    "french": "le ordinateur portable",
+    "german": "Laptop"
+  },
+  {
+    "audio": "cle_usb.ogg",
+    "french": "la clé USB",
+    "german": "USB-Stick"
+  },
+  {
+    "audio": "ecouteurs.ogg",
+    "french": "les écouteurs",
+    "german": "Kopfhörer"
+  },
+  {
+    "audio": "clavier.ogg",
+    "french": "le clavier",
+    "german": "Klaviatur, Tastatur"
+  },
+  {
+    "audio": "panneau_solaire.ogg",
+    "french": "le panneau solaire",
+    "german": "Solarzellenpanel"
+  },
+  {
+    "audio": "adaptateur.ogg",
+    "french": "le adaptateur",
+    "german": "Adapter"
+  },
+  {
+    "audio": "feu_tricolore.ogg",
+    "french": "le feu tricolore",
+    "german": "Ampel"
+  },
+  {
+    "audio": "panneau.ogg",
+    "french": "le panneau",
+    "german": "Schild"
+  },
+  {
+    "audio": "passage_pieton.ogg",
+    "french": "le passage piéton",
+    "german": "Zebrastreifen"
+  },
+  {
+    "audio": "bouche_de_metro.ogg",
+    "french": "la bouche de métro",
+    "german": "U-Bahn Station"
+  },
+  {
+    "audio": "arret_de_bus.ogg",
+    "french": "le arrêt de bus",
+    "german": "Bushaltestelle"
+  },
+  {
+    "audio": "lampadaire.ogg",
+    "french": "le lampadaire",
+    "german": "Straßenlaterne"
+  },
+  {
+    "audio": "rond_point.ogg",
+    "french": "le rond-point",
+    "german": "Kreisverkehr"
+  }
+]
