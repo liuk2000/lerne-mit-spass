@@ -1,0 +1,152 @@
+[
+  {
+    "audio": "pile.ogg",
+    "french": "pile",
+    "german": "genau, exakt"
+  },
+  {
+    "audio": "rejeter.ogg",
+    "french": "rejeter",
+    "german": "zurückweisen, ablehnen"
+  },
+  {
+    "audio": "se_noyer.ogg",
+    "french": "se noyer",
+    "german": "ertrinken"
+  },
+  {
+    "audio": "tordu.ogg",
+    "french": "tordu",
+    "german": "verdreht, krumm, schief, übergeschnappt"
+  },
+  {
+    "audio": "maudire.ogg",
+    "french": "maudire",
+    "german": "verfluchen, fluchen"
+  },
+  {
+    "audio": "verrouiller.ogg",
+    "french": "verrouiller",
+    "german": "verriegeln, sperren"
+  },
+  {
+    "audio": "mome.ogg",
+    "french": "la môme",
+    "german": "junge Frau, junges Mädchen"
+  },
+  {
+    "audio": "poche.ogg",
+    "french": "la poche",
+    "german": "die Tasche"
+  },
+  {
+    "audio": "soupirer.ogg",
+    "french": "soupirer",
+    "german": "seufzen"
+  },
+  {
+    "audio": "assommer.ogg",
+    "french": "assommer",
+    "german": "niederschlagen, bewustlos schlagen"
+  },
+  {
+    "audio": "ceinture.ogg",
+    "french": "la ceinture",
+    "german": "Gürtel"
+  },
+  {
+    "audio": "eclair.ogg",
+    "french": "le éclair",
+    "german": "Blitz"
+  },
+  {
+    "audio": "doue.ogg",
+    "french": "doué",
+    "german": "begabt"
+  },
+  {
+    "audio": "araignee.ogg",
+    "french": "la araignée",
+    "german": "Spinne"
+  },
+  {
+    "audio": "veuve.ogg",
+    "french": "la veuve",
+    "german": "Witwe"
+  },
+  {
+    "audio": "âme.ogg",
+    "french": "la âme",
+    "german": "Seele"
+  },
+  {
+    "audio": "se_moquer.ogg",
+    "french": "se moquer",
+    "german": "jmdn auslachen, spotten"
+  },
+  {
+    "audio": "mechant.ogg",
+    "french": "méchant",
+    "german": "böse"
+  },
+  {
+    "audio": "nid.ogg",
+    "french": "le nid",
+    "german": "Nest"
+  },
+  {
+    "audio": "la_ferme.ogg",
+    "french": "la ferme",
+    "german": "halt die Klappe"
+  },
+  {
+    "audio": "prevenir.ogg",
+    "french": "prévenir",
+    "german": "verhindern, vorwarnen"
+  },
+  {
+    "audio": "enrhumee.ogg",
+    "french": "enrhumée",
+    "german": "eine Erkältung eingefangen zu haben"
+  },
+  {
+    "audio": "moucher.ogg",
+    "french": "se moucher",
+    "german": "sich die Nase putzen"
+  },
+  {
+    "audio": "guerir.ogg",
+    "french": "guérir",
+    "german": "heilen, genesen"
+  },
+  {
+    "audio": "injuste.ogg",
+    "french": "injuste",
+    "german": "unfair"
+  },
+  {
+    "audio": "conge.ogg",
+    "french": "le congé",
+    "german": "Ferien, Urlaub"
+  },
+  {
+    "audio": "vedette.ogg",
+    "french": "la vedette",
+    "german": "Diva, Star"
+  },
+  {
+    "audio": "deviner.ogg",
+    "french": "deviner",
+    "german": "raten, erraten"
+  },
+  {
+    "audio": "des_fois.ogg",
+    "french": "des fois",
+    "german": "manchmal"
+  },
+  {
+    "audio": "avouer.ogg",
+    "french": "avouer",
+    "german": "gestehen, beichten"
+  }
+]

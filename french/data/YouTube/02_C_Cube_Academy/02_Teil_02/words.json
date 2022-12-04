@@ -1,0 +1,202 @@
+[
+  {
+    "audio": "kiosque.ogg",
+    "french": "le kiosque",
+    "german": "Kiosk"
+  },
+  {
+    "audio": "photocopieuse.ogg",
+    "french": "la photocopieuse",
+    "german": "Kopiergerät"
+  },
+  {
+    "audio": "agenda.ogg",
+    "french": "le agenda",
+    "german": "Tagebuch"
+  },
+  {
+    "audio": "classeur.ogg",
+    "french": "le classeur",
+    "german": "Arbeitsmappe"
+  },
+  {
+    "audio": "rouleau_de_scotch.ogg",
+    "french": "le rouleau de scotch",
+    "german": "Tesa-Rolle"
+  },
+  {
+    "audio": "rayon.ogg",
+    "french": "le rayon",
+    "german": "Regal im Supermarkt"
+  },
+  {
+    "audio": "chariot.ogg",
+    "french": "le chariot",
+    "german": "(Eikauf)wagen"
+  },
+  {
+    "audio": "ticket_de_caisse.ogg",
+    "french": "le ticket de caisse",
+    "german": "Kassenbon"
+  },
+  {
+    "audio": "sac.ogg",
+    "french": "le sac",
+    "german": "Tasche"
+  },
+  {
+    "audio": "caisse.ogg",
+    "french": "la caisse",
+    "german": "die Kasse, Kasten, Kiste"
+  },
+  {
+    "audio": "tapis_roulant.ogg",
+    "french": "le tapis roulant",
+    "german": "Förderband"
+  },
+  {
+    "audio": "cadenas.ogg",
+    "french": "le cadenas",
+    "german": "Hängeschloss"
+  },
+  {
+    "audio": "ceinture.ogg",
+    "french": "la ceinture",
+    "german": "Gürtel"
+  },
+  {
+    "audio": "sac_à_main.ogg",
+    "french": "le sac à main",
+    "german": "Handtasche"
+  },
+  {
+    "audio": "avoir_hâte.ogg",
+    "french": "avoir hâte",
+    "german": "kaum erwarten können"
+  },
+  {
+    "audio": "depanner.ogg",
+    "french": "dépanner",
+    "german": "beheben, reparieren, jmdn aus der Klemme helfen"
+  },
+  {
+    "audio": "ne_ten_fais_pas.ogg",
+    "french": "ne t'en fais pas",
+    "german": "keine Sorge"
+  },
+  {
+    "audio": "remercier.ogg",
+    "french": "remercier",
+    "german": "danken"
+  },
+  {
+    "audio": "navrer.ogg",
+    "french": "navrer",
+    "german": "bedauern"
+  },
+  {
+    "audio": "etre_navre.ogg",
+    "french": "être navré",
+    "german": "bedauern"
+  },
+  {
+    "audio": "entendre.ogg",
+    "french": "entendre",
+    "german": "hören"
+  },
+  {
+    "audio": "presse.ogg",
+    "french": "pressé",
+    "german": "in Eile, hastig"
+  },
+  {
+    "audio": "quand_meme.ogg",
+    "french": "quand même",
+    "german": "trotzdem (anyway)"
+  },
+  {
+    "audio": "etre_deborde.ogg",
+    "french": "être débordé",
+    "german": "viel zu tun haben, überfordert sein"
+  },
+  {
+    "audio": "deranger.ogg",
+    "french": "déranger",
+    "german": "stören, ärgern"
+  },
+  {
+    "audio": "se_debrouiller.ogg",
+    "french": "se débrouiller",
+    "german": "zurechtkommen, bewältigen"
+  },
+  {
+    "audio": "echange.ogg",
+    "french": "le échange",
+    "german": "Tausch, Austausch, Umtausch, Wechsel"
+  },
+  {
+    "audio": "etre_sur_le_point.ogg",
+    "french": "être sur le point",
+    "german": "dabei sein, im Begriff sein"
+  },
+  {
+    "audio": "à_linterieur.ogg",
+    "french": "à l'intérieur",
+    "german": "innen, drinnen, auf der Innenseite"
+  },
+  {
+    "audio": "traquer.ogg",
+    "french": "traquer",
+    "german": "jagen, stalken, hetzen"
+  },
+  {
+    "audio": "au_lieu_de.ogg",
+    "french": "au lieu de",
+    "german": "anstatt von"
+  },
+  {
+    "audio": "convoquer.ogg",
+    "french": "convoquer",
+    "german": "jmdn kommen lassen, vorladen, einberufen"
+  },
+  {
+    "audio": "revoilà.ogg",
+    "french": "revoilà",
+    "german": "wieder hier"
+  },
+  {
+    "audio": "malbouffe.ogg",
+    "french": "la malbouffe",
+    "german": "Junk-Food"
+  },
+  {
+    "audio": "tort.ogg",
+    "french": "le tort",
+    "german": "Unrecht, Fehler"
+  },
+  {
+    "audio": "regaler.ogg",
+    "french": "régaler",
+    "german": "schlemmen, genießen, verwöhnen"
+  },
+  {
+    "audio": "tetu.ogg",
+    "french": "têtu",
+    "german": "hartnäckig, dickköpfig"
+  },
+  {
+    "audio": "à_temps.ogg",
+    "french": "à temps",
+    "german": "pünktlich"
+  },
+  {
+    "audio": "delice.ogg",
+    "french": "le délice",
+    "german": "Köstlichkeit, Vergnügen"
+  },
+  {
+    "audio": "poubelle.ogg",
+    "french": "la poubelle",
+    "german": "Mülleimer"
+  }
+]

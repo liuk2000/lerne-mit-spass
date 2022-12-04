@@ -1,0 +1,162 @@
+[
+  {
+    "audio": "vain.ogg",
+    "french": "vain",
+    "german": "vergeblich"
+  },
+  {
+    "audio": "mediocre.ogg",
+    "french": "médiocre",
+    "german": "arm, mittelmäßig"
+  },
+  {
+    "audio": "faner.ogg",
+    "french": "faner",
+    "german": "verdorren, verwelken"
+  },
+  {
+    "audio": "convenablement.ogg",
+    "french": "convenablement",
+    "german": "richtig"
+  },
+  {
+    "audio": "nuire.ogg",
+    "french": "nuire",
+    "german": "schaden, schädigen"
+  },
+  {
+    "audio": "odeur.ogg",
+    "french": "la odeur",
+    "german": "Geruch"
+  },
+  {
+    "audio": "plat.ogg",
+    "french": "le plat",
+    "german": "Gericht"
+  },
+  {
+    "audio": "savoureux.ogg",
+    "french": "savoureux",
+    "german": "lecker, köstlich"
+  },
+  {
+    "audio": "à_peine.ogg",
+    "french": "à peine",
+    "german": "kaum"
+  },
+  {
+    "audio": "tisane.ogg",
+    "french": "la tisane",
+    "german": "Kräutertee"
+  },
+  {
+    "audio": "un_par_un.ogg",
+    "french": "un par un",
+    "german": "Einer nach dem anderen"
+  },
+  {
+    "audio": "prendre_des_nouvelles_de.ogg",
+    "french": "prendre des nouvelles de",
+    "german": "sich nach jemanden erkündigen, hören von"
+  },
+  {
+    "audio": "semblant.ogg",
+    "french": "semblant",
+    "german": "so tun als ob"
+  },
+  {
+    "audio": "punir.ogg",
+    "french": "punir",
+    "german": "bestrafen"
+  },
+  {
+    "audio": "etre_debout.ogg",
+    "french": "être debout",
+    "german": "stehen, oben sein"
+  },
+  {
+    "audio": "rester_debout.ogg",
+    "french": "rester debout",
+    "german": "stehen bleiben, aufbleiben"
+  },
+  {
+    "audio": "front.ogg",
+    "french": "le front",
+    "german": "Stirn"
+  },
+  {
+    "audio": "emmener.ogg",
+    "french": "emmener",
+    "german": "mitnehmen, hinbrignen"
+  },
+  {
+    "audio": "imbecile.ogg",
+    "french": "le imbécile",
+    "german": "Blödmann, Dummkopf"
+  },
+  {
+    "audio": "pire.ogg",
+    "french": "pire",
+    "german": "schlechter, schlimmer"
+  },
+  {
+    "audio": "au_pire.ogg",
+    "french": "au pire",
+    "german": "schlimmstenfalls"
+  },
+  {
+    "audio": "le_pire.ogg",
+    "french": "le pire",
+    "german": "schlimmster"
+  },
+  {
+    "audio": "trahir.ogg",
+    "french": "trahir",
+    "german": "verraten"
+  },
+  {
+    "audio": "maton.ogg",
+    "french": "le maton",
+    "german": "Gefängnisaufseher"
+  },
+  {
+    "audio": "reglo.ogg",
+    "french": "réglo",
+    "german": "legitim. ordentlich"
+  },
+  {
+    "audio": "achever.ogg",
+    "french": "achever",
+    "german": "fertigstellen, beenden"
+  },
+  {
+    "audio": "crever.ogg",
+    "french": "crever",
+    "german": "platt werden, platzen, kaputt gehen"
+  },
+  {
+    "audio": "secouer.ogg",
+    "french": "secouer",
+    "german": "rütteln, durchschütteln"
+  },
+  {
+    "audio": "taule.ogg",
+    "french": "la taule",
+    "german": "Gefängnis, Knast"
+  },
+  {
+    "audio": "debile.ogg",
+    "french": "débile",
+    "german": "dumm"
+  },
+  {
+    "audio": "assoupir.ogg",
+    "french": "assoupir",
+    "german": "einnicken, betäuben, einschläfern"
+  },
+  {
+    "audio": "brouillard.ogg",
+    "french": "le brouillard",
+    "german": "Nebel"
+  }
+]
