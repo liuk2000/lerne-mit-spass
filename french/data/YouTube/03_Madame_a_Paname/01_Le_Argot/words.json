@@ -1,0 +1,225 @@
+[
+  {
+    "audio": "paname.ogg",
+    "french": "Paname",
+    "german": "Paris"
+  },
+  {
+    "audio": "une_meuf.ogg",
+    "french": "une meuf",
+    "german": "eine Frau, eine Tussi, ein Mädchen"
+  },
+  {
+    "audio": "un_mec.ogg",
+    "french": "un mec",
+    "german": "ein Mann, ein Junge"
+  },
+  {
+    "audio": "ouf.ogg",
+    "french": "ouf",
+    "german": "super, wow, unglaublich"
+  },
+  {
+    "audio": "relou.ogg",
+    "french": "relou",
+    "german": "lästig, nervig"
+  },
+  {
+    "audio": "une_fringue.ogg",
+    "french": "une fringue",
+    "german": "Kleidung, ein Kleidungsstück"
+  },
+  {
+    "audio": "se_fringuer.ogg",
+    "french": "se fringuer",
+    "german": "sich kleiden"
+  },
+  {
+    "audio": "etre_fringue.ogg",
+    "french": "être fringué",
+    "german": "angezogen werden"
+  },
+  {
+    "audio": "les_thunes.ogg",
+    "french": "les thunes",
+    "german": "Geld, Kasse"
+  },
+  {
+    "audio": "le_taf.ogg",
+    "french": "le taf",
+    "german": "Arbeit"
+  },
+  {
+    "audio": "taffer.ogg",
+    "french": "taffer",
+    "german": "arbeiten"
+  },
+  {
+    "audio": "bosser.ogg",
+    "french": "bosser",
+    "german": "malochen"
+  },
+  {
+    "alternatives": "",
+    "audio": "un_pote.ogg",
+    "french": "un(e) pote",
+    "german": "ein Kumpel"
+  },
+  {
+    "audio": "se_cailler.ogg",
+    "french": "se cailler",
+    "german": "sich frieren"
+  },
+  {
+    "audio": "une_clope.ogg",
+    "french": "une clope",
+    "german": "eine Zigarette, eine Kippe"
+  },
+  {
+    "audio": "cloper.ogg",
+    "french": "cloper",
+    "german": "kippen, rauchen"
+  },
+  {
+    "audio": "le_pinard.ogg",
+    "french": "le pinard",
+    "german": "Wein (billiger)"
+  },
+  {
+    "audio": "capter.ogg",
+    "french": "capter",
+    "german": "kapieren"
+  },
+  {
+    "audio": "piger.ogg",
+    "french": "piger",
+    "german": "raffen, kapieren"
+  },
+  {
+    "audio": "la_boîte.ogg",
+    "french": "la boîte",
+    "german": "die Kiste, die Disko"
+  },
+  {
+    "audio": "un_gamin.ogg",
+    "french": "un gamin",
+    "german": "ein Kind"
+  },
+  {
+    "audio": "un_gosse.ogg",
+    "french": "un gosse",
+    "german": "ein Kind, ein Bengel"
+  },
+  {
+    "audio": "une_bagnole.ogg",
+    "french": "une bagnole",
+    "german": "ein Wagen"
+  },
+  {
+    "audio": "une_caisse.ogg",
+    "french": "une caisse",
+    "german": "die Registrierkasse, die Karre"
+  },
+  {
+    "audio": "un_bouquin.ogg",
+    "french": "un bouquin",
+    "german": "ein Buch"
+  },
+  {
+    "audio": "bouquiner.ogg",
+    "french": "bouquiner",
+    "german": "lesen"
+  },
+  {
+    "audio": "un_truc.ogg",
+    "french": "un truc",
+    "german": "ein Ding"
+  },
+  {
+    "audio": "etre_venere.ogg",
+    "french": "être vénère",
+    "german": "genervt sein"
+  },
+  {
+    "audio": "r.ogg",
+    "french": "r",
+    "german": "nichts (rien)  "
+  },
+  {
+    "audio": "que_dal.ogg",
+    "french": "que dal",
+    "german": "gar nichts"
+  },
+  {
+    "audio": "chelou.ogg",
+    "french": "chelou",
+    "german": "seltsam"
+  },
+  {
+    "audio": "saouler.ogg",
+    "french": "saouler",
+    "german": "nerven"
+  },
+  {
+    "audio": "jpp.ogg",
+    "french": "JPP",
+    "german": "ich kan nicht mehr, es reicht"
+  },
+  {
+    "alternatives": "",
+    "audio": "kiffer.ogg",
+    "french": "kif(f)er",
+    "german": "mögen"
+  },
+  {
+    "audio": "avoir_la_dalle.ogg",
+    "french": "avoir la dalle",
+    "german": "hungrig sein"
+  },
+  {
+    "audio": "un_flic.ogg",
+    "french": "un flic",
+    "german": "ein Polizist"
+  },
+  {
+    "audio": "les_darons.ogg",
+    "french": "les darons",
+    "german": "die Eltern"
+  },
+  {
+    "audio": "le_daron.ogg",
+    "french": "le daron",
+    "german": "der Papa"
+  },
+  {
+    "audio": "la_daronne.ogg",
+    "french": "la daronne",
+    "german": "die Mama"
+  },
+  {
+    "audio": "etre_creve.ogg",
+    "french": "être crevé",
+    "german": "müde sein"
+  },
+  {
+    "alternatives": "",
+    "audio": "etre_hs.ogg",
+    "french": "être HS (hors service)",
+    "german": "sehr müde sein"
+  },
+  {
+    "audio": "chialer.ogg",
+    "french": "chialer",
+    "german": "jammern, weinen"
+  },
+  {
+    "audio": "se_casser.ogg",
+    "french": "se casser",
+    "german": "aufbrechen"
+  },
+  {
+    "audio": "se_barrer.ogg",
+    "french": "se barrer",
+    "german": "verlassen"
+  }
+]
