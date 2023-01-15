@@ -1,0 +1,152 @@
+[
+    {
+        "german": "begrüßen, willkommen heißen",
+        "english": "to welcome",
+        "audio": "to_welcome.ogg",
+        "alternatives": [
+            "welcome"
+        ]
+    },
+    {
+        "german": "Innovation, Neuheit",
+        "english": "innovation",
+        "audio": "innovation.ogg"
+    },
+    {
+        "german": "Computerspiele-",
+        "english": "gaming",
+        "audio": "gaming.ogg"
+    },
+    {
+        "german": "existieren, geben",
+        "english": "to be around",
+        "audio": "to_be_around.ogg",
+        "alternatives": [
+            "be around"
+        ]
+    },
+    {
+        "german": "seit",
+        "english": "for",
+        "audio": "for.ogg"
+    },
+    {
+        "german": "Trend, Entwicklung, Richtung",
+        "english": "trend",
+        "audio": "trend.ogg"
+    },
+    {
+        "german": "seit, seitdem",
+        "english": "since",
+        "audio": "since.ogg"
+    },
+    {
+        "german": "verdienen",
+        "english": "to deserve",
+        "audio": "to_deserve.ogg",
+        "alternatives": [
+            "deserve"
+        ]
+    },
+    {
+        "german": "äußerst, sehr",
+        "english": "extremely",
+        "audio": "extremely.ogg"
+    },
+    {
+        "german": "Einfluss, Auswirkung",
+        "english": "impact",
+        "audio": "impact.ogg"
+    },
+    {
+        "german": "eigentlich, grundsätzlich, im Grunde genommen",
+        "english": "basically",
+        "audio": "basically.ogg"
+    },
+    {
+        "german": "Tone (Gewicht)",
+        "english": "ton",
+        "audio": "ton.ogg"
+    },
+    {
+        "german": "Lieblings-",
+        "english": "favorite",
+        "audio": "favorite.ogg"
+    },
+    {
+        "german": "beeinflussen",
+        "english": "to influence",
+        "audio": "to_influence.ogg",
+        "alternatives": [
+            "influence"
+        ]
+    },
+    {
+        "german": "kommunizieren, sich verständigen",
+        "english": "to communicate",
+        "audio": "to_communicate.ogg",
+        "alternatives": [
+            "comunicate"
+        ]
+    },
+    {
+        "german": "Karte, Plan",
+        "english": "map",
+        "audio": "map.ogg"
+    },
+    {
+        "german": "Täglich",
+        "english": "daily",
+        "audio": "daily.ogg"
+    },
+    {
+        "german": "die Hälfte",
+        "english": "half, halves (pl)",
+        "audio": "half_halves_(pl).ogg",
+        "alternatives": [
+            "half, halves",
+            "half (halves)",
+            "half"
+        ]
+    },
+    {
+        "german": "einige, mehrere, verschiedene",
+        "english": "several",
+        "audio": "several.ogg"
+    },
+    {
+        "german": "sofort, gleich",
+        "english": "right away",
+        "audio": "right_away.ogg"
+    },
+    {
+        "german": "veraltet",
+        "english": "outdated",
+        "audio": "outdated.ogg"
+    },
+    {
+        "german": "altmodisch, nicht mehr aktuell",
+        "english": "out of fashion",
+        "audio": "out_of_fashion.ogg"
+    },
+    {
+        "german": "trendy, modisch",
+        "english": "trendy",
+        "audio": "trendy.ogg"
+    },
+    {
+        "german": "Jumping Fitness (Trendsportart)",
+        "english": "jumping fitness",
+        "audio": "jumping_fitness.ogg"
+    },
+    {
+        "german": "zerrissen, aufgerissen",
+        "english": "torn",
+        "audio": "torn.ogg"
+    },
+    {
+        "german": "Veganismus",
+        "english": "veganism",
+        "audio": "veganism.ogg"
+    }
+]

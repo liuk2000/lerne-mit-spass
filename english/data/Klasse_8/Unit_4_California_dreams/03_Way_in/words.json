@@ -1,0 +1,109 @@
+[
+    {
+        "german": "chillen, sich entspannen",
+        "english": "to chill out",
+        "audio": "to_chill_out.ogg",
+        "alternatives": [
+            "chill out"
+        ]
+    },
+    {
+        "german": "Reservierung",
+        "english": "reservation",
+        "audio": "reservation.ogg"
+    },
+    {
+        "german": "buchen, reservieren",
+        "english": "to book",
+        "audio": "to_book.ogg",
+        "alternatives": [
+            "book"
+        ]
+    },
+    {
+        "german": "Leben, Lebenszeit",
+        "english": "lifetime",
+        "audio": "lifetime.ogg"
+    },
+    {
+        "german": "Tour, Fahrt, Reise",
+        "english": "tour",
+        "audio": "tour.ogg"
+    },
+    {
+        "german": "schlendern, bummeln",
+        "english": "to stroll",
+        "audio": "to_stroll.ogg",
+        "alternatives": [
+            "stroll"
+        ]
+    },
+    {
+        "german": "alt, altertümlich",
+        "english": "ancient",
+        "audio": "ancient.ogg"
+    },
+    {
+        "german": "die Erde, Boden, Erde, Erdboden",
+        "english": "earth",
+        "audio": "earth.ogg"
+    },
+    {
+        "german": "Layout, Anordnung",
+        "english": "layout",
+        "audio": "layout.ogg"
+    },
+    {
+        "german": "Design, Gestaltung",
+        "english": "design",
+        "audio": "design.ogg"
+    },
+    {
+        "german": "Überschrift, Schlagzeile",
+        "english": "headline",
+        "audio": "headline.ogg"
+    },
+    {
+        "german": "Slogan, Werbespruch",
+        "english": "slogan",
+        "audio": "slogan.ogg"
+    },
+    {
+        "german": "Experte, Expertin",
+        "english": "expert",
+        "audio": "expert.ogg"
+    },
+    {
+        "german": "Kletter-",
+        "english": "climbing",
+        "audio": "climbing.ogg"
+    },
+    {
+        "german": "Schwimmer(in)",
+        "english": "swimmer",
+        "audio": "swimmer.ogg"
+    },
+    {
+        "german": "Helikopter, Hubschrauber",
+        "english": "helicopter",
+        "audio": "helicopter.ogg"
+    },
+    {
+        "german": "Erfahrung, Erlebnis",
+        "english": "experience",
+        "audio": "experience.ogg"
+    },
+    {
+        "german": "Pilot(in)",
+        "english": "pilot",
+        "audio": "pilot.ogg"
+    },
+    {
+        "german": "dauern, andauern, anhalten",
+        "english": "to last",
+        "audio": "to_last.ogg",
+        "alternatives": [
+            "last"
+        ]
+    }
+]
