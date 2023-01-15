@@ -1,0 +1,153 @@
+[
+    {
+        "german": "soziale Medien",
+        "english": "social media",
+        "audio": "social_media.ogg"
+    },
+    {
+        "german": "Seite (im Internet)",
+        "english": "site",
+        "audio": "site.ogg"
+    },
+    {
+        "german": "Konto",
+        "english": "account",
+        "audio": "account.ogg"
+    },
+    {
+        "german": "online stellen, posten",
+        "english": "to post",
+        "audio": "to_post.ogg",
+        "alternatives": [
+            "post"
+        ]
+    },
+    {
+        "german": "Foto",
+        "english": "pic(ture)",
+        "audio": "pic(ture).ogg",
+        "alternatives": [
+            "pic",
+            "picture",
+            "pic, picture"
+        ]
+    },
+    {
+        "german": "Clip, Ausschnitt, Kurzfilm",
+        "english": "clip",
+        "audio": "clip.ogg"
+    },
+    {
+        "german": "Anleitung, Tutorial",
+        "english": "tutorial",
+        "audio": "tutorial.ogg"
+    },
+    {
+        "german": "streamen (im Internet)",
+        "english": "to stream",
+        "audio": "to_stream.ogg",
+        "alternatives": [
+            "stream"
+        ]
+    },
+    {
+        "german": "mobil, tragbar, beweglich",
+        "english": "mobile",
+        "audio": "mobile.ogg"
+    },
+    {
+        "german": "Smartphone",
+        "english": "smartphone",
+        "audio": "smartphone.ogg"
+    },
+    {
+        "german": "Cyber-Mobbing",
+        "english": "cyberbullying",
+        "audio": "cyberbullying.ogg"
+    },
+    {
+        "german": "Kommentar",
+        "english": "comment",
+        "audio": "comment.ogg"
+    },
+    {
+        "german": "Link",
+        "english": "link",
+        "audio": "link.ogg"
+    },
+    {
+        "german": "Post (online gestellte Nachricht)",
+        "english": "post",
+        "audio": "post.ogg"
+    },
+    {
+        "german": "Blogger(in)",
+        "english": "blogger",
+        "audio": "blogger.ogg"
+    },
+    {
+        "german": "nicht mögen",
+        "english": "to dislike",
+        "audio": "to_dislike.ogg",
+        "alternatives": [
+            "dislike"
+        ]
+    },
+    {
+        "german": "Anfrage",
+        "english": "request",
+        "audio": "request.ogg"
+    },
+    {
+        "german": "befreunden (jmdn zu seiner Freundelste hinzufügen)",
+        "english": "to friend",
+        "audio": "to_friend.ogg",
+        "alternatives": [
+            "friend"
+        ]
+    },
+    {
+        "german": "entfreunden (jmdn aus seiner Freundeliste entfernen)",
+        "english": "to unfriend",
+        "audio": "to_unfriend.ogg",
+        "alternatives": [
+            "unfriend"
+        ]
+    },
+    {
+        "german": "Follwer(in), Anhänger(in)",
+        "english": "follower",
+        "audio": "follower.ogg"
+    },
+    {
+        "german": "abonnieren",
+        "english": "to subscribe",
+        "audio": "to_subscribe.ogg",
+        "alternatives": [
+            "subscribe"
+        ]
+    },
+    {
+        "german": "trendsetzend",
+        "english": "trending",
+        "audio": "trending.ogg"
+    },
+    {
+        "german": "updaten, auf den neusten Stand bringen",
+        "english": "to update",
+        "audio": "to_update.ogg",
+        "alternatives": [
+            "update"
+        ]
+    },
+    {
+        "german": "Status",
+        "english": "status",
+        "audio": "status.ogg"
+    },
+    {
+        "german": "Selfie (Schnappschuss von sich selbst)",
+        "english": "selfie",
+        "audio": "selfie.ogg"
+    }
+]

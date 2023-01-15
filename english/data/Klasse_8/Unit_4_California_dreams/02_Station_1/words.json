@@ -1,0 +1,47 @@
+[
+    {
+        "german": "eingängig, einprägsam",
+        "english": "catchy",
+        "audio": "catchy.ogg"
+    },
+    {
+        "german": "informativ",
+        "english": "informative",
+        "audio": "informative.ogg"
+    },
+    {
+        "german": "klar, eindeutig, deutlich",
+        "english": "clear",
+        "audio": "clear.ogg"
+    },
+    {
+        "german": "ansprechend",
+        "english": "appealing",
+        "audio": "appealing.ogg"
+    },
+    {
+        "german": "uninteressant",
+        "english": "unappealing",
+        "audio": "unappealing.ogg"
+    },
+    {
+        "german": "faszinierend",
+        "english": "fascinating",
+        "audio": "fascinating.ogg"
+    },
+    {
+        "german": "sinnlos",
+        "english": "pointless",
+        "audio": "pointless.ogg"
+    },
+    {
+        "german": "ungewöhnlich, außergewöhnlich",
+        "english": "unusual",
+        "audio": "unusual.ogg"
+    },
+    {
+        "german": "langweilig",
+        "english": "dull",
+        "audio": "dull.ogg"
+    }
+]

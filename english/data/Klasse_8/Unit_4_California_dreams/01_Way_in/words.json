@@ -1,0 +1,155 @@
+[
+    {
+        "german": "dicht",
+        "english": "dense",
+        "audio": "dense.ogg"
+    },
+    {
+        "german": "bevölkert, besiedelt",
+        "english": "populated",
+        "audio": "populated.ogg"
+    },
+    {
+        "german": "Mammutbaum",
+        "english": "redwood (tree)",
+        "audio": "redwood_(tree).ogg",
+        "alternatives": [
+            "redwood tree"
+        ]
+    },
+    {
+        "german": "entspannt, locker, gelassen",
+        "english": "relaxed",
+        "audio": "relaxed.ogg"
+    },
+    {
+        "german": "Lebensart, Lifestyle",
+        "english": "lifestyle",
+        "audio": "lifestyle.ogg"
+    },
+    {
+        "german": "Volleyball",
+        "english": "volleyball",
+        "audio": "volleyball.ogg"
+    },
+    {
+        "german": "fahren",
+        "english": "to take a ride",
+        "audio": "to_take_a_ride.ogg",
+        "alternatives": [
+            "take a ride"
+        ]
+    },
+    {
+        "german": "altmodisch",
+        "english": "old-fashioned",
+        "audio": "old_fashioned.ogg"
+    },
+    {
+        "german": "Seilbahn",
+        "english": "cable car",
+        "audio": "cable_car.ogg"
+    },
+    {
+        "german": "Berg, Hügel",
+        "english": "hill",
+        "audio": "hill.ogg"
+    },
+    {
+        "german": "Asien",
+        "english": "Asia",
+        "audio": "asia.ogg"
+    },
+    {
+        "german": "golden, Gold-",
+        "english": "golden",
+        "audio": "golden.ogg"
+    },
+    {
+        "german": "Anzahl",
+        "english": "number",
+        "audio": "number.ogg"
+    },
+    {
+        "german": "Hightech-",
+        "english": "hign-tech",
+        "audio": "hign_tech.ogg"
+    },
+    {
+        "german": "besiedeln, sich niederlassen",
+        "english": "to settle",
+        "audio": "to_settle.ogg",
+        "alternatives": [
+            "settle"
+        ]
+    },
+    {
+        "german": "Glanz, Zauber",
+        "english": "glamor",
+        "audio": "glamor.ogg"
+    },
+    {
+        "german": "Aufregung",
+        "english": "excitement",
+        "audio": "excitement.ogg"
+    },
+    {
+        "german": "Showbusiness, Showgeschäft, Unterhaltungsindustrie",
+        "english": "show-business",
+        "audio": "show_business.ogg",
+        "alternatives": [
+            "show business"
+        ]
+    },
+    {
+        "german": "Studio",
+        "english": "studio",
+        "audio": "studio.ogg"
+    },
+    {
+        "german": "Länge, Dauer",
+        "english": "length",
+        "audio": "length.ogg"
+    },
+    {
+        "german": "streichen, anmalen, malen",
+        "english": "to paint",
+        "audio": "to_paint.ogg",
+        "alternatives": [
+            "paint"
+        ]
+    },
+    {
+        "german": "Bucht",
+        "english": "bay",
+        "audio": "bay.ogg"
+    },
+    {
+        "german": "Architekt(in)",
+        "english": "architect",
+        "audio": "architect.ogg"
+    },
+    {
+        "german": "Sicherheitsnetz",
+        "english": "safety net",
+        "audio": "safety_net.ogg"
+    },
+    {
+        "german": "Nebel",
+        "english": "fog",
+        "audio": "fog.ogg"
+    },
+    {
+        "german": "rosten",
+        "english": "to rust",
+        "audio": "to_rust.ogg",
+        "alternatives": [
+            "rust"
+        ]
+    },
+    {
+        "german": "Fahrspur, Weg, Gasse",
+        "english": "lane",
+        "audio": "lane.ogg"
+    }
+]
