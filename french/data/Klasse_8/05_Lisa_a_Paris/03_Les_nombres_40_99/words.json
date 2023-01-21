@@ -1,0 +1,197 @@
+[
+    {
+        "german": "vierzig (40)",
+        "french": "quarante",
+        "audio": "quarante.ogg"
+    },
+    {
+        "german": "einundvierzig (41)",
+        "french": "quarante-et-un",
+        "audio": "quarante_et_un.ogg"
+    },
+    {
+        "german": "zweiundvierzig (42)",
+        "french": "quarante-deux",
+        "audio": "quarante_deux.ogg"
+    },
+    {
+        "german": "fünfziq (50)",
+        "french": "cinquante",
+        "audio": "cinquante.ogg"
+    },
+    {
+        "german": "einundfünfzig (51)",
+        "french": "cinquante-et-un",
+        "audio": "cinquante_et_un.ogg"
+    },
+    {
+        "german": "zweiundfünfzig (52)",
+        "french": "cinquante-deux",
+        "audio": "cinquante_deux.ogg"
+    },
+    {
+        "german": "sechzig (60)",
+        "french": "soixante",
+        "audio": "soixante.ogg"
+    },
+    {
+        "german": "einundsechzig (61)",
+        "french": "soixante-et-un",
+        "audio": "soixante_et_un.ogg"
+    },
+    {
+        "german": "zweiundsechzig (62)",
+        "french": "soixante-deux",
+        "audio": "soixante_deux.ogg"
+    },
+    {
+        "german": "siebzig (70)",
+        "french": "soixante-dix",
+        "audio": "soixante_dix.ogg"
+    },
+    {
+        "german": "einundsiebzig (71)",
+        "french": "soixante-et-onze",
+        "audio": "soixante_et_onze.ogg"
+    },
+    {
+        "german": "zweiundsiebzig (72)",
+        "french": "soixante-douze",
+        "audio": "soixante_douze.ogg"
+    },
+    {
+        "german": "dreiundsiebzig (73)",
+        "french": "soixante-treize",
+        "audio": "soixante_treize.ogg"
+    },
+    {
+        "german": "vierundsiebzig (74)",
+        "french": "soixante-quatorze",
+        "audio": "soixante_quatorze.ogg"
+    },
+    {
+        "german": "fünfundsiebzig (75)",
+        "french": "soixante-quinze",
+        "audio": "soixante_quinze.ogg"
+    },
+    {
+        "german": "sechsundsiebzig (76)",
+        "french": "soixante-seize",
+        "audio": "soixante_seize.ogg"
+    },
+    {
+        "german": "siebenundsiebzig (77)",
+        "french": "soixante-dix-sept",
+        "audio": "soixante_dix_sept.ogg"
+    },
+    {
+        "german": "achtundsiebzig (78)",
+        "french": "soixante-dix-huit",
+        "audio": "soixante_dix_huit.ogg"
+    },
+    {
+        "german": "neunundsiebzig (79)",
+        "french": "soixante-dix-neuf",
+        "audio": "soixante_dix_neuf.ogg"
+    },
+    {
+        "german": "achtzig (80)",
+        "french": "quatre-vingts",
+        "audio": "quatre_vingts.ogg"
+    },
+    {
+        "german": "einundachtzig (81)",
+        "french": "quatre-vingt-un",
+        "audio": "quatre_vingt_un.ogg"
+    },
+    {
+        "german": "zweiundachtzig (82)",
+        "french": "quatre-vingt-deux",
+        "audio": "quatre_vingt_deux.ogg"
+    },
+    {
+        "german": "dreiundachtzig (83)",
+        "french": "quatre-vingt-trois",
+        "audio": "quatre_vingt_trois.ogg"
+    },
+    {
+        "german": "vierundachtzig (84)",
+        "french": "quatre-vingt-quatre",
+        "audio": "quatre_vingt_quatre.ogg"
+    },
+    {
+        "german": "fünfundachtzig (85)",
+        "french": "quatre-vingt-cinq",
+        "audio": "quatre_vingt_cinq.ogg"
+    },
+    {
+        "german": "sechsundachtzig (86)",
+        "french": "quatre-vingt-six",
+        "audio": "quatre_vingt_six.ogg"
+    },
+    {
+        "german": "siebenundachtzig (87)",
+        "french": "quatre-vingt-sept",
+        "audio": "quatre_vingt_sept.ogg"
+    },
+    {
+        "german": "achtundachtzig (88)",
+        "french": "quatre-vingt-huit",
+        "audio": "quatre_vingt_huit.ogg"
+    },
+    {
+        "german": "neunundachtzig (89)",
+        "french": "quatre-vingt-neuf",
+        "audio": "quatre_vingt_neuf.ogg"
+    },
+    {
+        "german": "neunzig (90)",
+        "french": "quatre-vingt-dix",
+        "audio": "quatre_vingt_dix.ogg"
+    },
+    {
+        "german": "einundneunzig (91)",
+        "french": "quatre-vingt-onze",
+        "audio": "quatre_vingt_onze.ogg"
+    },
+    {
+        "german": "zweiundneunzig (92)",
+        "french": "quatre-vingt-douze",
+        "audio": "quatre_vingt_douze.ogg"
+    },
+    {
+        "german": "dreiundneunzig (93)",
+        "french": "quatre-vingt-treize",
+        "audio": "quatre_vingt_treize.ogg"
+    },
+    {
+        "german": "vierundneunzig (94)",
+        "french": "quatre-vingt-quatorze",
+        "audio": "quatre_vingt_quatorze.ogg"
+    },
+    {
+        "german": "fünfundneunzig (95)",
+        "french": "quatre-vingt-quinze",
+        "audio": "quatre_vingt_quinze.ogg"
+    },
+    {
+        "german": "sechsundneunzig (96)",
+        "french": "quatre-vingt-seize",
+        "audio": "quatre_vingt_seize.ogg"
+    },
+    {
+        "german": "siebenundneunzig (97)",
+        "french": "quatre-vingt-dix-sept",
+        "audio": "quatre_vingt_dix_sept.ogg"
+    },
+    {
+        "german": "achtundneunzig (98)",
+        "french": "quatre-vingt-dix-huit",
+        "audio": "quatre_vingt_dix_huit.ogg"
+    },
+    {
+        "german": "neunundneunzig (99)",
+        "french": "quatre-vingt-dix-neuf",
+        "audio": "quatre_vingt_dix_neuf.ogg"
+    }
+]
