@@ -1,0 +1,132 @@
+[
+    {
+        "german": "ein Tag",
+        "french": "une journée",
+        "audio": "une_journee.ogg"
+    },
+    {
+        "german": "Es ist Sonntagmorgen",
+        "french": "C'est dimanche matin",
+        "audio": "cest_dimanche_matin.ogg"
+    },
+    {
+        "german": "Es ist neun Uhr",
+        "french": "Il est neuf heures",
+        "audio": "il_est_neuf_heures.ogg"
+    },
+    {
+        "german": "Was machen/tun wir?",
+        "french": "Qu'est-ce qu'on fait?",
+        "audio": "quest_ce_quon_fait.ogg",
+        "alternatives": [
+           "Qu'est-ce qu'on fait"
+        ]
+    },
+    {
+        "german": "ein Skatepark",
+        "french": "un skatepark",
+        "audio": "un_skatepark.ogg"
+    },
+    {
+        "german": "es regnet",
+        "french": "il pleut",
+        "audio": "il_pleut.ogg"
+    },
+    {
+        "german": "ein Badeanzug",
+        "french": "un maillot de bain",
+        "audio": "un_maillot_de_bain.ogg"
+    },
+    {
+        "german": "Badeanzüge, Badehosen",
+        "french": "des maillots de bain",
+        "audio": "des_maillots_de_bain.ogg"
+    },
+    {
+        "german": "eine Entrittskarte",
+        "french": "un billet",
+        "audio": "un_billet.ogg"
+    },
+    {
+        "german": "ein Schwimmbad",
+        "french": "une piscine",
+        "audio": "une_piscine.ogg"
+    },
+    {
+        "german": "eine Wasserrutsche",
+        "french": "un toboggan",
+        "audio": "un_toboggan.ogg"
+    },
+    {
+        "german": "Vielen Dank! Sie sind super!",
+        "french": "Merci, madame, vous êtes super!",
+        "audio": "merci_madame_vous_êtes_super.ogg",
+        "alternatives": [
+            "Merci, madame, vous êtes super"
+        ]
+    },
+    {
+        "german": "ein Kino",
+        "french": "un cinéma",
+        "audio": "un_cinema.ogg"
+    },
+    {
+        "german": "Komm mit uns!",
+        "french": "Viens avec nous!",
+        "audio": "viens_avec_nous.ogg",
+        "alternatives": [
+            "Viens avec nous"
+        ]
+    },
+    {
+        "german": "Um wie viel Uhr?",
+        "french": "A quelle heure?",
+        "audio": "a_quelle_heure.ogg",
+        "alternatives": [
+            "A quelle heure"
+        ]
+    },
+    {
+        "german": "Wir treffen uns um Viertel nach zwölf",
+        "french": "Rendez-vous à midi et quart",
+        "audio": "rendez_vous_à_midi_et_quart.ogg"
+    },
+    {
+        "german": "eine Verabredung",
+        "french": "un rendez-vous",
+        "audio": "un_rendez_vous.ogg"
+    },
+    {
+        "german": "um zwölf Uhr mittags",
+        "french": "à midi",
+        "audio": "à_midi.ogg"
+    },
+    {
+        "german": "Wie viel Uhr ist es?",
+        "french": "Il est quelle heure?",
+        "audio": "il_est_quelle_heure.ogg",
+        "alternatives": [
+            "Il est quelle heure"
+        ]
+    },
+    {
+        "german": "Es ist halb sechs",
+        "french": "Il est cinq heures et demie",
+        "audio": "il_est_cinq_heures_et_demie.ogg"
+    },
+    {
+        "german": "um Viertel vor sechs",
+        "french": "à six heures moins le quart",
+        "audio": "à_six_heures_moins_le_quart.ogg"
+    },
+    {
+        "german": "bei mir",
+        "french": "chez moi",
+        "audio": "chez_moi.ogg"
+    },
+    {
+        "german": "wir gehen (da)hin",
+        "french": "on y va",
+        "audio": "on_y_va.ogg"
+    }
+]
