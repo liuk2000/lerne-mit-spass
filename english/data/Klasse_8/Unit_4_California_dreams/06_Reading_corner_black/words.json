@@ -1,0 +1,209 @@
+[
+  {
+    "german": "Goldrausch",
+    "english": "gold rush",
+    "audio": "gold_rush.ogg"
+  },
+  {
+    "german": "Bericht",
+    "english": "report",
+    "audio": "report.ogg"
+  },
+  {
+    "german": "bestätigen, bekräftigen",
+    "english": "to confirm",
+    "audio": "to_confirm.ogg",
+    "alternatives": ["confirm"]
+  },
+  {
+    "german": "Entdeckung",
+    "english": "discovery",
+    "audio": "discovery.ogg"
+  },
+  {
+    "german": "schweizerisch, aus der Schweiz, Sweizer(in)",
+    "english": "Swiss",
+    "audio": "swiss.ogg"
+  },
+  {
+    "german": "Geschäftsmann",
+    "english": "businessman",
+    "audio": "businessman.ogg"
+  },
+  {
+    "german": "Grundbesitzer(in)",
+    "english": "landowner",
+    "audio": "landowner.ogg"
+  },
+  {
+    "german": "erlauben, gestatten",
+    "english": "to allow",
+    "audio": "to_allow.ogg",
+    "alternatives": ["allow"]
+  },
+  {
+    "german": "beweisen",
+    "english": "to prove",
+    "audio": "to_prove.ogg",
+    "alternatives": ["prove"]
+  },
+  {
+    "german": "zuerst, zunächst",
+    "english": "at first",
+    "audio": "at_first.ogg"
+  },
+  {
+    "german": "einfach nur",
+    "english": "simply",
+    "audio": "simply.ogg"
+  },
+  {
+    "german": "Fieber",
+    "english": "fever",
+    "audio": "fever.ogg"
+  },
+  {
+    "german": "zunehmen, vergrößern",
+    "english": "to increase",
+    "audio": "to_increase.ogg",
+    "alternatives": ["increase"]
+  },
+  {
+    "german": "jmdn. auf dem Laufenden halten",
+    "english": "to keep somebody informed",
+    "audio": "to_keep_somebody_informed.ogg",
+    "alternatives": [
+      "keep somebody informed",
+      "to keep informed",
+      "keep informed"
+    ]
+  },
+  {
+    "german": "Jäger(in)",
+    "english": "hunter",
+    "audio": "hunter.ogg"
+  },
+  {
+    "german": "endlich, letztlich, zuletzt",
+    "english": "finally",
+    "audio": "finally.ogg"
+  },
+  {
+    "german": "rasten, ausruhen, liegen",
+    "english": "to rest",
+    "audio": "to_rest.ogg",
+    "alternatives": ["rest"]
+  },
+  {
+    "german": "Dschungel",
+    "english": "jungle",
+    "audio": "jungle.ogg"
+  },
+  {
+    "german": "segeln",
+    "english": "to sail",
+    "audio": "to_sail.ogg",
+    "alternatives": ["sail"]
+  },
+  {
+    "german": "mieten, anheuern, einstellen",
+    "english": "to hire",
+    "audio": "to_hire.ogg",
+    "alternatives": ["hire"]
+  },
+  {
+    "german": "vorbeigehen, durchgehen",
+    "english": "to pass",
+    "audio": "to_pass.ogg",
+    "alternatives": ["pass"]
+  },
+  {
+    "german": "Wildnis",
+    "english": "wilderness",
+    "audio": "wilderness.ogg"
+  },
+  {
+    "german": "Vermögen, Reichtum",
+    "english": "fortune",
+    "audio": "fortune.ogg"
+  },
+  {
+    "german": "sich vorstellen",
+    "english": "to imagine",
+    "audio": "to_imagine.ogg",
+    "alternatives": ["imagine"]
+  },
+  {
+    "german": "Liebe",
+    "english": "love",
+    "audio": "love.ogg"
+  },
+  {
+    "german": "eiskalt",
+    "english": "ice-cold",
+    "audio": "ice_cold.ogg"
+  },
+  {
+    "german": "liebend, liebevoll",
+    "english": "loving",
+    "audio": "loving.ogg"
+  },
+  {
+    "german": "Enzyklopädie, Lexikon",
+    "english": "encyclopedia",
+    "audio": "encyclopedia.ogg"
+  },
+  {
+    "german": "Eintrag",
+    "english": "entry",
+    "audio": "entry.ogg"
+  },
+  {
+    "german": "verursachen",
+    "english": "to cause",
+    "audio": "to_cause.ogg",
+    "alternatives": ["cause"]
+  },
+  {
+    "german": "andauern, weitermachen, fortsetzen",
+    "english": "to continue",
+    "audio": "to_continue.ogg",
+    "alternatives": ["continue"]
+  },
+  {
+    "german": "nicht-",
+    "english": "non-",
+    "audio": "non_.ogg"
+  },
+  {
+    "german": "eingebohren, einheimisch",
+    "english": "native",
+    "audio": "native.ogg"
+  },
+  {
+    "german": "Verkehrs-",
+    "english": "transport",
+    "audio": "transport.ogg"
+  },
+  {
+    "german": "Sklave, Sklavin",
+    "english": "slave",
+    "audio": "slave.ogg"
+  },
+  {
+    "german": "leer",
+    "english": "empty",
+    "audio": "empty.ogg"
+  },
+  {
+    "german": "treten, steigen",
+    "english": "to step",
+    "audio": "to_step.ogg",
+    "alternatives": ["step"]
+  },
+  {
+    "german": "Region, Gegend",
+    "english": "region",
+    "audio": "region.ogg"
+  }
+]
