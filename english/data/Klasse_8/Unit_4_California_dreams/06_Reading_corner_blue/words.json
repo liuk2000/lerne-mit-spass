@@ -1,0 +1,112 @@
+[
+  {
+    "german": "offiziell",
+    "english": "official",
+    "audio": "official.ogg"
+  },
+  {
+    "german": "Landwirtschaft, Ackerbau",
+    "english": "farming",
+    "audio": "farming.ogg"
+  },
+  {
+    "german": "aufbrechen, sich aufmachen, auslösen",
+    "english": "to set off",
+    "audio": "to_set_off.ogg",
+    "alternatives": ["set off"]
+  },
+  {
+    "german": "Ausgabe, Auflage, Edition",
+    "english": "edition",
+    "audio": "edition.ogg"
+  },
+  {
+    "german": "geliebt",
+    "english": "beloved",
+    "audio": "beloved.ogg"
+  },
+  {
+    "german": "dringend, verzweifelt",
+    "english": "desperately",
+    "audio": "desperately.ogg"
+  },
+  {
+    "german": "Stimmung, Geist",
+    "english": "spirit",
+    "audio": "spirit.ogg"
+  },
+  {
+    "german": "Waggon, Planwagen",
+    "english": "wagon",
+    "audio": "wagon.ogg"
+  },
+  {
+    "german": "hängen, erhängen",
+    "english": "to hang",
+    "audio": "to_hang.ogg",
+    "alternatives": ["hang"]
+  },
+  {
+    "german": "graben, schürfen",
+    "english": "to dig (dug, dug)",
+    "audio": "to_dig_(dug_dug).ogg",
+    "alternatives": ["to dig", "dig"]
+  },
+  {
+    "german": "glänzend",
+    "english": "shiny",
+    "audio": "shiny.ogg"
+  },
+  {
+    "german": "weitergehen, weitermachen",
+    "english": "to keep going",
+    "audio": "to_keep_going.ogg",
+    "alternatives": ["keep going"]
+  },
+  {
+    "german": "Gebet",
+    "english": "prayer",
+    "audio": "prayer.ogg"
+  },
+  {
+    "german": "im Ausland, ins Ausland",
+    "english": "abroad",
+    "audio": "abroad.ogg"
+  },
+  {
+    "german": "Oberfläche",
+    "english": "surface",
+    "audio": "surface.ogg"
+  },
+  {
+    "german": "Boomtown (eine Stadt, die sehr schnell wächst)",
+    "english": "boomtown",
+    "audio": "boomtown.ogg"
+  },
+  {
+    "german": "entstehen, entspringen",
+    "english": "to spring up (sprang up, sprung up)",
+    "audio": "to_spring_up_(sprang_up_sprung_up).ogg",
+    "alternatives": ["to spring up", "spring up"]
+  },
+  {
+    "german": "transkontinental (über den Kontinent hinweg)",
+    "english": "transcontinental",
+    "audio": "transcontinental.ogg"
+  },
+  {
+    "german": "Eisenbahn",
+    "english": "railway",
+    "audio": "railway.ogg"
+  },
+  {
+    "german": "Blütezeit, fette Jahre",
+    "english": "boom years",
+    "audio": "boom_years.ogg"
+  },
+  {
+    "german": "Geisterstadt",
+    "english": "ghost town",
+    "audio": "ghost_town.ogg"
+  }
+]
