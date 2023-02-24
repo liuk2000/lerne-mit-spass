@@ -1,0 +1,153 @@
+[
+    {
+        "german": "Das darf nicht wahr sein!",
+        "french": "Ce n'est pas vrai!",
+        "audio": "ce_nest_pas_vrai.ogg",
+        "alternatives": [
+            "Ce n'est pas vrai"
+        ]
+    },
+    {
+        "german": "Sie hat sich verspätet",
+        "french": "Elle est en retard",
+        "audio": "elle_est_en_retard.ogg"
+    },
+    {
+        "german": "eine Bäckerei",
+        "french": "une boulangerie",
+        "audio": "une_boulangerie.ogg"
+    },
+    {
+        "german": "Sie wünschen?",
+        "french": "Vous désirez?",
+        "audio": "vous_desirez.ogg",
+        "alternatives": [
+            "vous désirez"
+        ]
+    },
+    {
+        "german": "Ich möchte ...",
+        "french": "Je voudrais ...",
+        "audio": "je_voudrais_.ogg",
+        "alternatives": [
+            "je voudrais"
+        ]
+    },
+    {
+        "german": "ein Sandwich / belegtes Brot",
+        "french": "un sandwich",
+        "audio": "un_sandwich.ogg"
+    },
+    {
+        "german": "der Käse",
+        "french": "le fromage",
+        "audio": "le_fromage.ogg"
+    },
+    {
+        "german": "nicht",
+        "french": "ne ... pas",
+        "audio": "ne__pas.ogg",
+        "alternatives": [
+            "ne pas"
+        ]
+    },
+    {
+        "german": "der Schinken",
+        "french": "le jambon",
+        "audio": "le_jambon.ogg"
+    },
+    {
+        "german": "ein Schokoladenhörnchen",
+        "french": "un pain au chocolat",
+        "audio": "un_pain_au_chocolat.ogg"
+    },
+    {
+        "german": "Sonst noch etwas? Noch was dazu?",
+        "french": "Et avec ça?",
+        "audio": "et_avec_ca.ogg",
+        "alternatives": [
+            "et avec ça"
+        ]
+    },
+    {
+        "german": "Das ist alles",
+        "french": "C'est tout",
+        "audio": "cest_tout.ogg"
+    },
+    {
+        "german": "Wie viel kostet das?",
+        "french": "ça fait combien?",
+        "audio": "ca_fait_combien.ogg",
+        "alternatives": [
+            "ça fait combien"
+        ]
+    },
+    {
+        "german": "komisch, merkwürdig",
+        "french": "bizarre",
+        "audio": "bizarre.ogg"
+    },
+    {
+        "german": "finden",
+        "french": "trouver",
+        "audio": "trouver.ogg"
+    },
+    {
+        "german": "vielleicht",
+        "french": "peut-être",
+        "audio": "peut_être.ogg"
+    },
+    {
+        "german": "immer",
+        "french": "toujours",
+        "audio": "toujours.ogg"
+    },
+    {
+        "german": "eine Hosentasche, Jackentascje",
+        "french": "une poche",
+        "audio": "une_poche.ogg"
+    },
+    {
+        "german": "eine (Telefon-)Nummer",
+        "french": "un numéro",
+        "audio": "un_numero.ogg"
+    },
+    {
+        "german": "Und dann?",
+        "french": "Et puis?",
+        "audio": "et_puis.ogg",
+        "alternatives": [
+            "et puis"
+        ]
+    },
+    {
+        "german": "Lisa wählt die Nummer",
+        "french": "Lisa fait le numéro",
+        "audio": "lisa_fait_le_numero.ogg"
+    },
+    {
+        "german": "klingeln, läuten",
+        "french": "sonner",
+        "audio": "sonner.ogg"
+    },
+    {
+        "german": "ein Telefon",
+        "french": "un téléphone",
+        "audio": "un_telephone.ogg"
+    },
+    {
+        "german": "schwierig",
+        "french": "difficile",
+        "audio": "difficile.ogg"
+    },
+    {
+        "german": "der Regen",
+        "french": "la pluie",
+        "audio": "la_pluie.ogg"
+    },
+    {
+        "german": "Das Wetter ist schön",
+        "french": "Il fait beau",
+        "audio": "il_fait_beau.ogg"
+    }
+]
