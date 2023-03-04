@@ -1,0 +1,87 @@
+[
+    {
+        "german": "Markiere deine Antwort mit einem Häckchen",
+        "english": "Mark your answer with a tick",
+        "audio": "mark_your_answer_with_a_tick.ogg"
+    },
+    {
+        "german": "Kreuze die richtige Antwort an",
+        "english": "Tick the correct answer",
+        "audio": "tick_the_correct_answer.ogg"
+    },
+    {
+        "german": "Entscheide, welches Bild richtig ist",
+        "english": "Decide which picture is correct",
+        "audio": "decide_which_picture_is_correct.ogg"
+    },
+    {
+        "german": "Am Anfang gibt es ein Beispiel",
+        "english": "There is an example at the beginning",
+        "audio": "there_is_an_example_at_the_beginning.ogg"
+    },
+    {
+        "german": "Beantworte die untenstehenden Fragen, verwende maximal 5 Wörter",
+        "english": "Answer the question below in 1-5 words",
+        "audio": "answer_the_question_below_in_1_5_words.ogg"
+    },
+    {
+        "german": "Du hörst gleich ein Radio-Interview",
+        "english": "You will hear a radio interview",
+        "audio": "you_will_hear_a_radio_interview.ogg"
+    },
+    {
+        "german": "Der untenstehende Text ist ein Artikel aus einer Zeitschrift",
+        "english": "The text below is an article from a magazine",
+        "audio": "the_text_below_is_an_article_from_a_magazine.ogg"
+    },
+    {
+        "german": "ein Bericht aus einer Zeitung",
+        "english": "a report from a newspaper",
+        "audio": "a_report_from_a_newspaper.ogg"
+    },
+    {
+        "german": "Lies den Text und beantworte die untenstehenden Fragen",
+        "english": "Read the text and answer the questions below",
+        "audio": "read_the_text_and_answer_the_questions_below.ogg"
+    },
+    {
+        "german": "Lies die Texte und die Aussagen",
+        "english": "Read the texts and the statements",
+        "audio": "read_the_texts_and_the_statements.ogg"
+    },
+    {
+        "german": "Lies die Schilder und die kurzen Texte",
+        "english": "Read the signs and the short texts",
+        "audio": "read_the_signs_and_the_short_texts.ogg"
+    },
+    {
+        "german": "wähle",
+        "english": "choose",
+        "audio": "choose.ogg"
+    },
+    {
+        "german": "Entscheide, ob die Aussagen richtig, falsch oder nicht im Text sind",
+        "english": "Decide if the statements are true, false or not given in the text",
+        "audio": "decide_if_the_statements_are_true_false_or_not_given_in_the_text.ogg"
+    },
+    {
+        "german": "Verbinde die Aussagen mit",
+        "english": "Match the statements with",
+        "audio": "match_the_statements_with.ogg"
+    },
+    {
+        "german": "Ergänze die Sätze",
+        "english": "Complete the sentences",
+        "audio": "complete_the_sentences.ogg"
+    },
+    {
+        "german": "Suche das passende Wort für die Lücken",
+        "english": "Find a word to put into each gap",
+        "audio": "find_a_word_to_put_into_each_gap.ogg"
+    },
+    {
+        "german": "Schreibe das Wort in der richtigen Form",
+        "english": "Write the word in the correct form",
+        "audio": "write_the_word_in_the_correct_form.ogg"
+    }
+]

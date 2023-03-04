@@ -1,0 +1,84 @@
+[
+    {
+        "german": "Ich bewundere",
+        "english": "I admire",
+        "audio": "i_admire.ogg"
+    },
+    {
+        "german": "Ich mag",
+        "english": "I like",
+        "audio": "i_like.ogg"
+    },
+    {
+        "german": "Ich liebe",
+        "english": "I love",
+        "audio": "i_love.ogg"
+    },
+    {
+        "german": "Ich hasse",
+        "english": "I hate",
+        "audio": "i_hate.ogg"
+    },
+    {
+        "german": "Ich denke dass",
+        "english": "I think (that)",
+        "audio": "i_think_(that).ogg",
+        "alternatives": [
+            "I think",
+            "I think that"
+        ]
+    },
+    {
+        "german": "Ich glaube nicht, dass",
+        "english": "I don't think that",
+        "audio": "i_dont_think_that.ogg",
+        "alternatives": [
+            "I don't think",
+            "I don't think (that)"
+        ]
+    },
+    {
+        "german": "Meiner Meinung nach",
+        "english": "In my opinion",
+        "audio": "in_my_opinion.ogg"
+    },
+    {
+        "german": "weil",
+        "english": "because",
+        "audio": "because.ogg"
+    },
+    {
+        "german": "Es gibt eine Menge Gründe warum",
+        "english": "There are lots of reasons why",
+        "audio": "there_are_lots_of_reasons_why.ogg"
+    },
+    {
+        "german": "erstens, zweitens, drittens",
+        "english": "first, second, third",
+        "audio": "first_second_third.ogg"
+    },
+    {
+        "german": "zum Beispiel",
+        "english": "for example",
+        "audio": "for_example.ogg"
+    },
+    {
+        "german": "Ich stimme ... zu",
+        "english": "I agree with",
+        "audio": "i_agree_with.ogg"
+    },
+    {
+        "german": "Ich meine auch, dass",
+        "english": "I also think (that)",
+        "audio": "i_also_think_(that).ogg",
+        "alternatives": [
+            "I also think",
+            "I also think that"
+        ]
+    },
+    {
+        "german": "Ich stimme ... nicht zu",
+        "english": "I don't agree with",
+        "audio": "i_dont_agree_with.ogg"
+    }
+]
