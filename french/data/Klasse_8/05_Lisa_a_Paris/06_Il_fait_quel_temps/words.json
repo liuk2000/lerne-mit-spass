@@ -1,0 +1,87 @@
+[
+    {
+        "german": "Wie ist das Wetter",
+        "french": "Il fait quel temps",
+        "audio": "il_fait_quel_temps.ogg"
+    },
+    {
+        "german": "Es ist sonnig",
+        "french": "Il y a du soleil",
+        "audio": "il_y_a_du_soleil.ogg"
+    },
+    {
+        "german": "Es ist windig",
+        "french": "Il y a du vent",
+        "audio": "il_y_a_du_vent.ogg"
+    },
+    {
+        "german": "Das Wetter ist schön",
+        "french": "Il fait beau",
+        "audio": "il_fait_beau.ogg"
+    },
+    {
+        "german": "Es gibt Schnee",
+        "french": "Il y a de la neige",
+        "audio": "il_y_a_de_la_neige.ogg"
+    },
+    {
+        "german": "Es ist neblich",
+        "french": "Il y a du brouillard",
+        "audio": "il_y_a_du_brouillard.ogg"
+    },
+    {
+        "german": "Es ist kalt",
+        "french": "Il fait froid",
+        "audio": "il_fait_froid.ogg"
+    },
+    {
+        "german": "Hier ist Regen",
+        "french": "Il y a de la pluie",
+        "audio": "il_y_a_de_la_pluie.ogg"
+    },
+    {
+        "german": "Es regnet",
+        "french": "Il pleut",
+        "audio": "il_pleut.ogg"
+    },
+    {
+        "german": "Es ist heiß",
+        "french": "Il fait chaud",
+        "audio": "il_fait_chaud.ogg"
+    },
+    {
+        "german": "Dort sind Wolken",
+        "french": "Il y a des nuages",
+        "audio": "il_y_a_des_nuages.ogg"
+    },
+    {
+        "german": "Es schneit",
+        "french": "Il neige",
+        "audio": "il_neige.ogg"
+    },
+    {
+        "german": "heute",
+        "french": "aujourd'hui",
+        "audio": "aujourdhui.ogg"
+    },
+    {
+        "german": "im Winter",
+        "french": "en hiver",
+        "audio": "en_hiver.ogg"
+    },
+    {
+        "german": "im Frühling",
+        "french": "au printemps",
+        "audio": "au_printemps.ogg"
+    },
+    {
+        "german": "im Sommer",
+        "french": "en été",
+        "audio": "en_ete.ogg"
+    },
+    {
+        "german": "im Herbst",
+        "french": "en automne",
+        "audio": "en_automne.ogg"
+    }
+]
