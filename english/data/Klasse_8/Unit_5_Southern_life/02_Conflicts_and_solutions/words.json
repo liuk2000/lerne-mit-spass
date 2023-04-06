@@ -1,0 +1,89 @@
+[
+    {
+        "german": "sich einigen, Kompromisse schließen",
+        "english": "to compromise",
+        "audio": "to_compromise.ogg",
+        "alternatives": [
+            "compromise"
+        ]
+    },
+    {
+        "german": "Diskussion, Debatte",
+        "english": "debate",
+        "audio": "debate.ogg"
+    },
+    {
+        "german": "tolerieren, dulden",
+        "english": "to tolerate",
+        "audio": "to_tolerate.ogg",
+        "alternatives": [
+            "tolerate"
+        ]
+    },
+    {
+        "german": "konfrontieren, entgegentreten, sich stellen",
+        "english": "to confront",
+        "audio": "to_confront.ogg",
+        "alternatives": [
+            "confront"
+        ]
+    },
+    {
+        "german": "Lösung",
+        "english": "solution",
+        "audio": "solution.ogg"
+    },
+    {
+        "german": "verbannen, verbieten, sperren",
+        "english": "to ban",
+        "audio": "to_ban.ogg",
+        "alternatives": [
+            "ban"
+        ]
+    },
+    {
+        "german": "ertragen, ausstehen",
+        "english": "to stand",
+        "audio": "to_stand.ogg",
+        "alternatives": [
+            "stand"
+        ]
+    },
+    {
+        "german": "akzeptieren, annehmen, hinnehmen",
+        "english": "to accept",
+        "audio": "to_accept.ogg",
+        "alternatives": [
+            "accept"
+        ]
+    },
+    {
+        "german": "schätzen, anerkennen, würdigen",
+        "english": "to appreciate",
+        "audio": "to_appreciate.ogg",
+        "alternatives": [
+            "appreciate"
+        ]
+    },
+    {
+        "german": "zurückweisen, ablehnen",
+        "english": "to reject",
+        "audio": "to_reject.ogg",
+        "alternatives": [
+            "reject"
+        ]
+    },
+    {
+        "german": "übelnehmen, verübeln",
+        "english": "to resent",
+        "audio": "to_resent.ogg",
+        "alternatives": [
+            "resent"
+        ]
+    },
+    {
+        "german": "negativ",
+        "english": "negative",
+        "audio": "negative.ogg"
+    }
+]
