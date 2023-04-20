@@ -1,0 +1,145 @@
+[
+    {
+        "german": "Trennung, Rassentrennung",
+        "english": "segregation",
+        "audio": "segregation.ogg"
+    },
+    {
+        "german": "vollständig",
+        "english": "complete",
+        "audio": "complete.ogg"
+    },
+    {
+        "german": "getrennt",
+        "english": "segregated",
+        "audio": "segregated.ogg"
+    },
+    {
+        "german": "getrennt, separat, verschieden",
+        "english": "separate",
+        "audio": "separate.ogg"
+    },
+    {
+        "german": "Kino",
+        "english": "movie theater",
+        "audio": "movie_theater.ogg"
+    },
+    {
+        "german": "hinten, am Ende, im hinteren Teil",
+        "english": "at the back",
+        "audio": "at_the_back.ogg"
+    },
+    {
+        "german": "ungerecht",
+        "english": "unjust",
+        "audio": "unjust.ogg"
+    },
+    {
+        "german": "sich weigern, ablehnen",
+        "english": "to refuse",
+        "audio": "to_refuse.ogg",
+        "alternatives": [
+            "refuse"
+        ]
+    },
+    {
+        "german": "schleppen, schleifen, ziehen",
+        "english": "to drag",
+        "audio": "to_drag.ogg",
+        "alternatives": [
+            "drag"
+        ]
+    },
+    {
+        "german": "von ... weg",
+        "english": "off",
+        "audio": "off.ogg"
+    },
+    {
+        "german": "festnehmen, verhaften",
+        "english": "to arrest",
+        "audio": "to_arrest.ogg",
+        "alternatives": [
+            "arrest"
+        ]
+    },
+    {
+        "german": "Gefängnis",
+        "english": "jail",
+        "audio": "jail.ogg"
+    },
+    {
+        "german": "Schrotflinte, Jagdgewehr",
+        "english": "shotgun",
+        "audio": "shotgun.ogg"
+    },
+    {
+        "german": "Mut, Tapferkeit, Courage",
+        "english": "courage",
+        "audio": "courage.ogg"
+    },
+    {
+        "german": "andererseits",
+        "english": "on the other hand",
+        "audio": "on_the_other_hand.ogg"
+    },
+    {
+        "german": "Handlung, Action",
+        "english": "action",
+        "audio": "action.ogg"
+    },
+    {
+        "german": "obwohl",
+        "english": "although",
+        "audio": "although.ogg"
+    },
+    {
+        "german": "Zeuge, Zeugin",
+        "english": "witness",
+        "audio": "witness.ogg"
+    },
+    {
+        "german": "Gerichtsverhandlung, Rechtsfall",
+        "english": "court case",
+        "audio": "court_case.ogg"
+    },
+    {
+        "german": "Ruf, Ansehen",
+        "english": "reputation",
+        "audio": "reputation.ogg"
+    },
+    {
+        "german": "verbinden",
+        "english": "to link",
+        "audio": "to_link.ogg",
+        "alternatives": [
+            "link"
+        ]
+    },
+    {
+        "german": "stören, belästigen, nerven",
+        "english": "to bother",
+        "audio": "to_bother.ogg",
+        "alternatives": [
+            "bother"
+        ]
+    },
+    {
+        "german": "Rolle",
+        "english": "role",
+        "audio": "role.ogg"
+    },
+    {
+        "german": "abschaffen",
+        "english": "to abolish",
+        "audio": "to_abolish.ogg",
+        "alternatives": [
+            "abolish"
+        ]
+    },
+    {
+        "german": "System",
+        "english": "system",
+        "audio": "system.ogg"
+    }
+]
