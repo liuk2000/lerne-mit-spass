@@ -1,0 +1,156 @@
+[
+    {
+        "german": "Kalender",
+        "english": "calendar",
+        "audio": "calendar.ogg"
+    },
+    {
+        "german": "Paket",
+        "english": "package",
+        "audio": "package.ogg"
+    },
+    {
+        "german": "enthalten, beinhalten",
+        "english": "to include",
+        "audio": "to_include.ogg",
+        "alternatives": [
+            "include"
+        ]
+    },
+    {
+        "german": "exzellent, hervorragend",
+        "english": "excellent",
+        "audio": "excellent.ogg"
+    },
+    {
+        "german": "Auswahl, Wahl",
+        "english": "choice",
+        "audio": "choice.ogg"
+    },
+    {
+        "german": "Transport, Transfer",
+        "english": "transfer",
+        "audio": "transfer.ogg"
+    },
+    {
+        "german": "Strecke",
+        "english": "track",
+        "audio": "track.ogg"
+    },
+    {
+        "german": "Luxus-",
+        "english": "deluxe",
+        "audio": "deluxe.ogg"
+    },
+    {
+        "german": "Brochüre, Heft",
+        "english": "booklet",
+        "audio": "booklet.ogg"
+    },
+    {
+        "german": "Detail, Einzelheit",
+        "english": "detail",
+        "audio": "detail.ogg"
+    },
+    {
+        "german": "tief",
+        "english": "deep",
+        "audio": "deep.ogg"
+    },
+    {
+        "german": "Propellerboot",
+        "english": "airboat",
+        "audio": "airboat.ogg"
+    },
+    {
+        "german": "Tierwelt",
+        "english": "wildlife",
+        "audio": "wildlife.ogg"
+    },
+    {
+        "german": "Show, Schau, Aufführung",
+        "english": "show",
+        "audio": "show.ogg"
+    },
+    {
+        "german": "Abholung, Pick-up",
+        "english": "pick-up",
+        "audio": "pick_up.ogg"
+    },
+    {
+        "german": "Grad",
+        "english": "degree",
+        "audio": "degree.ogg"
+    },
+    {
+        "german": "Drehung",
+        "english": "turn",
+        "audio": "turn.ogg"
+    },
+    {
+        "german": "Wanderweg, Spur",
+        "english": "trail",
+        "audio": "trail.ogg"
+    },
+    {
+        "german": "Sitzplatz, Platz",
+        "english": "seat",
+        "audio": "seat.ogg"
+    },
+    {
+        "german": "Wildnis, freie Wildbahn",
+        "english": "the wild",
+        "audio": "the_wild.ogg"
+    },
+    {
+        "german": "Hitze",
+        "english": "heat",
+        "audio": "heat.ogg"
+    },
+    {
+        "german": "sprachbehindert",
+        "english": "speech impaired",
+        "audio": "speech_impaired.ogg"
+    },
+    {
+        "german": "übersetzen",
+        "english": "to translate",
+        "audio": "to_translate.ogg",
+        "alternatives": [
+            "translate"
+        ]
+    },
+    {
+        "german": "in der Unterzahl",
+        "english": "outnumbered",
+        "audio": "outnumbered.ogg"
+    },
+    {
+        "german": "Trainer(in)",
+        "english": "trainer",
+        "audio": "trainer.ogg"
+    },
+    {
+        "german": "Übelkeit verspüren, sich schlecht fühlen",
+        "english": "to feel sick",
+        "audio": "to_feel_sick.ogg",
+        "alternatives": [
+            "feel sick"
+        ]
+    },
+    {
+        "german": "Ferien, Urlaub",
+        "english": "vacation",
+        "audio": "vacation.ogg"
+    },
+    {
+        "german": "Angeln, Fischen",
+        "english": "fishing",
+        "audio": "fishing.ogg"
+    },
+    {
+        "german": "Öffnungszeiten",
+        "english": "opening times",
+        "audio": "opening_times.ogg"
+    }
+]
