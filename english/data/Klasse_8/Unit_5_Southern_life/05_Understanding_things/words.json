@@ -1,0 +1,27 @@
+[
+    {
+        "german": "Ich habe es nicht verstanden",
+        "english": "I didn't get that",
+        "audio": "i_didnt_get_that.ogg"
+    },
+    {
+        "german": "Das habe ich nicht verstanden",
+        "english": "I didn't catch that",
+        "audio": "i_didnt_catch_that.ogg"
+    },
+    {
+        "german": "Ich verstehe, was du meinst",
+        "english": "I know what you mean",
+        "audio": "i_know_what_you_mean.ogg"
+    },
+    {
+        "german": "Ich verstehe",
+        "english": "I see",
+        "audio": "i_see.ogg"
+    },
+    {
+        "german": "Auf jeden Fall",
+        "english": "Absolutely",
+        "audio": "absolutely.ogg"
+    }
+]
