@@ -1,162 +1,155 @@
 [
-    {
-        "german": "Ferien, Urlaub",
-        "french": "les vacances",
-        "audio": "les_vacances.ogg"
-    },
-    {
-        "german": "während",
-        "french": "pendant",
-        "audio": "pendant.ogg"
-    },
-    {
-        "german": "Sie machen ein Picknick",
-        "french": "Ils font un pique-nique",
-        "audio": "ils_font_un_pique_nique.ogg"
-    },
-    {
-        "german": "ein Picknick",
-        "french": "un pique-nique",
-        "audio": "un_pique_nique.ogg"
-    },
-    {
-        "german": "Badminton",
-        "french": "le badminton",
-        "audio": "le_badminton.ogg"
-    },
-    {
-        "german": "Er campt/zeltet",
-        "french": "Il fait du camping",
-        "audio": "il_fait_du_camping.ogg"
-    },
-    {
-        "german": "Camping",
-        "french": "le camping",
-        "audio": "le_camping.ogg"
-    },
-    {
-        "german": "morgens, am Morgen",
-        "french": "le matin",
-        "audio": "le_matin.ogg"
-    },
-    {
-        "german": "Surfen",
-        "french": "le surf",
-        "audio": "le_surf.ogg"
-    },
-    {
-        "german": "Beachvolleyball",
-        "french": "le beach-volley",
-        "audio": "le_beach_volley.ogg"
-    },
-    {
-        "german": "ein Cousin",
-        "french": "un cousine",
-        "audio": "un_cousine.ogg"
-    },
-    {
-        "german": "eine Cousine",
-        "french": "une cousine",
-        "audio": "une_cousine.ogg"
-    },
-    {
-        "german": "ein Ferienlager",
-        "french": "une colo(nie)",
-        "audio": "une_colo(nie).ogg",
-        "alternatives": [
-            "une colo",
-            "une colonie"
-        ]
-    },
-    {
-        "german": "das Kanu, Kanufahren",
-        "french": "le canoë",
-        "audio": "le_canoë.ogg",
-        "alternatives": [
-            "le canoe"
-        ]
-    },
-    {
-        "german": "Fahrradfahren",
-        "french": "le vélo",
-        "audio": "le_velo.ogg"
-    },
-    {
-        "german": "Klettern im Hochseilgarten, der Hochseilgarten",
-        "french": "l'accrobranche",
-        "audio": "laccrobranche.ogg",
-        "alternatives": [
-            "le accrobranche"
-        ]
-    },
-    {
-        "german": "verbringen",
-        "french": "passer",
-        "audio": "passer.ogg"
-    },
-    {
-        "german": "einladen",
-        "french": "inviter",
-        "audio": "inviter.ogg"
-    },
-    {
-        "german": "an der Côte d'Azur",
-        "french": "sur la Côte d'Azur",
-        "audio": "sur_la_côte_dazur.ogg"
-    },
-    {
-        "german": "das Meer",
-        "french": "la mer",
-        "audio": "la_mer.ogg"
-    },
-    {
-        "german": "oft",
-        "french": "souvent",
-        "audio": "souvent.ogg"
-    },
-    {
-        "german": "ein Strand",
-        "french": "une plage",
-        "audio": "une_plage.ogg"
-    },
-    {
-        "german": "hier",
-        "french": "ici",
-        "audio": "ici.ogg"
-    },
-    {
-        "german": "ein Couscous",
-        "french": "un couscous",
-        "audio": "un_couscous.ogg"
-    },
-    {
-        "german": "Was machst du?",
-        "french": "Qu'est-ce que tu fais?",
-        "audio": "quest_ce_que_tu_fais.ogg"
-    },
-    {
-        "german": "Das ist nicht leicht",
-        "french": "Ce n'est pas facile",
-        "audio": "ce_nest_pas_facile.ogg"
-    },
-    {
-        "german": "Wir haben viel Spaß",
-        "french": "On rigole bien",
-        "audio": "on_rigole_bien.ogg"
-    },
-    {
-        "german": "Spaß haben, herumalbern",
-        "french": "rigoler",
-        "audio": "rigoler.ogg"
-    },
-    {
-        "german": "ein Küsschen",
-        "french": "une bise",
-        "audio": "une_bise.ogg"
-    },
-    {
-        "german": "abends, am Abend",
-        "french": "le soir",
-        "audio": "le_soir.ogg"
-    }
+  {
+    "german": "Ferien, Urlaub",
+    "french": "les vacances",
+    "audio": "les_vacances.ogg"
+  },
+  {
+    "german": "während",
+    "french": "pendant",
+    "audio": "pendant.ogg"
+  },
+  {
+    "german": "Sie machen ein Picknick",
+    "french": "Ils font un pique-nique",
+    "audio": "ils_font_un_pique_nique.ogg"
+  },
+  {
+    "german": "ein Picknick",
+    "french": "un pique-nique",
+    "audio": "un_pique_nique.ogg"
+  },
+  {
+    "german": "Badminton",
+    "french": "le badminton",
+    "audio": "le_badminton.ogg"
+  },
+  {
+    "german": "Er campt/zeltet",
+    "french": "Il fait du camping",
+    "audio": "il_fait_du_camping.ogg"
+  },
+  {
+    "german": "Camping",
+    "french": "le camping",
+    "audio": "le_camping.ogg"
+  },
+  {
+    "german": "morgens, am Morgen",
+    "french": "le matin",
+    "audio": "le_matin.ogg"
+  },
+  {
+    "german": "Surfen",
+    "french": "le surf",
+    "audio": "le_surf.ogg"
+  },
+  {
+    "german": "Beachvolleyball",
+    "french": "le beach-volley",
+    "audio": "le_beach_volley.ogg"
+  },
+  {
+    "german": "ein Cousin",
+    "french": "un cousine",
+    "audio": "un_cousine.ogg"
+  },
+  {
+    "german": "eine Cousine",
+    "french": "une cousine",
+    "audio": "une_cousine.ogg"
+  },
+  {
+    "german": "ein Ferienlager",
+    "french": "une colo(nie)",
+    "audio": "une_colo(nie).ogg",
+    "alternatives": ["une colo", "une colonie"]
+  },
+  {
+    "german": "das Kanu, Kanufahren",
+    "french": "le canoë",
+    "audio": "le_canoë.ogg",
+    "alternatives": ["le canoe"]
+  },
+  {
+    "german": "Fahrradfahren",
+    "french": "le vélo",
+    "audio": "le_velo.ogg"
+  },
+  {
+    "german": "Klettern im Hochseilgarten, der Hochseilgarten",
+    "french": "l'accrobranche",
+    "audio": "laccrobranche.ogg",
+    "alternatives": ["le accrobranche"]
+  },
+  {
+    "german": "verbringen",
+    "french": "passer",
+    "audio": "passer.ogg"
+  },
+  {
+    "german": "einladen",
+    "french": "inviter",
+    "audio": "inviter.ogg"
+  },
+  {
+    "german": "an der Côte d'Azur",
+    "french": "sur la Côte d'Azur",
+    "audio": "sur_la_côte_dazur.ogg"
+  },
+  {
+    "german": "das Meer",
+    "french": "la mer",
+    "audio": "la_mer.ogg"
+  },
+  {
+    "german": "oft",
+    "french": "souvent",
+    "audio": "souvent.ogg"
+  },
+  {
+    "german": "ein Strand",
+    "french": "une plage",
+    "audio": "une_plage.ogg"
+  },
+  {
+    "german": "hier",
+    "french": "ici",
+    "audio": "ici.ogg"
+  },
+  {
+    "german": "ein Couscous",
+    "french": "un couscous",
+    "audio": "un_couscous.ogg"
+  },
+  {
+    "german": "Was machst du?",
+    "french": "Qu'est-ce que tu fais?",
+    "audio": "quest_ce_que_tu_fais.ogg"
+  },
+  {
+    "german": "Das ist nicht leicht",
+    "french": "Ce n'est pas facile",
+    "audio": "ce_nest_pas_facile.ogg"
+  },
+  {
+    "german": "Wir haben viel Spaß",
+    "french": "On rigole bien",
+    "audio": "on_rigole_bien.ogg"
+  },
+  {
+    "german": "Spaß haben, herumalbern",
+    "french": "rigoler",
+    "audio": "rigoler.ogg"
+  },
+  {
+    "german": "ein Küsschen",
+    "french": "une bise",
+    "audio": "une_bise.ogg"
+  },
+  {
+    "german": "abends, am Abend",
+    "french": "le soir",
+    "audio": "le_soir.ogg"
+  }
 ]
