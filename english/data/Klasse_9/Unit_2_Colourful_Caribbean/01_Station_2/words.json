@@ -1,0 +1,146 @@
+[
+    {
+        "german": "gestern Abend, gestern Nacht",
+        "english": "last night",
+        "audio": "last_night.ogg"
+    },
+    {
+        "german": "Pflege, Krankenpflege",
+        "english": "nursing",
+        "audio": "nursing.ogg"
+    },
+    {
+        "german": "Gewalt",
+        "english": "violence",
+        "audio": "violence.ogg"
+    },
+    {
+        "german": "ausbrechen",
+        "english": "to break out",
+        "audio": "to_break_out.ogg",
+        "alternatives": [
+            "break out"
+        ]
+    },
+    {
+        "german": "Straßengang",
+        "english": "street gang",
+        "audio": "street_gang.ogg"
+    },
+    {
+        "german": "Schießerei",
+        "english": "shooting",
+        "audio": "shooting.ogg"
+    },
+    {
+        "german": "Droge",
+        "english": "drug",
+        "audio": "drug.ogg"
+    },
+    {
+        "german": "überall",
+        "english": "everywhere",
+        "audio": "everywhere.ogg"
+    },
+    {
+        "german": "ständig, konstant, stetig, permanent",
+        "english": "constant",
+        "audio": "constant.ogg"
+    },
+    {
+        "german": "bleiben",
+        "english": "to keep",
+        "audio": "to_keep.ogg",
+        "alternatives": [
+            "keep"
+        ]
+    },
+    {
+        "german": "auch wenn, obwohl",
+        "english": "even though",
+        "audio": "even_though.ogg"
+    },
+    {
+        "german": "andere, sonst",
+        "english": "else",
+        "audio": "else.ogg"
+    },
+    {
+        "german": "sich beteiligen, sich engagieren",
+        "english": "to be involved",
+        "audio": "to_be_involved.ogg",
+        "alternatives": [
+            "be involved"
+        ]
+    },
+    {
+        "german": "einschließlich",
+        "english": "including",
+        "audio": "including.ogg"
+    },
+    {
+        "german": "Freizeit-",
+        "english": "free-time",
+        "audio": "free_time.ogg"
+    },
+    {
+        "german": "Berater(in)",
+        "english": "counsellor",
+        "audio": "counsellor.ogg"
+    },
+    {
+        "german": "sich Gedanken machen, sich fragen",
+        "english": "to wonder",
+        "audio": "to_wonder.ogg",
+        "alternatives": [
+            "wonder"
+        ]
+    },
+    {
+        "german": "Gebühr",
+        "english": "fee",
+        "audio": "fee.ogg"
+    },
+    {
+        "german": "sich outen",
+        "english": "to come out",
+        "audio": "to_come_out.ogg",
+        "alternatives": [
+            "come out"
+        ]
+    },
+    {
+        "german": "schwul, homosexuell",
+        "english": "gay",
+        "audio": "gay.ogg"
+    },
+    {
+        "german": "Schock",
+        "english": "shock",
+        "audio": "shock.ogg"
+    },
+    {
+        "german": "ansteigen",
+        "english": "to grow",
+        "audio": "to_grow.ogg",
+        "alternatives": [
+            "grow"
+        ]
+    },
+    {
+        "german": "ernähren",
+        "english": "to feed",
+        "audio": "to_feed.ogg",
+        "alternatives": [
+            "feed"
+        ]
+    },
+    {
+        "german": "erschießen",
+        "english": "to shoot",
+        "audio": "to_shoot.ogg",
+        "alternatives": [
+            "shoot"
+        ]
+    }
+]

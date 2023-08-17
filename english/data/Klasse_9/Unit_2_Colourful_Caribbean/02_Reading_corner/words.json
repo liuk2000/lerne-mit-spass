@@ -1,0 +1,89 @@
+[
+    {
+        "german": "liegen",
+        "english": "to lie (lay, lain)",
+        "audio": "to_lie_(lay_lain).ogg",
+        "alternatives": [
+            "to lie",
+            "lie"
+        ]
+    },
+    {
+        "german": "Position, Stelle",
+        "english": "position",
+        "audio": "position.ogg"
+    },
+    {
+        "german": "Gouvernante, Hauslehrerin",
+        "english": "governess",
+        "audio": "governess.ogg"
+    },
+    {
+        "german": "Barbados (Inselstaat in der Karibik)",
+        "english": "Barbados",
+        "audio": "barbados.ogg"
+    },
+    {
+        "german": "wecken, aufwecken",
+        "english": "to wake (woke, woken)",
+        "audio": "to_wake_(woke_woken).ogg",
+        "alternatives": [
+            "to wake",
+            "wake"
+        ]
+    },
+    {
+        "german": "Kanone",
+        "english": "cannon",
+        "audio": "cannon.ogg"
+    },
+    {
+        "german": "Bullage, Luke",
+        "english": "porthole",
+        "audio": "porthole.ogg"
+    },
+    {
+        "german": "brutal",
+        "english": "brutal",
+        "audio": "brutal.ogg"
+    },
+    {
+        "german": "damals, zu der Zeit",
+        "english": "at that time",
+        "audio": "at_that_time.ogg"
+    },
+    {
+        "german": "vielleicht",
+        "english": "perhaps",
+        "audio": "perhaps.ogg"
+    },
+    {
+        "german": "auffliegen",
+        "english": "to fly open",
+        "audio": "to_fly_open.ogg",
+        "alternatives": [
+            "fly open"
+        ]
+    },
+    {
+        "german": "Ich brauchte einen Moment",
+        "english": "it took me a moment",
+        "audio": "it_took_me_a_moment.ogg"
+    },
+    {
+        "german": "erkennen, anerkennen",
+        "english": "to recognize",
+        "audio": "to_recognize.ogg",
+        "alternatives": [
+            "recognize"
+        ]
+    },
+    {
+        "german": "jemanden von etwas abhalten, jemanden an etwas hindern",
+        "english": "to stop somebody from something",
+        "audio": "to_stop_somebody_from_something.ogg",
+        "alternatives": [
+            "stop somebody from something"
+        ]
+    }
+]
