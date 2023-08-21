@@ -1,0 +1,110 @@
+[
+    {
+        "german": "Fähre",
+        "english": "ferry",
+        "audio": "ferry.ogg"
+    },
+    {
+        "german": "Sand",
+        "english": "sand",
+        "audio": "sand.ogg"
+    },
+    {
+        "german": "Taucher(in)",
+        "english": "diver",
+        "audio": "diver.ogg"
+    },
+    {
+        "german": "Tauchschule",
+        "english": "diving school",
+        "audio": "diving_school.ogg"
+    },
+    {
+        "german": "Unterkunft, Unterbringung",
+        "english": "accomodation",
+        "audio": "accomodation.ogg"
+    },
+    {
+        "german": "Luxusresort",
+        "english": "luxury resort",
+        "audio": "luxury_resort.ogg"
+    },
+    {
+        "german": "Ferienort, Ferienanlage",
+        "english": "resort",
+        "audio": "resort.ogg"
+    },
+    {
+        "german": "Herberge",
+        "english": "hostel",
+        "audio": "hostel.ogg"
+    },
+    {
+        "german": "Sonenschein",
+        "english": "sunshine",
+        "audio": "sunshine.ogg"
+    },
+    {
+        "german": "Abflug, Abreise",
+        "english": "departure",
+        "audio": "departure.ogg"
+    },
+    {
+        "german": "Donner",
+        "english": "thunder",
+        "audio": "thunder.ogg"
+    },
+    {
+        "german": "Blitz",
+        "english": "lightning",
+        "audio": "lightning.ogg"
+    },
+    {
+        "german": "Verzögerung, Verspätung",
+        "english": "delay",
+        "audio": "delay.ogg"
+    },
+    {
+        "german": "an Board gehen",
+        "english": "to board",
+        "audio": "to_board.ogg",
+        "alternatives": [
+            "board"
+        ]
+    },
+    {
+        "german": "Pass, Reisepass",
+        "english": "passport",
+        "audio": "passport.ogg"
+    },
+    {
+        "german": "Couchsurfing",
+        "english": "couch surfing",
+        "audio": "couch_surfing.ogg"
+    },
+    {
+        "german": "Gepäckaufgabe, Einchecken",
+        "english": "check-in",
+        "audio": "check_in.ogg"
+    },
+    {
+        "german": "Brise",
+        "english": "breeze",
+        "audio": "breeze.ogg"
+    },
+    {
+        "german": "Gästehaus, Pension",
+        "english": "guest house",
+        "audio": "guest_house.ogg"
+    },
+    {
+        "german": "Gate, Ausgang",
+        "english": "gate",
+        "audio": "gate.ogg"
+    },
+    {
+        "german": "Ankunft",
+        "english": "arrival",
+        "audio": "arrival.ogg"
+    }
+]
