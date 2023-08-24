@@ -1,0 +1,37 @@
+[
+    {
+        "german": "ein Hemd",
+        "french": "une chemise",
+        "audio": "une_chemise.ogg"
+    },
+    {
+        "german": "ein Mantel",
+        "french": "un manteau",
+        "audio": "un_manteau.ogg"
+    },
+    {
+        "german": "ein Rock",
+        "french": "une jupe",
+        "audio": "une_jupe.ogg"
+    },
+    {
+        "german": "reduzierte Kleidung, der Kleiderschlussverkauf",
+        "french": "les vêtements en solde",
+        "audio": "les_vêtements_en_solde.ogg"
+    },
+    {
+        "german": "ein Kleidungsstück",
+        "french": "un vêtement",
+        "audio": "un_vêtement.ogg"
+    },
+    {
+        "german": "kaufen",
+        "french": "acheter",
+        "audio": "acheter.ogg"
+    },
+    {
+        "german": "Was kaufst du?",
+        "french": "Qu'est-ce que tu achétes?",
+        "audio": "quest_ce_que_tu_achetes.ogg"
+    }
+]

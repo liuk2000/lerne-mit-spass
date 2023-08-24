@@ -1,0 +1,99 @@
+[
+    {
+        "german": "zurück aus",
+        "french": "au retour de",
+        "audio": "au_retour_de.ogg"
+    },
+    {
+        "german": "zurückkehren, nach Hause gehen",
+        "french": "rentrer",
+        "audio": "rentrer.ogg"
+    },
+    {
+        "german": "am Bahnhof",
+        "french": "à la gare",
+        "audio": "à_la_gare.ogg"
+    },
+    {
+        "german": "am Flughafen",
+        "french": "à l'aéroport",
+        "audio": "à_laeroport.ogg"
+    },
+    {
+        "german": "auf der Autobahn",
+        "french": "sur l'autoroute",
+        "audio": "sur_lautoroute.ogg"
+    },
+    {
+        "german": "ein Lied",
+        "french": "une chanson",
+        "audio": "une_chanson.ogg"
+    },
+    {
+        "german": "in Europa",
+        "french": "en Europe",
+        "audio": "en_europe.ogg"
+    },
+    {
+        "german": "er ist gegangen, er ist gefahren, er war",
+        "french": "il est allé",
+        "audio": "il_est_alle.ogg"
+    },
+    {
+        "german": "sie ist gegangen, sie ist gefahren, sie war",
+        "french": "elle est allée",
+        "audio": "elle_est_allee.ogg"
+    },
+    {
+        "german": "er hat gemacht",
+        "french": "il a fait",
+        "audio": "il_a_fait.ogg"
+    },
+    {
+        "german": "Wo bist du hingegangen/hingefahren",
+        "french": "tu es allé(e) où",
+        "audio": "tu_es_alle(e)_où.ogg",
+        "alternatives": [
+            "tu es allé où",
+            "tu es allée où"
+        ]
+    },
+    {
+        "german": "ich bin gegangen/gefahren, ich war",
+        "french": "je suis allé(e)",
+        "audio": "je_suis_alle(e).ogg",
+        "alternatives": [
+            "je suis allé",
+            "je suis allée"
+        ]
+    },
+    {
+        "german": "in die Berge",
+        "french": "à la montagne",
+        "audio": "à_la_montagne.ogg"
+    },
+    {
+        "german": "ich bin geblieben",
+        "french": "je suis resté(e)",
+        "audio": "je_suis_reste(e).ogg",
+        "alternatives": [
+            "je suis resté",
+            "je suis restée"
+        ]
+    },
+    {
+        "german": "Was hast du gemacht",
+        "french": "Qu'est-ce que tu as fait",
+        "audio": "quest_ce_que_tu_as_fait.ogg"
+    },
+    {
+        "german": "ich habe gemacht",
+        "french": "j'ai fait",
+        "audio": "jai_fait.ogg"
+    },
+    {
+        "german": "ich habe besichtigt",
+        "french": "j'ai visité",
+        "audio": "jai_visite.ogg"
+    }
+]

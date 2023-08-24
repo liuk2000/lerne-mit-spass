@@ -1,0 +1,86 @@
+[
+    {
+        "german": "grau",
+        "french": "gris(e)",
+        "audio": "gris(e).ogg",
+        "alternatives": [
+            "gris",
+            "grise"
+        ]
+    },
+    {
+        "german": "grün",
+        "french": "vert(e)",
+        "audio": "vert(e).ogg",
+        "alternatives": [
+            "vert",
+            "verte"
+        ]
+    },
+    {
+        "german": "weiß",
+        "french": "blanc (blanche)",
+        "audio": "blanc_(blanche).ogg",
+        "alternatives": [
+            "blanc",
+            "blanche"
+        ]
+    },
+    {
+        "german": "schwarz",
+        "french": "noir(e)",
+        "audio": "noir(e).ogg",
+        "alternatives": [
+            "noir",
+            "noire"
+        ]
+    },
+    {
+        "german": "blau",
+        "french": "bleu(e)",
+        "audio": "bleu(e).ogg",
+        "alternatives": [
+            "bleu",
+            "bleue"
+        ]
+    },
+    {
+        "german": "violett",
+        "french": "violet(te)",
+        "audio": "violet(te).ogg",
+        "alternatives": [
+            "violet",
+            "violette"
+        ]
+    },
+    {
+        "german": "rot",
+        "french": "rouge",
+        "audio": "rouge.ogg"
+    },
+    {
+        "german": "gelb",
+        "french": "jaune",
+        "audio": "jaune.ogg"
+    },
+    {
+        "german": "rosa",
+        "french": "rose",
+        "audio": "rose.ogg"
+    },
+    {
+        "german": "braun",
+        "french": "marron",
+        "audio": "marron.ogg"
+    },
+    {
+        "german": "orange",
+        "french": "orange",
+        "audio": "orange.ogg"
+    },
+    {
+        "german": "beige",
+        "french": "beige",
+        "audio": "beige.ogg"
+    }
+]
