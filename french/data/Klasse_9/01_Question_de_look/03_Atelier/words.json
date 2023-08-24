@@ -1,0 +1,175 @@
+[
+    {
+        "german": "eine Farbe",
+        "french": "une couleur",
+        "audio": "une_couleur.ogg"
+    },
+    {
+        "german": "eine Jacke, ein Blouson",
+        "french": "un blouson",
+        "audio": "un_blouson.ogg"
+    },
+    {
+        "german": "ein Sweatshirt",
+        "french": "un sweat-shirt",
+        "audio": "un_sweat_shirt.ogg"
+    },
+    {
+        "german": "bsestellen",
+        "french": "commander",
+        "audio": "commander.ogg"
+    },
+    {
+        "german": "die (Kleider-)Größe",
+        "french": "la taille",
+        "audio": "la_taille.ogg"
+    },
+    {
+        "german": "die Menge, die Anzahl",
+        "french": "la quantité",
+        "audio": "la_quantite.ogg"
+    },
+    {
+        "german": "gut auswählen",
+        "french": "bien choisir",
+        "audio": "bien_choisir.ogg"
+    },
+    {
+        "german": "ab; von ... an",
+        "french": "à partir de",
+        "audio": "à_partir_de.ogg"
+    },
+    {
+        "german": "in den Warenkorb legen",
+        "french": "ajouter au panier",
+        "audio": "ajouter_au_panier.ogg"
+    },
+    {
+        "german": "potthässlich",
+        "french": "trop moche",
+        "audio": "trop_moche.ogg"
+    },
+    {
+        "german": "zu vil, zu sehr",
+        "french": "trop",
+        "audio": "trop.ogg"
+    },
+    {
+        "german": "hässlich",
+        "french": "moche",
+        "audio": "moche.ogg"
+    },
+    {
+        "german": "zu Hause, nach Hause",
+        "french": "à la maison",
+        "audio": "à_la_maison.ogg"
+    },
+    {
+        "german": "das Fernsehen, der Fernseher",
+        "french": "la télé (la télévision)",
+        "audio": "la_tele_(la_television).ogg",
+        "alternatives": [
+            "la télé",
+            "la télévision"
+        ]
+    },
+    {
+        "german": "(immer) noch",
+        "french": "encore",
+        "audio": "encore.ogg"
+    },
+    {
+        "german": "du gehst mir auf die Nerven, du nervst",
+        "french": "tu me soûles",
+        "audio": "tu_me_soûles.ogg"
+    },
+    {
+        "german": "das ist nicht dein Problem",
+        "french": "ce n'est pas ton problème",
+        "audio": "ce_nest_pas_ton_probleme.ogg"
+    },
+    {
+        "german": "ein Problem",
+        "french": "un problème",
+        "audio": "un_probleme.ogg"
+    },
+    {
+        "german": "super, genial",
+        "french": "génial",
+        "audio": "genial.ogg"
+    },
+    {
+        "german": "eine Bestellung",
+        "french": "une commande",
+        "audio": "une_commande.ogg"
+    },
+    {
+        "german": "ein Turnschuh",
+        "french": "une basket",
+        "audio": "une_basket.ogg"
+    },
+    {
+        "german": "Sie stellen das Packet auf den Tisch",
+        "french": "Ils mettent le paquet sur la table",
+        "audio": "ils_mettent_le_paquet_sur_la_table.ogg"
+    },
+    {
+        "german": "Was ist denn das?",
+        "french": "C'est quoi, ça?",
+        "audio": "cest_quoi_ca.ogg",
+        "alternatives": [
+            "C'est quoi, ça",
+            "C'est quoi ça?",
+            "C'est quoi ça?",
+            "C'est quoi ça"
+        ]
+    },
+    {
+        "german": "groß",
+        "french": "grand(e)",
+        "audio": "grand(e).ogg",
+        "alternatives": [
+            "grand",
+            "grande"
+        ]
+    },
+    {
+        "german": "Was treibt ihr da?",
+        "french": "Qu'est-ce que vous fabriquez?",
+        "audio": "quest_ce_que_vous_fabriquez.ogg",
+        "alternatives": [
+            "Qu'est-ce que vous fabriquez"
+        ]
+    },
+    {
+        "german": "du machst wohl Witze!",
+        "french": "tu rigoles",
+        "audio": "tu_rigoles.ogg"
+    },
+    {
+        "german": "Für wen ist das?",
+        "french": "C'est pour qui?",
+        "audio": "cest_pour_qui.ogg",
+        "alternatives": [
+            "C'est pour qui"
+        ]
+    },
+    {
+        "german": "Klasse!",
+        "french": "Trop la classe!",
+        "audio": "trop_la_classe.ogg",
+        "alternatives": [
+            "Trop la classe"
+        ]
+    },
+    {
+        "german": "er zieht die Jacke an",
+        "french": "il met le blouson",
+        "audio": "il_met_le_blouson.ogg"
+    },
+    {
+        "german": "ein Clown",
+        "french": "un clown",
+        "audio": "un_clown.ogg"
+    }
+]
