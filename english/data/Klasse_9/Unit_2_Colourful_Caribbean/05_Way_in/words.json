@@ -1,0 +1,124 @@
+[
+    {
+        "german": "bestehen aus",
+        "english": "to consist of",
+        "audio": "to_consist_of.ogg",
+        "alternatives": [
+            "consist of"
+        ]
+    },
+    {
+        "german": "bewohnt",
+        "english": "inhabited",
+        "audio": "inhabited.ogg"
+    },
+    {
+        "german": "sandig",
+        "english": "sandy",
+        "audio": "sandy.ogg"
+    },
+    {
+        "german": "Herbst",
+        "english": "autumn",
+        "audio": "autumn.ogg"
+    },
+    {
+        "german": "Orkan, Wirbelsturm",
+        "english": "hurricane",
+        "audio": "hurricane.ogg"
+    },
+    {
+        "german": "bedrohen",
+        "english": "to threaten",
+        "audio": "to_threaten.ogg",
+        "alternatives": [
+            "threaten"
+        ]
+    },
+    {
+        "german": "Tourismus",
+        "english": "tourist industry",
+        "audio": "tourist_industry.ogg"
+    },
+    {
+        "german": "karibisch, Karibe, Karibin",
+        "english": "Caribbean",
+        "audio": "caribbean.ogg",
+        "alternatives": [
+            "discover"
+        ]
+    },
+    {
+        "german": "französisch, aus Frankreich",
+        "english": "French",
+        "audio": "french.ogg"
+    },
+    {
+        "german": "Niederländisch",
+        "english": "Dutch",
+        "audio": "dutch.ogg"
+    },
+    {
+        "german": "Kolonie",
+        "english": "colony",
+        "audio": "colony.ogg"
+    },
+    {
+        "german": "Unterschied",
+        "english": "difference",
+        "audio": "difference.ogg"
+    },
+    {
+        "german": "alle",
+        "english": "all of",
+        "audio": "all_of.ogg"
+    },
+    {
+        "german": "Seeräuber(in), Pirat(in)",
+        "english": "pirate",
+        "audio": "pirate.ogg"
+    },
+    {
+        "german": "ermutigen, unterstützen",
+        "english": "to encourage",
+        "audio": "to_encourage.ogg",
+        "alternatives": [
+            "encourage"
+        ]
+    },
+    {
+        "german": "Rivale, Rivalin, Konkurrent(in)",
+        "english": "rival",
+        "audio": "rival.ogg"
+    },
+    {
+        "german": "international",
+        "english": "international",
+        "audio": "international.ogg"
+    },
+    {
+        "german": "Musiker(in)",
+        "english": "musician",
+        "audio": "musician.ogg"
+    },
+    {
+        "german": "Vorbild",
+        "english": "role model",
+        "audio": "role_model.ogg"
+    },
+    {
+        "german": "Rückkehr",
+        "english": "return",
+        "audio": "return.ogg"
+    },
+    {
+        "german": "Vollzeit-, Ganztags-",
+        "english": "full-time",
+        "audio": "full_time.ogg"
+    },
+    {
+        "german": "Ziel, Tor",
+        "english": "goal",
+        "audio": "goal.ogg"
+    }
+]
