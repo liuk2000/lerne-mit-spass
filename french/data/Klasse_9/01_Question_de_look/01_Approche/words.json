@@ -1,5 +1,20 @@
 [
     {
+        "german": "ein Look",
+        "french": "un look",
+        "audio": "un_look.ogg"
+    },
+    {
+        "german": "ein Kleid",
+        "french": "une robe",
+        "audio": "une_robe.ogg"
+    },
+    {
+        "german": "eine Hose",
+        "french": "un pantalon",
+        "audio": "un_pantalon.ogg"
+    },
+    {
         "german": "ein Hemd",
         "french": "une chemise",
         "audio": "une_chemise.ogg"
