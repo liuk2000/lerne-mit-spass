@@ -1,0 +1,152 @@
+[
+    {
+        "german": "Viele Leute denken, dass",
+        "english": "Many people think that",
+        "audio": "many_people_think_that.ogg"
+    },
+    {
+        "german": "Manchmal hört man Leute sagen, dass",
+        "english": "Sometimes you hear people saying that",
+        "audio": "sometimes_you_hear_people_saying_that.ogg"
+    },
+    {
+        "german": "Es mag stimmen, dass",
+        "english": "It may be true that",
+        "audio": "it_may_be_true_that.ogg"
+    },
+    {
+        "german": "Die Frage lautet",
+        "english": "The question is",
+        "audio": "the_question_is.ogg"
+    },
+    {
+        "german": "Das Thema meines Aufsatzes lautet",
+        "english": "The topic of my essay is",
+        "audio": "the_topic_of_my_essay_is.ogg"
+    },
+    {
+        "german": "Meiner Meinung nach ... weil ...",
+        "english": "In my opinion ... because ...",
+        "audio": "in_my_opinion__because_.ogg"
+    },
+    {
+        "german": "Ich glaube, dass",
+        "english": "I believe that",
+        "audio": "i_believe_that.ogg"
+    },
+    {
+        "german": "Ich muss sagen, dass",
+        "english": "I have to say that",
+        "audio": "i_have_to_say_that.ogg"
+    },
+    {
+        "german": "Ich stimme zu, dass",
+        "english": "I agree that",
+        "audio": "i_agree_that.ogg"
+    },
+    {
+        "german": "Ich widerspreche (stimme nicht zu), dass",
+        "english": "I disagree that",
+        "audio": "i_disagree_that.ogg"
+    },
+    {
+        "german": "Ein anderer Grund ist, dass",
+        "english": "Another reason is that",
+        "audio": "another_reason_is_that.ogg"
+    },
+    {
+        "german": "Für mich es ist wichtiger, dass",
+        "english": "To me it is more important that",
+        "audio": "to_me_it_is_more_important_that.ogg"
+    },
+    {
+        "german": "Lass mich erklären",
+        "english": "Let me explain",
+        "audio": "let_me_explain.ogg"
+    },
+    {
+        "german": "Erstens",
+        "english": "First",
+        "audio": "first.ogg"
+    },
+    {
+        "german": "Zweitens",
+        "english": "Second",
+        "audio": "second.ogg"
+    },
+    {
+        "german": "Außerdem, zudem",
+        "english": "Furthermore",
+        "audio": "furthermore.ogg"
+    },
+    {
+        "german": "Außerdem, zudem",
+        "english": "Moreover",
+        "audio": "moreover.ogg"
+    },
+    {
+        "german": "Außerdem",
+        "english": "Besides",
+        "audio": "besides.ogg"
+    },
+    {
+        "german": "Natürlich gibt es auch positive Aspekte",
+        "english": "Of course there are positive aspects, too",
+        "audio": "of_course_there_are_positive_aspects_too.ogg"
+    },
+    {
+        "german": "Obwohl",
+        "english": "Although",
+        "audio": "although.ogg"
+    },
+    {
+        "german": "Auf der einen Seite",
+        "english": "On the same hand",
+        "audio": "on_the_same_hand.ogg"
+    },
+    {
+        "german": "Auf der anderen Seite",
+        "english": "On the other hand",
+        "audio": "on_the_other_hand.ogg"
+    },
+    {
+        "german": "Zum Beispiel",
+        "english": "For example",
+        "audio": "for_example.ogg"
+    },
+    {
+        "german": "Ein anderes Beispiel ist",
+        "english": "Another example is",
+        "audio": "another_example_is.ogg"
+    },
+    {
+        "german": "Ein gutes Beispiel dafür ist",
+        "english": "A good example for this is",
+        "audio": "a_good_example_for_this_is.ogg"
+    },
+    {
+        "german": "Statistiken zeigen, dass",
+        "english": "Statistics show that",
+        "audio": "statistics_show_that.ogg"
+    },
+    {
+        "german": "ZUsammenfassend",
+        "english": "To sum up",
+        "audio": "to_sum_up.ogg"
+    },
+    {
+        "german": "Meine Schlussfolgerung ist",
+        "english": "My conclusion is",
+        "audio": "my_conclusion_is.ogg"
+    },
+    {
+        "german": "Alles in allem",
+        "english": "All in all",
+        "audio": "all_in_all.ogg"
+    },
+    {
+        "german": "Schließlich denke ich",
+        "english": "Finally I think",
+        "audio": "finally_i_think.ogg"
+    }
+]
