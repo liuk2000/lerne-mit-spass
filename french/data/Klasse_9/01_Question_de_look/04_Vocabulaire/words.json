@@ -1,0 +1,112 @@
+[
+    {
+        "german": "Das steht dir echt gut",
+        "french": "ça te va trés bien",
+        "audio": "ca_te_va_tres_bien.ogg"
+    },
+    {
+        "german": "klein",
+        "french": "petit",
+        "audio": "petit.ogg"
+    },
+    {
+        "german": "so etwas trage ich nicht",
+        "french": "je ne porte pas ça",
+        "audio": "je_ne_porte_pas_ca.ogg"
+    },
+    {
+        "german": "tragen",
+        "french": "porter",
+        "audio": "porter.ogg"
+    },
+    {
+        "german": "ich bevorzuge Jeans",
+        "french": "je préfère les jeans",
+        "audio": "je_prefere_les_jeans.ogg"
+    },
+    {
+        "german": "bevorzugen, lieber mögen",
+        "french": "préférer",
+        "audio": "preferer.ogg"
+    },
+    {
+        "german": "eine Jeans",
+        "french": "un jean",
+        "audio": "un_jean.ogg"
+    },
+    {
+        "german": "ein Irrtum, ein Fehler",
+        "french": "une erreur",
+        "audio": "une_erreur.ogg"
+    },
+    {
+        "german": "ich mag rosa nicht",
+        "french": "je n'aime pas le rose",
+        "audio": "je_naime_pas_le_rose.ogg"
+    },
+    {
+        "german": "ich ziehe das Hemd an",
+        "french": "je mets la chemise",
+        "audio": "je_mets_la_chemise.ogg"
+    },
+    {
+        "german": "pass auf",
+        "french": "fais attention",
+        "audio": "fais_attention.ogg"
+    },
+    {
+        "german": "beweg dich nicht, halt still",
+        "french": "ne bouge pas",
+        "audio": "ne_bouge_pas.ogg"
+    },
+    {
+        "german": "bewegen, sich bewegen",
+        "french": "bouger",
+        "audio": "bouger.ogg"
+    },
+    {
+        "german": "ein Loch",
+        "french": "un trou",
+        "audio": "un_trou.ogg"
+    },
+    {
+        "german": "Ihr seid doof/blöd",
+        "french": "Vous êtes nuls",
+        "audio": "vous_êtes_nuls.ogg"
+    },
+    {
+        "german": "Auf dem T-Shirt ist Schokolade",
+        "french": "Il y a du chocolat sur le t-shirt",
+        "audio": "il_y_a_du_chocolat_sur_le_t_shirt.ogg"
+    },
+    {
+        "german": "Ihr legt alles ins Paket",
+        "french": "Vous mettez tout dans le paquet",
+        "audio": "vous_mettez_tout_dans_le_paquet.ogg"
+    },
+    {
+        "german": "schließen",
+        "french": "fermer",
+        "audio": "fermer.ogg"
+    },
+    {
+        "german": "keiner hat's gesehen",
+        "french": "ni vu, ni connu",
+        "audio": "ni_vu_ni_connu.ogg"
+    },
+    {
+        "german": "Guten Abend",
+        "french": "Bonsoir",
+        "audio": "bonsoir.ogg"
+    },
+    {
+        "german": "ein Kind",
+        "french": "un enfant",
+        "audio": "un_enfant.ogg"
+    },
+    {
+        "german": "Psst!, Still!",
+        "french": "Chut",
+        "audio": "chut.ogg"
+    }
+]
