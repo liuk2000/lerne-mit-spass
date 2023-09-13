@@ -1,0 +1,70 @@
+[
+    {
+        "german": "Das ist echt die Härte! Ich fass es nicht!",
+        "french": "C'est la totale",
+        "audio": "cest_la_totale.ogg"
+    },
+    {
+        "german": "ein Wort",
+        "french": "un mot",
+        "audio": "un_mot.ogg"
+    },
+    {
+        "german": "im Winter",
+        "french": "en hiver",
+        "audio": "en_hiver.ogg"
+    },
+    {
+        "german": "im Sommer",
+        "french": "en été",
+        "audio": "en_ete.ogg"
+    },
+    {
+        "german": "setzen, legen, stellen, anziehen",
+        "french": "mettre",
+        "audio": "mettre.ogg"
+    },
+    {
+        "german": "ein Training",
+        "french": "un entraînement",
+        "audio": "un_entraînement.ogg"
+    },
+    {
+        "german": "Tennis",
+        "french": "le tennis",
+        "audio": "le_tennis.ogg"
+    },
+    {
+        "german": "steht mir das?",
+        "french": "ça me va?",
+        "audio": "ca_me_va.ogg",
+        "alternatives": [
+            "ça me va"
+        ]
+    },
+    {
+        "german": "das ist klasse",
+        "french": "c'est la classe",
+        "audio": "cest_la_classe.ogg"
+    },
+    {
+        "german": "das passt gut zu deiner Jeans",
+        "french": "ça va bien avec ton jean",
+        "audio": "ca_va_bien_avec_ton_jean.ogg"
+    },
+    {
+        "german": "rosa steht dir gut",
+        "french": "le rose te va très bien",
+        "audio": "le_rose_te_va_tres_bien.ogg"
+    },
+    {
+        "german": "das ist zu schick",
+        "french": "c'est trop chic",
+        "audio": "cest_trop_chic.ogg"
+    },
+    {
+        "german": "schick",
+        "french": "chic",
+        "audio": "chic.ogg"
+    }
+]
