@@ -1,0 +1,55 @@
+[
+    {
+        "german": "wir entschuldigen uns",
+        "french": "on s'excuse",
+        "audio": "on_sexcuse.ogg"
+    },
+    {
+        "german": "teuer (masc)",
+        "french": "cher",
+        "audio": "cher.ogg"
+    },
+    {
+        "german": "teuer (fem)",
+        "french": "chère",
+        "audio": "chere.ogg"
+    },
+    {
+        "german": "Ihr habt Taschengeld, nich wahr?",
+        "french": "Vous avez de l'argent de poche, non?",
+        "audio": "vous_avez_de_largent_de_poche_non.ogg",
+        "alternatives": [
+            "Vous avez de l'argent de poche, non"
+        ]
+    },
+    {
+        "german": "ein Badezimmer",
+        "french": "une salle de bains",
+        "audio": "une_salle_de_bains.ogg"
+    },
+    {
+        "german": "wir entfernen die Schokolade",
+        "french": "on enlève le chocolat",
+        "audio": "on_enleve_le_chocolat.ogg"
+    },
+    {
+        "german": "das ist perfekt",
+        "french": "c'est parfait",
+        "audio": "cest_parfait.ogg"
+    },
+    {
+        "german": "Frau Laval öffnet die Tür",
+        "french": "Mme Laval ouvre la porte",
+        "audio": "mme_laval_ouvre_la_porte.ogg"
+    },
+    {
+        "german": "das ist nicht möglich / das ist unmöglich",
+        "french": "ce n'est pas possible",
+        "audio": "ce_nest_pas_possible.ogg"
+    },
+    {
+        "german": "ich werde mit deiner Mutter sprechen",
+        "french": "je vais parler à ta mère",
+        "audio": "je_vais_parler_à_ta_mere.ogg"
+    }
+]
