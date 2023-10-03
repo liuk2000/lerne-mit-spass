@@ -2,7 +2,10 @@
   {
     "audio": "chanceux.ogg",
     "french": "chanceux",
-    "german": "glücklich, Glück haben"
+    "german": "glücklich, Glück haben",
+    "sentences": [
+      ["Je suis tellement heureux et", "***", "de t'avoir dans ma vie"]
+    ]
   },
   {
     "audio": "chanceuse.ogg",
@@ -12,7 +15,8 @@
   {
     "audio": "honnete.ogg",
     "french": "honnête",
-    "german": "ehrlich, anständig, aufrichtig"
+    "german": "ehrlich, anständig, aufrichtig",
+    "sentences": [["il serait plus", "***", "de lui dire la vérité"]]
   },
   {
     "audio": "tromper.ogg",
@@ -171,7 +175,8 @@
   {
     "audio": "profond.ogg",
     "french": "profond",
-    "german": "tief"
+    "german": "tief",
+    "sentences": [["au plus", "***", "de la nuit"]]
   },
   {
     "audio": "le_retard.ogg",

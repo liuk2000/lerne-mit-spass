@@ -168,7 +168,8 @@
   {
     "audio": "inhabituel.ogg",
     "french": "inhabituel",
-    "german": "ungewöhnlich"
+    "german": "ungewöhnlich",
+    "sentences": [["C'est assez", "***", "en mathématiques"]]
   },
   {
     "audio": "vide.ogg",
@@ -188,7 +189,8 @@
   {
     "audio": "douloureux.ogg",
     "french": "douloureux",
-    "german": "schmerzhaft"
+    "german": "schmerzhaft",
+    "sentences": [["Il peut être plus ou moins", "***"]]
   },
   {
     "audio": "indolore.ogg",
@@ -198,7 +200,10 @@
   {
     "audio": "courageux.ogg",
     "french": "courageux",
-    "german": "mutig"
+    "german": "mutig",
+    "sentences": [
+      ["Il est", "***", ", loyal, respecte les règles et les autres"]
+    ]
   },
   {
     "audio": "utile.ogg",
@@ -213,7 +218,8 @@
   {
     "audio": "paresseux.ogg",
     "french": "paresseux",
-    "german": "faul"
+    "german": "faul",
+    "sentences": [["Il est intelligent, mais", "***"]]
   },
   {
     "audio": "muet.ogg",
