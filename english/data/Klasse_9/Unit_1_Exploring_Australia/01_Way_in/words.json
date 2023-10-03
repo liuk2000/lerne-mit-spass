@@ -9,7 +9,7 @@
         "sentences": [
             [
                 "Let's",
-                "***",
+                "***explore***",
                 "Australia together"
             ]
         ]
@@ -72,7 +72,7 @@
         "sentences": [
             [
                 "Koalas only",
-                "***",
+                "***exist***",
                 "in Australia"
             ]
         ]
@@ -110,7 +110,7 @@
         "audio": "carpenter.ogg",
         "sentences": [
             [
-                "***",
+                "***Carpenters***",
                 "make chairs, tables, houses"
             ]
         ]
@@ -140,8 +140,8 @@
         ],
         "sentences": [
             [
-                "Aborigional peole",
-                "***",
+                "Aboriginal peole",
+                "***struggled***",
                 "for their rights"
             ]
         ]
@@ -157,7 +157,7 @@
         "sentences": [
             [
                 "Daniel Craig",
-                "***",
+                "***is known as***",
                 "James Bond"
             ]
         ]
@@ -191,7 +191,7 @@
         "sentences": [
             [
                 "Children of the outback",
-                "***",
+                "***attend***",
                 "the School of the Air"
             ]
         ]
@@ -242,8 +242,8 @@
         "audio": "term.ogg",
         "sentences": [
             [
-                "A scholl year has tree",
-                "***"
+                "A school year has tree",
+                "***terms***"
             ]
         ]
     },

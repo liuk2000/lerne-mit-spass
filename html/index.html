@@ -1,116 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/learn.css">
-</head>
-<body>
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/learn.css" />
+  </head>
+  <body>
     <section class="menu">
-        <nav>
-            <input type="checkbox" id="check">
-            <label for="check" class="bars">
-                <i class="fa fa-bars"></i>
-            </label>
-            <label class="logo">Vokabeln</label>
-            <ul>
-                <li id="learn-btn" class="selected"><a>Lerne</a></li>
-                <li id="repeat-btn"><a>Wiederhole</a></li>
-                <li id="find-btn"><a>Ordne zu</a></li>
-                <li id="type-btn"><a>Schreibe</a></li>
-                <li id="listen-btn"><a>Höre zu</a></li>
-            </ul>
-            <span id="subject">
-                <img>
-            </span>
-        </nav>
+      <nav>
+        <input type="checkbox" id="check" />
+        <label for="check" class="bars">
+          <i class="fa fa-bars"></i>
+        </label>
+        <label class="logo">Vokabeln</label>
+        <ul>
+          <li id="learn-btn" class="selected"><a>Lerne</a></li>
+          <li id="repeat-btn"><a>Wiederhole</a></li>
+          <li id="find-btn"><a>Ordne zu</a></li>
+          <li id="insert-btn" style="display: inline-block">
+            <a>Setze ein</a>
+          </li>
+          <li id="type-btn"><a>Schreibe</a></li>
+          <li id="listen-btn"><a>Höre zu</a></li>
+        </ul>
+        <span id="subject">
+          <img />
+        </span>
+      </nav>
     </section>
     <section class="main">
-        <div class="container">
-            <h4 class="topic"><span class="category">Klasse 7 -> England now and then -> Zoom in</span> <span class="category-change">ändern</span></h4>
-        
-            <div class="main__grid"></div>
-            <div class="main__container"></div>
+      <div class="container">
+        <h4 class="topic">
+          <span class="category"
+            >Klasse 7 -> England now and then -> Zoom in</span
+          >
+          <span class="category-change">ändern</span>
+        </h4>
 
-            <div class="stats">1 - 4 von 12</div>
-          
-        </div>
-        <div class="buttons">
-            <button id="prev-btn" class="previous">Zurück</button>
-            <button id="next-btn" class="next">Vor</button>
-        </div>
-        
+        <div class="main__grid"></div>
+        <div class="main__container"></div>
+
+        <div class="stats">1 - 4 von 12</div>
+      </div>
+      <div class="buttons">
+        <button id="prev-btn" class="previous">Zurück</button>
+        <button id="next-btn" class="next">Vor</button>
+      </div>
     </section>
 
     <section class="subjects">
-        <div class="container center">
-            <h4>Wähle das Fach</h4>
+      <div class="container center">
+        <h4>Wähle das Fach</h4>
 
-            <div class="subjects-container">
-                <div class="subject card">
-                    <div class="subject-name">
-                        <strong>Englisch</strong>
-                        <input type="hidden" name="subject_name" value="english">
-                    </div>
-                    <div class="subject-image">
-                        <img src="images/flag_english.svg">
-                    </div>
-                </div>
-            
-                <div class="subject card">
-                    <div class="subject-name">
-                        <strong>Französisch</strong>
-                        <input type="hidden" name="subject_name" value="french">
-                    </div>
-                    <div class="subject-image">
-                        <img src="images/flag_french.svg">
-                    </div>
-                </div>
+        <div class="subjects-container">
+          <div class="subject card">
+            <div class="subject-name">
+              <strong>Englisch</strong>
+              <input type="hidden" name="subject_name" value="english" />
             </div>
-          
+            <div class="subject-image">
+              <img src="images/flag_english.svg" />
+            </div>
+          </div>
+
+          <div class="subject card">
+            <div class="subject-name">
+              <strong>Französisch</strong>
+              <input type="hidden" name="subject_name" value="french" />
+            </div>
+            <div class="subject-image">
+              <img src="images/flag_french.svg" />
+            </div>
+          </div>
         </div>
-        
+      </div>
     </section>
 
     <section class="topics">
-        <div class="container center">
-            <h4>Wähle Klasse und Thema</h4>
+      <div class="container center">
+        <h4>Wähle Klasse und Thema</h4>
 
-            <div class="topics-container">
-                <div class="topics card">
-                    <select name="grade" id="grade">
-                        <option value=""></option>
-                        <option value="Klasse_7">Klasse 7</option>
-                        <option value="all">Alle</option>
-                    </select>
-                    <select name="topic" id="topic">
-                        <option value=""></option>
-                        <option value="England_now_and_then">England now and then</option>
-                        <option value="all">Alle</option>
-                    </select>
-                    <select name="lesson" id="lesson">
-                        <option value=""></option>
-                        <option value="01_Zoom_in">01 Zoom in</option>
-                        <option value="02_Way_in">02 Way in</option>
-                        <option value="03_Shops">03 Shops</option>
-                        <option value="04_Station_1">04 Station 1</option>
-                        <option value="05_Talking_about_places">05 Talking about places</option>
-                        <option value="06_Station_2">06 Station 2</option>
-                        <option value="all">Alle</option>
-                    </select>
-                    <p>
-                        <button id="load-data-btn" class="button">Lade Daten</button>
-                        <button id="cancel-load-data-btn" class="button">Abbrechen</button>
-                    </p>
-                </div>
-            </div>
-          
+        <div class="topics-container">
+          <div class="topics card">
+            <select name="grade" id="grade">
+              <option value=""></option>
+              <option value="Klasse_7">Klasse 7</option>
+              <option value="all">Alle</option>
+            </select>
+            <select name="topic" id="topic">
+              <option value=""></option>
+              <option value="England_now_and_then">England now and then</option>
+              <option value="all">Alle</option>
+            </select>
+            <select name="lesson" id="lesson">
+              <option value=""></option>
+              <option value="01_Zoom_in">01 Zoom in</option>
+              <option value="02_Way_in">02 Way in</option>
+              <option value="03_Shops">03 Shops</option>
+              <option value="04_Station_1">04 Station 1</option>
+              <option value="05_Talking_about_places">
+                05 Talking about places
+              </option>
+              <option value="06_Station_2">06 Station 2</option>
+              <option value="all">Alle</option>
+            </select>
+            <p>
+              <button id="load-data-btn" class="button">Lade Daten</button>
+              <button id="cancel-load-data-btn" class="button">
+                Abbrechen
+              </button>
+            </p>
+          </div>
         </div>
-        
+      </div>
     </section>
     <script src="bundle.js"></script>
-</body>
+  </body>
 </html>
