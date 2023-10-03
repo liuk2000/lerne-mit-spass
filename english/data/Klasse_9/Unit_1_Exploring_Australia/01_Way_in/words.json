@@ -1,0 +1,262 @@
+[
+    {
+        "german": "erkunden, erforschen",
+        "english": "to explore",
+        "audio": "to_explore.ogg",
+        "alternatives": [
+            "explore"
+        ],
+        "sentences": [
+            [
+                "Let's",
+                "***",
+                "Australia together"
+            ]
+        ]
+    },
+    {
+        "german": "Australier(in), australisch",
+        "english": "Australian",
+        "audio": "australian.ogg"
+    },
+    {
+        "german": "gelassen, locker",
+        "english": "easy-going",
+        "audio": "easy_going.ogg",
+        "sentences": [
+            [
+                "Everyone is",
+                "***",
+                "in Australia"
+            ]
+        ]
+    },
+    {
+        "german": "Kontinent, Erdteil",
+        "english": "continent",
+        "audio": "continent.ogg"
+    },
+    {
+        "german": "Antarktis",
+        "english": "Antarctica",
+        "audio": "antarctica.ogg",
+        "sentences": [
+            [
+                "Australia broke away from",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Isolation, Trennung",
+        "english": "isolation",
+        "audio": "isolation.ogg"
+    },
+    {
+        "german": "ungewöhnlich, außergewöhnlich",
+        "english": "unusual",
+        "audio": "unusual.ogg"
+    },
+    {
+        "german": "Art, Spezies",
+        "english": "species",
+        "audio": "species.ogg"
+    },
+    {
+        "german": "existieren, bestehen",
+        "english": "to exist",
+        "audio": "to_exist.ogg",
+        "alternatives": [
+            "exist"
+        ],
+        "sentences": [
+            [
+                "Koalas only",
+                "***",
+                "in Australia"
+            ]
+        ]
+    },
+    {
+        "german": "Koala",
+        "english": "koala",
+        "audio": "koala.ogg"
+    },
+    {
+        "german": "Känguru",
+        "english": "kangaroo",
+        "audio": "kangaroo.ogg"
+    },
+    {
+        "german": "erhältlich, verfügbar",
+        "english": "available",
+        "audio": "available.ogg"
+    },
+    {
+        "german": "qualifiziert, ausgebildet, Fach-",
+        "english": "skilled",
+        "audio": "skilled.ogg",
+        "sentences": [
+            [
+                "There are jobs available for",
+                "***",
+                "workers"
+            ]
+        ]
+    },
+    {
+        "german": "Zimmermann, Tischler",
+        "english": "carpenter",
+        "audio": "carpenter.ogg",
+        "sentences": [
+            [
+                "***",
+                "make chairs, tables, houses"
+            ]
+        ]
+    },
+    {
+        "german": "Krankenschwester, Krankenpfleger",
+        "english": "nurse",
+        "audio": "nurse.ogg"
+    },
+    {
+        "german": "die Aborigines",
+        "english": "Aboriginal people",
+        "audio": "aboriginal_people.ogg",
+        "sentences": [
+            [
+                "***",
+                "have been in Australia for over 50.000 years"
+            ]
+        ]
+    },
+    {
+        "german": "kämpfen, ringen, sich anstrengen, Mühe haben",
+        "english": "to struggle",
+        "audio": "to_struggle.ogg",
+        "alternatives": [
+            "struggle"
+        ],
+        "sentences": [
+            [
+                "Aborigional peole",
+                "***",
+                "for their rights"
+            ]
+        ]
+    },
+    {
+        "german": "bekannt sein als",
+        "english": "to be known as",
+        "audio": "to_be_known_as.ogg",
+        "alternatives": [
+            "be known as",
+            "known as"
+        ],
+        "sentences": [
+            [
+                "Daniel Craig",
+                "***",
+                "James Bond"
+            ]
+        ]
+    },
+    {
+        "german": "Outback (australisches Hinterland",
+        "english": "the outback",
+        "audio": "the_outback.ogg",
+        "alternatives": [
+            "outback"
+        ],
+        "sentences": [
+            [
+                "***",
+                "is the area in the center of Australia"
+            ]
+        ]
+    },
+    {
+        "german": "groß, riesig",
+        "english": "great",
+        "audio": "great.ogg"
+    },
+    {
+        "german": "teilnehmen, anwesend sein, besuchen",
+        "english": "to attend",
+        "audio": "to_attend.ogg",
+        "alternatives": [
+            "attend"
+        ],
+        "sentences": [
+            [
+                "Children of the outback",
+                "***",
+                "the School of the Air"
+            ]
+        ]
+    },
+    {
+        "german": "Satellitenschüssel",
+        "english": "satellite dish",
+        "audio": "satellite_dish.ogg",
+        "sentences": [
+            [
+                "The students need a",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "nötig, notwendig, erforderlich",
+        "english": "necessary",
+        "audio": "necessary.ogg"
+    },
+    {
+        "german": "bis zu",
+        "english": "up to",
+        "audio": "up_to.ogg",
+        "sentences": [
+            [
+                "We have to read the text",
+                "***",
+                "page 46"
+            ]
+        ]
+    },
+    {
+        "german": "Internat",
+        "english": "boarding school",
+        "audio": "boarding_school.ogg",
+        "sentences": [
+            [
+                "Peter will go to a",
+                "***",
+                "next year"
+            ]
+        ]
+    },
+    {
+        "german": "Trimester, Semester",
+        "english": "term",
+        "audio": "term.ogg",
+        "sentences": [
+            [
+                "A scholl year has tree",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "zusätzlich, außerdem",
+        "english": "in addition",
+        "audio": "in_addition.ogg",
+        "sentences": [
+            [
+                "I play the piano",
+                "***",
+                "to the guitar"
+            ]
+        ]
+    }
+]
