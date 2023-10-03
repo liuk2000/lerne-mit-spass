@@ -153,7 +153,8 @@ document.getElementById('insert-btn').addEventListener('click', () => {
   if (document.querySelector('#check:checked')) {
     document.querySelector('#check:checked').checked = false
   }
-  insert_data(subject, current, current_index, shuffle_data(sentences))
+  sentences = shuffle_data(sentences)
+  insert_data(subject, current, current_index, sentences)
 })
 
 document.getElementById('type-btn').addEventListener('click', () => {
