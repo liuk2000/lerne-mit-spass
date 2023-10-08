@@ -1,0 +1,348 @@
+[
+    {
+        "german": "heilig",
+        "english": "sacred",
+        "audio": "sacred.ogg",
+        "sentences": [
+            [
+                "The area around Uluru is",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "überwältigend",
+        "english": "stunning",
+        "audio": "stunning.ogg",
+        "sentences": [
+            [
+                "The view from the tower is",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "wann immer, immer wenn, so oft",
+        "english": "whenever",
+        "audio": "whenever.ogg",
+        "sentences": [
+            [
+                "I enjoy the view",
+                "***",
+                "I'm in London"
+            ]
+        ]
+    },
+    {
+        "german": "Stamm, Volksstamm",
+        "english": "tribe",
+        "audio": "tribe.ogg",
+        "sentences": [
+            [
+                "My family is from Aboriginal",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Generation",
+        "english": "generation",
+        "audio": "generation.ogg"
+    },
+    {
+        "german": "offiziell",
+        "english": "official",
+        "audio": "official.ogg",
+        "sentences": [
+            [
+                "We won the game, it's",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "anerkannt",
+        "english": "recognised",
+        "audio": "recognised.ogg"
+    },
+    {
+        "german": "Reiseleiter(in)",
+        "english": "tour guide",
+        "audio": "tour_guide.ogg",
+        "sentences": [
+            [
+                "Our",
+                "***",
+                "knew lots about Australia"
+            ]
+        ]
+    },
+    {
+        "german": "jemanden (an einem Ort) herumführen",
+        "english": "to show (somebody) around (a place)",
+        "audio": "to_show_(somebody)_around_(a_place).ogg",
+        "alternatives": [
+            "to show around",
+            "show around"
+        ]
+    },
+    {
+        "german": "einschicken, einsenden",
+        "english": "to send in",
+        "audio": "to_send_in.ogg",
+        "sentences": [
+            [
+                "I",
+                "***sent in***",
+                "my photos for the competition"
+            ]
+        ],
+        "alternatives": [
+            "send in"
+        ]
+    },
+    {
+        "german": "Bewerbung",
+        "english": "application",
+        "audio": "application.ogg"
+    },
+    {
+        "german": "könnten",
+        "english": "might",
+        "audio": "might.ogg",
+        "sentences": [
+            [
+                "We",
+                "***",
+                "see a wild animal"
+            ]
+        ]
+    },
+    {
+        "german": "Legende, Sage",
+        "english": "legend",
+        "audio": "legend.ogg"
+    },
+    {
+        "german": "Kreatur, Lebewesen, Geschöpf",
+        "english": "creature",
+        "audio": "creature.ogg",
+        "sentences": [
+            [
+                "We saw giant",
+                "***creatures***",
+                "in the zoo"
+            ]
+        ]
+    },
+    {
+        "german": "schaffen, erschaffen, verursachen",
+        "english": "to create",
+        "audio": "to_create.ogg",
+        "sentences": [
+            [
+                "The creatures",
+                "***created***",
+                "the mountaines"
+            ]
+        ],
+        "alternatives": [
+            "create"
+        ]
+    },
+    {
+        "german": "Glaube, Überzeugung",
+        "english": "belief",
+        "audio": "belief.ogg"
+    },
+    {
+        "german": "Bedeutung",
+        "english": "meaning",
+        "audio": "meaning.ogg"
+    },
+    {
+        "german": "geschützt",
+        "english": "protected",
+        "audio": "protected.ogg",
+        "sentences": [
+            [
+                "Uluru is sacred and needs to be",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Boden, Erdboden",
+        "english": "ground",
+        "audio": "ground.ogg",
+        "sentences": [
+            [
+                "The man threw his rubbish on the",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Pfad, Weg",
+        "english": "path",
+        "audio": "path.ogg",
+        "sentences": [
+            [
+                "You have to walk on the",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "jemanden bei Laune halten",
+        "english": "to keep (somebody) happy",
+        "audio": "to_keep_(somebody)_happy.ogg",
+        "alternatives": [
+            "to keep happy",
+            "keep happy",
+            "to keep somebody happy",
+            "keep somebody happy"
+        ]
+    },
+    {
+        "german": "indem",
+        "english": "by (+ gerund)",
+        "audio": "by_(plus_gerund).ogg",
+        "sentences": [
+            [
+                "We did the exercise",
+                "***",
+                "listening carefully"
+            ]
+        ],
+        "alternatives": [
+            "by"
+        ]
+    },
+    {
+        "german": "Überleben, Überlebens-",
+        "english": "survival",
+        "audio": "survival.ogg"
+    },
+    {
+        "german": "Wüste",
+        "english": "desert",
+        "audio": "desert.ogg"
+    },
+    {
+        "german": "Kamel",
+        "english": "camel",
+        "audio": "camel.ogg"
+    },
+    {
+        "german": "Mal-",
+        "english": "painting",
+        "audio": "painting.ogg",
+        "sentences": [
+            [
+                "I took part in a",
+                "***",
+                "workshop"
+            ]
+        ]
+    },
+    {
+        "german": "Klettern",
+        "english": "climbing",
+        "audio": "climbing.ogg",
+        "sentences": [
+            [
+                "***",
+                "can be dangerous"
+            ]
+        ]
+    },
+    {
+        "german": "erkennen, realisieren",
+        "english": "to realise",
+        "audio": "to_realise.ogg",
+        "alternatives": [
+            "realise",
+            "to realize",
+            "realize"
+        ]
+    },
+    {
+        "german": "absolvieren, abschließen",
+        "english": "to complete",
+        "audio": "to_complete.ogg",
+        "sentences": [
+            [
+                "I have",
+                "***",
+                "the course"
+            ]
+        ],
+        "alternatives": [
+            "complete"
+        ]
+    },
+    {
+        "german": "bestehen",
+        "english": "to pass",
+        "audio": "to_pass.ogg",
+        "sentences": [
+            [
+                "Koa has",
+                "***",
+                "a test to be a tour guide"
+            ]
+        ],
+        "alternatives": [
+            "pass"
+        ]
+    },
+    {
+        "german": "Aufstieg",
+        "english": "climb",
+        "audio": "climb.ogg",
+        "sentences": [
+            [
+                "Let's do the Sydney Harbour Bridge",
+                "***Climb***"
+            ]
+        ]
+    },
+    {
+        "german": "sich hinsetzen, sich setzen",
+        "english": "to sit down",
+        "audio": "to_sit_down.ogg",
+        "alternatives": [
+            "sit down"
+        ]
+    },
+    {
+        "german": "Entschuldigung, Ausrede",
+        "english": "excuse",
+        "audio": "excuse.ogg",
+        "sentences": [
+            [
+                "That is no",
+                "***",
+                "for forgetting your book"
+            ]
+        ]
+    },
+    {
+        "german": "jemanden informieren, jemandem Bescheid geben",
+        "english": "to let (somebody) know",
+        "audio": "to_let_(somebody)_know.ogg",
+        "sentences": [
+            [
+                "***Let me know***",
+                "if you can come"
+            ]
+        ],
+        "alternatives": [
+            "to let somebody know",
+            "let somebody know",
+            "to let know",
+            "let know"
+        ]
+    }
+]
