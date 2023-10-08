@@ -1,0 +1,93 @@
+[
+    {
+        "german": "respektlos",
+        "english": "disrespectful",
+        "audio": "disrespectful.ogg"
+    },
+    {
+        "german": "ignorant, inwissend",
+        "english": "ignorant",
+        "audio": "ignorant.ogg"
+    },
+    {
+        "german": "ignorieren, außer Acht lassen",
+        "english": "to ignore",
+        "audio": "to_ignore.ogg",
+        "alternatives": [
+            "ignore"
+        ]
+    },
+    {
+        "german": "beleidigend, anstößig",
+        "english": "offensive",
+        "audio": "offensive.ogg"
+    },
+    {
+        "german": "Höflichkeit",
+        "english": "politeness",
+        "audio": "politeness.ogg"
+    },
+    {
+        "german": "unhöflich, unverschämt",
+        "english": "rude",
+        "audio": "rude.ogg"
+    },
+    {
+        "german": "Respekt",
+        "english": "respect",
+        "audio": "respect.ogg"
+    },
+    {
+        "german": "Unhöflichkeit, Unverschämtheit",
+        "english": "rudeness",
+        "audio": "rudeness.ogg"
+    },
+    {
+        "german": "Kompromiss",
+        "english": "compromise",
+        "audio": "compromise.ogg"
+    },
+    {
+        "german": "Kompromisse machen",
+        "english": "to compromise",
+        "audio": "to_compromise.ogg",
+        "alternatives": [
+            "compromise"
+        ]
+    },
+    {
+        "german": "tolerant",
+        "english": "tolerant",
+        "audio": "tolerant.ogg"
+    },
+    {
+        "german": "akzeptabel, annehmbar",
+        "english": "acceptable",
+        "audio": "acceptable.ogg"
+    },
+    {
+        "german": "respektvoll",
+        "english": "respectful",
+        "audio": "respectful.ogg"
+    },
+    {
+        "german": "Ignoranz, Unwissenheit",
+        "english": "ignorance",
+        "audio": "ignorance.ogg"
+    },
+    {
+        "german": "Akzeptanz. Zustimmung",
+        "english": "acceptance",
+        "audio": "acceptance.ogg"
+    },
+    {
+        "german": "Toleranz",
+        "english": "tolerance",
+        "audio": "tolerance.ogg"
+    },
+    {
+        "german": "bloßstellend",
+        "english": "compromising",
+        "audio": "compromising.ogg"
+    }
+]
