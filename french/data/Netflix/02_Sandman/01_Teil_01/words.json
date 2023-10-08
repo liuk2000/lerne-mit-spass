@@ -1,0 +1,203 @@
+[
+  {
+    "german": "sterblich, tödlich",
+    "french": "mortel",
+    "audio": "mortel.ogg"
+  },
+  {
+    "german": "ausführen",
+    "french": "mener",
+    "audio": "mener.ogg"
+  },
+  {
+    "german": "Königreich",
+    "french": "le royaume",
+    "audio": "le_royaume.ogg"
+  },
+  {
+    "german": "Alptraum",
+    "french": "le cauchemar",
+    "audio": "le_cauchemar.ogg"
+  },
+  {
+    "german": "gestalten, formen, prägen",
+    "french": "façonner",
+    "audio": "faconner.ogg"
+  },
+  {
+    "german": "auslöschen, vernichten, niederschmettern",
+    "french": "anéantir",
+    "audio": "aneantir.ogg"
+  },
+  {
+    "german": "die Flucht",
+    "french": "la fuite",
+    "audio": "la_fuite.ogg"
+  },
+  {
+    "german": "einnicken",
+    "french": "se assoupir",
+    "audio": "se_assoupir.ogg"
+  },
+  {
+    "german": "der Magier",
+    "french": "le mage",
+    "audio": "le_mage.ogg"
+  },
+  {
+    "german": "die Hexe",
+    "french": "la sorcière",
+    "audio": "la_sorciere.ogg"
+  },
+  {
+    "german": "die Strecke, die Fahrt",
+    "french": "le trajet",
+    "audio": "le_trajet.ogg"
+  },
+  {
+    "german": "untergehen, versenken, strömen, fließen",
+    "french": "couler",
+    "audio": "couler.ogg"
+  },
+  {
+    "german": "während",
+    "french": "durant",
+    "audio": "durant.ogg"
+  },
+  {
+    "german": "das Zauberbuch",
+    "french": "le grimoire",
+    "audio": "le_grimoire.ogg"
+  },
+  {
+    "german": "enthalten, umfassen",
+    "french": "renfermer",
+    "audio": "renfermer.ogg"
+  },
+  {
+    "german": "der Zauber, die Verzauberung",
+    "french": "le sortilège",
+    "audio": "le_sortilege.ogg"
+  },
+  {
+    "german": "Angst, Furcht",
+    "french": "la crainte",
+    "audio": "la_crainte.ogg",
+    "sentences": [["N'ayez", "***crainte"]]
+  },
+  {
+    "german": "versuchen, wagen",
+    "french": "tenter",
+    "audio": "tenter.ogg"
+  },
+  {
+    "german": "gewagt, kühn",
+    "french": "osé",
+    "audio": "ose.ogg"
+  },
+  {
+    "german": "Wirbel(wind), Strudel",
+    "french": "le tourbillon",
+    "audio": "le_tourbillon.ogg"
+  },
+  {
+    "german": "fortbestehen, bleiben",
+    "french": "demeurer",
+    "audio": "demeurer.ogg"
+  },
+  {
+    "german": "Grenze, Rand",
+    "french": "les confins",
+    "audio": "les_confins.ogg"
+  },
+  {
+    "german": "der Fels, der Felsbrocken",
+    "french": "la roche",
+    "audio": "la_roche.ogg"
+  },
+  {
+    "german": "die Klinge, das Messer",
+    "french": "la lame",
+    "audio": "la_lame.ogg"
+  },
+  {
+    "german": "der Hügel",
+    "french": "la colline",
+    "audio": "la_colline.ogg"
+  },
+  {
+    "german": "die Feder",
+    "french": "la plume",
+    "audio": "la_plume.ogg"
+  },
+  {
+    "german": "der Flügel",
+    "french": "la aile",
+    "audio": "la_aile.ogg"
+  },
+  {
+    "german": "zurücksenden, abweisen, fortschicken",
+    "french": "renvoyer",
+    "audio": "renvoyer.ogg"
+  },
+  {
+    "german": "der Himmel",
+    "french": "les cieux",
+    "audio": "les_cieux.ogg"
+  },
+  {
+    "german": "Geldbeutel",
+    "french": "la bourse",
+    "audio": "la_bourse.ogg"
+  },
+  {
+    "german": "brechen",
+    "french": "rompre",
+    "audio": "rompre.ogg"
+  },
+  {
+    "german": "verspotten",
+    "french": "moquer",
+    "audio": "moquer.ogg"
+  },
+  {
+    "german": "verzweifelt, völlig, über die Maßen",
+    "french": "éperdument",
+    "audio": "eperdument.ogg"
+  },
+  {
+    "german": "der Schaden, die Sauerei",
+    "french": "le dégât",
+    "audio": "le_degât.ogg"
+  },
+  {
+    "german": "Aufregung, Unruhe",
+    "french": "la agitation",
+    "audio": "la_agitation.ogg"
+  },
+  {
+    "german": "abziehen, erschwindeln",
+    "french": "soutirer",
+    "audio": "soutirer.ogg"
+  },
+  {
+    "german": "verleihen, erteilen",
+    "french": "conférer",
+    "audio": "conferer.ogg"
+  },
+  {
+    "german": "vermehren, vergrößern",
+    "french": "accroitre",
+    "audio": "accroitre.ogg"
+  },
+  {
+    "german": "die Tablette",
+    "french": "le comprimé",
+    "audio": "le_comprime.ogg"
+  },
+  {
+    "german": "entrümpeln, räumen",
+    "french": "débarrasser",
+    "audio": "debarrasser.ogg"
+  }
+]
