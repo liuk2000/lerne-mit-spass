@@ -1,0 +1,32 @@
+[
+    {
+        "german": "einfarbig",
+        "french": "uni",
+        "audio": "uni.ogg"
+    },
+    {
+        "german": "gestreift",
+        "french": "rayé",
+        "audio": "raye.ogg"
+    },
+    {
+        "german": "gemustert",
+        "french": "à motifs",
+        "audio": "à_motifs.ogg"
+    },
+    {
+        "german": "kariert",
+        "french": "à carreaux",
+        "audio": "à_carreaux.ogg"
+    },
+    {
+        "german": "gepunktet",
+        "french": "à pois",
+        "audio": "à_pois.ogg"
+    },
+    {
+        "german": "mit Blumen",
+        "french": à fleurs,
+        "audio": "a_fleurs.ogg"
+    }
+]
