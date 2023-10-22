@@ -1,0 +1,82 @@
+[
+    {
+        "german": "zeigen",
+        "french": "montrer",
+        "audio": "montrer.ogg"
+    },
+    {
+        "german": "geben",
+        "french": "donner",
+        "audio": "donner.ogg"
+    },
+    {
+        "german": "etwas",
+        "french": "quelque chose",
+        "audio": "quelque_chose.ogg"
+    },
+    {
+        "german": "jemand",
+        "french": "quelqu'un",
+        "audio": "quelquun.ogg"
+    },
+    {
+        "german": "eine Aufsichtsperson",
+        "french": "un surveillant",
+        "audio": "un_surveillant.ogg"
+    },
+    {
+        "german": "ein Schulbibliothekar",
+        "french": "un documentaliste",
+        "audio": "un_documentaliste.ogg"
+    },
+    {
+        "german": "Englisch",
+        "french": "l'anglais",
+        "audio": "langlais.ogg"
+    },
+    {
+        "german": "ein sehr zurückhaltender Junge",
+        "french": "un garçon trop discret",
+        "audio": "un_garcon_trop_discret.ogg"
+    },
+    {
+        "german": "zurückhaltend",
+        "french": "discret",
+        "audio": "discret.ogg"
+    },
+    {
+        "german": "der Unterricht beginnt in zehn Minuten",
+        "french": "les cours commencent dans dix minutes",
+        "audio": "les_cours_commencent_dans_dix_minutes.ogg"
+    },
+    {
+        "german": "eine Unterrichtsstunde",
+        "french": "un cours",
+        "audio": "un_cours.ogg"
+    },
+    {
+        "german": "anfangen, beginnen",
+        "french": "comencer",
+        "audio": "comencer.ogg"
+    },
+    {
+        "german": "Julie ist gestresst",
+        "french": "Julie est stressée",
+        "audio": "julie_est_stressee.ogg"
+    },
+    {
+        "german": "eine Präsentation, eine Vorstellung",
+        "french": "une présentation",
+        "audio": "une_presentation.ogg"
+    },
+    {
+        "german": "Geschichte-Geografie",
+        "french": "l'histoire-géo",
+        "audio": "lhistoire_geo.ogg"
+    },
+    {
+        "german": "essen",
+        "french": "manger",
+        "audio": "manger.ogg"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "german": "ein Klassenzimmer",
+        "french": "une salle de classe",
+        "audio": "une_salle_de_classe.ogg"
+    },
+    {
+        "german": "ein Saal, ein Raum",
+        "french": "une salle",
+        "audio": "une_salle.ogg"
+    },
+    {
+        "german": "eine Klasse",
+        "french": "une classe",
+        "audio": "une_classe.ogg"
+    },
+    {
+        "german": "eine Turnhalle",
+        "french": "un gymnase",
+        "audio": "un_gymnase.ogg"
+    },
+    {
+        "german": "eine Kantine",
+        "french": "une cantine",
+        "audio": "une_cantine.ogg"
+    },
+    {
+        "german": "ein Krankenzimmer",
+        "french": "une infirmerie",
+        "audio": "une_infirmerie.ogg"
+    },
+    {
+        "german": "ein Krankenzimmer",
+        "french": "une infirmerie",
+        "audio": "une_infirmerie.ogg"
+    },
+    {
+        "german": "ein Hof",
+        "french": "une cour",
+        "audio": "une_cour.ogg"
+    },
+    {
+        "german": "ein CDI (Dokumenations- und Informationsstelle)",
+        "french": "un CDI",
+        "audio": "un_cdi.ogg"
+    },
+    {
+        "german": "die Toilette",
+        "french": "les toilettes",
+        "audio": "les_toilettes.ogg"
+    },
+    {
+        "german": "eine Szene",
+        "french": "une scène",
+        "audio": "une_scene.ogg"
+    },
+    {
+        "german": "passen zu",
+        "french": "aller avec",
+        "audio": "aller_avec.ogg"
+    }
+]
