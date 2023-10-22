@@ -131,11 +131,6 @@
     "audio": "le_machin.ogg"
   },
   {
-    "german": "das Ding, Dingsbums",
-    "french": "le machin",
-    "audio": "le_machin.ogg"
-  },
-  {
     "german": "sich erweisen",
     "french": "se avérer",
     "audio": "se_averer.ogg",
@@ -160,5 +155,50 @@
     "german": "endlos warten, ewig warten",
     "french": "poireauter",
     "audio": "poireauter.ogg"
+  },
+  {
+    "german": "gegen etw- verstoßen",
+    "french": "déroger",
+    "audio": "deroger.ogg"
+  },
+  {
+    "german": "der Clown",
+    "french": "le clown",
+    "audio": "le_clown.ogg"
+  },
+  {
+    "german": "die Krone, die Baumkrone, der Kranz",
+    "french": "la couronne",
+    "audio": "la_couronne.ogg"
+  },
+  {
+    "german": "Guter Gott!, Du gültiget Himmel",
+    "french": "Bonté divine",
+    "audio": "bonte_divine.ogg"
+  },
+  {
+    "german": "die Ermordung, die Mordtat, der Totschlag",
+    "french": "le meurtre",
+    "audio": "le_meurtre.ogg"
+  },
+  {
+    "german": "haufenweise",
+    "french": "en pagaille",
+    "audio": "en_pagaille.ogg"
+  },
+  {
+    "german": "die Unordnung, das Chaos",
+    "french": "la pagaille",
+    "audio": "la_pagaille.ogg"
+  },
+  {
+    "german": "die Laune",
+    "french": "le caprice",
+    "audio": "le_caprice.ogg"
+  },
+  {
+    "german": "die Landschaft",
+    "french": "le paysage",
+    "audio": "le_paysage.ogg"
   }
 ]
