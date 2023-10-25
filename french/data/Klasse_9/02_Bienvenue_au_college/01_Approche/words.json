@@ -1,5 +1,10 @@
 [
     {
+        "german": "willkommen",
+        "french": "bienvenue",
+        "audio": "bienvenue.ogg"
+    },
+    {
         "german": "ein Klassenzimmer",
         "french": "une salle de classe",
         "audio": "une_salle_de_classe.ogg"
