@@ -1,0 +1,113 @@
+[
+    {
+        "german": "Bewerbung als ...",
+        "english": "Application for",
+        "audio": "application_for.ogg"
+    },
+    {
+        "german": "Sehr geehrte Frau",
+        "english": "Dear Mrs",
+        "audio": "dear_mrs.ogg"
+    },
+    {
+        "german": "Sehr geehrter Herr",
+        "english": "Dear Mr",
+        "audio": "dear_mr.ogg"
+    },
+    {
+        "german": "Ich möchte mich für die Stelle als ... bewerben",
+        "english": "I would like to apply for the job as",
+        "audio": "i_would_like_to_apply_for_the_job_as.ogg"
+    },
+    {
+        "german": "wie sie online auf [Internetseite] ausgeschrieben wurde",
+        "english": "as advertised online on",
+        "audio": "as_advertised_online_on.ogg"
+    },
+    {
+        "german": "Nachdem ich die Schule im ... beendet habe",
+        "english": "After finishing school in",
+        "audio": "after_finishing_school_in.ogg"
+    },
+    {
+        "german": "Ich freue mich auf neue Herausforderungen",
+        "english": "I am looking forward to new challenges",
+        "audio": "i_am_looking_forward_to_new_challenges.ogg"
+    },
+    {
+        "german": "Ich bin sehr interessiert daran ...",
+        "english": "I am very interested in",
+        "audio": "i_am_very_interested_in.ogg"
+    },
+    {
+        "german": "Ich mag ...",
+        "english": "I like",
+        "audio": "i_like.ogg"
+    },
+    {
+        "german": "Ich habe Erfahrungen in diesem Bereich",
+        "english": "I have experience in this field",
+        "audio": "i_have_experience_in_this_field.ogg"
+    },
+    {
+        "german": "Ich habe bereits ein Praktikum absolviert als ...",
+        "english": "I have already completed an internship as",
+        "audio": "i_have_already_completed_an_internship_as.ogg"
+    },
+    {
+        "german": "Ich denke, ich bin qualifiziert für die Stelle, weil",
+        "english": "I think I am qualified for the job because",
+        "audio": "i_think_i_am_qualified_for_the_job_because.ogg"
+    },
+    {
+        "german": "Ich habe gute ... Fähigkeiten",
+        "english": "I have good ... skills",
+        "audio": "i_have_good__skills.ogg",
+        "alternatives": [
+            "I have good skills"
+        ]
+    },
+    {
+        "german": "Ich spreche ... sehr gut",
+        "english": "I speak ... very well",
+        "audio": "i_speak__very_well.ogg",
+        "alternatives": [
+            "I speak very well"
+        ]
+    },
+    {
+        "german": "Die Stelle, die sie anbieten, würde mir die Chance geben ...",
+        "english": "The job that you are offering would give me the chance to",
+        "audio": "the_job_that_you_are_offering_would_give_me_the_chance_to.ogg"
+    },
+    {
+        "german": "Danke für Ihre Zeit und für Ihr Interesse",
+        "english": "Thank you for your time and consideration",
+        "audio": "thank_you_for_your_time_and_consideration.ogg"
+    },
+    {
+        "german": "Ich freue mich darauf, bald von Ihnen zu hören",
+        "english": "I look forward to hearing from you soon",
+        "audio": "i_look_forward_to_hearing_from_you_soon.ogg"
+    },
+    {
+        "german": "Ich würde mich über die Gelegenheit freuen, mich in einem Interview persönlich vorzustellen",
+        "english": "I would appreciate the opportunity of an interview to present myself personally",
+        "audio": "i_would_appreciate_the_opportunity_of_an_interview_to_present_myself_personally.ogg"
+    },
+    {
+        "german": "Mit freundlichen Grüßen",
+        "english": "Yours sincerely",
+        "audio": "yours_sincerely.ogg"
+    },
+    {
+        "german": "Sie erhalten meinen Lebenslauf im Anhang",
+        "english": "Please find my CV attached",
+        "audio": "please_find_my_cv_attached.ogg"
+    },
+    {
+        "german": "anbei/beigefügt: Lebenslauf",
+        "english": "Enclosed CV",
+        "audio": "enclosed_cv.ogg"
+    }
+]
