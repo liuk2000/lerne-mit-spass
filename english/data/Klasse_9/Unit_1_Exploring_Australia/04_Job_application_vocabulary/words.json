@@ -1,0 +1,162 @@
+[
+    {
+        "german": "flexibel",
+        "english": "flexible",
+        "audio": "flexible.ogg"
+    },
+    {
+        "german": "höflich",
+        "english": "polite",
+        "audio": "polite.ogg"
+    },
+    {
+        "german": "fürsorglich",
+        "english": "caring",
+        "audio": "caring.ogg"
+    },
+    {
+        "german": "selbstmotiviert",
+        "english": "self-motivated",
+        "audio": "self_motivated.ogg"
+    },
+    {
+        "german": "kreativ",
+        "english": "creative",
+        "audio": "creative.ogg"
+    },
+    {
+        "german": "kommunikativ",
+        "english": "communicative",
+        "audio": "communicative.ogg"
+    },
+    {
+        "german": "pünktlich",
+        "english": "punctual",
+        "audio": "punctual.ogg"
+    },
+    {
+        "german": "zuverlässig",
+        "english": "reliable",
+        "audio": "reliable.ogg"
+    },
+    {
+        "german": "geduldig",
+        "english": "patient",
+        "audio": "patient.ogg"
+    },
+    {
+        "german": "freundlich",
+        "english": "friendly",
+        "audio": "friendly.ogg"
+    },
+    {
+        "german": "erfahren",
+        "english": "experienced",
+        "audio": "experienced.ogg"
+    },
+    {
+        "german": "qualifiziert",
+        "english": "qualified",
+        "audio": "qualified.ogg"
+    },
+    {
+        "german": "vertrauenswürdig",
+        "english": "trustworthy",
+        "audio": "trustworthy.ogg"
+    },
+    {
+        "german": "interessiert in",
+        "english": "interested in",
+        "audio": "interested_in.ogg"
+    },
+    {
+        "german": "verantwortungsbewusst",
+        "english": "responsible",
+        "audio": "responsible.ogg"
+    },
+    {
+        "german": "gut organisiert",
+        "english": "well-organised",
+        "audio": "well_organised.ogg"
+    },
+    {
+        "german": "gut im Organisieren",
+        "english": "good at organising",
+        "audio": "good_at_organising.ogg"
+    },
+    {
+        "german": "bereit sein in Schichten zu arbeiten",
+        "english": "willing to work shifts",
+        "audio": "willing_to_work_shifts.ogg"
+    },
+    {
+        "german": "bereit sein früh aufzustehen",
+        "english": "willing to get up early",
+        "audio": "willing_to_get_up_early.ogg"
+    },
+    {
+        "german": "bereit sein zu reisen",
+        "english": "willing to travel",
+        "audio": "willing_to_travel.ogg"
+    },
+    {
+        "german": "jemand, der gut im Team arbeitet",
+        "english": "team player",
+        "audio": "team_player.ogg"
+    },
+    {
+        "german": "effizient/leistungsfähig arbeiten",
+        "english": "to work efficiently",
+        "audio": "to_work_efficiently.ogg",
+        "alternatives": [
+            "work efficiently"
+        ]
+    },
+    {
+        "german": "ruhig bleiben in schwierigen Situationen",
+        "english": "to stay calm in difficult situations",
+        "audio": "to_stay_calm_in_difficult_situations.ogg",
+        "alternatives": [
+            "stay calm in difficult situations"
+        ]
+    },
+    {
+        "german": "auf Details/Kleinigkeiten achten",
+        "english": "to pay attention to details",
+        "audio": "to_pay_attention_to_details.ogg",
+        "alternatives": [
+            "pay attention to details"
+        ]
+    },
+    {
+        "german": "mögen draußen zu arbeiten",
+        "english": "to like to work outside",
+        "audio": "to_like_to_work_outside.ogg",
+        "alternatives": [
+            "like to work outside"
+        ]
+    },
+    {
+        "german": "Engslisch flüssig sprechen",
+        "english": "to speak English fluently",
+        "audio": "to_speak_english_fluently.ogg",
+        "alternatives": [
+            "speak English fluently"
+        ]
+    },
+    {
+        "german": "Computerkenntnisse",
+        "english": "computer skills",
+        "audio": "computer_skills.ogg"
+    },
+    {
+        "german": "Sprachkenntnisse",
+        "english": "language skills",
+        "audio": "language_skills.ogg"
+    },
+    {
+        "german": "gute Kommunikationsfähigkeiten",
+        "english": "good communication skills",
+        "audio": "good_communication_skills.ogg"
+    }
+]
