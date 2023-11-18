@@ -1,0 +1,37 @@
+[
+    {
+        "german": "Empfangschef(in)",
+        "english": "receptionist",
+        "audio": "receptionist.ogg"
+    },
+    {
+        "german": "Elektriker(in)",
+        "english": "electrician",
+        "audio": "electrician.ogg"
+    },
+    {
+        "german": "Reiserbürokaufmann, Reisebürokauffrau",
+        "english": "travel agent",
+        "audio": "travel_agent.ogg"
+    },
+    {
+        "german": "Physiotherapeut(in)",
+        "english": "physiotherapist",
+        "audio": "physiotherapist.ogg"
+    },
+    {
+        "german": "Klempner(in), Installateur(in)",
+        "english": "plumber",
+        "audio": "plumber.ogg"
+    },
+    {
+        "german": "Mechaniker(in)",
+        "english": "mechanic",
+        "audio": "mechanic.ogg"
+    },
+    {
+        "german": "Fahrradkurier(in)",
+        "english": "bike courier",
+        "audio": "bike_courier.ogg"
+    }
+]

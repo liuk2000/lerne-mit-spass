@@ -1,0 +1,373 @@
+[
+    {
+        "german": "effizient, leistungsfähig",
+        "english": "efficient",
+        "audio": "efficient.ogg"
+    },
+    {
+        "german": "benötigen, erfordern",
+        "english": "to require",
+        "audio": "to_require.ogg",
+        "alternatives": [
+            "require"
+        ]
+    },
+    {
+        "german": "Praktikum, Berufserfahrung",
+        "english": "work experience",
+        "audio": "work_experience.ogg",
+        "sentences": [
+            [
+                "I did",
+                "***",
+                "in a hotel"
+            ]
+        ]
+    },
+    {
+        "german": "Kundendienst, Kundenbetreuung",
+        "english": "customer service",
+        "audio": "customer_service.ogg",
+        "sentences": [
+            [
+                "I go to",
+                "***",
+                "if I have a problem"
+            ]
+        ]
+    },
+    {
+        "german": "Mittel-, mittleres Niveau",
+        "english": "intermediate",
+        "audio": "intermediate.ogg"
+    },
+    {
+        "german": "Kenntnis, Fertigkeit, Fähigkeit",
+        "english": "skill",
+        "audio": "skill.ogg",
+        "sentences": [
+            [
+                "Companies want to know about your",
+                "***skills***"
+            ]
+        ]
+    },
+    {
+        "german": "Muttersprachler(in)",
+        "english": "native speaker",
+        "audio": "native_speaker.ogg",
+        "sentences": [
+            [
+                "I am a German",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Zertifikat, Bescheunigung, Urkunde, Zeugnis",
+        "english": "certificate",
+        "audio": "certificate.ogg"
+    },
+    {
+        "german": "Gehalt",
+        "english": "salary",
+        "audio": "salary.ogg",
+        "sentences": [
+            [
+                "Your",
+                "***",
+                "is what you earn"
+            ]
+        ]
+    },
+    {
+        "german": "Ausbildung am Arbeitsplatz",
+        "english": "on-the-job training",
+        "audio": "on_the_job_training.ogg",
+        "sentences": [
+            [
+                "They said there is",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Lebenslauf",
+        "english": "CV (curriculum vitae)",
+        "audio": "cv_(curriculum_vitae).ogg",
+        "sentences": [
+            [
+                "I have to send my",
+                "***",
+                "with a photo on it"
+            ]
+        ],
+        "alternatives": [
+            "CV"
+        ]
+    },
+    {
+        "german": "Bewerbungsbrief",
+        "english": "letter of application",
+        "audio": "letter_of_application.ogg",
+        "sentences": [
+            [
+                "Send a",
+                "***",
+                "and your CV"
+            ]
+        ]
+    },
+    {
+        "german": "Motivationsschreiben",
+        "english": "personal statement",
+        "audio": "personal_statement.ogg",
+        "sentences": [
+            [
+                "A",
+                "***",
+                "is hard to write"
+            ]
+        ]
+    },
+    {
+        "german": "Interesse",
+        "english": "interest",
+        "audio": "interest.ogg",
+        "sentences": [
+            [
+                "Don't forget to tell them your",
+                "***interests***"
+            ]
+        ]
+    },
+    {
+        "german": "Referenz, Referenzschreiben",
+        "english": "reference",
+        "audio": "reference.ogg"
+    },
+    {
+        "german": "Gebiet, Bereich",
+        "english": "field",
+        "audio": "field.ogg"
+    },
+    {
+        "german": "aktuell, derzeitig, gegenwärtig",
+        "english": "current",
+        "audio": "current.ogg",
+        "sentences": [
+            [
+                "What is your",
+                "***",
+                "job?"
+            ]
+        ]
+    },
+    {
+        "german": "vorübergehend",
+        "english": "temporary",
+        "audio": "temporary.ogg",
+        "sentences": [
+            [
+                "I have a",
+                "***",
+                "job until September"
+            ]
+        ]
+    },
+    {
+        "german": "einchecken",
+        "english": "to check in",
+        "audio": "to_check_in.ogg",
+        "alternatives": [
+            "check in"
+        ]
+    },
+    {
+        "german": "unbefristet, permanent, dauerhaft",
+        "english": "permanent",
+        "audio": "permanent.ogg",
+        "sentences": [
+            [
+                "I am looking for a",
+                "***",
+                "job"
+            ]
+        ]
+    },
+    {
+        "german": "Kommunikation",
+        "english": "communication",
+        "audio": "communication.ogg"
+    },
+    {
+        "german": "Verwaltung",
+        "english": "administration",
+        "audio": "administration.ogg",
+        "sentences": [
+            [
+                "I have intermediate",
+                "***",
+                "skills"
+            ]
+        ]
+    },
+    {
+        "german": "qualifizieren, befähigen",
+        "english": "to qualify",
+        "audio": "to_qualify.ogg",
+        "sentences": [
+            [
+                "I think my skills",
+                "***qualify***",
+                "me for the job"
+            ]
+        ],
+        "alternatives": [
+            "qualify"
+        ]
+    },
+    {
+        "german": "angefügt, angehängt",
+        "english": "attached",
+        "audio": "attached.ogg",
+        "sentences": [
+            [
+                "Please find",
+                "***",
+                "my CV"
+            ]
+        ]
+    },
+    {
+        "german": "sich freuen auf",
+        "english": "to look forward to",
+        "audio": "to_look_forward_to.ogg",
+        "sentences": [
+            [
+                "I am",
+                "***looking forward to***",
+                "visiting my grandma"
+            ]
+        ],
+        "alternatives": [
+            "look forward to"
+        ]
+    },
+    {
+        "german": "Mit freundlichen Grüßen",
+        "english": "Yours sincerely",
+        "audio": "yours_sincerely.ogg"
+    },
+    {
+        "german": "Teamwork",
+        "english": "teamwork",
+        "audio": "teamwork.ogg",
+        "sentences": [
+            [
+                "I don't want to work alone. I like",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Vorschule, Vorschul-",
+        "english": "preschool",
+        "audio": "preschool.ogg",
+        "sentences": [
+            [
+                "My mum is a",
+                "***",
+                "teacher"
+            ]
+        ]
+    },
+    {
+        "german": "seine Aufmerksamkeit auf etw. richten",
+        "english": "to pay attention to sth",
+        "audio": "to_pay_attention_to_sth.ogg",
+        "sentences": [
+            [
+                "Listen and",
+                "***pay attention***",
+                "to detail"
+            ]
+        ],
+        "alternatives": [
+            "to pay attention to something",
+            "pay attention",
+            "pay attention to sth",
+            "pay attention to something"
+        ]
+    },
+    {
+        "german": "pünktlich",
+        "english": "punctual",
+        "audio": "punctual.ogg"
+    },
+    {
+        "german": "eigenmotiviert",
+        "english": "self-motivated",
+        "audio": "self_motivated.ogg",
+        "sentences": [
+            [
+                "In some jobs you have to be",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Qualifikation, Abschluss, Schulabschluss",
+        "english": "qualification",
+        "audio": "qualification.ogg"
+    },
+    {
+        "german": "Transport, Beförderung",
+        "english": "transport",
+        "audio": "transport.ogg"
+    },
+    {
+        "german": "erfahren",
+        "english": "experienced",
+        "audio": "experienced.ogg"
+    },
+    {
+        "german": "gut laufen",
+        "english": "to go well",
+        "audio": "to_go_well.ogg",
+        "alternatives": [
+            "go well"
+        ]
+    },
+    {
+        "german": "von allen Leuten",
+        "english": "of all the people",
+        "audio": "of_all_the_people.ogg",
+        "sentences": [
+            [
+                "***",
+                ", I work best in a team"
+            ]
+        ]
+    },
+    {
+        "german": "qualifiziert",
+        "english": "qualified",
+        "audio": "qualified.ogg"
+    },
+    {
+        "german": "Kandidat(in), Bewerber(in)",
+        "english": "candidate",
+        "audio": "candidate.ogg"
+    },
+    {
+        "german": "jeder andere",
+        "english": "anybody else",
+        "audio": "anybody_else.ogg"
+    },
+    {
+        "german": "Voraussetzung, Anforderung",
+        "english": "requirement",
+        "audio": "requirement.ogg"
+    }
+]
