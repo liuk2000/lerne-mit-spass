@@ -1,0 +1,166 @@
+[
+    {
+        "german": "zusammen",
+        "french": "ensemble",
+        "audio": "ensemble.ogg",
+        "sentences": [
+            [
+                "On mange",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "ein Schüler",
+        "french": "un élève",
+        "audio": "un_eleve.ogg"
+    },
+    {
+        "german": "eine Schülerin",
+        "french": "une élève",
+        "audio": "une_eleve.ogg"
+    },
+    {
+        "german": "ein Stundenplan",
+        "french": "un emploi du temps",
+        "audio": "un_emploi_du_temps.ogg"
+    },
+    {
+        "german": "neunzig (in Belgien, in der Schweiz)",
+        "french": "nonante",
+        "audio": "nonante.ogg"
+    },
+    {
+        "german": "Wie? Wie bitte?",
+        "french": "Comment?",
+        "audio": "comment.ogg",
+        "alternatives": [
+            "comment"
+        ]
+    },
+    {
+        "german": "im 2. Stock",
+        "french": "au 2e étage",
+        "audio": "au_2e_etage.ogg"
+    },
+    {
+        "german": "eine Etage, ein Stockwerk",
+        "french": "un étage",
+        "audio": "un_etage.ogg"
+    },
+    {
+        "german": "der Weg",
+        "french": "le chemin",
+        "audio": "le_chemin.ogg",
+        "sentences": [
+            [
+                "Malika montre",
+                "***",
+                "à Alex"
+            ]
+        ]
+    },
+    {
+        "german": "die 5A",
+        "french": "la 5e A",
+        "audio": "la_5e_a.ogg"
+    },
+    {
+        "german": "Woher kommst du?",
+        "french": "Tu viens d'où?",
+        "audio": "tu_viens_doù.ogg",
+        "alternatives": [
+            "tu viens d'où"
+        ]
+    },
+    {
+        "german": "treffen",
+        "french": "retrouver",
+        "audio": "retrouver.ogg",
+        "sentences": [
+            [
+                "J'ai",
+                "***retrouvè***",
+                "les copians devant le cinéma"
+            ]
+        ]
+    },
+    {
+        "german": "Ich habe 16 Punkte (von 20)",
+        "french": "J'ai 16 (sur 20)",
+        "audio": "jai_16_(sur_20).ogg"
+    },
+    {
+        "german": "schau mal",
+        "french": "tiens",
+        "audio": "tiens.ogg"
+    },
+    {
+        "german": "ein Neuer",
+        "french": "un nouveau",
+        "audio": "un_nouveau.ogg"
+    },
+    {
+        "german": "eine Neue",
+        "french": "une nouvelle",
+        "audio": "une_nouvelle.ogg"
+    },
+    {
+        "german": "Er kommt aus ...",
+        "french": "Il vient de ...",
+        "audio": "il_vient_de_.ogg",
+        "alternatives": [
+            "Il viens de"
+        ]
+    },
+    {
+        "german": "niedlich (m), gutaussend (m)",
+        "french": "mignon",
+        "audio": "mignon.ogg"
+    },
+    {
+        "german": "niedlich (f), gutaussend (f)",
+        "french": "mignonne",
+        "audio": "mignonne.ogg"
+    },
+    {
+        "german": "Er lernt Deutsch",
+        "french": "Il apperend l'allemand",
+        "audio": "il_apperend_lallemand.ogg"
+    },
+    {
+        "german": "Deutsch",
+        "french": "l'allemand",
+        "audio": "lallemand.ogg"
+    },
+    {
+        "german": "mit uns",
+        "french": "avec nous",
+        "audio": "avec_nous.ogg",
+        "sentences": [
+            [
+                "Tu viens",
+                "***",
+                "?"
+            ]
+        ]
+    },
+    {
+        "german": "Ich habe keine Zeit",
+        "french": "Je n'ai pas le temps",
+        "audio": "je_nai_pas_le_temps.ogg"
+    },
+    {
+        "german": "die Zeit",
+        "french": "le temps",
+        "audio": "le_temps.ogg"
+    },
+    {
+        "german": "Sportunterricht",
+        "french": "l'EPS (éducation physique et sportive)",
+        "audio": "leps_(education_physique_et_sportive).ogg",
+        "alternatives": [
+            "l'EPS"
+        ]
+    }
+]
