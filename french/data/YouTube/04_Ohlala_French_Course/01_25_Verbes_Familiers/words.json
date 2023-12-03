@@ -1,0 +1,293 @@
+[
+    {
+        "german": "schlafen",
+        "french": "pioncer",
+        "audio": "pioncer.ogg",
+        "sentences": [
+            [
+                "Depuis qu'il travaille de nuit, il ne fait que",
+                "***",
+                "la journèe"
+            ]
+        ]
+    },
+    {
+        "german": "essen",
+        "french": "bouffer",
+        "audio": "bouffer.ogg",
+        "sentences": [
+            [
+                "Ce soir, on va",
+                "***",
+                "chez mes parents"
+            ]
+        ]
+    },
+    {
+        "german": "arbeiten",
+        "french": "taffer",
+        "audio": "taffer.ogg",
+        "sentences": [
+            [
+                "Il doit",
+                "***",
+                "tard ce soir"
+            ]
+        ]
+    },
+    {
+        "german": "lieben, sehr toll finden",
+        "french": "kiffer",
+        "audio": "kiffer.ogg",
+        "sentences": [
+            [
+                "Je",
+                "***kiffe***",
+                "cette musique"
+            ]
+        ]
+    },
+    {
+        "german": "verschwinden, abhauen",
+        "french": "ce casser",
+        "audio": "ce_casser.ogg",
+        "sentences": [
+            [
+                "Il est tard, je",
+                "***me casse***"
+            ]
+        ]
+    },
+    {
+        "german": "weinen",
+        "french": "chialer",
+        "audio": "chialer.ogg",
+        "sentences": [
+            [
+                "Je n'ai pas arrêtè de",
+                "***",
+                "en regardant ce film"
+            ]
+        ]
+    },
+    {
+        "german": "suchen, rumfummeln",
+        "french": "fouiner",
+        "audio": "fouiner.ogg",
+        "sentences": [
+            [
+                "Arrête de",
+                "***",
+                "dans mes affaires"
+            ]
+        ]
+    },
+    {
+        "german": "Angst haben",
+        "french": "flipper",
+        "audio": "flipper.ogg",
+        "sentences": [
+            [
+                "J'ai",
+                "***flippé***",
+                "en regardant ce film d'horreur"
+            ]
+        ]
+    },
+    {
+        "german": "Schwierigkeit mit irgendwas haben",
+        "french": "galérer",
+        "audio": "galerer.ogg",
+        "sentences": [
+            [
+                "Je",
+                "***galére***",
+                "à finir ce projet"
+            ]
+        ]
+    },
+    {
+        "german": "reden, quatschen",
+        "french": "jacter",
+        "audio": "jacter.ogg",
+        "sentences": [
+            [
+                "Arrête de",
+                "***",
+                ", je n'entends rien"
+            ]
+        ]
+    },
+    {
+        "german": "gucken, schauen",
+        "french": "mater",
+        "audio": "mater.ogg",
+        "sentences": [
+            [
+                "On a",
+                "***matè***",
+                "un bon film hier soir"
+            ]
+        ]
+    },
+    {
+        "german": "lachen",
+        "french": "se poiler",
+        "audio": "se_poiler.ogg",
+        "sentences": [
+            [
+                "On s'est",
+                "***poilè***",
+                "toute la soirée avec ses blagues"
+            ]
+        ]
+    },
+    {
+        "german": "lügen",
+        "french": "baratiner",
+        "audio": "baratiner.ogg",
+        "sentences": [
+            [
+                "Il a essayé de me",
+                "***",
+                ", mais je ne l'ai pas cru"
+            ]
+        ]
+    },
+    {
+        "german": "lachen",
+        "french": "se marrer",
+        "audio": "se_marrer.ogg",
+        "sentences": [
+            [
+                "On s'est bien",
+                "***marré***",
+                "avec tes amis"
+            ]
+        ]
+    },
+    {
+        "german": "sich ärgern",
+        "french": "se vénère",
+        "audio": "se_venere.ogg",
+        "sentences": [
+            [
+                "Il s'est",
+                "***vénère***",
+                "quand il a lu le courrier"
+            ]
+        ]
+    },
+    {
+        "german": "angeben (to show off)",
+        "french": "frimer",
+        "audio": "frimer.ogg",
+        "sentences": [
+            [
+                "Arrête de",
+                "***",
+                "avec ta nouvelle voiture"
+            ]
+        ]
+    },
+    {
+        "german": "sich beschweren, meckern",
+        "french": "râler",
+        "audio": "râler.ogg",
+        "sentences": [
+            [
+                "Il",
+                "***râle***",
+                "toujours sur la météo"
+            ]
+        ]
+    },
+    {
+        "german": "sich irren, einen Fehler machen",
+        "french": "se gourer",
+        "audio": "se_gourer.ogg",
+        "sentences": [
+            [
+                "Je me suis",
+                "***gouré***",
+                "dans les calculs"
+            ]
+        ]
+    },
+    {
+        "german": "scheiterm (to mess up)",
+        "french": "foirer",
+        "audio": "foirer.ogg",
+        "sentences": [
+            [
+                "J'ai complètement",
+                "***foiré***",
+                "mon examen"
+            ]
+        ]
+    },
+    {
+        "german": "höfflich um irgendwas bitten, betteln",
+        "french": "gratter",
+        "audio": "gratter.ogg",
+        "sentences": [
+            [
+                "Il essaie toujours de",
+                "***",
+                "des cigarettes"
+            ]
+        ]
+    },
+    {
+        "german": "vergessen",
+        "french": "zapper",
+        "audio": "zapper.ogg",
+        "sentences": [
+            [
+                "J'ai complètement",
+                "***zappé***",
+                "de te rapeller! Désolèe!"
+            ]
+        ]
+    },
+    {
+        "german": "bei jemandem bleiben, hocken",
+        "french": "squatter",
+        "audio": "squatter.ogg",
+        "sentences": [
+            [
+                "Ils",
+                "***squattent***",
+                "chez moi depuis une semaine"
+            ]
+        ]
+    },
+    {
+        "german": "erleiden, unterziehen",
+        "french": "se taper",
+        "audio": "se_taper.ogg",
+        "sentences": [
+            [
+                "Je me suis",
+                "***tapé***",
+                "tout le ménage seul"
+            ]
+        ]
+    },
+    {
+        "german": "verstehen, kapieren",
+        "french": "piger",
+        "audio": "piger.ogg",
+        "sentences": [
+            [
+                "Tu peux expliquer à nouveau, j'ai rien",
+                "***pigé***"
+            ]
+        ]
+    },
+    {
+        "german": "Alkohol trinken, saufen",
+        "french": "picoler",
+        "audio": "picoler.ogg"
+    }
+]
