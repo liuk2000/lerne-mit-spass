@@ -1,0 +1,257 @@
+[
+    {
+        "german": "Südafrika",
+        "english": "South Africa",
+        "audio": "south_africa.ogg",
+        "sentences": [
+            [
+                "Sport is popular in",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Haupt-",
+        "english": "main",
+        "audio": "main.ogg",
+        "sentences": [
+            [
+                "The",
+                "***",
+                "capital city is Pretoria"
+            ]
+        ]
+    },
+    {
+        "german": "Sitz",
+        "english": "seat",
+        "audio": "seat.ogg",
+        "sentences": [
+            [
+                "The president has his",
+                "***",
+                "in Pretoria"
+            ]
+        ]
+    },
+    {
+        "german": "gemischter Abstammung, Mischrasse",
+        "english": "mixed race",
+        "audio": "mixed_race.ogg",
+        "sentences": [
+            [
+                "There are",
+                "***",
+                "people in South Africa"
+            ]
+        ]
+    },
+    {
+        "german": "Menge, Summe",
+        "english": "amount",
+        "audio": "amount.ogg",
+        "sentences": [
+            [
+                "South Africa has large",
+                "***amounts***",
+                "of gold"
+            ]
+        ]
+    },
+    {
+        "german": "Diamant",
+        "english": "diamond",
+        "audio": "diamond.ogg"
+    },
+    {
+        "german": "Safari",
+        "english": "safari",
+        "audio": "safari.ogg"
+    },
+    {
+        "german": "Löwe",
+        "english": "lion",
+        "audio": "lion.ogg"
+    },
+    {
+        "german": "Rhinozeros, Nashorn",
+        "english": "rhino",
+        "audio": "rhino.ogg"
+    },
+    {
+        "german": "Nationalpark",
+        "english": "national park",
+        "audio": "national_park.ogg",
+        "sentences": [
+            [
+                "The US has lots of",
+                "***national parks***"
+            ]
+        ]
+    },
+    {
+        "german": "Naturschutzgebiet",
+        "english": "nature reserve",
+        "audio": "nature_reserve.ogg",
+        "sentences": [
+            [
+                "South Africa has lots of",
+                "***national reserves***"
+            ]
+        ]
+    },
+    {
+        "german": "Landschaft",
+        "english": "scenery",
+        "audio": "scenery.ogg",
+        "sentences": [
+            [
+                "There is amazing",
+                "***",
+                "and wildlife"
+            ]
+        ]
+    },
+    {
+        "german": "Südafrikaner(in), südafrikanisch, aus Südafrika",
+        "english": "South African",
+        "audio": "south_african.ogg"
+    },
+    {
+        "german": "die Niederländer",
+        "english": "the Dutch",
+        "audio": "the_dutch.ogg",
+        "sentences": [
+            [
+                "***",
+                "are from the Netherlands"
+            ]
+        ]
+    },
+    {
+        "german": "Apartheid (Rassentrennung per Gesetz)",
+        "english": "apartheid",
+        "audio": "apartheid.ogg",
+        "sentences": [
+            [
+                "***",
+                "endet in 1994"
+            ]
+        ]
+    },
+    {
+        "german": "trennen",
+        "english": "to separate",
+        "audio": "to_separate.ogg",
+        "alternatives": [
+            "separate"
+        ],
+        "sentences": [
+            [
+                "Black and white people were",
+                "***separated***"
+            ]
+        ]
+    },
+    {
+        "german": "(hier) gründen",
+        "english": "to build",
+        "audio": "to_build.ogg",
+        "alternatives": [
+            "build"
+        ],
+        "sentences": [
+            [
+                "Nelson Mandela",
+                "***built***",
+                "a new South Africa?"
+            ]
+        ]
+    },
+    {
+        "german": "Nation, Land, Staat",
+        "english": "nation",
+        "audio": "nation.ogg"
+    },
+    {
+        "german": "bewachte Wohnanlage, geschlossene Wohnanlage",
+        "english": "gated community",
+        "audio": "gated_community.ogg",
+        "sentences": [
+            [
+                "Rich people live in",
+                "***gated communities***"
+            ]
+        ]
+    },
+    {
+        "german": "Sicherheit, Schutz, Wachdienst",
+        "english": "security",
+        "audio": "security.ogg",
+        "sentences": [
+            [
+                "Gated communities have high",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Township (Wohnsiedlungen für Schwarze in Südafrika)",
+        "english": "township",
+        "audio": "township.ogg",
+        "sentences": [
+            [
+                "Poor people live in",
+                "***townships***"
+            ]
+        ]
+    },
+    {
+        "german": "demokratisch",
+        "english": "democratic",
+        "audio": "democratic.ogg"
+    },
+    {
+        "german": "Wahl",
+        "english": "election",
+        "audio": "election.ogg"
+    },
+    {
+        "german": "Gebiet, Revier, Territorium",
+        "english": "territory",
+        "audio": "territory.ogg",
+        "sentences": [
+            [
+                "The Dutch moved to a new",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Krieg",
+        "english": "war",
+        "audio": "war.ogg",
+        "sentences": [
+            [
+                "Armies fight each other in",
+                "***wars***"
+            ]
+        ]
+    },
+    {
+        "german": "Frieden",
+        "english": "peace",
+        "audio": "peace.ogg"
+    },
+    {
+        "german": "Verfassung",
+        "english": "constitution",
+        "audio": "constitution.ogg",
+        "sentences": [
+            [
+                "All countries have their",
+                "***constitutions***"
+            ]
+        ]
+    }
+]
