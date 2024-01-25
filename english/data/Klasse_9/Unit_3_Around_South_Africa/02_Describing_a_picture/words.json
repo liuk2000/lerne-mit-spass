@@ -1,0 +1,202 @@
+[
+    {
+        "german": "Sieh dir das Bild an",
+        "english": "Have a look at this picture",
+        "audio": "have_a_look_at_this_picture.ogg"
+    },
+    {
+        "german": "Auf dem Bild kannst du ... sehen",
+        "english": "In this picture you can see",
+        "audio": "in_this_picture_you_can_see.ogg"
+    },
+    {
+        "german": "Das Bild zeigt",
+        "english": "The picture shows",
+        "audio": "the_picture_shows.ogg"
+    },
+    {
+        "german": "Das Bild wurde in/an ... aufgenommen",
+        "english": "The picture was taken in",
+        "audio": "the_picture_was_taken_in.ogg"
+    },
+    {
+        "german": "Der Titel des Bildes könnte lauten ...",
+        "english": "The title of the picture could be",
+        "audio": "the_title_of_the_picture_could_be.ogg"
+    },
+    {
+        "german": "Im Vordergrund ist ...",
+        "english": "In the foreground there is",
+        "audio": "in_the_foreground_there_is.ogg"
+    },
+    {
+        "german": "Im Hintergrund ...",
+        "english": "In the background",
+        "audio": "in_the_background.ogg"
+    },
+    {
+        "german": "oben",
+        "english": "at the top",
+        "audio": "at_the_top.ogg"
+    },
+    {
+        "german": "unten",
+        "english": "at the bottom",
+        "audio": "at_the_bottom.ogg"
+    },
+    {
+        "german": "in der Mitte",
+        "english": "in the middle",
+        "audio": "in_the_middle.ogg"
+    },
+    {
+        "german": "links",
+        "english": "on the left",
+        "audio": "on_the_left.ogg"
+    },
+    {
+        "german": "rechts",
+        "english": "on the right",
+        "audio": "on_the_right.ogg"
+    },
+    {
+        "german": "In der oberen linken Ecke sehe ich ...",
+        "english": "In the upper left corner I can see",
+        "audio": "in_the_upper_left_corner_i_can_see.ogg"
+    },
+    {
+        "german": "in der unteren linken Ecke",
+        "english": "in the lower left corner",
+        "audio": "in_the_lower_left_corner.ogg"
+    },
+    {
+        "german": "das Foto ist schwarz-weiß",
+        "english": "the photo is black and white",
+        "audio": "the_photo_is_black_and_white.ogg"
+    },
+    {
+        "german": "buntes Foto",
+        "english": "colourful photo",
+        "audio": "colourful_photo.ogg"
+    },
+    {
+        "german": "neben",
+        "english": "next to",
+        "audio": "next_to.ogg"
+    },
+    {
+        "german": "vor",
+        "english": "in front of",
+        "audio": "in_front_of.ogg"
+    },
+    {
+        "german": "hinter",
+        "english": "behind",
+        "audio": "behind.ogg"
+    },
+    {
+        "german": "zwischen",
+        "english": "between",
+        "audio": "between.ogg"
+    },
+    {
+        "german": "da ist eine Frau",
+        "english": "there is a woman",
+        "audio": "there_is_a_woman.ogg"
+    },
+    {
+        "german": "sie trägt ...",
+        "english": "she is wearing",
+        "audio": "she_is_wearing.ogg"
+    },
+    {
+        "german": "sie sprechen mit ...",
+        "english": "they are talking to",
+        "audio": "they_are_talking_to.ogg"
+    },
+    {
+        "german": "Die Person auf dem Bild ist jung",
+        "english": "The person in the picture is young",
+        "audio": "the_person_in_the_picture_is_young.ogg"
+    },
+    {
+        "german": "Die Person auf dem Bild ist ca. 15 Jahre alt",
+        "english": "The person in the picture is about 15 years old",
+        "audio": "the_person_in_the_picture_is_about_15_years_old.ogg"
+    },
+    {
+        "german": "Die Person sieht glücklich aus",
+        "english": "The person looks happy",
+        "audio": "the_person_looks_happy.ogg"
+    },
+    {
+        "german": "Die Person sieht traurig aus",
+        "english": "The person looks sad",
+        "audio": "the_person_looks_sad.ogg"
+    },
+    {
+        "german": "Die Person sieht geschockt aus",
+        "english": "The person looks shocked",
+        "audio": "the_person_looks_shocked.ogg"
+    },
+    {
+        "german": "Die Person sieht einasam aus",
+        "english": "The person looks lonely",
+        "audio": "the_person_looks_lonely.ogg"
+    },
+    {
+        "german": "Die Person sieht besorgt aus",
+        "english": "The person looks worried",
+        "audio": "the_person_looks_worried.ogg"
+    },
+    {
+        "german": "Die Person sieht entspannt aus",
+        "english": "The person looks relaxed",
+        "audio": "the_person_looks_relaxed.ogg"
+    },
+    {
+        "german": "Vielleicht denkt er über ...",
+        "english": "May be he is thinking about",
+        "audio": "may_be_he_is_thinking_about.ogg"
+    },
+    {
+        "german": "Ich denke das Bild ist speziell",
+        "english": "I think the picture is special",
+        "audio": "i_think_the_picture_is_special.ogg"
+    },
+    {
+        "german": "Ich denke das Bild ist spektakulär",
+        "english": "I think the picture is spectacular",
+        "audio": "i_think_the_picture_is_spectacular.ogg"
+    },
+    {
+        "german": "Ich denke das Bild ist schockierend",
+        "english": "I think the picture is shocking",
+        "audio": "i_think_the_picture_is_shocking.ogg"
+    },
+    {
+        "german": "Ich denke das Bild ist realistisch",
+        "english": "I think the picture is realistic",
+        "audio": "i_think_the_picture_is_realistic.ogg"
+    },
+    {
+        "german": "Das Bild macht mich glücklich, weil",
+        "english": "The picture makes me feel happy because",
+        "audio": "the_picture_makes_me_feel_happy_because.ogg"
+    },
+    {
+        "german": "Das Bild macht mich traurig, weil",
+        "english": "The picture makes me feel sad because",
+        "audio": "the_picture_makes_me_feel_sad_because.ogg"
+    },
+    {
+        "german": "Das Bild macht mich besorgt, weil",
+        "english": "The picture makes me feel worried because",
+        "audio": "the_picture_makes_me_feel_worried_because.ogg"
+    },
+    {
+        "german": "Ich denke die Botschaft des Bildes ist ...",
+        "english": "I think the message of the picture is",
+        "audio": "i_think_the_message_of_the_picture_is.ogg"
+    }
+]
