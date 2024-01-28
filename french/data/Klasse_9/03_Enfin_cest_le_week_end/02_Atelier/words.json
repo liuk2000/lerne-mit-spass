@@ -1,0 +1,225 @@
+[
+    {
+        "german": "Was hast du gestern gemacht?",
+        "french": "Qu'est-ce que tu as fait hier?",
+        "audio": "quest_ce_que_tu_as_fait_hier.ogg",
+        "alternatives": [
+            "Qu'est-ce que tu as fait hier"
+        ]
+    },
+    {
+        "german": "gestern",
+        "french": "hier",
+        "audio": "hier.ogg"
+    },
+    {
+        "german": "heute",
+        "french": "aujourd'hui",
+        "audio": "aujourdhui.ogg"
+    },
+    {
+        "german": "morgen",
+        "french": "demain",
+        "audio": "demain.ogg"
+    },
+    {
+        "german": "telefonieren",
+        "french": "téléphoner",
+        "audio": "telephoner.ogg"
+    },
+    {
+        "german": "jdn. treffen",
+        "french": "rencontrer",
+        "audio": "rencontrer.ogg",
+        "sentences": [
+            [
+                "J'ai'",
+                "***rencontré***",
+                "un copain"
+            ]
+        ]
+    },
+    {
+        "german": "nichts Besonderes",
+        "french": "rien de spécial",
+        "audio": "rien_de_special.ogg"
+    },
+    {
+        "german": "danach, dann",
+        "french": "ensuite",
+        "audio": "ensuite.ogg"
+    },
+    {
+        "german": "Ich habe halt gechillt",
+        "french": "J'ai trainé, quoi",
+        "audio": "jai_traine_quoi.ogg",
+        "sentences": [
+            [
+                "Je",
+                "***galére***",
+                "à finir ce projet"
+            ]
+        ]
+    },
+    {
+        "german": "herumhängen, chillen",
+        "french": "trainer",
+        "audio": "trainer.ogg",
+        "sentences": [
+            [
+                "J'ai",
+                "***trainé***",
+                "dans ma chambre"
+            ]
+        ]
+    },
+    {
+        "german": "Und, gehen wir noch ins Kino?",
+        "french": "C'est toujours d'accord pour le ciné?",
+        "audio": "cest_toujours_daccord_pour_le_cine.ogg",
+        "alternatives": [
+            "C'est toujours d'accord pour le ciné",
+            "C'est toujours d'accord pour le cinéma?",
+            "C'est toujours d'accord pour le cinéma"
+        ]
+    },
+    {
+        "german": "zunächst, zuerst",
+        "french": "d'abord",
+        "audio": "dabord.ogg"
+    },
+    {
+        "german": "danach, dann",
+        "french": "puis",
+        "audio": "puis.ogg"
+    },
+    {
+        "german": "die Sportart, Sport",
+        "french": "le sport",
+        "audio": "le_sport.ogg",
+        "sentences": [
+            [
+                "J'ai fait du",
+                "***sport***"
+            ]
+        ]
+    },
+    {
+        "german": "So ein Theater!",
+        "french": "Quel cinéma!",
+        "audio": "quel_cinema.ogg",
+        "alternatives": [
+            "Quel cinéma"
+        ]
+    },
+    {
+        "german": "Er meldet sich nicht",
+        "french": "Il ne répond pas au téléphone",
+        "audio": "il_ne_repond_pas_au_telephone.ogg"
+    },
+    {
+        "german": "ein Telefon",
+        "french": "un téléphone",
+        "audio": "un_telephone.ogg"
+    },
+    {
+        "german": "telefonieren",
+        "french": "téléphoner",
+        "audio": "telephoner.ogg"
+    },
+    {
+        "german": "Warten wir?",
+        "french": "On attend?",
+        "audio": "on_attend.ogg",
+        "alternatives": [
+            "On attend"
+        ]
+    },
+    {
+        "german": "eine Vorstellung",
+        "french": "une séance",
+        "audio": "une_seance.ogg",
+        "sentences": [
+            [
+                "La",
+                "***séance***",
+                "de cinéma"
+            ]
+        ]
+    },
+    {
+        "german": "vergessen",
+        "french": "oublier",
+        "audio": "oublier.ogg",
+        "sentences": [
+            [
+                "J'ai",
+                "***oublié",
+                "mes cahiers"
+            ]
+        ]
+    },
+    {
+        "german": "Sie essen Popcorn",
+        "french": "Elles mangent du popcorn",
+        "audio": "elles_mangent_du_popcorn.ogg"
+    },
+    {
+        "german": "erzählen",
+        "french": "raconter",
+        "audio": "raconter.ogg"
+    },
+    {
+        "german": "Du nervst mich!",
+        "french": "Tu m'énerves!",
+        "audio": "tu_menerves.ogg",
+        "alternatives": [
+            "Tu m'énerves"
+        ]
+    },
+    {
+        "german": "für mich",
+        "french": "pour moi",
+        "audio": "pour_moi.ogg"
+    },
+    {
+        "german": "Du kommst aber spät!",
+        "french": "Tu es en retard, dis donc!",
+        "audio": "tu_es_en_retard_dis_donc.ogg",
+        "alternatives": [
+            "Tu es en retard, dis donc"
+        ]
+    },
+    {
+        "german": "zu spät kommen, spät dran sein",
+        "french": "être en retard",
+        "audio": "être_en_retard.ogg",
+        "sentences": [
+            [
+                "Je",
+                "***suis en retard***",
+                ". Pardon"
+            ]
+        ]
+    },
+    {
+        "german": "Das ist eine lange Geschichte",
+        "french": "C'est toute une histoire",
+        "audio": "cest_toute_une_histoire.ogg"
+    },
+    {
+        "german": "eine Geschichte",
+        "french": "une histoire",
+        "audio": "une_histoire.ogg"
+    },
+    {
+        "german": "eine Brieftasche mit 200 Euro drin",
+        "french": "un portefeuille avec 200 euros dedans",
+        "audio": "un_portefeuille_avec_200_euros_dedans.ogg"
+    },
+    {
+        "german": "eine Brieftasche",
+        "french": "un portefeuille",
+        "audio": "un_portefeuille.ogg"
+    }
+]
