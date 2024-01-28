@@ -1,0 +1,60 @@
+[
+    {
+        "german": "schließlich, endlich",
+        "french": "enfin",
+        "audio": "enfin.ogg"
+    },
+    {
+        "german": "ein Wochenende",
+        "french": "un week-end",
+        "audio": "un_week_end.ogg",
+        "sentences": [
+            [
+                "Samedi et dimanche, c'est le",
+                "***week-end***"
+            ]
+        ]
+    },
+    {
+        "german": "ein Café",
+        "french": "un café",
+        "audio": "un_cafe.ogg"
+    },
+    {
+        "german": "ein Stadion, ein Sportstadion",
+        "french": "un stade",
+        "audio": "un_stade.ogg"
+    },
+    {
+        "german": "ein Supermarkt",
+        "french": "un supermarché",
+        "audio": "un_supermarche.ogg",
+        "sentences": [
+            [
+                "Samedi matin, nous faisons les courses au",
+                "***supermarché***"
+            ]
+        ]
+    },
+    {
+        "german": "am Wochenende",
+        "french": "ce week-end",
+        "audio": "ce_week_end.ogg"
+    },
+    {
+        "german": "ein Park",
+        "french": "un parc",
+        "audio": "un_parc.ogg"
+    },
+    {
+        "german": "das Stadtzentrum",
+        "french": "le centre-ville",
+        "audio": "le_centre_ville.ogg",
+        "sentences": [
+            [
+                "Je vais au",
+                "***centre-ville***"
+            ]
+        ]
+    }
+]
