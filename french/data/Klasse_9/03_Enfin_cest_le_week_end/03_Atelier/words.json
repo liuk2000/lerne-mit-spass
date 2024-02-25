@@ -1,0 +1,101 @@
+[
+    {
+        "german": "Das wäre super",
+        "french": "C'était super",
+        "audio": "cetait_super.ogg"
+    },
+    {
+        "german": "auf der Straße",
+        "french": "dans la rue",
+        "audio": "dans_la_rue.ogg"
+    },
+    {
+        "german": "ein Wohnhaus",
+        "french": "un immeuble",
+        "audio": "un_immeuble.ogg"
+    },
+    {
+        "german": "einsammeln, aufheben",
+        "french": "ramasser",
+        "audio": "ramasser.ogg",
+        "sentences": [
+            [
+                "J'ai'",
+                "***ranassé***",
+                "le portefeuille"
+            ]
+        ]
+    },
+    {
+        "german": "ein Polizeirevier",
+        "french": "un commissariat",
+        "audio": "un_commissariat.ogg"
+    },
+    {
+        "german": "Wartet",
+        "french": "Attendéz",
+        "audio": "attendez.ogg"
+    },
+    {
+        "german": "Keine Panik",
+        "french": "Pas de panique",
+        "audio": "pas_de_panique.ogg"
+    },
+    {
+        "german": "die Ausweispapiere, die Papiere",
+        "french": "les papiers",
+        "audio": "les_papiers.ogg"
+    },
+    {
+        "german": "ein Nachbar",
+        "french": "un voisin",
+        "audio": "un_voisin.ogg"
+    },
+    {
+        "german": "eine Nachbarin",
+        "french": "une voisine",
+        "audio": "une_voisine.ogg"
+    },
+    {
+        "german": "Das ist eine andere Geschichte",
+        "french": "C'est une autre histoire",
+        "audio": "cest_une_autre_histoire.ogg"
+    },
+    {
+        "german": "Sie hat ein komisches Gesicht gemacht",
+        "french": "Elle a fait une drôle de tête",
+        "audio": "elle_a_fait_une_drôle_de_tête.ogg"
+    },
+    {
+        "german": "Sie hat uns 20 Euro gegeben",
+        "french": "Elle nous a donné 20 euros",
+        "audio": "elle_nous_a_donne_20_euros.ogg"
+    },
+    {
+        "german": "eine Waffel",
+        "french": "une goufre",
+        "audio": "une_goufre.ogg"
+    },
+    {
+        "german": "Ich lade euch ein",
+        "french": "Je vous invite",
+        "audio": "je_vous_invite.ogg"
+    },
+    {
+        "german": "wer",
+        "french": "qui",
+        "audio": "qui.ogg",
+        "sentences": [
+            [
+                "C'est",
+                "***",
+                "?"
+            ]
+        ]
+    },
+    {
+        "german": "ein Poliziest",
+        "french": "un policier",
+        "audio": "un_policier.ogg"
+    }
+]
