@@ -1,0 +1,106 @@
+[
+    {
+        "german": "modisch",
+        "english": "fashionable",
+        "audio": "fashionable.ogg"
+    },
+    {
+        "german": "neueste",
+        "english": "latest",
+        "audio": "latest.ogg"
+    },
+    {
+        "german": "durchstöbern",
+        "english": "to browse",
+        "audio": "to_browse.ogg",
+        "alternatives": [
+            "browse"
+        ]
+    },
+    {
+        "german": "Schaufenster",
+        "english": "shop window",
+        "audio": "shop_window.ogg"
+    },
+    {
+        "german": "etwas, was man haben muss",
+        "english": "must-have",
+        "audio": "must_have.ogg"
+    },
+    {
+        "german": "Geld verdienen",
+        "english": "to make money",
+        "audio": "to_make_money.ogg",
+        "alternatives": [
+            "make money"
+        ]
+    },
+    {
+        "german": "brandneu",
+        "english": "brand-new",
+        "audio": "brand_new.ogg"
+    },
+    {
+        "german": "wiederverkaufen, weiterverkaufen",
+        "english": "to resell",
+        "audio": "to_resell.ogg",
+        "alternatives": [
+            "resell"
+        ]
+    },
+    {
+        "german": "Handel",
+        "english": "trading",
+        "audio": "trading.ogg"
+    },
+    {
+        "german": "tauschen",
+        "english": "to swap",
+        "audio": "to_swap.ogg",
+        "alternatives": [
+            "swap"
+        ]
+    },
+    {
+        "german": "kaufen, erwerben",
+        "english": "to purchase",
+        "audio": "to_purchase.ogg",
+        "alternatives": [
+            "purchase"
+        ]
+    },
+    {
+        "german": "führen, vorrätig haben",
+        "english": "to stock",
+        "audio": "to_stock.ogg",
+        "alternatives": [
+            "stock"
+        ]
+    },
+    {
+        "german": "gebraucht, second-hand, aus zweiter Hand",
+        "english": "second-hand",
+        "audio": "second_hand.ogg"
+    },
+    {
+        "german": "spenden, stiften",
+        "english": "to donate",
+        "audio": "to_donate.ogg",
+        "alternatives": [
+            "donate"
+        ]
+    },
+    {
+        "german": "sich in Verbindung setzen, kontaktieren",
+        "english": "to contact",
+        "audio": "to_contact.ogg",
+        "alternatives": [
+            "contact"
+        ]
+    },
+    {
+        "german": "Rabatt, Preisnachlass",
+        "english": "discount",
+        "audio": "discount.ogg"
+    }
+]

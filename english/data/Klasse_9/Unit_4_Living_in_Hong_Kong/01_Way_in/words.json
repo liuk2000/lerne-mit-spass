@@ -1,0 +1,247 @@
+[
+    {
+        "german": "Pro, Vorteil",
+        "english": "pro",
+        "audio": "pro.ogg",
+        "sentences": [
+            [
+                "What are the",
+                "***pros***",
+                "of living here?"
+            ]
+        ]
+    },
+    {
+        "german": "Kontra, Nachteil",
+        "english": "con",
+        "audio": "con.ogg",
+        "sentences": [
+            [
+                "Let's look at the pros and",
+                "***cons***",
+                "of the idea"
+            ]
+        ]
+    },
+    {
+        "german": "Käufer(in), Einkäufer(in)",
+        "english": "shopper",
+        "audio": "shopper.ogg"
+    },
+    {
+        "german": "luxuriös, Luxus-",
+        "english": "luxurious",
+        "audio": "luxurious.ogg"
+    },
+    {
+        "german": "Einkaufszentrum",
+        "english": "mall",
+        "audio": "mall.ogg",
+        "sentences": [
+            [
+                "I love shopping in a big",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "handeln, verhandeln",
+        "english": "to bargain",
+        "audio": "to_bargain.ogg",
+        "alternatives": [
+            "bargain"
+        ]
+    },
+    {
+        "german": "Spezial-",
+        "english": "specialist",
+        "audio": "specialist.ogg"
+    },
+    {
+        "german": "elektronisch",
+        "english": "electronic",
+        "audio": "electronic.ogg"
+    },
+    {
+        "german": "Stand, Bude",
+        "english": "stall",
+        "audio": "stall.ogg"
+    },
+    {
+        "german": "Nudel",
+        "english": "noodle",
+        "audio": "noodle.ogg"
+    },
+    {
+        "german": "Wahrsager(in)",
+        "english": "fortune teller",
+        "audio": "fortune_teller.ogg",
+        "sentences": [
+            [
+                "A",
+                "***",
+                "told me about my future"
+            ]
+        ]
+    },
+    {
+        "german": "Verschmutzung",
+        "english": "pollution",
+        "audio": "pollution.ogg"
+    },
+    {
+        "german": "verschmutzen",
+        "english": "to pollute",
+        "audio": "to_pollute.ogg",
+        "alternatives": [
+            "pollute"
+        ]
+    },
+    {
+        "german": "dick",
+        "english": "thick",
+        "audio": "thick.ogg",
+        "sentences": [
+            [
+                "The air was",
+                "***",
+                "with pollution"
+            ]
+        ]
+    },
+    {
+        "german": "Smog",
+        "english": "smog",
+        "audio": "smog.ogg"
+    },
+    {
+        "german": "Gesundheits-, gesundheitlich",
+        "english": "health",
+        "audio": "health.ogg",
+        "sentences": [
+            [
+                "This could cause serious",
+                "***",
+                "problems"
+            ]
+        ]
+    },
+    {
+        "german": "Mühe, Bemühung, Versuch, Arbeitsaufwand",
+        "english": "effort",
+        "audio": "effort.ogg",
+        "sentences": [
+            [
+                "I made a big",
+                "***",
+                "with my presentation"
+            ]
+        ]
+    },
+    {
+        "german": "rege, belebt, aktiv",
+        "english": "busy",
+        "audio": "busy.ogg",
+        "sentences": [
+            [
+                "Hong Kong has a",
+                "***",
+                "music scene"
+            ]
+        ]
+    },
+    {
+        "german": "Medien-",
+        "english": "media",
+        "audio": "media.ogg",
+        "sentences": [
+            [
+                "Many people use social",
+                "***",
+                "sites"
+            ]
+        ]
+    },
+    {
+        "german": "Kampfkunst, Kampfsportart",
+        "english": "martial art",
+        "audio": "martial_art.ogg",
+        "sentences": [
+            [
+                "***",
+                "films are made in Hong Kong"
+            ]
+        ]
+    },
+    {
+        "german": "Mischung",
+        "english": "mixture",
+        "audio": "mixture.ogg",
+        "sentences": [
+            [
+                "Hong Kong is a",
+                "***",
+                "of east and west"
+            ]
+        ]
+    },
+    {
+        "german": "Druck",
+        "english": "pressure",
+        "audio": "pressure.ogg",
+        "sentences": [
+            [
+                "My parents put me under",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Netzwerk",
+        "english": "network",
+        "audio": "network.ogg",
+        "sentences": [
+            [
+                "I have a good",
+                "***",
+                "of friends"
+            ]
+        ]
+    },
+    {
+        "german": "Skala, Maßstab, Ausmaß",
+        "english": "scale",
+        "audio": "scale.ogg",
+        "sentences": [
+            [
+                "A",
+                "***",
+                "from 1 to 5"
+            ]
+        ]
+    },
+    {
+        "german": "Eile, hast",
+        "english": "hurry",
+        "audio": "hurry.ogg",
+        "sentences": [
+            [
+                "I'm in a",
+                "***",
+                ". I don't want to be late"
+            ]
+        ]
+    },
+    {
+        "german": "sich entspannen, sich ausruhen",
+        "english": "to relax",
+        "audio": "to_relax.ogg",
+        "sentences": [
+            [
+                "We",
+                "***relaxed***",
+                "on the beach in the sun"
+            ]
+        ]
+    }
+]
