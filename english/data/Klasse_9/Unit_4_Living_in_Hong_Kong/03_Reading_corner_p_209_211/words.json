@@ -1,0 +1,502 @@
+[
+    {
+        "german": "Wahrheit",
+        "english": "truth",
+        "audio": "truth.ogg",
+        "sentences": [
+            [
+                "Tell the",
+                "***",
+                "about the accident"
+            ]
+        ]
+    },
+    {
+        "german": "draußen, aus, außerhalb",
+        "english": "out",
+        "audio": "out.ogg"
+    },
+    {
+        "german": "umgeben sein von",
+        "english": "to be surrounded by",
+        "audio": "to_be_surrounded_by.ogg",
+        "alternatives": [
+            "to be surrounded by sth",
+            "to be surrounded by sb",
+            "to be surrounded by something",
+            "to be surrounded by somebody",
+            "be surrounded by",
+            "be surrounded by sth",
+            "be surrounded by sb",
+            "be surrounded by something",
+            "be surrounded by somebody"
+        ],
+        "sentences": [
+            [
+                "I",
+                "***am surrounded by***",
+                "new information"
+            ]
+        ]
+    },
+    {
+        "german": "endlos, unendlich",
+        "english": "never-ending",
+        "audio": "never_ending.ogg",
+        "sentences": [
+            [
+                "Pollution is a",
+                "***",
+                "problem"
+            ]
+        ]
+    },
+    {
+        "german": "etwas, was man haben muss",
+        "english": "must-have",
+        "audio": "must_have.ogg"
+    },
+    {
+        "german": "Flut, Hochwasser, Überschwemmung",
+        "english": "flood",
+        "audio": "flood.ogg"
+    },
+    {
+        "german": "ob",
+        "english": "whether",
+        "audio": "whether.ogg",
+        "sentences": [
+            [
+                "I'm leaving,",
+                "***",
+                "you like it or not"
+            ]
+        ]
+    },
+    {
+        "german": "Rätsel, Puzzle",
+        "english": "puzzle",
+        "audio": "puzzle.ogg"
+    },
+    {
+        "german": "Presse",
+        "english": "press",
+        "audio": "press.ogg",
+        "sentences": [
+            [
+                "The musician never talks to the",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "veröffentlichen, publizieren",
+        "english": "to publish",
+        "audio": "to_publish.ogg",
+        "alternatives": [
+            "publish"
+        ],
+        "sentences": [
+            [
+                "Look, the magazine",
+                "***published***",
+                "my report"
+            ]
+        ]
+    },
+    {
+        "german": "bestrafen",
+        "english": "to punish",
+        "audio": "to_punish.ogg",
+        "alternatives": [
+            "punish"
+        ]
+    },
+    {
+        "german": "missbrauchen, misshandeln, beschimpfen",
+        "english": "to abuse",
+        "audio": "to_abuse.ogg",
+        "alternatives": [
+            "abuse"
+        ],
+        "sentences": [
+            [
+                "Governments also",
+                "***abuse***",
+                "their power"
+            ]
+        ]
+    },
+    {
+        "german": "unterdrücken",
+        "english": "to oppress",
+        "audio": "to_oppress.ogg",
+        "alternatives": [
+            "oppress"
+        ],
+        "sentences": [
+            [
+                "Governments often",
+                "***oppress***",
+                "people"
+            ]
+        ]
+    },
+    {
+        "german": "beobachten, beachten, befolgen",
+        "english": "to observe",
+        "audio": "to_observe.ogg",
+        "alternatives": [
+            "observe"
+        ]
+    },
+    {
+        "german": "zensieren",
+        "english": "to censor",
+        "audio": "to_censor.ogg",
+        "alternatives": [
+            "censor"
+        ],
+        "sentences": [
+            [
+                "Some governments",
+                "***censor***",
+                "letters"
+            ]
+        ]
+    },
+    {
+        "german": "Verlag, Herausgeber",
+        "english": "publisher",
+        "audio": "publisher.ogg"
+    },
+    {
+        "german": "kritisch",
+        "english": "critical",
+        "audio": "critical.ogg",
+        "sentences": [
+            [
+                "Some people are",
+                "***",
+                "of others"
+            ]
+        ]
+    },
+    {
+        "german": "Verlag, Herausgeber",
+        "english": "publisher",
+        "audio": "publisher.ogg"
+    },
+    {
+        "german": "für, Pro-",
+        "english": "pro-",
+        "audio": "pro_.ogg",
+        "sentences": [
+            [
+                "***",
+                "China journalists kept their jobs"
+            ]
+        ]
+    },
+    {
+        "german": "Fluss, Fließen, Strömung",
+        "english": "flow",
+        "audio": "flow.ogg",
+        "sentences": [
+            [
+                "The",
+                "***",
+                "of information is controlled too"
+            ]
+        ]
+    },
+    {
+        "german": "sittliche Werte",
+        "english": "moral standards",
+        "audio": "moral_standards.ogg",
+        "sentences": [
+            [
+                "The site was a threat to",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "auf die schwarze Liste gesetzt",
+        "english": "blacklisted",
+        "audio": "blacklisted.ogg",
+        "sentences": [
+            [
+                "You can't use words that are",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Redewendung, Ausdruck, Satz",
+        "english": "phrase",
+        "audio": "phrase.ogg",
+        "sentences": [
+            [
+                "Some",
+                "***phrases***",
+                "you have to learn"
+            ]
+        ]
+    },
+    {
+        "german": "Demokratie",
+        "english": "democracy",
+        "audio": "democracy.ogg"
+    },
+    {
+        "german": "Unterdrückung",
+        "english": "oppression",
+        "audio": "oppression.ogg"
+    },
+    {
+        "german": "Menschenrechte",
+        "english": "human rights",
+        "audio": "human_rights.ogg",
+        "sentences": [
+            [
+                "There was a protest for",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Redefreiheit",
+        "english": "freedom of speech",
+        "audio": "freedom_of_speech.ogg",
+        "sentences": [
+            [
+                "Everyone here has",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "garantieren, gewährleisten",
+        "english": "to guarantee",
+        "audio": "to_guarantee.ogg",
+        "alternatives": [
+            "guarantee"
+        ],
+        "sentences": [
+            [
+                "Our places at the front were",
+                "***guaranteed***"
+            ]
+        ]
+    },
+    {
+        "german": "Limit, Grenze, Beschränkung",
+        "english": "limit",
+        "audio": "limit.ogg",
+        "sentences": [
+            [
+                "There are",
+                "***limits***",
+                "to freedom of speech"
+            ]
+        ]
+    },
+    {
+        "german": "verherrlichen",
+        "english": "to glorify",
+        "audio": "to_glorify.ogg",
+        "alternatives": [
+            "glorify"
+        ],
+        "sentences": [
+            [
+                "They tried",
+                "***",
+                "the violence"
+            ]
+        ]
+    },
+    {
+        "german": "rechtsorientiert, Rechts-, rechts-",
+        "english": "right-wing",
+        "audio": "right_wing.ogg",
+        "sentences": [
+            [
+                "He posted",
+                "***",
+                "comments"
+            ]
+        ]
+    },
+    {
+        "german": "Extremismus",
+        "english": "extremism",
+        "audio": "extremism.ogg"
+    },
+    {
+        "german": "Meinung, Geist, Verstand",
+        "english": "mind",
+        "audio": "mind.ogg",
+        "sentences": [
+            [
+                "The press influence people's",
+                "***minds***"
+            ]
+        ]
+    },
+    {
+        "german": "sachlich, objektiv",
+        "english": "objective",
+        "audio": "objective.ogg",
+        "sentences": [
+            [
+                "Journalists should try to be",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "verbreiten",
+        "english": "to spread",
+        "audio": "to_spread.ogg",
+        "alternatives": [
+            "spread"
+        ],
+        "sentences": [
+            [
+                "The news of the accident",
+                "***spread***",
+                "fast"
+            ]
+        ]
+    },
+    {
+        "german": "Angst, Furcht",
+        "english": "fear",
+        "audio": "fear.ogg",
+        "sentences": [
+            [
+                "There was",
+                "***",
+                "among the passengers"
+            ]
+        ]
+    },
+    {
+        "german": "Terrorist(in)",
+        "english": "terrorist",
+        "audio": "terrorist.ogg"
+    },
+    {
+        "german": "ungefiltert",
+        "english": "unfiltered",
+        "audio": "unfiltered.ogg",
+        "sentences": [
+            [
+                "***",
+                "information is hard to control"
+            ]
+        ]
+    },
+    {
+        "german": "etw. als selbstverständlich hinnehmen, etw. als gegeben voraussetzen",
+        "english": "to take sth for granted",
+        "audio": "to_take_sth_for_granted.ogg",
+        "alternatives": [
+            "to take something for granted",
+            "take something for granted",
+            "take sth for granted"
+        ],
+        "sentences": [
+            [
+                "You shouldn't",
+                "***take everything for granted***"
+            ]
+        ]
+    },
+    {
+        "german": "Zugang, Zutritt",
+        "english": "access",
+        "audio": "access.ogg",
+        "sentences": [
+            [
+                "People have",
+                "***",
+                "to lots of resources"
+            ]
+        ]
+    },
+    {
+        "german": "Beschränkung, Enischränkung",
+        "english": "restriction",
+        "audio": "restriction.ogg",
+        "sentences": [
+            [
+                "***Restrictions***",
+                "won't stop people"
+            ]
+        ]
+    },
+    {
+        "german": "Zensur",
+        "english": "censorship",
+        "audio": "censorship.ogg",
+        "sentences": [
+            [
+                "In some countries there's",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Brille",
+        "english": "glasses",
+        "audio": "glasses.ogg",
+        "sentences": [
+            [
+                "I need",
+                "***",
+                "for reading"
+            ]
+        ]
+    },
+    {
+        "german": "Geschwindigkeitsbeschränkung",
+        "english": "speed limit",
+        "audio": "speed_limit.ogg",
+        "sentences": [
+            [
+                "What's the",
+                "***",
+                "in towns?"
+            ]
+        ]
+    },
+    {
+        "german": "kmh (Kilometer pro Stunde)",
+        "english": "mph (miles per hour)",
+        "audio": "mph_(miles_per_hour).ogg",
+        "alternatives": [
+            "mph",
+            "miles per hour"
+        ],
+        "sentences": [
+            [
+                "The speed limit is 30",
+                "***mph***"
+            ]
+        ]
+    },
+    {
+        "german": "Stockwerk",
+        "english": "floor",
+        "audio": "floor.ogg",
+        "sentences": [
+            [
+                "The shopping centre has five",
+                "***floors***"
+            ]
+        ]
+    }
+]
