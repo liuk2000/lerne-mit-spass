@@ -1,0 +1,338 @@
+[
+    {
+        "german": "Hunger haben",
+        "french": "Avoir la dalle",
+        "audio": "avoir_la_dalle.ogg"
+    },
+    {
+        "german": "ein Auto",
+        "french": "une bagnole",
+        "audio": "une_bagnole.ogg"
+    },
+    {
+        "german": "ein Auto",
+        "french": "une caisse",
+        "audio": "une_caisse.ogg"
+    },
+    {
+        "german": "ein Haus",
+        "french": "une baraque",
+        "audio": "une_baraque.ogg"
+    },
+    {
+        "german": "genervt sein, sauer sein, frustriert sein",
+        "french": "avoir le seum",
+        "audio": "avoir_le_seum.ogg"
+    },
+    {
+        "german": "reich sein",
+        "french": "être blindé",
+        "audio": "être_blinde.ogg"
+    },
+    {
+        "german": "der Alte (Father)",
+        "french": "un daron",
+        "audio": "un_daron.ogg"
+    },
+    {
+        "german": "die Alte (Mutter)",
+        "french": "une daronne",
+        "audio": "une_daronne.ogg"
+    },
+    {
+        "german": "etwas trinken",
+        "french": "boire un canon",
+        "audio": "boire_un_canon.ogg"
+    },
+    {
+        "german": "essen",
+        "french": "bouffer",
+        "audio": "bouffer.ogg"
+    },
+    {
+        "german": "der Geizkragen",
+        "french": "une pince",
+        "audio": "une_pince.ogg"
+    },
+    {
+        "german": "srpechen, plaudern",
+        "french": "causer",
+        "audio": "causer.ogg"
+    },
+    {
+        "german": "auf den Arm nehmen, aufziehen; transportieren",
+        "french": "charrier",
+        "audio": "charrier.ogg"
+    },
+    {
+        "german": "hänseln",
+        "french": "taquiner",
+        "audio": "taquiner.ogg"
+    },
+    {
+        "german": "fangen",
+        "french": "choper",
+        "audio": "choper.ogg"
+    },
+    {
+        "german": "Kino",
+        "french": "le cinoche",
+        "audio": "le_cinoche.ogg"
+    },
+    {
+        "german": "Kino",
+        "french": "le ciné",
+        "audio": "le_cine.ogg"
+    },
+    {
+        "german": "Ebbe",
+        "french": "la dèche",
+        "audio": "la_deche.ogg"
+    },
+    {
+        "german": "Ebbe in der Kasse, blank sein",
+        "french": "C'est la dèche",
+        "audio": "cest_la_deche.ogg"
+    },
+    {
+        "german": "Mist reden, blödeln, Scheiße bauen",
+        "french": "déconner",
+        "audio": "deconner.ogg"
+    },
+    {
+        "german": "Bruder",
+        "french": "frangin",
+        "audio": "frangin.ogg"
+    },
+    {
+        "german": "Schwester",
+        "french": "frangine",
+        "audio": "frangine.ogg"
+    },
+    {
+        "german": "Geld, die Kohle, die Knete",
+        "french": "du fric",
+        "audio": "du_fric.ogg"
+    },
+    {
+        "german": "Geld, die Kohle, die Knete",
+        "french": "du pognon",
+        "audio": "du_pognon.ogg"
+    },
+    {
+        "german": "Geld, die Kohle, die Knete",
+        "french": "de l'oseille",
+        "audio": "de_loseille.ogg"
+    },
+    {
+        "german": "Geld, die Kohle, die Knete",
+        "french": "de la thune",
+        "audio": "de_la_thune.ogg"
+    },
+    {
+        "german": "Geld, die Kohle, die Knete",
+        "french": "du blé",
+        "audio": "du_ble.ogg"
+    },
+    {
+        "german": "ein Kind",
+        "french": "un(e) gosse",
+        "audio": "un(e)_gosse.ogg",
+        "alternatives": [
+            "un gosse",
+            "une gosse"
+        ]
+    },
+    {
+        "german": "ein Kind",
+        "french": "un(e) môme",
+        "audio": "un(e)_môme.ogg",
+        "alternatives": [
+            "un môme",
+            "une môme"
+        ]
+    },
+    {
+        "german": "ein Kind",
+        "french": "un(e) gamin(e)",
+        "audio": "un(e)_gamin(e).ogg",
+        "alternatives": [
+            "un gamin",
+            "une gamine"
+        ]
+    },
+    {
+        "german": "klauen",
+        "french": "chourer",
+        "audio": "chourer.ogg"
+    },
+    {
+        "german": "gratis",
+        "french": "gratos",
+        "audio": "gratos.ogg"
+    },
+    {
+        "german": "mögen, lieben, auf etw. stehen",
+        "french": "kiffer",
+        "audio": "kiffer.ogg"
+    },
+    {
+        "german": "verpassen",
+        "french": "louper",
+        "audio": "louper.ogg"
+    },
+    {
+        "german": "das Wasser, der Regen",
+        "french": "la flotte",
+        "audio": "la_flotte.ogg"
+    },
+    {
+        "german": "Angst, Schiss",
+        "french": "la trouille",
+        "audio": "la_trouille.ogg"
+    },
+    {
+        "german": "Angst, Schiss",
+        "french": "la frousse",
+        "audio": "la_frousse.ogg"
+    },
+    {
+        "german": "kotzen",
+        "french": "gerber",
+        "audio": "gerber.ogg"
+    },
+    {
+        "german": "klauen",
+        "french": "un(e) pote",
+        "audio": "un(e)_pote.ogg",
+        "alternatives": [
+            "un pote",
+            "une pote"
+        ]
+    },
+    {
+        "german": "Polizist, Bulle",
+        "french": "un flic",
+        "audio": "un_flic.ogg"
+    },
+    {
+        "german": "Polizist, Bulle",
+        "french": "un poulet",
+        "audio": "un_poulet.ogg"
+    },
+    {
+        "german": "verführen",
+        "french": "chiner",
+        "audio": "chiner.ogg"
+    },
+    {
+        "german": "versäumen, versagen",
+        "french": "rater",
+        "audio": "rater.ogg"
+    },
+    {
+        "german": "ein Mädel, eine Perle",
+        "french": "une nana",
+        "audio": "une_nana.ogg"
+    },
+    {
+        "german": "sich langweilen",
+        "french": "se faire chier",
+        "audio": "se_faire_chier.ogg"
+    },
+    {
+        "german": "ein Motorrad",
+        "french": "une bécane",
+        "audio": "une_becane.ogg"
+    },
+    {
+        "german": "weinen, heulen",
+        "french": "chialer",
+        "audio": "chialer.ogg"
+    },
+    {
+        "german": "Job, Arbeit",
+        "french": "le boulot",
+        "audio": "le_boulot.ogg"
+    },
+    {
+        "german": "Job, Arbeit",
+        "french": "le taf",
+        "audio": "le_taf.ogg"
+    },
+    {
+        "german": "der Name",
+        "french": "le blase",
+        "audio": "le_blase.ogg"
+    },
+    {
+        "german": "saufen",
+        "french": "tiser",
+        "audio": "tiser.ogg"
+    },
+    {
+        "german": "Alkohol",
+        "french": "la tise",
+        "audio": "la_tise.ogg"
+    },
+    {
+        "german": "knallen, schlagen",
+        "french": "toquer",
+        "audio": "toquer.ogg"
+    },
+    {
+        "german": "Katzenjammer, Kater",
+        "french": "une cuite",
+        "audio": "une_cuite.ogg"
+    },
+    {
+        "german": "die Kippe, die Zigarette",
+        "french": "une clope",
+        "audio": "une_clope.ogg"
+    },
+    {
+        "german": "ein Buch",
+        "french": "un bouquin",
+        "audio": "un_bouquin.ogg"
+    },
+    {
+        "german": "Knast",
+        "french": "la taule",
+        "audio": "la_taule.ogg"
+    },
+    {
+        "german": "Dorf",
+        "french": "le bled",
+        "audio": "le_bled.ogg"
+    },
+    {
+        "german": "Klamotten",
+        "french": "des fringues",
+        "audio": "des_fringues.ogg"
+    },
+    {
+        "german": "Schuhe",
+        "french": "des pompes",
+        "audio": "des_pompes.ogg"
+    },
+    {
+        "german": "Schuhe",
+        "french": "des godasses",
+        "audio": "des_godasses.ogg"
+    },
+    {
+        "german": "motiviert sein",
+        "french": "être déter",
+        "audio": "être_deter.ogg"
+    },
+    {
+        "german": "faulenzen, nichts tun",
+        "french": "glander",
+        "audio": "glander.ogg"
+    },
+    {
+        "german": "Klamotten",
+        "french": "des fringues",
+        "audio": "des_fringues.ogg"
+    }
+]
