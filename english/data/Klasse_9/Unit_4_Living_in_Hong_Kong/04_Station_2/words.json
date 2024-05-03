@@ -1,0 +1,100 @@
+[
+    {
+        "german": "etwas gegen etwas unternehmen",
+        "english": "to do something about something",
+        "audio": "to_do_something_about_something.ogg",
+        "alternatives": [
+            "do something about something",
+            "to do sth about sth",
+            "do sth about sth"
+        ]
+    },
+    {
+        "german": "erzeugen, herstellen, anbauen",
+        "english": "to produce",
+        "audio": "to_produce.ogg",
+        "alternatives": [
+            "produce"
+        ]
+    },
+    {
+        "german": "erhöhen, steigern",
+        "english": "to increase",
+        "audio": "to_increase.ogg",
+        "alternatives": [
+            "increase"
+        ]
+    },
+    {
+        "german": "beraten, raten",
+        "english": "to advise",
+        "audio": "to_advise.ogg",
+        "alternatives": [
+            "advise"
+        ]
+    },
+    {
+        "german": "anschließen, installieren, einrichten",
+        "english": "to install",
+        "audio": "to_install.ogg",
+        "alternatives": [
+            "install"
+        ]
+    },
+    {
+        "german": "vorschlagen, nahelegen, andeuten",
+        "english": "to suggest",
+        "audio": "to_suggest.ogg",
+        "alternatives": [
+            "suggest"
+        ]
+    },
+    {
+        "german": "umwandeln",
+        "english": "to convert",
+        "audio": "to_convert.ogg",
+        "alternatives": [
+            "convert"
+        ]
+    },
+    {
+        "german": "verbessern",
+        "english": "to improve",
+        "audio": "to_improve.ogg",
+        "alternatives": [
+            "improve"
+        ]
+    },
+    {
+        "german": "aufnehmen, absorbieren",
+        "english": "to absorb",
+        "audio": "to_absorb.ogg",
+        "alternatives": [
+            "absorb"
+        ]
+    },
+    {
+        "german": "vermindern, abnehmen",
+        "english": "to decrease",
+        "audio": "to_decrease.ogg",
+        "alternatives": [
+            "decrease"
+        ]
+    },
+    {
+        "german": "anheben, erhöhen",
+        "english": "to raise",
+        "audio": "to_raise.ogg",
+        "alternatives": [
+            "raise"
+        ]
+    },
+    {
+        "german": "generieren, erzeugen",
+        "english": "to generate",
+        "audio": "to_generate.ogg",
+        "alternatives": [
+            "generate"
+        ]
+    }
+]
