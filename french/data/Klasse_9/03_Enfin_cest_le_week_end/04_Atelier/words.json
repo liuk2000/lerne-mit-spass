@@ -1,0 +1,195 @@
+[
+    {
+        "german": "Ich habe meine Brieftasche verloren",
+        "french": "J'ai perdu mon portefeuille",
+        "audio": "jai_perdu_mon_portefeuille.ogg"
+    },
+    {
+        "german": "gegen elf Uhr",
+        "french": "vers onze heures",
+        "audio": "vers_onze_heures.ogg"
+    },
+    {
+        "german": "die Einkäufe",
+        "french": "les courses",
+        "audio": "les_courses.ogg",
+        "sentences": [
+            [
+                "J'ai fait (Einkäufe)",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Wie sieht er/sie/es aus?",
+        "french": "Il est comment?",
+        "audio": "il_est_comment.ogg",
+        "alternatives": [
+            "il est comment"
+        ]
+    },
+    {
+        "german": "eine Kreditkarte",
+        "french": "une carte bancaire",
+        "audio": "une_carte_bancaire.ogg"
+    },
+    {
+        "german": "ein Geldbeutel",
+        "french": "un porte-monnaie",
+        "audio": "un_porte_monnaie.ogg"
+    },
+    {
+        "german": "letztes Wochenende",
+        "french": "le week-end dernier",
+        "audio": "le_week_end_dernier.ogg"
+    },
+    {
+        "german": "auf jdn/etw warten",
+        "french": "attendre",
+        "audio": "attendre.ogg",
+        "sentences": [
+            [
+                "Il a (gewartet)",
+                "***attendu***",
+                "trop longtemps"
+            ]
+        ]
+    },
+    {
+        "german": "jmd. aktworten",
+        "french": "répondre à",
+        "audio": "repondre_à.ogg",
+        "sentences": [
+            [
+                "J'ai (geantwortet)",
+                "***répondu***",
+                "à leurs appels"
+            ]
+        ]
+    },
+    {
+        "german": "eine Frau, eine Dame",
+        "french": "une dame",
+        "audio": "une_dame.ogg"
+    },
+    {
+        "german": "fragen",
+        "french": "demander",
+        "audio": "demander.ogg",
+        "sentences": [
+            [
+                "La dame (fragt)",
+                "***demande***",
+                "à Maxime: Le bus vient quand?"
+            ]
+        ]
+    },
+    {
+        "german": "eine Kassiererin",
+        "french": "une caissière",
+        "audio": "une_caissiere.ogg"
+    },
+    {
+        "german": "er sagt",
+        "french": "il dit",
+        "audio": "il_dit.ogg"
+    },
+    {
+        "german": "einkaufen",
+        "french": "faire du shopping",
+        "audio": "faire_du_shopping.ogg"
+    },
+    {
+        "german": "in den Park gehen",
+        "french": "aller au parc",
+        "audio": "aller_au_parc.ogg"
+    },
+    {
+        "german": "plaudern, chatten",
+        "french": "chatter",
+        "audio": "chatter.ogg"
+    },
+    {
+        "german": "ein Konzert besuchen",
+        "french": "aller à un concert",
+        "audio": "aller_à_un_concert.ogg"
+    },
+    {
+        "german": "fernsehen",
+        "french": "regarder la télé",
+        "audio": "regarder_la_tele.ogg"
+    },
+    {
+        "german": "skateboarden",
+        "french": "faire du skate",
+        "audio": "faire_du_skate.ogg"
+    },
+    {
+        "german": "Tischtennis spielen",
+        "french": "faire du ping-pong",
+        "audio": "faire_du_ping_pong.ogg"
+    },
+    {
+        "german": "einen Freund besuchen",
+        "french": "aller chez un copain",
+        "audio": "aller_chez_un_copain.ogg"
+    },
+    {
+        "german": "sich mit Freunden treffen",
+        "french": "rencontrer des copains",
+        "audio": "rencontrer_des_copains.ogg"
+    },
+    {
+        "german": "in seinem Zimmer abhängen",
+        "french": "traîner dans sa chambre",
+        "audio": "traîner_dans_sa_chambre.ogg"
+    },
+    {
+        "german": "verlieren",
+        "french": "perdre",
+        "audio": "perdre.ogg",
+        "sentences": [
+            [
+                "Il a (verloren)",
+                "***perdu***",
+                "son travail"
+            ]
+        ]
+    },
+    {
+        "german": "lernen",
+        "french": "apprendre",
+        "audio": "apprendre.ogg",
+        "sentences": [
+            [
+                "J'ai (gelernt)",
+                "***appris***",
+                "ma leçon"
+            ]
+        ]
+    },
+    {
+        "german": "sehen",
+        "french": "voir",
+        "audio": "voir.ogg",
+        "sentences": [
+            [
+                "T'as (gesehen)",
+                "***vu***",
+                "qui?"
+            ]
+        ]
+    },
+    {
+        "german": "können",
+        "french": "pouvoir",
+        "audio": "pouvoir.ogg",
+        "sentences": [
+            [
+                "J'ai (konnte)",
+                "***pu***",
+                "lui parler un peu"
+            ]
+        ]
+    }
+]
