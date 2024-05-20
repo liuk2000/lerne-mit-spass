@@ -10,7 +10,7 @@
         "audio": "un_week_end.ogg",
         "sentences": [
             [
-                "Samedi et dimanche, c'est le",
+                "Samedi et dimanche, c'est le (Wochenende)",
                 "***week-end***"
             ]
         ]
@@ -31,7 +31,7 @@
         "audio": "un_supermarche.ogg",
         "sentences": [
             [
-                "Samedi matin, nous faisons les courses au",
+                "Samedi matin, nous faisons les courses au (Supermarkt)",
                 "***supermarché***"
             ]
         ]
@@ -52,7 +52,7 @@
         "audio": "le_centre_ville.ogg",
         "sentences": [
             [
-                "Je vais au",
+                "Je vais au (Stadtzentrum)",
                 "***centre-ville***"
             ]
         ]

@@ -33,7 +33,7 @@
         "audio": "rencontrer.ogg",
         "sentences": [
             [
-                "J'ai'",
+                "J'ai' (getroffen)",
                 "***rencontré***",
                 "un copain"
             ]
@@ -67,7 +67,7 @@
         "audio": "trainer.ogg",
         "sentences": [
             [
-                "J'ai",
+                "J'ai (gechillt)",
                 "***trainé***",
                 "dans ma chambre"
             ]
@@ -99,7 +99,7 @@
         "audio": "le_sport.ogg",
         "sentences": [
             [
-                "J'ai fait du",
+                "J'ai fait du (Sport)",
                 "***sport***"
             ]
         ]
@@ -141,7 +141,7 @@
         "audio": "une_seance.ogg",
         "sentences": [
             [
-                "La",
+                "La (Vorstellung)",
                 "***séance***",
                 "de cinéma"
             ]
@@ -153,7 +153,7 @@
         "audio": "oublier.ogg",
         "sentences": [
             [
-                "J'ai",
+                "J'ai (vergessen)",
                 "***oublié",
                 "mes cahiers"
             ]
@@ -196,7 +196,7 @@
         "audio": "être_en_retard.ogg",
         "sentences": [
             [
-                "Je",
+                "Je (bin spät dran)",
                 "***suis en retard***",
                 ". Pardon"
             ]
