@@ -5,7 +5,7 @@
         "audio": "ensemble.ogg",
         "sentences": [
             [
-                "On mange",
+                "On mange (zusammen)",
                 "***"
             ]
         ]
@@ -54,7 +54,7 @@
         "audio": "le_chemin.ogg",
         "sentences": [
             [
-                "Malika montre",
+                "Malika montre (den Weg)",
                 "***",
                 "à Alex"
             ]
@@ -79,7 +79,7 @@
         "audio": "retrouver.ogg",
         "sentences": [
             [
-                "J'ai",
+                "J'ai (getroffen)",
                 "***retrouvè***",
                 "les copians devant le cinéma"
             ]
@@ -139,7 +139,7 @@
         "audio": "avec_nous.ogg",
         "sentences": [
             [
-                "Tu viens",
+                "Tu viens (mit uns)",
                 "***",
                 "?"
             ]
