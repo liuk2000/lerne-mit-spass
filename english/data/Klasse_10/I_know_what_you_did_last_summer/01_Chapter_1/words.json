@@ -1,0 +1,117 @@
+[
+    {
+        "german": "der Briefumschlag",
+        "english": "envelope",
+        "audio": "envelope.ogg"
+    },
+    {
+        "german": "vermuten, denken",
+        "english": "to guess",
+        "audio": "to_guess.ogg",
+        "alternatives": [
+            "guess"
+        ]
+    },
+    {
+        "german": "erschrocken",
+        "english": "scared",
+        "audio": "scared.ogg"
+    },
+    {
+        "german": "etwas laut vorlesen",
+        "english": "to read something loud",
+        "audio": "to_read_something_loud.ogg",
+        "alternatives": [
+            "read something loud",
+            "to read loud",
+            "read loud"
+        ]
+    },
+    {
+        "german": "stolz",
+        "english": "proud",
+        "audio": "proud.ogg"
+    },
+    {
+        "german": "letztes Schuljahr an einer amerikanischen High-School",
+        "english": "senior year",
+        "audio": "senior_year.ogg"
+    },
+    {
+        "german": "ausgehen",
+        "english": "to date",
+        "audio": "to_date.ogg",
+        "alternatives": [
+            "date"
+        ]
+    },
+    {
+        "german": "etwas verpassen",
+        "english": "to miss something",
+        "audio": "to_miss_something.ogg",
+        "alternatives": [
+            "miss something",
+            "to miss",
+            "miss"
+        ]
+    },
+    {
+        "german": "aufgeregt",
+        "english": "excited",
+        "audio": "excited.ogg"
+    },
+    {
+        "german": "umarmen",
+        "english": "to hug",
+        "audio": "to_hug.ogg",
+        "alternatives": [
+            "hug"
+        ]
+    },
+    {
+        "german": "beeindruckt",
+        "english": "impressed",
+        "audio": "impressed.ogg"
+    },
+    {
+        "german": "die Ehe",
+        "english": "marriage",
+        "audio": "marriage.ogg"
+    },
+    {
+        "german": "Schrecken",
+        "english": "horror",
+        "audio": "horror.ogg"
+    },
+    {
+        "german": "staren, glotzen",
+        "english": "to stare",
+        "audio": "to_stare.ogg",
+        "alternatives": [
+            "stare"
+        ]
+    },
+    {
+        "german": "schwach",
+        "english": "weak",
+        "audio": "weak.ogg"
+    },
+    {
+        "german": "kürzlich, vor kurzem",
+        "english": "recently",
+        "audio": "recently.ogg"
+    },
+    {
+        "german": "sollen",
+        "english": "ought to",
+        "audio": "ought_to.ogg"
+    },
+    {
+        "german": "abholen",
+        "english": "to pick up",
+        "audio": "to_pick_up.ogg",
+        "alternatives": [
+            "pick up"
+        ]
+    }
+]

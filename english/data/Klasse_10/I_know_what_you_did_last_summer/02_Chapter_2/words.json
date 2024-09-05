@@ -1,0 +1,156 @@
+[
+    {
+        "german": "steif, starr",
+        "english": "stiff",
+        "audio": "stiff.ogg"
+    },
+    {
+        "german": "Bräune",
+        "english": "tan",
+        "audio": "tan.ogg"
+    },
+    {
+        "german": "Lehnstuhl, Sessel",
+        "english": "armchair",
+        "audio": "armchair.ogg"
+    },
+    {
+        "german": "Stille, Schweigen",
+        "english": "silence",
+        "audio": "silence.ogg"
+    },
+    {
+        "german": "Beerdigung",
+        "english": "funeral",
+        "audio": "funeral.ogg"
+    },
+    {
+        "german": "Knall, Schlag",
+        "english": "thud",
+        "audio": "thud.ogg"
+    },
+    {
+        "german": "Beule",
+        "english": "bump",
+        "audio": "bump.ogg"
+    },
+    {
+        "german": "schütteln",
+        "english": "to shake (shook, shaken)",
+        "audio": "to_shake_(shook_shaken).ogg",
+        "alternatives": [
+            "to shake",
+            "shake",
+            "shake (shook, shaken)"
+        ]
+    },
+    {
+        "german": "an etwas erinnern",
+        "english": "to remind of something",
+        "audio": "to_remind_of_something.ogg",
+        "alternatives": [
+            "remind of something",
+            "to remind",
+            "remind"
+        ]
+    },
+    {
+        "german": "Topf",
+        "english": "pot",
+        "audio": "pot.ogg"
+    },
+    {
+        "german": "betteln, bitten",
+        "english": "to beg",
+        "audio": "to_beg.ogg",
+        "alternatives": [
+            "beg"
+        ]
+    },
+    {
+        "german": "verärgen",
+        "english": "to upset",
+        "audio": "to_upset.ogg",
+        "alternatives": [
+            "upset"
+        ]
+    },
+    {
+        "german": "unvorbereitet",
+        "english": "unprepared",
+        "audio": "unprepared.ogg"
+    },
+    {
+        "german": "Kinn",
+        "english": "chin",
+        "audio": "chin.ogg"
+    },
+    {
+        "german": "anheben",
+        "english": "to lift",
+        "audio": "to_lift.ogg",
+        "alternatives": [
+            "lift"
+        ]
+    },
+    {
+        "german": "Fremder, Unbekannte",
+        "english": "stranger",
+        "audio": "stranger.ogg"
+    },
+    {
+        "german": "(etwas) löschen",
+        "english": "to erase",
+        "audio": "to_erase.ogg",
+        "alternatives": [
+            "to erase something",
+            "erase something",
+            "erase"
+        ]
+    },
+    {
+        "german": "einverstanden sein, einig sein",
+        "english": "to agree",
+        "audio": "to_agree.ogg",
+        "alternatives": [
+            "agree"
+        ]
+    },
+    {
+        "german": "einführen",
+        "english": "to introduce",
+        "audio": "to_introduce.ogg",
+        "alternatives": [
+            "introduce"
+        ]
+    },
+    {
+        "german": "(an jemanden oder etwas) vorbeifahren",
+        "english": "to drive past",
+        "audio": "to_drive_past.ogg",
+        "alternatives": [
+            "drive past"
+        ]
+    },
+    {
+        "german": "wiederholen",
+        "english": "to repeat",
+        "audio": "to_repeat.ogg",
+        "alternatives": [
+            "repeat"
+        ]
+    },
+    {
+        "german": "sollen",
+        "english": "to be supposed to",
+        "audio": "to_be_supposed_to.ogg",
+        "alternatives": [
+            "supposed to"
+        ]
+    },
+    {
+        "german": "ernst",
+        "english": "serious",
+        "audio": "serious.ogg"
+    }
+]
