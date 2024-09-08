@@ -1,156 +1,106 @@
 [
     {
-        "german": "steif, starr",
-        "english": "stiff",
-        "audio": "stiff.ogg"
+        "german": "sstudentisches Verbindungshaus",
+        "english": "fraternity",
+        "audio": "fraternity.ogg"
     },
     {
-        "german": "Bräune",
-        "english": "tan",
-        "audio": "tan.ogg"
+        "german": "Campus, Gelände",
+        "english": "campus",
+        "audio": "campus.ogg"
     },
     {
-        "german": "Lehnstuhl, Sessel",
-        "english": "armchair",
-        "audio": "armchair.ogg"
+        "german": "gerecht, ziemlich",
+        "english": "fairly",
+        "audio": "fairly.ogg"
     },
     {
-        "german": "Stille, Schweigen",
-        "english": "silence",
-        "audio": "silence.ogg"
+        "german": "seltsam, ungewöhnlich, unerwarted",
+        "english": "strange",
+        "audio": "strange.ogg"
     },
     {
-        "german": "Beerdigung",
-        "english": "funeral",
-        "audio": "funeral.ogg"
-    },
-    {
-        "german": "Knall, Schlag",
-        "english": "thud",
-        "audio": "thud.ogg"
-    },
-    {
-        "german": "Beule",
-        "english": "bump",
-        "audio": "bump.ogg"
-    },
-    {
-        "german": "schütteln",
-        "english": "to shake (shook, shaken)",
-        "audio": "to_shake_(shook_shaken).ogg",
+        "german": "ausscheiden, aussteigen",
+        "english": "to drop out",
+        "audio": "to_drop_out.ogg",
         "alternatives": [
-            "to shake",
-            "shake",
-            "shake (shook, shaken)"
+            "drop out"
         ]
     },
     {
-        "german": "an etwas erinnern",
-        "english": "to remind of something",
-        "audio": "to_remind_of_something.ogg",
+        "german": "jemdenden nerven, ärgern, belästugen",
+        "english": "to annoy somebody",
+        "audio": "to_annoy_somebody.ogg",
         "alternatives": [
-            "remind of something",
-            "to remind",
-            "remind"
+            "annoy somebody",
+            "to annoy",
+            "annoy"
         ]
     },
     {
-        "german": "Topf",
-        "english": "pot",
-        "audio": "pot.ogg"
+        "german": "Kaufhaus",
+        "english": "department store",
+        "audio": "department_store.ogg"
     },
     {
-        "german": "betteln, bitten",
-        "english": "to beg",
-        "audio": "to_beg.ogg",
+        "german": "Mensch",
+        "english": "Gosh",
+        "audio": "gosh.ogg"
+    },
+    {
+        "german": "sehr viel",
+        "english": "plenty",
+        "audio": "plenty.ogg"
+    },
+    {
+        "german": "glücklich",
+        "english": "lucky",
+        "audio": "lucky.ogg"
+    },
+    {
+        "german": "antworten",
+        "english": "to reply",
+        "audio": "to_reply.ogg",
         "alternatives": [
-            "beg"
+            "reply"
         ]
     },
     {
-        "german": "verärgen",
-        "english": "to upset",
-        "audio": "to_upset.ogg",
+        "german": "Bart",
+        "english": "beard",
+        "audio": "beard.ogg"
+    },
+    {
+        "german": "ausgeschieden",
+        "english": "dropped out",
+        "audio": "dropped_out.ogg"
+    },
+    {
+        "german": "mit etwas abbrechen",
+        "english": "to break off with",
+        "audio": "to_break_off_with.ogg",
         "alternatives": [
-            "upset"
+            "break off with",
+            "to break off",
+            "break off"
         ]
     },
     {
-        "german": "unvorbereitet",
-        "english": "unprepared",
-        "audio": "unprepared.ogg"
-    },
-    {
-        "german": "Kinn",
-        "english": "chin",
-        "audio": "chin.ogg"
-    },
-    {
-        "german": "anheben",
-        "english": "to lift",
-        "audio": "to_lift.ogg",
+        "german": "erkennen, verstehen",
+        "english": "to recognize",
+        "audio": "to_recognize.ogg",
         "alternatives": [
-            "lift"
+            "recognize"
         ]
     },
     {
-        "german": "Fremder, Unbekannte",
-        "english": "stranger",
-        "audio": "stranger.ogg"
+        "german": "so",
+        "english": "as as",
+        "audio": "as_as.ogg"
     },
     {
-        "german": "(etwas) löschen",
-        "english": "to erase",
-        "audio": "to_erase.ogg",
-        "alternatives": [
-            "to erase something",
-            "erase something",
-            "erase"
-        ]
-    },
-    {
-        "german": "einverstanden sein, einig sein",
-        "english": "to agree",
-        "audio": "to_agree.ogg",
-        "alternatives": [
-            "agree"
-        ]
-    },
-    {
-        "german": "einführen",
-        "english": "to introduce",
-        "audio": "to_introduce.ogg",
-        "alternatives": [
-            "introduce"
-        ]
-    },
-    {
-        "german": "(an jemanden oder etwas) vorbeifahren",
-        "english": "to drive past",
-        "audio": "to_drive_past.ogg",
-        "alternatives": [
-            "drive past"
-        ]
-    },
-    {
-        "german": "wiederholen",
-        "english": "to repeat",
-        "audio": "to_repeat.ogg",
-        "alternatives": [
-            "repeat"
-        ]
-    },
-    {
-        "german": "sollen",
-        "english": "to be supposed to",
-        "audio": "to_be_supposed_to.ogg",
-        "alternatives": [
-            "supposed to"
-        ]
-    },
-    {
-        "german": "ernst",
-        "english": "serious",
-        "audio": "serious.ogg"
+        "german": "Parklücke",
+        "english": "parking lot",
+        "audio": "parking_lot.ogg"
     }
 ]
