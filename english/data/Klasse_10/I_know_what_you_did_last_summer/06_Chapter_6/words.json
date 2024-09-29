@@ -1,0 +1,79 @@
+[
+    {
+        "german": "Küste",
+        "english": "coast",
+        "audio": "coast.ogg"
+    },
+    {
+        "german": "teuer",
+        "english": "expensive",
+        "audio": "expensive.ogg"
+    },
+    {
+        "german": "Abschlussfeier",
+        "english": "graduation",
+        "audio": "graduation.ogg"
+    },
+    {
+        "german": "entspannen",
+        "english": "to relax",
+        "audio": "to_relax.ogg",
+        "alternatives": [
+            "relax"
+        ]
+    },
+    {
+        "german": "müde sein",
+        "english": "to be tired",
+        "audio": "to_be_tired.ogg",
+        "alternatives": [
+            "be tired"
+        ]
+    },
+    {
+        "german": "Vorzeigestück",
+        "english": "showpiece",
+        "audio": "showpiece.ogg"
+    },
+    {
+        "german": "glanzvoll",
+        "english": "glamorous",
+        "audio": "glamorous.ogg"
+    },
+    {
+        "german": "klopfen",
+        "english": "to knock",
+        "audio": "to_knock.ogg",
+        "alternatives": [
+            "knock"
+        ]
+    },
+    {
+        "german": "beeilen",
+        "english": "to hurry up",
+        "audio": "to_hurry_up.ogg",
+        "alternatives": [
+            "hurry up"
+        ]
+    },
+    {
+        "german": "Sportfeld",
+        "english": "athletic field",
+        "audio": "athletic_field.ogg"
+    },
+    {
+        "german": "Geräusch",
+        "english": "noise",
+        "audio": "noise.ogg"
+    },
+    {
+        "german": "wählen (eine Stimme abgeben)",
+        "english": "to tear (tore, torn)",
+        "audio": "to_tear_(tore_torn).ogg",
+        "alternatives": [
+            "to tear",
+            "tear",
+            "tear (tore, torn)"
+        ]
+    }
+]

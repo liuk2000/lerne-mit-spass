@@ -1,0 +1,135 @@
+[
+    {
+        "german": "Zeitungsausschnitt",
+        "english": "clipping",
+        "audio": "clipping.ogg"
+    },
+    {
+        "german": "reiten",
+        "english": "to ride (rode, ridden)",
+        "audio": "to_ride_(rode_ridden).ogg",
+        "alternatives": [
+            "to ride",
+            "ride",
+            "ride (rode, ridden)"
+        ]
+    },
+    {
+        "german": "Ausdruck für Hinterbliebende",
+        "english": "to be survived by",
+        "audio": "to_be_survived_by.ogg",
+        "alternatives": [
+            "be survived by"
+        ]
+    },
+    {
+        "german": "Besitzer",
+        "english": "owner",
+        "audio": "owner.ogg"
+    },
+    {
+        "german": "eine Münze werfen",
+        "english": "to flip a coin",
+        "audio": "to_flip_a_coin.ogg",
+        "alternatives": [
+            "flip a coin"
+        ]
+    },
+    {
+        "german": "schreien",
+        "english": "to scream",
+        "audio": "to_scream.ogg",
+        "alternatives": [
+            "scream"
+        ]
+    },
+    {
+        "german": "schreien",
+        "english": "to shout",
+        "audio": "to_shout.ogg",
+        "alternatives": [
+            "shout"
+        ]
+    },
+    {
+        "german": "schluchzen",
+        "english": "to sob",
+        "audio": "to_sob.ogg",
+        "alternatives": [
+            "sob"
+        ]
+    },
+    {
+        "german": "wählen (Telefonnummer)",
+        "english": "to dial",
+        "audio": "to_dial.ogg",
+        "alternatives": [
+            "dial"
+        ]
+    },
+    {
+        "german": "Gefängnis",
+        "english": "jail",
+        "audio": "jail.ogg"
+    },
+    {
+        "german": "Fahrerflucht",
+        "english": "hit-and-run",
+        "audio": "hit_and_run.ogg",
+        "alternatives": [
+            "hit- and- run"
+        ]
+    },
+    {
+        "german": "wählen (eine Stimme abgeben)",
+        "english": "to vote",
+        "audio": "to_vote.ogg",
+        "alternatives": [
+            "vote"
+        ]
+    },
+    {
+        "german": "Sirene",
+        "english": "siren",
+        "audio": "siren.ogg"
+    },
+    {
+        "german": "bestrafen",
+        "english": "to punish",
+        "audio": "to_punish.ogg",
+        "alternatives": [
+            "punish"
+        ]
+    },
+    {
+        "german": "flüstern",
+        "english": "to whisper",
+        "audio": "to_whisper.ogg",
+        "alternatives": [
+            "whisper"
+        ]
+    },
+    {
+        "german": "nachholen",
+        "english": "to catch up with",
+        "audio": "to_catch_up_with.ogg",
+        "alternatives": [
+            "catch up with"
+        ]
+    },
+    {
+        "german": "Dumpfes Geräusch",
+        "english": "thud",
+        "audio": "thud.ogg"
+    },
+    {
+        "german": "Zelle",
+        "english": "booth",
+        "audio": "booth.ogg"
+    },
+    {
+        "german": "Empfänger",
+        "english": "receiver",
+        "audio": "receiver.ogg"
+    }
+]
