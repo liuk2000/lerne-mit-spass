@@ -1,0 +1,61 @@
+[
+    {
+        "german": "Wetterbericht",
+        "english": "weather forecast",
+        "audio": "weather_forecast.ogg"
+    },
+    {
+        "german": "Wimpern",
+        "english": "eyelash",
+        "audio": "eyelash.ogg"
+    },
+    {
+        "german": "Die Möglichkeit auf einen Job",
+        "english": "offer",
+        "audio": "offer.ogg"
+    },
+    {
+        "german": "hübsch, attraktiv (bzgl Mann)",
+        "english": "handsome",
+        "audio": "handsome.ogg"
+    },
+    {
+        "german": "zwingen",
+        "english": "to pressure",
+        "audio": "to_pressure.ogg",
+        "alternatives": [
+            "pressure"
+        ]
+    },
+    {
+        "german": "quadratisch",
+        "english": "square",
+        "audio": "square.ogg"
+    },
+    {
+        "german": "pellen, auspellen",
+        "english": "to peel",
+        "audio": "to_peel.ogg",
+        "alternatives": [
+            "peel"
+        ]
+    },
+    {
+        "german": "Zuschauer, Batrachter",
+        "english": "viewer",
+        "audio": "viewer.ogg"
+    },
+    {
+        "german": "Vorteil",
+        "english": "advantage",
+        "audio": "advantage.ogg"
+    },
+    {
+        "german": "die Gefaht meiden",
+        "english": "to keep out of harm's way",
+        "audio": "to_keep_out_of_harms_way.ogg",
+        "alternatives": [
+            "keep out of harm's way"
+        ]
+    }
+]
