@@ -1,0 +1,452 @@
+[
+    {
+        "german": "überrascht sein",
+        "english": "to be surprised",
+        "audio": "to_be_surprised.ogg",
+        "alternatives": [
+            "be surprised"
+        ]
+    },
+    {
+        "german": "Ausschnitt",
+        "english": "clipping",
+        "audio": "clipping.ogg"
+    },
+    {
+        "german": "Gefühle, Empfindungen",
+        "english": "sensations",
+        "audio": "sensations.ogg"
+    },
+    {
+        "german": "Fahrzeug",
+        "english": "vehicle",
+        "audio": "vehicle.ogg"
+    },
+    {
+        "german": "vermeintlicher Insasse / Passagier",
+        "english": "alleged occupant",
+        "audio": "alleged_occupant.ogg"
+    },
+    {
+        "german": "losgeschickt werden",
+        "english": "to be dispatched",
+        "audio": "to_be_dispatched.ogg",
+        "alternatives": [
+            "be dispatched"
+        ]
+    },
+    {
+        "german": "bei Bewusstsein sein",
+        "english": "to be conscious",
+        "audio": "to_be_conscious.ogg",
+        "alternatives": [
+            "be conscious"
+        ]
+    },
+    {
+        "german": "Rettungsdienst",
+        "english": "rescue crew",
+        "audio": "rescue_crew.ogg"
+    },
+    {
+        "german": "auf dem Weg",
+        "english": "en route to",
+        "audio": "en_route_to.ogg"
+    },
+    {
+        "german": "(Farb-)Ablagerungen/Spuren",
+        "english": "(paint) deposits",
+        "audio": "(paint)_deposits.ogg",
+        "alternatives": [
+            "paint deposits",
+            "deposits"
+        ]
+    },
+    {
+        "german": "jmd. hinterlassen (in Todesanzeigen)",
+        "english": "to be survived by",
+        "audio": "to_be_survived_by.ogg",
+        "alternatives": [
+            "be survived by"
+        ]
+    },
+    {
+        "german": "eine Angelegenheit vefolgen",
+        "english": "to pursue a matter",
+        "audio": "to_pursue_a_matter.ogg",
+        "alternatives": [
+            "pursue a matter"
+        ]
+    },
+    {
+        "german": "(jmd.) überzeugen",
+        "english": "to convince (somebody)",
+        "audio": "to_convince_(somebody).ogg",
+        "alternatives": [
+            "convince (somebody)",
+            "to convince",
+            "convince"
+        ]
+    },
+    {
+        "german": "Mangel an",
+        "english": "lack of",
+        "audio": "lack_of.ogg"
+    },
+    {
+        "german": "rückgradlos",
+        "english": "spineless",
+        "audio": "spineless.ogg"
+    },
+    {
+        "german": "schlank",
+        "english": "lean",
+        "audio": "lean.ogg"
+    },
+    {
+        "german": "sich selbst als ... bezeichnen",
+        "english": "to refer to oneself as",
+        "audio": "to_refer_to_oneself_as.ogg",
+        "alternatives": [
+            "refer to oneself as"
+        ]
+    },
+    {
+        "german": "Verletzung",
+        "english": "injury",
+        "audio": "injury.ogg"
+    },
+    {
+        "german": "widerwillig",
+        "english": "reluctantly",
+        "audio": "reluctantly.ogg"
+    },
+    {
+        "german": "in Rente gehen",
+        "english": "to retire",
+        "audio": "to_retire.ogg",
+        "alternatives": [
+            "retire"
+        ]
+    },
+    {
+        "german": "schließlich",
+        "english": "eventually",
+        "audio": "eventually.ogg"
+    },
+    {
+        "german": "Ladenkette",
+        "english": "chain of stores",
+        "audio": "chain_of_stores.ogg"
+    },
+    {
+        "german": "Enttäuschung",
+        "english": "disappointment",
+        "audio": "disappointment.ogg"
+    },
+    {
+        "german": "neckende (Kommentare)",
+        "english": "teasing (comments)",
+        "audio": "teasing_(comments).ogg",
+        "alternatives": [
+            "teasing"
+        ]
+    },
+    {
+        "german": "Zuneigung",
+        "english": "affection",
+        "audio": "affection.ogg"
+    },
+    {
+        "german": "fröhlich",
+        "english": "jovially",
+        "audio": "jovially.ogg"
+    },
+    {
+        "german": "Schläger",
+        "english": "racket",
+        "audio": "racket.ogg"
+    },
+    {
+        "german": "(Box-) Handschuhe",
+        "english": "(boxing) gloves",
+        "audio": "(boxing)_gloves.ogg",
+        "alternatives": [
+            "gloves",
+            "boxing gloves"
+        ]
+    },
+    {
+        "german": "anständig, ordentlich",
+        "english": "decent",
+        "audio": "decent.ogg"
+    },
+    {
+        "german": "jmd. vom Hörensagen kennen",
+        "english": "to know sb. by reputation",
+        "audio": "to_know_sb_by_reputation.ogg",
+        "alternatives": [
+            "know sb. by reputation",
+            "to know by reputation",
+            "know by reputation"
+        ]
+    },
+    {
+        "german": "sich mit jmd. messen, mithalten",
+        "english": "to compete with",
+        "audio": "to_compete_with.ogg",
+        "alternatives": [
+            "compete with"
+        ]
+    },
+    {
+        "german": "überlegen, besser",
+        "english": "superior",
+        "audio": "superior.ogg"
+    },
+    {
+        "german": "Blödmann",
+        "english": "twerp",
+        "audio": "twerp.ogg"
+    },
+    {
+        "german": "zustimmend",
+        "english": "approvingly",
+        "audio": "approvingly.ogg"
+    },
+    {
+        "german": "enttäuschend",
+        "english": "disappointing",
+        "audio": "disappointing.ogg"
+    },
+    {
+        "german": "herumblödeln",
+        "english": "to goof around",
+        "audio": "to_goof_around.ogg",
+        "alternatives": [
+            "goof around"
+        ]
+    },
+    {
+        "german": "vernichtet sein",
+        "english": "to be snuffed out",
+        "audio": "to_be_snuffed_out.ogg",
+        "alternatives": [
+            "be snuffed out"
+        ]
+    },
+    {
+        "german": "unwiederbringlich",
+        "english": "irrevocably",
+        "audio": "irrevocably.ogg"
+    },
+    {
+        "german": "sich ausbreiten",
+        "english": "to sprawl",
+        "audio": "to_sprawl.ogg",
+        "alternatives": [
+            "sprawl"
+        ]
+    },
+    {
+        "german": "enthüllend",
+        "english": "revealing",
+        "audio": "revealing.ogg"
+    },
+    {
+        "german": "flüstern",
+        "english": "to whisper",
+        "audio": "to_whisper.ogg",
+        "alternatives": [
+            "whisper"
+        ]
+    },
+    {
+        "german": "schluchzen",
+        "english": "to sob",
+        "audio": "to_sob.ogg",
+        "alternatives": [
+            "sob"
+        ]
+    },
+    {
+        "german": "verzweifelt",
+        "english": "frantically",
+        "audio": "frantically.ogg"
+    },
+    {
+        "german": "Bewusstsein verloren haben",
+        "english": "to be zonked out",
+        "audio": "to_be_zonked_out.ogg",
+        "alternatives": [
+            "be zonked out"
+        ]
+    },
+    {
+        "german": "linker Fahrstreifen",
+        "english": "left lane",
+        "audio": "left_lane.ogg"
+    },
+    {
+        "german": "Anklage wegen Totschlags",
+        "english": "manslaughter charge",
+        "audio": "manslaughter_charge.ogg"
+    },
+    {
+        "german": "(nach Jugendstrafrecht) eigestuft werden",
+        "english": "rank as (a juvenile)",
+        "audio": "rank_as_(a_juvenile).ogg",
+        "alternatives": [
+            "rank as",
+            "to rank as",
+            "to rank as (a juvenile)"
+        ]
+    },
+    {
+        "german": "(nach Erwachsenenrecht) verhandelt werden",
+        "english": "to be tried as (an adult)",
+        "audio": "to_be_tried_as_(an_adult).ogg",
+        "alternatives": [
+            "be tried as (an adult)",
+            "to be tried as",
+            "be tried as"
+        ]
+    },
+    {
+        "german": "aussagen",
+        "english": "to testify",
+        "audio": "to_testify.ogg",
+        "alternatives": [
+            "testify"
+        ]
+    },
+    {
+        "german": "Schuld",
+        "english": "fault",
+        "audio": "fault.ogg"
+    },
+    {
+        "german": "etw. herausfinden",
+        "english": "to spot sth.",
+        "audio": "to_spot_sth.ogg",
+        "alternatives": [
+            "spot sth.",
+            "to spot",
+            "spot"
+        ]
+    },
+    {
+        "german": "Fahrerflucht",
+        "english": "hit-and-run",
+        "audio": "hit_and_run.ogg"
+    },
+    {
+        "german": "verantwortlich sein",
+        "english": "to be responsible",
+        "audio": "to_be_responsible.ogg",
+        "alternatives": [
+            "be responsible"
+        ]
+    },
+    {
+        "german": "entschlossen sein",
+        "english": "to be determined",
+        "audio": "to_be_determined.ogg",
+        "alternatives": [
+            "be determined"
+        ]
+    },
+    {
+        "german": "etw. zugeben / gestehen",
+        "english": "to confess sth.",
+        "audio": "to_confess_sth.ogg",
+        "alternatives": [
+            "confess sth.",
+            "to confess",
+            "confess"
+        ]
+    },
+    {
+        "german": "Führerschein",
+        "english": "license",
+        "audio": "license.ogg"
+    },
+    {
+        "german": "einen Flecken bekommen",
+        "english": "to get a splotch",
+        "audio": "to_get_a_splotch.ogg",
+        "alternatives": [
+            "get a splotch"
+        ]
+    },
+    {
+        "german": "schrecklich, enorm",
+        "english": "awfully",
+        "audio": "awfully.ogg"
+    },
+    {
+        "german": "bestrebt",
+        "english": "anxious",
+        "audio": "anxious.ogg"
+    },
+    {
+        "german": "sich an eine Abstimmung halten",
+        "english": "to stick by a vote",
+        "audio": "to_stick_by_a_vote.ogg",
+        "alternatives": [
+            "stick by a vote"
+        ]
+    },
+    {
+        "german": "hartnäckig",
+        "english": "adamantly",
+        "audio": "adamantly.ogg"
+    },
+    {
+        "german": "etw. hinnehmen",
+        "english": "to abide sth.",
+        "audio": "to_abide_sth.ogg",
+        "alternatives": [
+            "abide sth.",
+            "to abide",
+            "abide"
+        ]
+    },
+    {
+        "german": "angespannt (Art und Weise)",
+        "english": "tense (way)",
+        "audio": "tense_(way).ogg"
+    },
+    {
+        "german": "Schaden",
+        "english": "damage",
+        "audio": "damage.ogg"
+    },
+    {
+        "german": "die Schuld auf sich nehmen",
+        "english": "to take the blame for sth.",
+        "audio": "to_take_the_blame_for_sth.ogg",
+        "alternatives": [
+            "take the blame for sth.",
+            "to take the blame",
+            "take the blame",
+            "to take the blame for",
+            "take the blame for"
+        ]
+    },
+    {
+        "german": "hier: Belichtung",
+        "english": "exposure",
+        "audio": "exposure.ogg"
+    },
+    {
+        "german": "sich mit etw. befassen",
+        "english": "to dwell upon sth.",
+        "audio": "to_dwell_upon_sth.ogg",
+        "alternatives": [
+            "dwell upon sth.",
+            "to dwell upon",
+            "dwell upon"
+        ]
+    }
+]
