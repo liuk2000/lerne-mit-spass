@@ -1,0 +1,212 @@
+[
+  {
+        "german": "Ausschnitt",
+        "english": "clipping",
+        "audio": "clipping.ogg"
+    },
+  {
+        "german": "vermeintlicher Insasse / Passagier",
+        "english": "alleged occupant",
+        "audio": "alleged_occupant.ogg"
+    },
+    {
+        "german": "losgeschickt werden",
+        "english": "to be dispatched",
+        "audio": "to_be_dispatched.ogg",
+        "alternatives": [
+            "be dispatched"
+        ]
+    },
+  {
+        "german": "auf dem Weg",
+        "english": "en route to",
+        "audio": "en_route_to.ogg"
+    },
+    {
+        "german": "(Farb-)Ablagerungen/Spuren",
+        "english": "(paint) deposits",
+        "audio": "(paint)_deposits.ogg",
+        "alternatives": [
+            "paint deposits",
+            "deposits"
+        ]
+    },
+    {
+        "german": "jmd. hinterlassen (in Todesanzeigen)",
+        "english": "to be survived by",
+        "audio": "to_be_survived_by.ogg",
+        "alternatives": [
+            "be survived by"
+        ]
+    },
+  {
+        "german": "schlank",
+        "english": "lean",
+        "audio": "lean.ogg"
+    },
+    {
+        "german": "sich selbst als ... bezeichnen",
+        "english": "to refer to oneself as",
+        "audio": "to_refer_to_oneself_as.ogg",
+        "alternatives": [
+            "refer to oneself as"
+        ]
+    },
+  {
+        "german": "widerwillig",
+        "english": "reluctantly",
+        "audio": "reluctantly.ogg"
+    },
+  {
+        "german": "Ladenkette",
+        "english": "chain of stores",
+        "audio": "chain_of_stores.ogg"
+    },
+  {
+        "german": "fröhlich",
+        "english": "jovially",
+        "audio": "jovially.ogg"
+    },
+    {
+        "german": "Schläger",
+        "english": "racket",
+        "audio": "racket.ogg"
+    },
+    {
+        "german": "(Box-) Handschuhe",
+        "english": "(boxing) gloves",
+        "audio": "(boxing)_gloves.ogg",
+        "alternatives": [
+            "gloves",
+            "boxing gloves"
+        ]
+    },
+  {
+        "german": "jmd. vom Hörensagen kennen",
+        "english": "to know sb. by reputation",
+        "audio": "to_know_sb_by_reputation.ogg",
+        "alternatives": [
+            "know sb. by reputation",
+            "to know by reputation",
+            "know by reputation"
+        ]
+    },
+  {
+        "german": "Blödmann",
+        "english": "twerp",
+        "audio": "twerp.ogg"
+    },
+  {
+        "german": "herumblödeln",
+        "english": "to goof around",
+        "audio": "to_goof_around.ogg",
+        "alternatives": [
+            "goof around"
+        ]
+    },
+    {
+        "german": "vernichtet sein",
+        "english": "to be snuffed out",
+        "audio": "to_be_snuffed_out.ogg",
+        "alternatives": [
+            "be snuffed out"
+        ]
+    },
+  {
+        "german": "sich ausbreiten",
+        "english": "to sprawl",
+        "audio": "to_sprawl.ogg",
+        "alternatives": [
+            "sprawl"
+        ]
+    },
+  {
+        "german": "verzweifelt",
+        "english": "frantically",
+        "audio": "frantically.ogg"
+    },
+    {
+        "german": "Bewusstsein verloren haben",
+        "english": "to be zonked out",
+        "audio": "to_be_zonked_out.ogg",
+        "alternatives": [
+            "be zonked out"
+        ]
+    },
+    {
+        "german": "linker Fahrstreifen",
+        "english": "left lane",
+        "audio": "left_lane.ogg"
+    },
+    {
+        "german": "Anklage wegen Totschlags",
+        "english": "manslaughter charge",
+        "audio": "manslaughter_charge.ogg"
+    },
+    {
+        "german": "(nach Jugendstrafrecht) eigestuft werden",
+        "english": "rank as (a juvenile)",
+        "audio": "rank_as_(a_juvenile).ogg",
+        "alternatives": [
+            "rank as",
+            "to rank as",
+            "to rank as (a juvenile)"
+        ]
+    },
+    {
+        "german": "(nach Erwachsenenrecht) verhandelt werden",
+        "english": "to be tried as (an adult)",
+        "audio": "to_be_tried_as_(an_adult).ogg",
+        "alternatives": [
+            "be tried as (an adult)",
+            "to be tried as",
+            "be tried as"
+        ]
+    },
+  {
+        "german": "Fahrerflucht",
+        "english": "hit-and-run",
+        "audio": "hit_and_run.ogg"
+    },
+  {
+        "german": "einen Flecken bekommen",
+        "english": "to get a splotch",
+        "audio": "to_get_a_splotch.ogg",
+        "alternatives": [
+            "get a splotch"
+        ]
+    },
+  {
+        "german": "sich an eine Abstimmung halten",
+        "english": "to stick by a vote",
+        "audio": "to_stick_by_a_vote.ogg",
+        "alternatives": [
+            "stick by a vote"
+        ]
+    },
+    {
+        "german": "hartnäckig",
+        "english": "adamantly",
+        "audio": "adamantly.ogg"
+    },
+    {
+        "german": "etw. hinnehmen",
+        "english": "to abide sth.",
+        "audio": "to_abide_sth.ogg",
+        "alternatives": [
+            "abide sth.",
+            "to abide",
+            "abide"
+        ]
+    },
+  {
+        "german": "sich mit etw. befassen",
+        "english": "to dwell upon sth.",
+        "audio": "to_dwell_upon_sth.ogg",
+        "alternatives": [
+            "dwell upon sth.",
+            "to dwell upon",
+            "dwell upon"
+        ]
+    }
+]

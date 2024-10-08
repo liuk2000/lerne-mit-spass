@@ -1,26 +1,8 @@
 [
     {
-        "german": "um Himmels Willen",
-        "english": "for heaven's sake",
-        "audio": "for_heavens_sake.ogg"
-    },
-    {
-        "german": "Elektroingenieur",
-        "english": "electrical engineer",
-        "audio": "electrical_engineer.ogg"
-    },
-    {
         "german": "außerhalb der Reichweite von",
         "english": "beyond the reach of",
         "audio": "beyond_the_reach_of.ogg"
-    },
-    {
-        "german": "herumlungern",
-        "english": "to bum around",
-        "audio": "to_bum_around.ogg",
-        "alternatives": [
-            "bum around"
-        ]
     },
     {
         "german": "Abschluss",
@@ -36,14 +18,6 @@
         ]
     },
     {
-        "german": "reingezogen werden",
-        "english": "to be hauled in",
-        "audio": "to_be_hauled_in.ogg",
-        "alternatives": [
-            "be hauled in"
-        ]
-    },
-    {
         "german": "reich / wohlhabend sein",
         "english": "to be loaded",
         "audio": "to_be_loaded.ogg",
@@ -52,22 +26,9 @@
         ]
     },
     {
-        "german": "(Geld) ausgeben",
-        "english": "to dispense",
-        "audio": "to_dispense.ogg",
-        "alternatives": [
-            "dispense"
-        ]
-    },
-    {
         "german": "Alptraum",
         "english": "nightmare",
         "audio": "nightmare.ogg"
-    },
-    {
-        "german": "grob",
-        "english": "crude",
-        "audio": "crude.ogg"
     },
     {
         "german": "einreichen, übermitteln",
@@ -96,32 +57,11 @@
         ]
     },
     {
-        "german": "spontan",
-        "english": "spur-of-the-moment",
-        "audio": "spur_of_the_moment.ogg"
-    },
-    {
         "german": "verfügbar sein",
         "english": "to be available",
         "audio": "to_be_available.ogg",
         "alternatives": [
             "be available"
-        ]
-    },
-    {
-        "german": "regeln, sichern, (hier:) bestätigen",
-        "english": "to cinch",
-        "audio": "to_cinch.ogg",
-        "alternatives": [
-            "cinch"
-        ]
-    },
-    {
-        "german": "einer Bruderschaft beitreten",
-        "english": "to pledge a fraternity",
-        "audio": "to_pledge_a_fraternity.ogg",
-        "alternatives": [
-            "pledge a fraternity"
         ]
     },
     {
@@ -188,11 +128,6 @@
         ]
     },
     {
-        "german": "hier: keine Chance",
-        "english": "no dice",
-        "audio": "no_dice.ogg"
-    },
-    {
         "german": "auf etw. bestehen",
         "english": "to insist on sth.",
         "audio": "to_insist_on_sth.ogg",
@@ -203,32 +138,9 @@
         ]
     },
     {
-        "german": "Scheiß drauf",
-        "english": "screw that",
-        "audio": "screw_that.ogg"
-    },
-    {
         "german": "Antworten, Rückmeldungen",
         "english": "response",
         "audio": "response.ogg"
-    },
-    {
-        "german": "schauern, sich schütteln",
-        "english": "to shudder",
-        "audio": "to_shudder.ogg",
-        "alternatives": [
-            "shudder"
-        ]
-    },
-    {
-        "german": "jmd. tadeln",
-        "english": "to chid sb.",
-        "audio": "to_chid_sb.ogg",
-        "alternatives": [
-            "chid sb.",
-            "to ichid",
-            "chid"
-        ]
     },
     {
         "german": "keinen Mut haben",
@@ -259,27 +171,9 @@
         "audio": "suffocation.ogg"
     },
     {
-        "german": "rasende Eifersucht",
-        "english": "raging envy",
-        "audio": "raging_envy.ogg"
-    },
-    {
         "german": "Druck",
         "english": "pressure",
         "audio": "pressure.ogg"
-    },
-    {
-        "german": "kellnern",
-        "english": "to wait tables",
-        "audio": "to_wait_tables.ogg",
-        "alternatives": [
-            "wait tables"
-        ]
-    },
-    {
-        "german": "schlecht verborgen",
-        "english": "ill-concealed",
-        "audio": "ill_concealed.ogg"
     },
     {
         "german": "neu anfangen, reinen Tisch machen",
@@ -287,19 +181,6 @@
         "audio": "to_wipe_the_slate_clean.ogg",
         "alternatives": [
             "wipe the slate clean"
-        ]
-    },
-    {
-        "german": "einen Groll hegen",
-        "english": "chip on the shoulder",
-        "audio": "chip_on_the_shoulder.ogg"
-    },
-    {
-        "german": "sich festfahren, nicht weiterkommen",
-        "english": "to get bogged down",
-        "audio": "to_get_bogged_down.ogg",
-        "alternatives": [
-            "get bogged down"
         ]
     },
     {
@@ -311,40 +192,6 @@
         "german": "Erstaunen",
         "english": "amazement",
         "audio": "amazement.ogg"
-    },
-    {
-        "german": "leuchtend",
-        "english": "to be aglow",
-        "audio": "to_be_aglow.ogg",
-        "alternatives": [
-            "be aglow"
-        ]
-    },
-    {
-        "german": "verschwinden",
-        "english": "to disappear",
-        "audio": "to_disappear.ogg",
-        "alternatives": [
-            "disappear"
-        ]
-    },
-    {
-        "german": "heißer Grill",
-        "english": "hot griddle",
-        "audio": "hot_griddle.ogg"
-    },
-    {
-        "german": "Tribüne",
-        "english": "bleachers",
-        "audio": "bleachers.ogg"
-    },
-    {
-        "german": "sich abzeichnen",
-        "english": "to loom",
-        "audio": "to_loom.ogg",
-        "alternatives": [
-            "loom"
-        ]
     },
     {
         "german": "Zustimmung",
