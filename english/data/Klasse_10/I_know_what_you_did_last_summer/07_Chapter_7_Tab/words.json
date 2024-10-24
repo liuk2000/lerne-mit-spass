@@ -1,0 +1,175 @@
+[
+    {
+        "german": "schwerverletzt",
+        "english": "gravely wounded",
+        "audio": "gravely_wounded.ogg"
+    },
+    {
+        "german": "Operation",
+        "english": "surgery",
+        "audio": "surgery.ogg"
+    },
+    {
+        "german": "Zustand",
+        "english": "condition",
+        "audio": "condition.ogg"
+    },
+    {
+        "german": "sich etw. fragen, sich wundern",
+        "english": "to wonder",
+        "audio": "to_wonder.ogg",
+        "alternatives": [
+            "wonder"
+        ]
+    },
+    {
+        "german": "(einem Befehl) folgen, gehorchen",
+        "english": "to obey (a command)",
+        "audio": "to_obey_(a_command).ogg",
+        "alternatives": [
+            "obey (a command)",
+            "to obey",
+            "obey"
+        ]
+    },
+    {
+        "german": "Feind",
+        "english": "enemy",
+        "audio": "enemy.ogg"
+    },
+    {
+        "german": "jmd. vergöttern",
+        "english": "to adore",
+        "audio": "to_adore.ogg",
+        "alternatives": [
+            "adore"
+        ]
+    },
+    {
+        "german": "Überfall",
+        "english": "robbery",
+        "audio": "robbery.ogg"
+    },
+    {
+        "german": "altmodisch",
+        "english": "old-fashioned",
+        "audio": "old_fashioned.ogg"
+    },
+    {
+        "german": "wundervoll",
+        "english": "marvelous",
+        "audio": "marvelous.ogg"
+    },
+    {
+        "german": "merkwürdig, unangenehm",
+        "english": "awkward",
+        "audio": "awkward.ogg"
+    },
+    {
+        "german": "sich etw. stellen, etw. in Angriff nehmen",
+        "english": "to take sth. head on",
+        "audio": "to_take_sth_head_on.ogg",
+        "alternatives": [
+            "to take something head on",
+            "take something head on",
+            "take sth. head on"
+        ]
+    },
+    {
+        "german": "Macht der Gewohnheit",
+        "english": "force of habit",
+        "audio": "force_of_habit.ogg"
+    },
+    {
+        "german": "jmd. umarmen",
+        "english": "to embrace sb.",
+        "audio": "to_embrace_sb.ogg",
+        "alternatives": [
+            "to embrace somebody",
+            "embrace somebody",
+            "embrace sb.",
+            "to embrace",
+            "embrace"
+        ]
+    },
+    {
+        "german": "pflichtbewusst",
+        "english": "dutifully",
+        "audio": "dutifully.ogg"
+    },
+    {
+        "german": "jmd. hinauszerren",
+        "english": "to drag sb. out",
+        "audio": "to_drag_sb_out.ogg",
+        "alternatives": [
+            "to drag sb. out",
+            "to drag somedody out",
+            "drag somebody out"
+        ]
+    },
+    {
+        "german": "jmd. Schaden zufügen",
+        "english": "to bring harm",
+        "audio": "to_bring_harm.ogg",
+        "alternatives": [
+            "bring harm"
+        ]
+    },
+    {
+        "german": "verantwortlich für etw. sein",
+        "english": "to be responsible",
+        "audio": "to_be_responsible.ogg",
+        "alternatives": [
+            "be responsible"
+        ]
+    },
+    {
+        "german": "Verwirrung",
+        "english": "confusion",
+        "audio": "confusion.ogg"
+    },
+    {
+        "german": "mit Mühe",
+        "english": "with an effort",
+        "audio": "with_an_effort.ogg"
+    },
+    {
+        "german": "unfreundlich sein",
+        "english": "to be unkind",
+        "audio": "to_be_unkind.ogg",
+        "alternatives": [
+            "be unkind"
+        ]
+    },
+    {
+        "german": "in der Zwischenzeit",
+        "english": "in the meanwhile",
+        "audio": "in_the_meanwhile.ogg"
+    },
+    {
+        "german": "behutsam, sanft",
+        "english": "gently",
+        "audio": "gently.ogg"
+    },
+    {
+        "german": "schreien",
+        "english": "to yell",
+        "audio": "to_yell.ogg",
+        "alternatives": [
+            "yell"
+        ]
+    },
+    {
+        "german": "Unruhen",
+        "english": "unrest",
+        "audio": "unrest.ogg"
+    },
+    {
+        "german": "sich versammeln",
+        "english": "to gather",
+        "audio": "to_gather.ogg",
+        "alternatives": [
+            "gather"
+        ]
+    }
+]

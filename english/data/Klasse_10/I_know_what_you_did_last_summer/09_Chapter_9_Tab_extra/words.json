@@ -1,0 +1,86 @@
+[
+    {
+        "german": "Parkplatz",
+        "english": "lot",
+        "audio": "lot.ogg"
+    },
+    {
+        "german": "Ast",
+        "english": "branch",
+        "audio": "branch.ogg"
+    },
+    {
+        "german": "Fluss",
+        "english": "stream",
+        "audio": "stream.ogg"
+    },
+    {
+        "german": "sich wölben",
+        "english": "to arch",
+        "audio": "to_arch.ogg",
+        "alternatives": [
+            "arch"
+        ]
+    },
+    {
+        "german": "etw. unter den Tepich kehren",
+        "english": "to shove sth. under the rug",
+        "audio": "to_shove_sth_under_the_rug.ogg",
+        "alternatives": [
+            "shove sth. under the rug",
+            "to shove something under the rug",
+            "shove something under the rug",
+            "to shove under the rug",
+            "shove under the rug"
+        ]
+    },
+    {
+        "german": "etw. wieder aufwärmen, durchkauen",
+        "english": "to rehash",
+        "audio": "to_rehash.ogg",
+        "alternatives": [
+            "rehash"
+        ]
+    },
+    {
+        "german": "eindringlich, ernst",
+        "english": "sternly",
+        "audio": "sternly.ogg"
+    },
+    {
+        "german": "absichtlich, vorsätzlich",
+        "english": "deliberately",
+        "audio": "deliberately.ogg"
+    },
+    {
+        "german": "Geldbörse",
+        "english": "wallet",
+        "audio": "wallet.ogg"
+    },
+    {
+        "german": "anbeten",
+        "english": "to worship",
+        "audio": "to_worship.ogg",
+        "alternatives": [
+            "worship"
+        ]
+    },
+    {
+        "german": "(eine Pistole) abdrücken",
+        "english": "pull a trigger",
+        "audio": "pull_a_trigger.ogg",
+        "alternatives": [
+            "to pull a trigger"
+        ]
+    },
+    {
+        "german": "treu",
+        "english": "faithful",
+        "audio": "faithful.ogg"
+    },
+    {
+        "german": "Erinnerungsstück, Mahnzeichen",
+        "english": "memento",
+        "audio": "memento.ogg"
+    }
+]
