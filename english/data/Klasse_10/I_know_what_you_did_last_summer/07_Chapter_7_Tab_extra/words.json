@@ -1,0 +1,69 @@
+[
+    {
+        "german": "Arbeitszimmer",
+        "english": "den",
+        "audio": "den.ogg"
+    },
+    {
+        "german": "scheußlich, mies",
+        "english": "rotten",
+        "audio": "rotten.ogg"
+    },
+    {
+        "german": "in Hysterie verfallen",
+        "english": "to descend into hysteria",
+        "audio": "to_descend_into_hysteria.ogg",
+        "alternatives": [
+            "descend into hysteria"
+        ]
+    },
+    {
+        "german": "schmerzverzerrt sein",
+        "english": "to be contorted with",
+        "audio": "to_be_contorted_with.ogg",
+        "alternatives": [
+            "be contorted with"
+        ]
+    },
+    {
+        "german": "weinend, klagend",
+        "english": "weeping",
+        "audio": "weeping.ogg"
+    },
+    {
+        "german": "etw. unberücksichtigt lassen",
+        "english": "to discount sth.",
+        "audio": "to_discount_sth.ogg",
+        "alternatives": [
+            "to discount something",
+            "discount something",
+            "discount sth."
+        ]
+    },
+    {
+        "german": "verwirren",
+        "english": "to bewilder",
+        "audio": "to_bewilder.ogg",
+        "alternatives": [
+            "bewilder"
+        ]
+    },
+    {
+        "german": "mit etwas belastet sein",
+        "english": "to be encumbered",
+        "audio": "to_be_encumbered.ogg",
+        "alternatives": [
+            "be encumbered"
+        ]
+    },
+    {
+        "german": "ruppig, schroff",
+        "english": "gruffy",
+        "audio": "gruffy.ogg"
+    },
+    {
+        "german": "Kopf hoch",
+        "english": "chin up",
+        "audio": "chin_up.ogg"
+    }
+]

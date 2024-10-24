@@ -1,0 +1,150 @@
+[
+    {
+        "german": "schrittweise",
+        "english": "gradual",
+        "audio": "gradual.ogg"
+    },
+    {
+        "german": "Kugel",
+        "english": "bullet",
+        "audio": "bullet.ogg"
+    },
+    {
+        "german": "Schaden",
+        "english": "damage",
+        "audio": "damage.ogg"
+    },
+    {
+        "german": "Besorgnis",
+        "english": "concern",
+        "audio": "concern.ogg"
+    },
+    {
+        "german": "bleiben",
+        "english": "to remain",
+        "audio": "to_remain.ogg",
+        "alternatives": [
+            "remain"
+        ]
+    },
+    {
+        "german": "nachlassen",
+        "english": "to wear off",
+        "audio": "to_wear_off.ogg",
+        "alternatives": [
+            "wear off"
+        ]
+    },
+    {
+        "german": "nachweisen",
+        "english": "to prove",
+        "audio": "to_prove.ogg",
+        "alternatives": [
+            "prove"
+        ]
+    },
+    {
+        "german": "direkte Familie",
+        "english": "immediate (family)",
+        "audio": "immediate_(family).ogg",
+        "alternatives": [
+            "immediate family"
+        ]
+    },
+    {
+        "german": "Hass",
+        "english": "hatred",
+        "audio": "hatred.ogg"
+    },
+    {
+        "german": "jmd. die Schuld für etw. geben",
+        "english": "to blame sb. for sth.",
+        "audio": "to_blame_sb_for_sth.ogg",
+        "alternatives": [
+            "blame sb. for sth.",
+            "to blame somebody for something",
+            "blame somebody for something",
+            "to blame",
+            "blame"
+        ]
+    },
+    {
+        "german": "Termin Verabredung",
+        "english": "appointment",
+        "audio": "appointment.ogg"
+    },
+    {
+        "german": "etwas",
+        "english": "slightly",
+        "audio": "slightly.ogg"
+    },
+    {
+        "german": "beunruhigend, verunsichernd",
+        "english": "disturbing",
+        "audio": "disturbing.ogg"
+    },
+    {
+        "german": "unvermeidlich",
+        "english": "unpreventable",
+        "audio": "unpreventable.ogg"
+    },
+    {
+        "german": "Schicksal",
+        "english": "fate",
+        "audio": "fate.ogg"
+    },
+    {
+        "german": "auf etw. vorbereitet sein",
+        "english": "to be prepared",
+        "audio": "to_be_prepared.ogg",
+        "alternatives": [
+            "be prepared"
+        ]
+    },
+    {
+        "german": "den Notruf wählen",
+        "english": "call 911",
+        "audio": "call_911.ogg"
+    },
+    {
+        "german": "fürchterlich, grauenhaft",
+        "english": "dreadfully",
+        "audio": "dreadfully.ogg"
+    },
+    {
+        "german": "ein guter Fang sein, eine gute Partie sein",
+        "english": "to be a catch",
+        "audio": "to_be_a_catch.ogg",
+        "alternatives": [
+            "be a catch"
+        ]
+    },
+    {
+        "german": "gemein, verletzend",
+        "english": "cruel",
+        "audio": "cruel.ogg"
+    },
+    {
+        "german": "erlauben",
+        "english": "to permit",
+        "audio": "to_permit.ogg",
+        "alternatives": [
+            "permit"
+        ]
+    },
+    {
+        "german": "zwielichtig, dubios",
+        "english": "shady",
+        "audio": "shady.ogg"
+    },
+    {
+        "german": "völlig",
+        "english": "entirely",
+        "audio": "entirely.ogg"
+    },
+    {
+        "german": "Jäger",
+        "english": "hunter",
+        "audio": "hunter.ogg"
+    }
+]
