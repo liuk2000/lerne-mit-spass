@@ -1,0 +1,152 @@
+[
+    {
+        "german": "neben",
+        "french": "à côté de",
+        "audio": "à_côte_de.ogg"
+    },
+    {
+        "german": "perfekt",
+        "french": "parfait",
+        "audio": "parfait.ogg"
+    },
+    {
+        "german": "der Donner",
+        "french": "le tonnerre",
+        "audio": "le_tonnerre.ogg"
+    },
+    {
+        "german": "Achtung",
+        "french": "Attention",
+        "audio": "attention.ogg"
+    },
+    {
+        "german": "unabhängig",
+        "french": "indépendant",
+        "audio": "independant.ogg"
+    },
+    {
+        "german": "ein Kollege",
+        "french": "un collégue",
+        "audio": "un_collegue.ogg"
+    },
+    {
+        "german": "eine Kollegin",
+        "french": "une collégue",
+        "audio": "une_collegue.ogg"
+    },
+    {
+        "german": "seit",
+        "french": "depuis",
+        "audio": "depuis.ogg"
+    },
+    {
+        "german": "nur",
+        "french": "seulement",
+        "audio": "seulement.ogg"
+    },
+    {
+        "german": "dort",
+        "french": "là-bas",
+        "audio": "là_bas.ogg"
+    },
+    {
+        "german": "dort",
+        "french": "y",
+        "audio": "y.ogg"
+    },
+    {
+        "german": "golgende",
+        "french": "suivant",
+        "audio": "suivant.ogg"
+    },
+    {
+        "german": "immer",
+        "french": "toujours",
+        "audio": "toujours.ogg"
+    },
+    {
+        "german": "reisen",
+        "french": "voyager",
+        "audio": "voyager.ogg"
+    },
+    {
+        "german": "eine Sprache",
+        "french": "une langue",
+        "audio": "une_langue.ogg"
+    },
+    {
+        "german": "roher Fisch",
+        "french": "du poisson cru",
+        "audio": "du_poisson_cru.ogg"
+    },
+    {
+        "german": "die Oberfläche",
+        "french": "la superficie",
+        "audio": "la_superficie.ogg"
+    },
+    {
+        "german": "im Norden von",
+        "french": "au nord de",
+        "audio": "au_nord_de.ogg"
+    },
+    {
+        "german": "im Süden von",
+        "french": "au sud de",
+        "audio": "au_sud_de.ogg"
+    },
+    {
+        "german": "im Osten von",
+        "french": "à l'est de",
+        "audio": "à_lest_de.ogg"
+    },
+    {
+        "german": "im Westen von",
+        "french": "à l'ouest de",
+        "audio": "à_louest_de.ogg"
+    },
+    {
+        "german": "wirklich",
+        "french": "vraiment",
+        "audio": "vraiment.ogg"
+    },
+    {
+        "german": "schlagen",
+        "french": "frapper",
+        "audio": "frapper.ogg"
+    },
+    {
+        "german": "die Ernte",
+        "french": "la récolte",
+        "audio": "la_recolte.ogg"
+    },
+    {
+        "german": "anbauen (landwirtschaftlich)",
+        "french": "cultiver",
+        "audio": "cultiver.ogg"
+    },
+    {
+        "german": "der Boden",
+        "french": "le sol",
+        "audio": "le_sol.ogg"
+    },
+    {
+        "german": "zuerst, zunächst",
+        "french": "d'abord",
+        "audio": "dabord.ogg"
+    },
+    {
+        "german": "nah",
+        "french": "proche",
+        "audio": "proche.ogg"
+    },
+    {
+        "german": "der Letzte",
+        "french": "le dernier",
+        "audio": "le_dernier.ogg"
+    },
+    {
+        "german": "die Letzte",
+        "french": "la dernière",
+        "audio": "la_derniere.ogg"
+    }
+]
