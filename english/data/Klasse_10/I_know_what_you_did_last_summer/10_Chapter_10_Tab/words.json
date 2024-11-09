@@ -1,0 +1,368 @@
+[
+    {
+        "german": "vermuten",
+        "english": "to suggest",
+        "audio": "to_suggest.ogg",
+        "alternatives": [
+            "suggest"
+        ]
+    },
+    {
+        "german": "erkennen",
+        "english": "to recognize",
+        "audio": "to_recognize.ogg",
+        "alternatives": [
+            "recognize"
+        ]
+    },
+    {
+        "german": "Wunsch nach Rache",
+        "english": "desire for revenge",
+        "audio": "desire_for_revenge.ogg"
+    },
+    {
+        "german": "Vorgarten",
+        "english": "front yard",
+        "audio": "front_yard.ogg"
+    },
+    {
+        "german": "Leiter",
+        "english": "ladder",
+        "audio": "ladder.ogg"
+    },
+    {
+        "german": "als Beweis",
+        "english": "as evidence",
+        "audio": "as_evidence.ogg"
+    },
+    {
+        "german": "ungeduldig",
+        "english": "impatient",
+        "audio": "impatient.ogg"
+    },
+    {
+        "german": "bloß, kaum",
+        "english": "merely",
+        "audio": "merely.ogg"
+    },
+    {
+        "german": "mit jemandem aufholen, jemanden einholen",
+        "english": "to catch up with somebody",
+        "audio": "to_catch_up_with_somebody.ogg",
+        "alternatives": [
+            "catch up with somebody",
+            "to catch up",
+            "catch up"
+        ]
+    },
+    {
+        "german": "einfache Möblierung",
+        "english": "simple furnishings",
+        "audio": "simple_furnishings.ogg"
+    },
+    {
+        "german": "erleichtert",
+        "english": "relieved",
+        "audio": "relieved.ogg"
+    },
+    {
+        "german": "schuldig",
+        "english": "guilty",
+        "audio": "guilty.ogg"
+    },
+    {
+        "german": "Unternehmen",
+        "english": "enterprise",
+        "audio": "enterprise.ogg"
+    },
+    {
+        "german": "gleichzeitig, simultan",
+        "english": "simultaneously",
+        "audio": "simultaneously.ogg"
+    },
+    {
+        "german": "altmodisch",
+        "english": "old-fashioned",
+        "audio": "old_fashioned.ogg"
+    },
+    {
+        "german": "sich gesellen zu",
+        "english": "to join somebody",
+        "audio": "to_join_somebody.ogg",
+        "alternatives": [
+            "join somebody",
+            "to join",
+            "join"
+        ]
+    },
+    {
+        "german": "Bewegung",
+        "english": "motion",
+        "audio": "motion.ogg"
+    },
+    {
+        "german": "Ausdrück",
+        "english": "expression",
+        "audio": "expression.ogg"
+    },
+    {
+        "german": "Werbung",
+        "english": "advertisement",
+        "audio": "advertisement.ogg"
+    },
+    {
+        "german": "eingießen",
+        "english": "to pour sth. into",
+        "audio": "to_pour_sth_into.ogg",
+        "alternatives": [
+            "pour sth. into",
+            "to pour into",
+            "pour into"
+        ]
+    },
+    {
+        "german": "einbezogen sein",
+        "english": "to be involved",
+        "audio": "to_be_involved.ogg",
+        "alternatives": [
+            "be involved"
+        ]
+    },
+    {
+        "german": "die Wäsche machen",
+        "english": "to do the laundry",
+        "audio": "to_do_the_laundry.ogg",
+        "alternatives": [
+            "do the laundry"
+        ]
+    },
+    {
+        "german": "Hinterhof",
+        "english": "backyard",
+        "audio": "backyard.ogg"
+    },
+    {
+        "german": "wildwüchsig",
+        "english": "shaggy growth",
+        "audio": "shaggy_growth.ogg"
+    },
+    {
+        "german": "umschließen",
+        "english": "to enclose",
+        "audio": "to_enclose.ogg",
+        "alternatives": [
+            "enclose"
+        ]
+    },
+    {
+        "german": "strecken",
+        "english": "to stretch",
+        "audio": "to_stretch.ogg",
+        "alternatives": [
+            "stretch"
+        ]
+    },
+    {
+        "german": "was für eine Schande",
+        "english": "what a shame",
+        "audio": "what_a_shame.ogg"
+    },
+    {
+        "german": "falten",
+        "english": "to fold",
+        "audio": "to_fold.ogg",
+        "alternatives": [
+            "fold"
+        ]
+    },
+    {
+        "german": "eine Krankheit",
+        "english": "a disease",
+        "audio": "a_disease.ogg",
+        "alternatives": [
+            "disease"
+        ]
+    },
+    {
+        "german": "erheben, aufsteigen",
+        "english": "to rise",
+        "audio": "to_rise.ogg",
+        "alternatives": [
+            "rise"
+        ]
+    },
+    {
+        "german": "Dinge klären",
+        "english": "to work things out",
+        "audio": "to_work_things_out.ogg",
+        "alternatives": [
+            "work things out"
+        ]
+    },
+    {
+        "german": "brüllen",
+        "english": "to roar",
+        "audio": "to_roar.ogg",
+        "alternatives": [
+            "roar"
+        ]
+    },
+    {
+        "german": "Kurve, Biegung",
+        "english": "bend",
+        "audio": "bend.ogg"
+    },
+    {
+        "german": "greifen, ergreifen",
+        "english": "to grip",
+        "audio": "to_grip.ogg",
+        "alternatives": [
+            "grip"
+        ]
+    },
+    {
+        "german": "jemanden verwöhnen",
+        "english": "to spoil somebody",
+        "audio": "to_spoil_somebody.ogg",
+        "alternatives": [
+            "spoil somebody",
+            "to spoil",
+            "spoil"
+        ]
+    },
+    {
+        "german": "ausrufen",
+        "english": "to exclaim",
+        "audio": "to_exclaim.ogg",
+        "alternatives": [
+            "exclaim"
+        ]
+    },
+    {
+        "german": "zittern",
+        "english": "to tremble",
+        "audio": "to_tremble.ogg",
+        "alternatives": [
+            "zittern"
+        ]
+    },
+    {
+        "german": "betteln",
+        "english": "to beg",
+        "audio": "to_beg.ogg",
+        "alternatives": [
+            "beg"
+        ]
+    },
+    {
+        "german": "dickköpfig",
+        "english": "stubborn",
+        "audio": "stubborn.ogg"
+    },
+    {
+        "german": "jemanden aufregen",
+        "english": "to upset somebody",
+        "audio": "to_upset_somebody.ogg",
+        "alternatives": [
+            "upset somebody",
+            "to upset",
+            "upset"
+        ]
+    },
+    {
+        "german": "verblassen",
+        "english": "to fade",
+        "audio": "to_fade.ogg",
+        "alternatives": [
+            "fade"
+        ]
+    },
+    {
+        "german": "erscheinen",
+        "english": "to appear",
+        "audio": "to_appear.ogg",
+        "alternatives": [
+            "appear"
+        ]
+    },
+    {
+        "german": "egoistisch",
+        "english": "selfish",
+        "audio": "selfish.ogg"
+    },
+    {
+        "german": "unangemessen",
+        "english": "inadequate",
+        "audio": "inadequate.ogg"
+    },
+    {
+        "german": "Zusammenbruch",
+        "english": "breakdown",
+        "audio": "breakdown.ogg"
+    },
+    {
+        "german": "schmerzhaft",
+        "english": "painful",
+        "audio": "painful.ogg"
+    },
+    {
+        "german": "fortfahren, weitermachen",
+        "english": "to continue",
+        "audio": "to_continue.ogg",
+        "alternatives": [
+            "continue"
+        ]
+    },
+    {
+        "german": "unter der Oberfläche",
+        "english": "beneath the surface",
+        "audio": "beneath_the_surface.ogg"
+    },
+    {
+        "german": "wischen",
+        "english": "to wipe",
+        "audio": "to_wipe.ogg",
+        "alternatives": [
+            "wipe"
+        ]
+    },
+    {
+        "german": "einsam",
+        "english": "lonesome",
+        "audio": "lonesome.ogg"
+    },
+    {
+        "german": "vorschlagen",
+        "english": "to suggest",
+        "audio": "to_suggest.ogg",
+        "alternatives": [
+            "suggest"
+        ]
+    },
+    {
+        "german": "Beobachtung",
+        "english": "observation",
+        "audio": "observation.ogg"
+    },
+    {
+        "german": "reizen, verärgern",
+        "english": "to irritate",
+        "audio": "to_irritate.ogg",
+        "alternatives": [
+            "irritate"
+        ]
+    },
+    {
+        "german": "fähig sein zu",
+        "english": "be capable of",
+        "audio": "be_capable_of.ogg",
+        "alternatives": [
+            "to be capable of"
+        ]
+    },
+    {
+        "german": "vorhergehend",
+        "english": "previous",
+        "audio": "previous.ogg"
+    }
+]
