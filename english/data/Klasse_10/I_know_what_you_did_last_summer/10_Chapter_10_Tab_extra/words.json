@@ -1,0 +1,179 @@
+[
+    {
+        "german": "eine Gruppe, Ansammlung von",
+        "english": "a cluster of",
+        "audio": "a_cluster_of.ogg"
+    },
+    {
+        "german": "Straße ohne Bürgersteig",
+        "english": "unpaved road",
+        "audio": "unpaved_road.ogg"
+    },
+    {
+        "german": "sich zusammenziehen",
+        "english": "contracting",
+        "audio": "contracting.ogg"
+    },
+    {
+        "german": "andeutende Nachrichten",
+        "english": "insinuating notes",
+        "audio": "insinuating_notes.ogg"
+    },
+    {
+        "german": "ungepflegtes Aussehen",
+        "english": "uncared-for look",
+        "audio": "uncared_for_look.ogg"
+    },
+    {
+        "german": "unordentlich",
+        "english": "bedraggled",
+        "audio": "bedraggled.ogg"
+    },
+    {
+        "german": "verblasste Verkleidung",
+        "english": "faded trim",
+        "audio": "faded_trim.ogg"
+    },
+    {
+        "german": "Gesellschaft",
+        "english": "to conk out",
+        "audio": "to_conk_out.ogg",
+        "alternatives": [
+            "conk out"
+        ]
+    },
+    {
+        "german": "Wäscheleine",
+        "english": "clothesline",
+        "audio": "clothesline.ogg"
+    },
+    {
+        "german": "jemanden herein bringen/geleiten",
+        "english": "to motion somebody in",
+        "audio": "to_motion_somebody_in.ogg",
+        "alternatives": [
+            "motion somebody in"
+        ]
+    },
+    {
+        "german": "schwärmen",
+        "english": "to swarm",
+        "audio": "to_swarm.ogg",
+        "alternatives": [
+            "swarm"
+        ]
+    },
+    {
+        "german": "sich ändern",
+        "english": "to alter",
+        "audio": "to_alter.ogg",
+        "alternatives": [
+            "alter"
+        ]
+    },
+    {
+        "german": "herumalbern, zum Narren halten",
+        "english": "to fool with",
+        "audio": "to_fool_with.ogg",
+        "alternatives": [
+            "fool with"
+        ]
+    },
+    {
+        "german": "ein Werkzeugschuppen",
+        "english": "a tool shed",
+        "audio": "a_tool_shed.ogg"
+    },
+    {
+        "german": "Holzkohlegrill",
+        "english": "charcoal grill",
+        "audio": "charcoal_grill.ogg"
+    },
+    {
+        "german": "Hose",
+        "english": "slacks",
+        "audio": "slacks.ogg"
+    },
+    {
+        "german": "in jemanden hineinlaufen",
+        "english": "to smack into somebody",
+        "audio": "to_smack_into_somebody.ogg",
+        "alternatives": [
+            "smack into somebody",
+            "to smack into",
+            "smack into"
+        ]
+    },
+    {
+        "german": "Wäscheklammern",
+        "english": "clothespins",
+        "audio": "clothespins.ogg"
+    },
+    {
+        "german": "Bettlaken",
+        "english": "sheet",
+        "audio": "sheet.ogg"
+    },
+    {
+        "german": "auseinanderfallen",
+        "english": "to fall apart",
+        "audio": "to_fall_apart.ogg",
+        "alternatives": [
+            "fall apart"
+        ]
+    },
+    {
+        "german": "jemanden anhimmeln",
+        "english": "to dote on somebody",
+        "audio": "to_dote_on_somebody.ogg",
+        "alternatives": [
+            "dote on somebody"
+        ]
+    },
+    {
+        "german": "doppelter Zeitsprung",
+        "english": "double-time stride",
+        "audio": "double_time_stride.ogg"
+    },
+    {
+        "german": "verschrotten, zerstören",
+        "english": "to wreck",
+        "audio": "to_wreck.ogg",
+        "alternatives": [
+            "wreck"
+        ]
+    },
+    {
+        "german": "verschlungen",
+        "english": "entwined",
+        "audio": "entwined.ogg"
+    },
+    {
+        "german": "murmeln",
+        "english": "to mutter",
+        "audio": "to_mutter.ogg",
+        "alternatives": [
+            "mutter"
+        ]
+    },
+    {
+        "german": "die Spitze",
+        "english": "the peak",
+        "audio": "the_peak.ogg"
+    },
+    {
+        "german": "Du hast deinen Standpunkt klar gemacht",
+        "english": "You've made your point",
+        "audio": "youve_made_your_point.ogg"
+    },
+    {
+        "german": "Geplauder",
+        "english": "chatter",
+        "audio": "chatter.ogg"
+    },
+    {
+        "german": "müde",
+        "english": "wearily",
+        "audio": "wearily.ogg"
+    }
+]
