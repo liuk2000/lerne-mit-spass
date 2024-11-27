@@ -1,0 +1,193 @@
+[
+    {
+        "german": "Bürgersteig",
+        "english": "sidewalk",
+        "audio": "sidewalk.ogg"
+    },
+    {
+        "german": "wünschen",
+        "english": "to desire",
+        "audio": "to_desire.ogg",
+        "alternatives": [
+            "desire"
+        ]
+    },
+    {
+        "german": "besorgt sein über",
+        "english": "to be concerned about",
+        "audio": "to_be_concerned_about.ogg",
+        "alternatives": [
+            "be concerned about"
+        ]
+    },
+    {
+        "german": "gelöscht",
+        "english": "erased",
+        "audio": "erased.ogg"
+    },
+    {
+        "german": "erpressen",
+        "english": "to blackmail",
+        "audio": "to_blackmail.ogg",
+        "alternatives": [
+            "blackmail"
+        ]
+    },
+    {
+        "german": "staddfinden",
+        "english": "to take place",
+        "audio": "to_take_place.ogg",
+        "alternatives": [
+            "take place"
+        ]
+    },
+    {
+        "german": "vermuten",
+        "english": "to suspect",
+        "audio": "to_suspect.ogg",
+        "alternatives": [
+            "suspect"
+        ]
+    },
+    {
+        "german": "Erpresser",
+        "english": "blackmailer",
+        "audio": "blackmailer.ogg"
+    },
+    {
+        "german": "erschrocken",
+        "english": "startled",
+        "audio": "startled.ogg"
+    },
+    {
+        "german": "erwähnen",
+        "english": "to mention",
+        "audio": "to_mention.ogg",
+        "alternatives": [
+            "mention"
+        ]
+    },
+    {
+        "german": "unter den Umständen",
+        "english": "under the circumstances",
+        "audio": "under_the_circumstances.ogg"
+    },
+    {
+        "german": "mit Mühe",
+        "english": "with effort",
+        "audio": "with_effort.ogg"
+    },
+    {
+        "german": "Angst",
+        "english": "fear",
+        "audio": "fear.ogg"
+    },
+    {
+        "german": "gut aussehend",
+        "english": "handsome",
+        "audio": "handsome.ogg"
+    },
+    {
+        "german": "Selbstvertrauen",
+        "english": "self-confidence",
+        "audio": "self_confidence.ogg"
+    },
+    {
+        "german": "entschlossen",
+        "english": "determined",
+        "audio": "determined.ogg"
+    },
+    {
+        "german": "bleiben bei, dabei bleiben",
+        "english": "to stick to",
+        "audio": "to_stick_to.ogg",
+        "alternatives": [
+            "stick to"
+        ]
+    },
+    {
+        "german": "Beobachtung",
+        "english": "observation",
+        "audio": "observation.ogg"
+    },
+    {
+        "german": "ein Hinweis",
+        "english": "a hint",
+        "audio": "a_hint.ogg"
+    },
+    {
+        "german": "aussortieren",
+        "english": "to sort out",
+        "audio": "to_sort_out.ogg",
+        "alternatives": [
+            "sort out"
+        ]
+    },
+    {
+        "german": "rühren",
+        "english": "to stir",
+        "audio": "to_stir.ogg",
+        "alternatives": [
+            "stir"
+        ]
+    },
+    {
+        "german": "Zweck",
+        "english": "purpose",
+        "audio": "purpose.ogg"
+    },
+    {
+        "german": "Unterhaltung",
+        "english": "conversation",
+        "audio": "conversation.ogg"
+    },
+    {
+        "german": "unbeholfen",
+        "english": "awkwardly",
+        "audio": "awkwardly.ogg"
+    },
+    {
+        "german": "einen Bissen nehmen",
+        "english": "to take a bite",
+        "audio": "to_take_a_bite.ogg",
+        "alternatives": [
+            "take a bite"
+        ]
+    },
+    {
+        "german": "schlücken",
+        "english": "to swallow",
+        "audio": "to_swallow.ogg",
+        "alternatives": [
+            "swallow"
+        ]
+    },
+    {
+        "german": "Versicherung",
+        "english": "assurance",
+        "audio": "assurance.ogg"
+    },
+    {
+        "german": "annehmen",
+        "english": "to assume",
+        "audio": "to_assume.ogg",
+        "alternatives": [
+            "assume"
+        ]
+    },
+    {
+        "german": "eifrig",
+        "english": "eagerly",
+        "audio": "eagerly.ogg"
+    },
+    {
+        "german": "Es ist meine Angelegenheit",
+        "english": "It's my business",
+        "audio": "its_my_business.ogg"
+    },
+    {
+        "german": "Vertrauen",
+        "english": "confidence",
+        "audio": "confidence.ogg"
+    }
+]
