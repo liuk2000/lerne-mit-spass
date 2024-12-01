@@ -2,7 +2,14 @@
     {
         "german": "Bürgersteig",
         "english": "sidewalk",
-        "audio": "sidewalk.ogg"
+        "audio": "sidewalk.ogg",
+        "sentences": [
+            [
+                "As he walked down the",
+                "***",
+                "(Bürgersteig) he had a crazy desire to turn to everyone and shout out ..."
+            ]
+        ]
     },
     {
         "german": "wünschen",
@@ -10,6 +17,13 @@
         "audio": "to_desire.ogg",
         "alternatives": [
             "desire"
+        ],
+        "sentences": [
+            [
+                "As he walked down the sidewalk he had a crazy",
+                "***desire***",
+                "(Wunsch) to turn to everyone and shout out ..."
+            ]
         ]
     },
     {
@@ -18,12 +32,26 @@
         "audio": "to_be_concerned_about.ogg",
         "alternatives": [
             "be concerned about"
+        ],
+        "sentences": [
+            [
+                "It did not mean there were not things",
+                "***",
+                "(wöruber man sich sorgen machen müsste)"
+            ]
         ]
     },
     {
         "german": "gelöscht",
         "english": "erased",
-        "audio": "erased.ogg"
+        "audio": "erased.ogg",
+        "sentences": [
+            [
+                "Though Barry had now",
+                "***erased***",
+                "(gelöscht) for them the fear that this person was out for physical revenge"
+            ]
+        ]
     },
     {
         "german": "erpressen",
@@ -31,6 +59,13 @@
         "audio": "to_blackmail.ogg",
         "alternatives": [
             "blackmail"
+        ],
+        "sentences": [
+            [
+                "Perhaps it would be",
+                "***blackmail***",
+                "(Erpressung), like \"Pay me this much money, or I'll go to the police ...\""
+            ]
         ]
     },
     {
@@ -39,6 +74,13 @@
         "audio": "to_take_place.ogg",
         "alternatives": [
             "take place"
+        ],
+        "sentences": [
+            [
+                "Neither could any of them dictate what was",
+                "***",
+                "(stattfinden) from now on"
+            ]
         ]
     },
     {
@@ -47,17 +89,38 @@
         "audio": "to_suspect.ogg",
         "alternatives": [
             "suspect"
+        ],
+        "sentences": [
+            [
+                "Elsa - if, as Julie",
+                "***suspected***",
+                "(vermutet), it was Elsa - would do that"
+            ]
         ]
     },
     {
         "german": "Erpresser",
         "english": "blackmailer",
-        "audio": "blackmailer.ogg"
+        "audio": "blackmailer.ogg",
+        "sentences": [
+            [
+                "It was hard for Ray to imagine Elsa in the role of",
+                "***blackmailer***",
+                "(Erpresser)"
+            ]
+        ]
     },
     {
         "german": "erschrocken",
         "english": "startled",
-        "audio": "startled.ogg"
+        "audio": "startled.ogg",
+        "sentences": [
+            [
+                "Ray was",
+                "***",
+                "(erschrocken) from the thought by a voice from behind him"
+            ]
+        ]
     },
     {
         "german": "erwähnen",
@@ -65,37 +128,86 @@
         "audio": "to_mention.ogg",
         "alternatives": [
             "mention"
+        ],
+        "sentences": [
+            [
+                "That sounds familiar. Maybe Julie's",
+                "***mentioned***",
+                "(erwähnt) her"
+            ]
         ]
     },
     {
         "german": "unter den Umständen",
         "english": "under the circumstances",
-        "audio": "under_the_circumstances.ogg"
+        "audio": "under_the_circumstances.ogg",
+        "sentences": [
+            [
+                "He's doing okay, I guess, as okay as possible",
+                "***",
+                "(unter den Umständen)"
+            ]
+        ]
     },
     {
         "german": "mit Mühe",
         "english": "with effort",
-        "audio": "with_effort.ogg"
+        "audio": "with_effort.ogg",
+        "sentences": [
+            [
+                "He made the statement",
+                "***",
+                "(mit Mühe)"
+            ]
+        ]
     },
     {
         "german": "Angst",
         "english": "fear",
-        "audio": "fear.ogg"
+        "audio": "fear.ogg",
+        "sentences": [
+            [
+                "The knowledge had been there in Barry's eyes. and the bitterness in his voice had been only a thin mask over the sound of",
+                "***",
+                "(Angst)"
+            ]
+        ]
     },
     {
         "german": "gut aussehend",
         "english": "handsome",
-        "audio": "handsome.ogg"
+        "audio": "handsome.ogg",
+        "sentences": [
+            [
+                "Bud was not exactly",
+                "***",
+                "(gut aussehend), but he had an air of quiet self-confidence that a girl like Julie might find attractive"
+            ]
+        ]
     },
     {
         "german": "Selbstvertrauen",
         "english": "self-confidence",
-        "audio": "self_confidence.ogg"
+        "audio": "self_confidence.ogg",
+        "sentences": [
+            [
+                "Bud was not exactly handsome, but he had an air of quiet",
+                "***",
+                "(Selbstvertrauen) that a girl like Julie might find attractive"
+            ]
+        ]
     },
     {
         "german": "entschlossen",
         "english": "determined",
-        "audio": "determined.ogg"
+        "audio": "determined.ogg",
+        "sentences": [
+            [
+                "He had the strong jaw and direct, ",
+                "***",
+                "(entschlossen) gaze of a young man who was used to setting a course and sticking to it"
+            ]
+        ]
     },
     {
         "german": "bleiben bei, dabei bleiben",
@@ -103,17 +215,38 @@
         "audio": "to_stick_to.ogg",
         "alternatives": [
             "stick to"
+        ],
+        "sentences": [
+            [
+                "He had the strong jaw and direct, determined gaze of a young man who was used to setting a course and ",
+                "***sticking to***",
+                "(dabei bleiben) it"
+            ]
         ]
     },
     {
         "german": "Beobachtung",
         "english": "observation",
-        "audio": "observation.ogg"
+        "audio": "observation.ogg",
+        "sentences": [
+            [
+                "The",
+                "***",
+                "(Beobachtung) was more than a little disturbing"
+            ]
+        ]
     },
     {
         "german": "ein Hinweis",
         "english": "a hint",
-        "audio": "a_hint.ogg"
+        "audio": "a_hint.ogg",
+        "sentences": [
+            [
+                "There was",
+                "***",
+                "(ein Hinweis) of amusement in Bud's voice"
+            ]
+        ]
     },
     {
         "german": "aussortieren",
@@ -121,6 +254,13 @@
         "audio": "to_sort_out.ogg",
         "alternatives": [
             "sort out"
+        ],
+        "sentences": [
+            [
+                "I felt like I had to get away for awhile and do some thinking and kind of",
+                "***sort out***",
+                "(aussortieren) the way I felt about things"
+            ]
         ]
     },
     {
@@ -129,22 +269,55 @@
         "audio": "to_stir.ogg",
         "alternatives": [
             "stir"
+        ],
+        "sentences": [
+            [
+                "Ray dumped sugar into his coffee and",
+                "***stirred***",
+                "(gerührt) it"
+            ]
         ]
     },
     {
         "german": "Zweck",
         "english": "purpose",
-        "audio": "purpose.ogg"
+        "audio": "purpose.ogg",
+        "sentences": [
+            [
+                "His whole",
+                "***",
+                "(Zweck) in having coffee with Bud Wilson was to find out more about the guy"
+            ]
+        ]
     },
     {
         "german": "Unterhaltung",
         "english": "conversation",
-        "audio": "conversation.ogg"
+        "audio": "conversation.ogg",
+        "sentences": [
+            [
+                "Returning to the table, he tried to turn the",
+                "***",
+                "(Unterhaltung) in another direction"
+            ],
+            [
+                "The",
+                "***",
+                "(Unterhaltung) with Bud had shaken him more than he would have anticipated"
+            ]
+        ]
     },
     {
         "german": "unbeholfen",
         "english": "awkwardly",
-        "audio": "awkwardly.ogg"
+        "audio": "awkwardly.ogg",
+        "sentences": [
+            [
+                "\"I'm sorry,\" Ray said",
+                "***",
+                "(unbeholfen)"
+            ]
+        ]
     },
     {
         "german": "einen Bissen nehmen",
@@ -152,6 +325,13 @@
         "audio": "to_take_a_bite.ogg",
         "alternatives": [
             "take a bite"
+        ],
+        "sentences": [
+            [
+                "Bud picked up his croissant and",
+                "***took a bite***",
+                "(nahm einen Bissen) out of it"
+            ]
         ]
     },
     {
@@ -160,12 +340,26 @@
         "audio": "to_swallow.ogg",
         "alternatives": [
             "swallow"
+        ],
+        "sentences": [
+            [
+                "He took a",
+                "***swallow***",
+                "(Schluck) of coffee and wondered why he had ordered it"
+            ]
         ]
     },
     {
         "german": "Versicherung",
         "english": "assurance",
-        "audio": "assurance.ogg"
+        "audio": "assurance.ogg",
+        "sentences": [
+            [
+                "\"I will.\" Bud made the statement with simple",
+                "***",
+                "(Versicherung)"
+            ]
+        ]
     },
     {
         "german": "annehmen",
@@ -173,21 +367,51 @@
         "audio": "to_assume.ogg",
         "alternatives": [
             "assume"
+        ],
+        "sentences": [
+            [
+                "He",
+                "***assumed***",
+                "(angenohmen) that she would have been eagerly waiting for him to call"
+            ]
         ]
     },
     {
         "german": "eifrig",
         "english": "eagerly",
-        "audio": "eagerly.ogg"
+        "audio": "eagerly.ogg",
+        "sentences": [
+            [
+                "He assumed that she would have been ",
+                "***",
+                "(eifrig) waiting for him to call"
+            ]
+        ]
     },
     {
         "german": "Es ist meine Angelegenheit",
         "english": "It's my business",
-        "audio": "its_my_business.ogg"
+        "audio": "its_my_business.ogg",
+        "sentences": [
+            [
+                "Whom she talked to after school",
+                "***was her own business***",
+                "(war ihre Anegelegenheit), just as",
+                "****it was her own business***",
+                "(war ihre Angelegenheit) with whom she went out in the evenings"
+            ]
+        ]
     },
     {
         "german": "Vertrauen",
         "english": "confidence",
-        "audio": "confidence.ogg"
+        "audio": "confidence.ogg",
+        "sentences": [
+            [
+                "He had the",
+                "***",
+                "(Vertrauen, Selbstvertrauen) of a man who knew what he wanted"
+            ]
+        ]
     }
 ]
