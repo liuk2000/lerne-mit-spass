@@ -1,0 +1,605 @@
+[
+    {
+        "german": "froh",
+        "english": "glad",
+        "audio": "glad.ogg",
+        "sentences": [
+            [
+                "***",
+                "(Froh) you answered"
+            ],
+            [
+                "But if he was",
+                "***",
+                "(froh) to see you ..."
+            ]
+        ]
+    },
+    {
+        "german": "beanspruchen",
+        "english": "to claim",
+        "audio": "to_claim.ogg",
+        "alternatives": [
+            "claim"
+        ],
+        "sentences": [
+            [
+                "I didn't",
+                "***claim***",
+                "(behauptet, beansprucht) to be ..."
+            ]
+        ]
+    },
+    {
+        "german": "ein Verwandter",
+        "english": "a relative",
+        "audio": "a_relative.ogg",
+        "sentences": [
+            [
+                "But, how could you? You're not",
+                "***",
+                "(ein Verwandter)"
+            ]
+        ]
+    },
+    {
+        "german": "schleichen",
+        "english": "to sneak",
+        "audio": "to_sneak.ogg",
+        "alternatives": [
+            "sneak"
+        ]
+    },
+    {
+        "german": "heraufschleichen",
+        "english": "to sneak up",
+        "audio": "to_sneak_up.ogg",
+        "alternatives": [
+            "sneak up"
+        ],
+        "sentences": [
+            [
+                "I",
+                "***sneaked up***",
+                "(heraufgeschliechen) the back stairs between visiting hours"
+            ]
+        ]
+    },
+    {
+        "german": "erlauben",
+        "english": "to permit",
+        "audio": "to_permit.ogg",
+        "alternatives": [
+            "permit"
+        ],
+        "sentences": [
+            [
+                "Helen",
+                "***permitted***",
+                "(erlaubte) herself a smile of satisfaction"
+            ],
+            [
+                "He's feeling pretty down right now and isn't exactly in the mood for visitors even if the doctors would",
+                "***permit***",
+                "(erlauben) it"
+            ]
+        ]
+    },
+    {
+        "german": "weise",
+        "english": "wise",
+        "audio": "wise.ogg",
+        "sentences": [
+            [
+                "You'd be",
+                "***wiser***",
+                "(weiser) to wait until he's feeling better"
+            ]
+        ]
+    },
+    {
+        "german": "mit einem Seufzer",
+        "english": "with a sigh",
+        "audio": "with_a_sigh.ogg",
+        "sentences": [
+            [
+                "She hung up the phone",
+                "***",
+                "(mit einem Seufzer) of mingled relief and frustration"
+            ]
+        ]
+    },
+    {
+        "german": "Erleichterung",
+        "english": "relief",
+        "audio": "relief.ogg",
+        "sentences": [
+            [
+                "She hung up the phone with a sigh of mingled",
+                "***",
+                "(Erleichterung) and frustration"
+            ]
+        ]
+    },
+    {
+        "german": "lächerlich",
+        "english": "ridiculous",
+        "audio": "ridiculous.ogg",
+        "sentences": [
+            [
+                "The idea that Barry might not want to see her was, of course, too",
+                "***",
+                "(lächerlich) even to argue about"
+            ]
+        ]
+    },
+    {
+        "german": "die Frage klären",
+        "english": "to settle the question",
+        "audio": "to_settle_the_question.ogg",
+        "alternatives": [
+            "settle the question"
+        ],
+        "sentences": [
+            [
+                "As for the motive of robbery for the attack on Barry, well that",
+                "***settled the question***",
+                "(klärte die Frage) of breaking the pact"
+            ]
+        ]
+    },
+    {
+        "german": "Vorschlag",
+        "english": "suggestion",
+        "audio": "suggestion.ogg",
+        "sentences": [
+            [
+                "She knew that as long as she lived she would never forgive Ray for making that",
+                "***",
+                "(Vorschlag)"
+            ],
+            [
+                "The",
+                "***",
+                "(Vorschlag) was so preposterous that for a moment She knew that as long as she lived she would never forgive Ray for making thaeShe knew that as long as she lived she would never forgive Ray for making thatHelen had been too stunned to answer"
+            ]
+        ]
+    },
+    {
+        "german": "vorschlagen",
+        "english": "to suggest",
+        "audio": "to_suggest.ogg",
+        "alternatives": [
+            "suggest"
+        ]
+    },
+    {
+        "german": "Ehre",
+        "english": "honor",
+        "audio": "honor.ogg",
+        "sentences": [
+            [
+                "The fact that he would even consider going to the police without clearing the move with Barry first showed how little",
+                "***",
+                "(Ehre, Respekt) he had for an agreement"
+            ]
+        ]
+    },
+    {
+        "german": "Übereinstimmung, Zustimmung",
+        "english": "agreement",
+        "audio": "agreement.ogg",
+        "sentences": [
+            [
+                "The fact that he would even consider going to the police without clearing the move with Barry first showed how little honor he had for an",
+                "***",
+                "(Übereinstimmung)"
+            ]
+        ]
+    },
+    {
+        "german": "werfen",
+        "english": "to toss",
+        "audio": "to_toss.ogg",
+        "alternatives": [
+            "toss"
+        ],
+        "sentences": [
+            [
+                "She had",
+                "***tossed***",
+                "(geworfen) her towel onto the chair beneath the wall phone"
+            ]
+        ]
+    },
+    {
+        "german": "Handtuch",
+        "english": "towel",
+        "audio": "towel.ogg",
+        "sentences": [
+            [
+                "She had tossed her",
+                "***",
+                "(Handtuch) onto the chair beneath the wall phone"
+            ]
+        ]
+    },
+    {
+        "german": "zögern",
+        "english": "to hesitate",
+        "audio": "to_hesitate.ogg",
+        "alternatives": [
+            "hesitate"
+        ],
+        "sentences": [
+            [
+                "She stepped through it, ",
+                "***hesitated***",
+                "(zögerte) a moment, and then pulled it closed without locking it"
+            ]
+        ]
+    },
+    {
+        "german": "Aufmerksamkeit schenken",
+        "english": "to give attention",
+        "audio": "to_give_attention.ogg",
+        "alternatives": [
+            "give attention"
+        ],
+        "sentences": [
+            [
+                "Collie was",
+                "***giving attention***",
+                "(schenkte Aufmerksamkeit) to her"
+            ]
+        ]
+    },
+    {
+        "german": "unschuldig",
+        "english": "innocent",
+        "audio": "innocent.ogg",
+        "sentences": [
+            [
+                "She gave Collie an",
+                "***",
+                "(unschuldige) smile"
+            ]
+        ]
+    },
+    {
+        "german": "eintaichen",
+        "english": "to dive in (dove in)",
+        "audio": "to_dive_in_(dove_in).ogg",
+        "alternatives": [
+            "to dive in",
+            "dive in"
+        ],
+        "sentences": [
+            [
+                "Turning her back upon the girl, she",
+                "***dove in***",
+                "(eintauchte) into the water"
+            ]
+        ]
+    },
+    {
+        "german": "mächtig",
+        "english": "powerful",
+        "audio": "powerful.ogg",
+        "sentences": [
+            [
+                "Helen watched him swim, using long, ",
+                "***",
+                "(mächtige) strokes as though to work off a fit of anger"
+            ]
+        ]
+    },
+    {
+        "german": "nicken",
+        "english": "to nod",
+        "audio": "to_nod.ogg",
+        "alternatives": [
+            "nod"
+        ],
+        "sentences": [
+            [
+                "The girl",
+                "***nodded***",
+                "(nickte) toward Collie, who already had nearly completed the length of the pool"
+            ]
+        ]
+    },
+    {
+        "german": "vervollständigen, fertigstellen",
+        "english": "to complete",
+        "audio": "to_complete.ogg",
+        "sentences": [
+            [
+                "The girl nodded toward Collie, who already had nearly",
+                "***completed***",
+                "(zu Ende gemacht hat) the length of the pool"
+            ]
+        ]
+    },
+    {
+        "german": "Wissen",
+        "english": "knowledge",
+        "audio": "knowledge.ogg",
+        "sentences": [
+            [
+                "This",
+                "***",
+                "(Wissen) did not particularly upset her, because she had never been a person to have girls as friends anyway"
+            ]
+        ]
+    },
+    {
+        "german": "besonders",
+        "english": "particularly",
+        "audio": "particularly.ogg",
+        "sentences": [
+            [
+                "This knowledge did not",
+                "***",
+                "(besonders) upset her, because she had never been a person to have girls as friends anyway"
+            ]
+        ]
+    },
+    {
+        "german": "basieren auf",
+        "english": "to base on, to base upon",
+        "audio": "to_base_on_to_base_upon.ogg",
+        "alternatives": [
+            "base on",
+            "to base on",
+            "to base upon",
+            "base upon"
+        ],
+        "sentences": [
+            [
+                "Their relationship had not been",
+                "***based upon***",
+                "(basierten auf) their own personalities, but rather upon the fact that the boys they dated hung out together"
+            ]
+        ]
+    },
+    {
+        "german": "Zufriedenheit",
+        "english": "satisfaction",
+        "audio": "satisfaction.ogg",
+        "sentences": [
+            [
+                "Helen permitted herself a smile of",
+                "***",
+                "(Zufriedenheit)"
+            ],
+            [
+                "The glitter of envy in her sister's eyes had filled Helen with a sense of half-guilty",
+                "***",
+                "(Zufriedenheit)"
+            ]
+        ]
+    },
+    {
+        "german": "stumpf, einfältig",
+        "english": "dull",
+        "audio": "dull.ogg",
+        "sentences": [
+            [
+                "No matter what they said, they took vicarious pleasure in the fact that Channel Five's Future Star lived here among them, spilling some of the glamour of her own life over into their",
+                "***",
+                "(einfältig) ones"
+            ]
+        ]
+    },
+    {
+        "german": "beeindrucken",
+        "english": "to impress",
+        "audio": "to_impress.ogg",
+        "sentences": [
+            [
+                "Even Elsa had been",
+                "***impressed***",
+                "(beeindruckt) and had shown it"
+            ]
+        ]
+    },
+    {
+        "german": "Miete",
+        "english": "rent",
+        "audio": "rent.ogg",
+        "sentences": [
+            [
+                "I could chip in for part of the",
+                "***",
+                "(Miete), and we could take turns doing the cooking and stuff"
+            ],
+            [
+                "I'm going to take an apartment at the Four Seasons, and the",
+                "***rents***",
+                "(Miete) there are astronomical"
+            ]
+        ]
+    },
+    {
+        "german": "erschrocken sein",
+        "english": "to be stunned",
+        "audio": "to_be_stunned.ogg",
+        "alternatives": [
+            "be stunned"
+        ],
+        "sentences": [
+            [
+                "The suggestion was so preposterous that for a moment Helen had been too",
+                "***stunned***",
+                "(erschrocken) to answer"
+            ],
+            [
+                "For a moment she remained there,",
+                "***stunned***",
+                "(erschrocken), gripping the side of the pool, as bewildered as if a pet puppy had suddenly planted its teeth in her wrist"
+            ]
+        ]
+    },
+    {
+        "german": "rundlich",
+        "english": "plump",
+        "audio": "plump.ogg",
+        "sentences": [
+            [
+                "\"Don't you worry, Elsa,\" their mother had said, coming into the room to put an arm around her older daughter's",
+                "***",
+                "(rundliche) shoulders"
+            ]
+        ]
+    },
+    {
+        "german": "ein Funken Neid",
+        "english": "a glitter of envy",
+        "audio": "a_glitter_of_envy.ogg",
+        "sentences": [
+            [
+                "***The glitter of envy***",
+                "(Der Funken Neid) in her sister's eyes had filled Helen with a sense of half-guilty satisfaction"
+            ]
+        ]
+    },
+    {
+        "german": "schuldig",
+        "english": "guilty",
+        "audio": "guilty.ogg",
+        "sentences": [
+            [
+                "The glitter of envy in her sister's eyes had filled Helen with a sense of",
+                "***half-guilty***",
+                "(halb-schuldige) satisfaction"
+            ]
+        ]
+    },
+    {
+        "german": "siche leisten",
+        "english": "to afford",
+        "audio": "to_afford.ogg",
+        "alternatives": [
+            "afford"
+        ],
+        "sentences": [
+            [
+                "You couldn't",
+                "***afford***",
+                "(sich leisten) it anyway, Elsa"
+            ]
+        ]
+    },
+    {
+        "german": "ausradieren, auslöschen",
+        "english": "to erase",
+        "audio": "to_erase.ogg",
+        "alternatives": [
+            "erase"
+        ],
+        "sentences": [
+            [
+                "The incredulous expression on his face the first time she had shown him into the blue and lavender apartment had been enough",
+                "***",
+                "(auslöschen) any shadows cast by Elsa's cruel comments"
+            ]
+        ]
+    },
+    {
+        "german": "die Bemerkung",
+        "english": "the remark",
+        "audio": "the_remark.ogg",
+        "sentences": [
+            [
+                "Though",
+                "***",
+                "(die Bemerkung) had been made half-teasingly, there had been a look of renewed interest in his eyes"
+            ]
+        ]
+    },
+    {
+        "german": "ohne Zweifel",
+        "english": "without doubt",
+        "audio": "without_doubt.ogg",
+        "sentences": [
+            [
+                "You are",
+                "***",
+                "(ohne Zweifel) the laziest swimmer I've ever seen"
+            ]
+        ]
+    },
+    {
+        "german": "bewundern",
+        "english": "to admire",
+        "audio": "to_admire.ogg",
+        "alternatives": [
+            "admire"
+        ],
+        "sentences": [
+            [
+                "But it didn't hurt anything at all to have somebody else",
+                "***admire***",
+                "(bewundern) her"
+            ]
+        ]
+    },
+    {
+        "german": "Gelächter",
+        "english": "laughter",
+        "audio": "laughter.ogg",
+        "sentences": [
+            [
+                "Then she heard the",
+                "***",
+                "(Gelächter) and turned to see that the schoolteacher in the deck chair had been joined by her roommate"
+            ]
+        ]
+    },
+    {
+        "german": "bleiben",
+        "english": "to remain",
+        "audio": "to_remain.ogg",
+        "alternatives": [
+            "remain"
+        ],
+        "sentences": [
+            [
+                "For a moment she",
+                "***remained***",
+                "(blieb) there, stunned, gripping the side of the pool"
+            ]
+        ]
+    },
+    {
+        "german": "ergreifen",
+        "english": "to grip",
+        "audio": "to_grip.ogg",
+        "alternatives": [
+            "grip"
+        ],
+        "sentences": [
+            [
+                "For a moment she remained there, stunned,",
+                "***gripping***",
+                "(ergreifen) the side of the pool"
+            ]
+        ]
+    },
+    {
+        "german": "die Zähne zusammenbeißen",
+        "english": "to clench the teeth",
+        "audio": "to_clench_the_teeth.ogg",
+        "alternatives": [
+            "clench the teeth"
+        ],
+        "sentences": [
+            [
+                "he words came back to her, and she",
+                "***clenched the teeth***",
+                "(Zähne zusammengebießen) in fury"
+            ]
+        ]
+    }
+]
