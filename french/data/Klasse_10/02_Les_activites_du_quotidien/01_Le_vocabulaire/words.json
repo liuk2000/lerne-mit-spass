@@ -1,0 +1,197 @@
+[
+    {
+        "german": "sich schminken",
+        "french": "se maquiller",
+        "audio": "se_maquiller.ogg"
+    },
+    {
+        "german": "Sport treiben",
+        "french": "faire du sport",
+        "audio": "faire_du_sport.ogg"
+    },
+    {
+        "german": "sich duschen",
+        "french": "se doucher",
+        "audio": "se_doucher.ogg"
+    },
+    {
+        "german": "arbeiten",
+        "french": "travailler",
+        "audio": "travailler.ogg"
+    },
+    {
+        "german": "Musik hören",
+        "french": "écouter de la musique",
+        "audio": "ecouter_de_la_musique.ogg"
+    },
+    {
+        "german": "einkaufen",
+        "french": "faire les courses",
+        "audio": "faire_les_courses.ogg"
+    },
+    {
+        "german": "aufwachen",
+        "french": "se réveiller",
+        "audio": "se_reveiller.ogg"
+    },
+    {
+        "german": "lesen",
+        "french": "lire",
+        "audio": "lire.ogg"
+    },
+    {
+        "german": "sich hinlegen, ins Bett gehen",
+        "french": "se coucher",
+        "audio": "se_coucher.ogg"
+    },
+    {
+        "german": "sich Zähnre putzen",
+        "french": "se brosser les dents",
+        "audio": "se_brosser_les_dents.ogg"
+    },
+    {
+        "german": "sich waschen",
+        "french": "se laver",
+        "audio": "se_laver.ogg"
+    },
+    {
+        "german": "kochen",
+        "french": "cuisiner",
+        "audio": "cuisiner.ogg"
+    },
+    {
+        "german": "sich anziehen",
+        "french": "s'habiller",
+        "audio": "shabiller.ogg"
+    },
+    {
+        "german": "mittagessen",
+        "french": "déjeuner",
+        "audio": "dejeuner.ogg"
+    },
+    {
+        "german": "einen Kaffee nehmen",
+        "french": "prendre un café",
+        "audio": "prendre_un_cafe.ogg"
+    },
+    {
+        "german": "den Bus nehmen",
+        "french": "prendre le bus",
+        "audio": "prendre_le_bus.ogg"
+    },
+    {
+        "german": "abendessen",
+        "french": "dîner",
+        "audio": "dîner.ogg"
+    },
+    {
+        "german": "essen",
+        "french": "manger",
+        "audio": "manger.ogg"
+    },
+    {
+        "german": "schlafen",
+        "french": "dormir",
+        "audio": "dormir.ogg"
+    },
+    {
+        "german": "Wasser trinken",
+        "french": "boire de l'eau",
+        "audio": "boire_de_leau.ogg"
+    },
+    {
+        "german": "zur Toilette gehen",
+        "french": "aller aux toilettes",
+        "audio": "aller_aux_toilettes.ogg"
+    },
+    {
+        "german": "zur Schule gehen",
+        "french": "aller au collège",
+        "audio": "aller_au_college.ogg"
+    },
+    {
+        "german": "Klavier spielen",
+        "french": "jouer au piano",
+        "audio": "jouer_au_piano.ogg"
+    },
+    {
+        "german": "Fußball spielen",
+        "french": "jouer au foot",
+        "audio": "jouer_au_foot.ogg"
+    },
+    {
+        "german": "Shoppen gehen",
+        "french": "faire du shopping",
+        "audio": "faire_du_shopping.ogg"
+    },
+    {
+        "german": "Fernsehgucken",
+        "french": "regarder la télé",
+        "audio": "regarder_la_tele.ogg"
+    },
+    {
+        "german": "reisen",
+        "french": "voyager",
+        "audio": "voyager.ogg"
+    },
+    {
+        "german": "schwimmen",
+        "french": "nager",
+        "audio": "nager.ogg"
+    },
+    {
+        "german": "Schlittschuh laufen",
+        "french": "faire du patinage sur glace",
+        "audio": "faire_du_patinage_sur_glace.ogg"
+    },
+    {
+        "german": "essen gehen",
+        "french": "aller manger",
+        "audio": "aller_manger.ogg"
+    },
+    {
+        "german": "ins Kino gehen",
+        "french": "aller au cinéma",
+        "audio": "aller_au_cinema.ogg"
+    },
+    {
+        "german": "singen",
+        "french": "chanter",
+        "audio": "chanter.ogg"
+    },
+    {
+        "german": "tanzen",
+        "french": "dancer",
+        "audio": "dancer.ogg"
+    },
+    {
+        "german": "den Abwasch machen, abwaschen",
+        "french": "faire la vaisselle",
+        "audio": "faire_la_vaisselle.ogg"
+    },
+    {
+        "german": "sauber machen",
+        "french": "faire du nettoyage",
+        "audio": "faire_du_nettoyage.ogg"
+    },
+    {
+        "german": "staubsaugen",
+        "french": "passer l'aspirateur",
+        "audio": "passer_laspirateur.ogg"
+    },
+    {
+        "german": "waschen",
+        "french": "laver",
+        "audio": "laver.ogg"
+    },
+    {
+        "german": "eine Hose",
+        "french": "un pantalon",
+        "audio": "un_pantalon.ogg"
+    },
+    {
+        "german": "die Tiere füttern",
+        "french": "nourrir les animaux",
+        "audio": "nourrir_les_animaux.ogg"
+    }
+]
