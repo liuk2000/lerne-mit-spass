@@ -1,0 +1,696 @@
+[
+    {
+        "german": "eingießen, hereinströmen",
+        "english": "to pour",
+        "audio": "to_pour.ogg",
+        "alternatives": [
+            "pour"
+        ],
+        "sentences": [
+            [
+                "Mrs. James put the last of the dinner dishes into the dishwasher and",
+                "***poured***",
+                "(eingoß) herself a final cup of coffee to carry with her into the living room"
+            ],
+            [
+                "The windows stood open to the breeze, and spring",
+                "***poured***",
+                "(hereinströmte) into the house with the faint sweetness of the first hyacinths and the thin chirp of an early cricket"
+            ]
+        ]
+    },
+    {
+        "german": "schwach",
+        "english": "faint",
+        "audio": "faint.ogg",
+        "sentences": [
+            [
+                "The windows stood open to the breeze, and spring poured into the house with the",
+                "***",
+                "(schwache) sweetness of the first hyacinths and the thin chirp of an early cricket"
+            ]
+        ]
+    },
+    {
+        "german": "vermeiden",
+        "english": "to prevent",
+        "audio": "to_prevent.ogg",
+        "alternatives": [
+            "prevent"
+        ],
+        "sentences": [
+            [
+                "Something bad is going to happen, and there is nothing I can do",
+                "***",
+                "(vermeiden) it"
+            ]
+        ]
+    },
+    {
+        "german": "knien",
+        "english": "to kneel",
+        "audio": "to_kneel.ogg",
+        "alternatives": [
+            "kneel"
+        ],
+        "sentences": [
+            [
+                "Mrs. James had been",
+                "***kneeling***",
+                "(kniete) in the grass, pruning the roses, when suddenly she had stiffened with the realization that something was wrong"
+            ]
+        ]
+    },
+    {
+        "german": "Herd",
+        "english": "stove",
+        "audio": "stove.ogg",
+        "sentences": [
+            [
+                "I have left a ",
+                "***",
+                "(Herd-) burner on or for- gotten an appointment"
+            ],
+            [
+                "Chiding herself for her silliness, she had nevertheless gone back into the house to check the",
+                "***",
+                "(Herd) and her calendar, and while she was there the phone had rung"
+            ]
+        ]
+    },
+    {
+        "german": "tadeln",
+        "english": "to chide",
+        "audio": "to_chide.ogg",
+        "alternatives": [
+            "chide"
+        ],
+        "sentences": [
+            [
+                "***Chiding***",
+                "(Tadelnd) herself for her silliness, she had nevertheless gone back into the house to check the stove and her calendar"
+            ]
+        ]
+    },
+    {
+        "german": "körperlicher Schmerz",
+        "english": "physical pain",
+        "audio": "physical_pain.ogg",
+        "sentences": [
+            [
+                "This time it had been so strong, so sharp, that it had been almost a",
+                "***",
+                "(körperlicher Schmerz)"
+            ]
+        ]
+    },
+    {
+        "german": "Erstaunen",
+        "english": "astonishment",
+        "audio": "astonishment.ogg",
+        "sentences": [
+            [
+                "She had gone to get her purse and had not seen the",
+                "***",
+                "(Erstaunen) in the men's eyes"
+            ]
+        ]
+    },
+    {
+        "german": "vorhersagen",
+        "english": "to predict",
+        "audio": "to_predict.ogg",
+        "alternatives": [
+            "predict"
+        ],
+        "sentences": [
+            [
+                "They had been there though, off and on, and almost always they had",
+                "***predicted***",
+                "(vorhersagte) trouble"
+            ]
+        ]
+    },
+    {
+        "german": "Schaden",
+        "english": "damage",
+        "audio": "damage.ogg",
+        "sentences": [
+            [
+                "Julie had reached home in time to call the fire department, and the",
+                "***",
+                "(Schaden) to the house had been minor"
+            ]
+        ]
+    },
+    {
+        "german": "gering",
+        "english": "minor",
+        "audio": "minor.ogg",
+        "sentences": [
+            [
+                "Julie had reached home in time to call the fire department, and the damage to the house had been",
+                "***",
+                "(gering)"
+            ]
+        ]
+    },
+    {
+        "german": "zum Beispiel",
+        "english": "for instance",
+        "audio": "for_instance.ogg",
+        "sentences": [
+            [
+                "Last summer,",
+                "***",
+                "(zum Beispiel), there had been a time when she could have sworn that she felt something terrible approaching"
+            ]
+        ]
+    },
+    {
+        "german": "gern haben",
+        "english": "to be fond of",
+        "audio": "to_be_fond_of.ogg",
+        "alternatives": [
+            "be fond of"
+        ],
+        "sentences": [
+            [
+                "She",
+                "***was fond of***",
+                "(hatte gern) Ray, but was aware of his immaturity, and she wanted another year of high school for Julie and then hopefully college"
+            ]
+        ]
+    },
+    {
+        "german": "Unreife",
+        "english": "immaturity",
+        "audio": "immaturity.ogg",
+        "sentences": [
+            [
+                "Fond as she was of Ray, shw was aware of his",
+                "***",
+                "(Unreife), and she wanted another year of high school for Julie and then hopefully college"
+            ]
+        ]
+    },
+    {
+        "german": "unverheiratet",
+        "english": "unwed",
+        "audio": "unwed.ogg",
+        "sentences": [
+            [
+                "The idea of an",
+                "***",
+                "(unverheiratete) pregnancy or a very young marriage was not easy for her to accept"
+            ]
+        ]
+    },
+    {
+        "german": "Schwangerschaft",
+        "english": "pregnancy",
+        "audio": "pregnancy.ogg",
+        "sentences": [
+            [
+                "The idea of an unwed",
+                "***",
+                "(Schwangerschaft) or a very young marriage was not easy for her to accept"
+            ]
+        ]
+    },
+    {
+        "german": "in diesem Fall",
+        "english": "in this case",
+        "audio": "in_this_case.ogg",
+        "sentences": [
+            [
+                "***",
+                "(In diesem Fall), however, the problem had not materialized"
+            ]
+        ]
+    },
+    {
+        "german": "unbeschwert",
+        "english": "light-hearted",
+        "audio": "light_hearted.ogg",
+        "sentences": [
+            [
+                "She has just changed from a",
+                "***",
+                "(unbeschwerte) little girl into a serious-minded young woman"
+            ]
+        ]
+    },
+    {
+        "german": "für den Fall",
+        "english": "in case",
+        "audio": "in_case.ogg",
+        "sentences": [
+            [
+                "***",
+                "(für den Fall) of what, she did not know"
+            ]
+        ]
+    },
+    {
+        "german": "herausplatzen",
+        "english": "to burst out",
+        "audio": "to_burst_out.ogg",
+        "alternatives": [
+            "burst out"
+        ],
+        "sentences": [
+            [
+                "How long, how many years, had it been since she had",
+                "***burst out***",
+                "(herausplatzte) with something like that"
+            ]
+        ]
+    },
+    {
+        "german": "Geruch",
+        "english": "scent",
+        "audio": "scent.ogg",
+        "sentences": [
+            [
+                "The sound of her CD player flowed down the stairs and the music trickled into the living room, mingling with the",
+                "***scents***",
+                "(Gerüche) and sounds of spring"
+            ]
+        ]
+    },
+    {
+        "german": "Willenskraft",
+        "english": "willpower",
+        "audio": "willpower.ogg",
+        "sentences": [
+            [
+                "\"Helen's got",
+                "***",
+                "(Willenskraft),\" Mr. Rivers said, helping himself to the gravy"
+            ]
+        ]
+    },
+    {
+        "german": "verägert",
+        "english": "irritably",
+        "audio": "irritably.ogg",
+        "sentences": [
+            [
+                "\"You want me to look like Helen, is that it?\" Elsa said",
+                "***",
+                "(verägert)"
+            ]
+        ]
+    },
+    {
+        "german": "verhungern",
+        "english": "to starve",
+        "audio": "to_starve.ogg",
+        "alternatives": [
+            "starve"
+        ],
+        "sentences": [
+            [
+                "I'm not about",
+                "***",
+                "(verhungern) myself like she does in hopes some TV station will offer me a contract"
+            ]
+        ]
+    },
+    {
+        "german": "verbinden",
+        "english": "to combine",
+        "audio": "to_combine.ogg",
+        "alternatives": [
+            "combine"
+        ],
+        "sentences": [
+            [
+                "Since then the advent of baby after baby, housework, ill-health, and the constant weight of financial problems had",
+                "***combined***",
+                "(verbundeten) to give her a look of permanent exhaustion"
+            ]
+        ]
+    },
+    {
+        "german": "Erschöpfung",
+        "english": "exhaustion",
+        "audio": "exhaustion.ogg",
+        "sentences": [
+            [
+                "Since then the advent of baby after baby, housework, ill-health, and the constant weight of financial problems had combined to give her a look of permanent",
+                "***",
+                "(Erschöpfung)"
+            ]
+        ]
+    },
+    {
+        "german": "nicht gönnen",
+        "english": "to begrudge",
+        "audio": "to_begrudge.ogg",
+        "alternatives": [
+            "begrudge"
+        ],
+        "sentences": [
+            [
+                "It sounds like you",
+                "***gebrudge***",
+                "(nicht gönnst) your sister a happy life"
+            ]
+        ]
+    },
+    {
+        "german": "verdienen",
+        "english": "to deserve",
+        "audio": "to_deserve.ogg",
+        "alternatives": [
+            "deserve"
+        ],
+        "sentences": [
+            [
+                "\"Well, I don't see where she",
+                "***deserves***",
+                "(verdient) one,\" Elsa said with a burst of feeling"
+            ]
+        ]
+    },
+    {
+        "german": "egoistisch",
+        "english": "selfish",
+        "audio": "selfish.ogg",
+        "sentences": [
+            [
+                "She's",
+                "***",
+                "(egoistisch), Dad, and you know it, but you'll never admit it"
+            ],
+            [
+                "Helen is",
+                "***",
+                "(egoistisch)"
+            ]
+        ]
+    },
+    {
+        "german": "Kartoffelbrei",
+        "english": "mashed potatoes",
+        "audio": "mashed_potatoes.ogg",
+        "sentences": [
+            [
+                "And we'll live on",
+                "***",
+                "(Kartoffelbrei)"
+            ]
+        ]
+    },
+    {
+        "german": "betrachten",
+        "english": "to consider",
+        "audio": "to_consider.ogg",
+        "alternatives": [
+            "consider"
+        ],
+        "sentences": [
+            [
+                "We did the best we could, all things",
+                "***considered***",
+                "(betrachtet)"
+            ]
+        ]
+    },
+    {
+        "german": "einwenden, widersprechen",
+        "english": "to object",
+        "audio": "to_object.ogg",
+        "alternatives": [
+            "object"
+        ],
+        "sentences": [
+            [
+                "\"But she's so pretty,\" Mrs. Rivers",
+                "***objected***",
+                "(widersprach)"
+            ],
+            [
+                "\"But we're not visitors!\" Mrs. Cox",
+                "***objected***",
+                "(widersprach)"
+            ]
+        ]
+    },
+    {
+        "german": "vermuten",
+        "english": "to guess",
+        "audio": "to_guess.ogg",
+        "alternatives": [
+            "guess"
+        ],
+        "sentences": [
+            [
+                "\"Do you think Barry",
+                "***guesses***",
+                "(vermutet) that he isn't going to walk again?\""
+            ]
+        ]
+    },
+    {
+        "german": "Verzweiflung",
+        "english": "despair",
+        "audio": "despair.ogg",
+        "sentences": [
+            [
+                "Mr. Cox turned to regard his wife with a kind of",
+                "***",
+                "(Verzweiflung)"
+            ]
+        ]
+    },
+    {
+        "german": "Schicksal",
+        "english": "fate",
+        "audio": "fate.ogg",
+        "sentences": [
+            [
+                "\"Sometimes, Celia, I almost think you're wishing this",
+                "***",
+                "(Schicksal) on Barry\""
+            ]
+        ]
+    },
+    {
+        "german": "etwas angehen, etwas ins Auge blicken",
+        "english": "to face something",
+        "audio": "to_face_something.ogg",
+        "alternatives": [
+            "to face",
+            "face something",
+            "face"
+        ],
+        "sentences": [
+            [
+                "\"",
+                "***Face***",
+                "(Blicke es ins Auge) it, Celia,\" Mr. Cox said quietly, \"you've done your best to run that boy's life for him since the day he was born\""
+            ],
+            [
+                "What I am saying is that we've got",
+                "***to face***",
+                "(ins Auge blicken) the situation and do something about it"
+            ]
+        ]
+    },
+    {
+        "german": "ernsthaft",
+        "english": "sincerely",
+        "audio": "sincerely.ogg",
+        "sentences": [
+            [
+                "\"What a dreadful thing to say!\" Mrs. Cox was",
+                "***",
+                "(ernsthaft) shocked"
+            ]
+        ]
+    },
+    {
+        "german": "etwas ertragen",
+        "english": "to stand something",
+        "audio": "to_stand_something.ogg",
+        "alternatives": [
+            "stand something"
+        ],
+        "sentences": [
+            [
+                "You couldn't",
+                "***stand***",
+                "(ertragen) the thought that any part of it might be something that didn't include you"
+            ]
+        ]
+    },
+    {
+        "german": "einschließen",
+        "english": "to include",
+        "audio": "to_include.ogg",
+        "alternatives": [
+            "include"
+        ],
+        "sentences": [
+            [
+                "You couldn't stand the thought that any part of it might be something that didn't",
+                "***include***",
+                "(einschließen) you"
+            ]
+        ]
+    },
+    {
+        "german": "billigen, anerkennen",
+        "english": "to approve",
+        "audio": "to_approve.ogg",
+        "alternatives": [
+            "approve"
+        ],
+        "sentences": [
+            [
+                "No wonder he started rebelling during his last year of high school, picked up a girl you didn't",
+                "***approve***",
+                "(billigen) of, started smoking pot and driving like a madman"
+            ]
+        ]
+    },
+    {
+        "german": "jemanden beschuldigen",
+        "english": "to accuse somebody",
+        "audio": "to_accuse_somebody.ogg",
+        "alternatives": [
+            "accuse somebody",
+            "to accuse",
+            "accuse"
+        ],
+        "sentences": [
+            [
+                "\"If you're",
+                "***accusing***",
+                "(beschuldigst) me of not loving Barry ...\""
+            ],
+            [
+                "\"I'm not",
+                "***accusing***",
+                "(beschuldige) you of that.\" Mr. Cox reached out with an unaccustomed gesture and took both her hands in his"
+            ]
+        ]
+    },
+    {
+        "german": "ungewohnt",
+        "english": "unaccustomed",
+        "audio": "unaccustomed.ogg",
+        "sentences": [
+            [
+                "\"I'm not accusing you of that.\" Mr. Cox reached out with an",
+                "***",
+                "(ungewohnte) gesture and took both her hands in his"
+            ]
+        ]
+    },
+    {
+        "german": "weitermachen",
+        "english": "to continue",
+        "audio": "to_continue.ogg",
+        "alternatives": [
+            "continue"
+        ],
+        "sentences": [
+            [
+                "Barry can",
+                "***continue***",
+                "(weiter machen) college, graduate, and go into some line of work that he can handle from a desk"
+            ]
+        ]
+    },
+    {
+        "german": "unterstützen",
+        "english": "to support",
+        "audio": "to_support.ogg",
+        "alternatives": [
+            "support"
+        ],
+        "sentences": [
+            [
+                "He can",
+                "***support***",
+                "(unterstützen) himself, live where he likes, travel without us"
+            ]
+        ]
+    },
+    {
+        "german": "handhaben, hinbekommen",
+        "english": "to handle",
+        "audio": "to_handle.ogg",
+        "alternatives": [
+            "handle"
+        ],
+        "sentences": [
+            [
+                "Barry can continue college, graduate, and go into some line of work that he can",
+                "***handle***",
+                "(handhaben) from a desk"
+            ]
+        ]
+    },
+    {
+        "german": "beschützen",
+        "english": "to protect",
+        "audio": "to_protect.ogg",
+        "alternatives": [
+            "protect"
+        ],
+        "sentences": [
+            [
+                "In the weakened state Barry's in, somebody will have",
+                "***",
+                "(beschützen) him from opportunists"
+            ]
+        ]
+    },
+    {
+        "german": "stoßen in",
+        "english": "to bump into",
+        "audio": "to_bump_into.ogg",
+        "alternatives": [
+            "bump into"
+        ],
+        "sentences": [
+            [
+                "\"He did?\" Mr. Cox stopped so suddenly that his wife",
+                "***bumbed into***",
+                "(stieß in) him from behind"
+            ]
+        ]
+    },
+    {
+        "german": "Bedeutung",
+        "english": "significance",
+        "audio": "significance.ogg",
+        "sentences": [
+            [
+                "The first thing he said when he realized the",
+                "***",
+                "(Bedeutung) of what was happening, seeing his foot move under the sheet, was \"I've done a terrible thing.\""
+            ]
+        ]
+    },
+    {
+        "german": "runzeln",
+        "english": "to frown",
+        "audio": "to_frown.ogg",
+        "alternatives": [
+            "frown"
+        ],
+        "sentences": [
+            [
+                "\"I don't understand,\" Mr. Cox said,",
+                "***frowning***",
+                "(runzelnt)"
+            ]
+        ]
+    }
+]
