@@ -1,0 +1,206 @@
+[
+    {
+        "german": "überdenken",
+        "english": "to reconsider",
+        "audio": "to_reconsider.ogg",
+        "alternatives": [
+            "reconsider"
+        ]
+    },
+    {
+        "german": "Wendung",
+        "english": "twist",
+        "audio": "twist.ogg"
+    },
+    {
+        "german": "Unwohlsein",
+        "english": "uneasiness",
+        "audio": "uneasiness.ogg"
+    },
+    {
+        "german": "Vorahnung",
+        "english": "premonition",
+        "audio": "premonition.ogg"
+    },
+    {
+        "german": "Handynummer",
+        "english": "cell number",
+        "audio": "cell_number.ogg"
+    },
+    {
+        "german": "wahrscheinlich",
+        "english": "probably",
+        "audio": "probably.ogg"
+    },
+    {
+        "german": "Erwartung",
+        "english": "anticipation",
+        "audio": "anticipation.ogg"
+    },
+    {
+        "german": "auswählen",
+        "english": "to select",
+        "audio": "to_select.ogg",
+        "alternatives": [
+            "select"
+        ]
+    },
+    {
+        "german": "in die gleiche Richtung steuern/gehen",
+        "english": "to head in the same direction",
+        "audio": "to_head_in_the_same_direction.ogg",
+        "alternatives": [
+            "head in the same direction"
+        ]
+    },
+    {
+        "german": "Ablenkung",
+        "english": "distraction",
+        "audio": "distraction.ogg"
+    },
+    {
+        "german": "überzeugen",
+        "english": "to convince",
+        "audio": "to_convince.ogg",
+        "alternatives": [
+            "convince"
+        ]
+    },
+    {
+        "german": "(flüchtiger) Blick",
+        "english": "glimpse",
+        "audio": "glimpse.ogg"
+    },
+    {
+        "german": "dickköpfig",
+        "english": "stubborn",
+        "audio": "stubborn.ogg"
+    },
+    {
+        "german": "fordernd",
+        "english": "demanding",
+        "audio": "demanding.ogg"
+    },
+    {
+        "german": "erreichen",
+        "english": "to reach",
+        "audio": "to_reach.ogg",
+        "alternatives": [
+            "reach"
+        ]
+    },
+    {
+        "german": "vorschlagen",
+        "english": "to suggest",
+        "audio": "to_suggest.ogg",
+        "alternatives": [
+            "suggest"
+        ]
+    },
+    {
+        "german": "jemanden fallen lassen",
+        "english": "to dump somebody",
+        "audio": "to_dump_somebody.ogg",
+        "alternatives": [
+            "dump somebody"
+        ]
+    },
+    {
+        "german": "zögern",
+        "english": "to hesitate",
+        "audio": "to_hesitate.ogg",
+        "alternatives": [
+            "hesitate"
+        ]
+    },
+    {
+        "german": "sich beraten",
+        "english": "to consult",
+        "audio": "to_consult.ogg",
+        "alternatives": [
+            "consult"
+        ]
+    },
+    {
+        "german": "übersät von Sternen",
+        "english": "studded with stars",
+        "audio": "studded_with_stars.ogg"
+    },
+    {
+        "german": "Verwirrung",
+        "english": "bewilderment",
+        "audio": "bewilderment.ogg"
+    },
+    {
+        "german": "Aussage",
+        "english": "statement",
+        "audio": "statement.ogg"
+    },
+    {
+        "german": "Zustand",
+        "english": "condition",
+        "audio": "condition.ogg"
+    },
+    {
+        "german": "mit jemandem eine Rechnung begleichen",
+        "english": "to have an account to settle with somebody",
+        "audio": "to_have_an_account_to_settle_with_somebody.ogg",
+        "alternatives": [
+            "have an account to settle with somebody"
+        ]
+    },
+    {
+        "german": "außer",
+        "english": "except",
+        "audio": "except.ogg"
+    },
+    {
+        "german": "hektisch",
+        "english": "frantically",
+        "audio": "frantically.ogg"
+    },
+    {
+        "german": "bekannt",
+        "english": "familiar",
+        "audio": "familiar.ogg"
+    },
+    {
+        "german": "Eigenschaften",
+        "english": "features",
+        "audio": "features.ogg"
+    },
+    {
+        "german": "Mühe, Anstrengung",
+        "english": "effort",
+        "audio": "effort.ogg"
+    },
+    {
+        "german": "schaden",
+        "english": "to harm",
+        "audio": "to_harm.ogg",
+        "alternatives": [
+            "harm"
+        ]
+    },
+    {
+        "german": "bewustlos",
+        "english": "unconscious",
+        "audio": "unconscious.ogg"
+    },
+    {
+        "german": "auslöschen",
+        "english": "to erase",
+        "audio": "to_erase.ogg",
+        "alternatives": [
+            "erase"
+        ]
+    },
+    {
+        "german": "etwas gegenüberstehen, sich etwas stellen",
+        "english": "to face something",
+        "audio": "to_face_something.ogg",
+        "alternatives": [
+            "face something"
+        ]
+    }
+]
