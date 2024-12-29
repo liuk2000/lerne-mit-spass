@@ -1,0 +1,220 @@
+[
+    {
+        "german": "die Spannung, die Belastung",
+        "english": "strain",
+        "audio": "strain.ogg"
+    },
+    {
+        "german": "mager, dünn",
+        "english": "lean",
+        "audio": "lean.ogg"
+    },
+    {
+        "german": "die Kur, das Regime",
+        "english": "regimen",
+        "audio": "regimen.ogg"
+    },
+    {
+        "german": "das Hinterteil, der Allerwerteste",
+        "english": "posterior",
+        "audio": "posterior.ogg"
+    },
+    {
+        "german": "das Gesäß, der Hintern, der Po, die Hinterbacke",
+        "english": "buttocks",
+        "audio": "buttocks.ogg"
+    },
+    {
+        "german": "respektvoll",
+        "english": "deferential",
+        "audio": "deferential.ogg"
+    },
+    {
+        "german": "die Haltung, die Stellung",
+        "english": "stance",
+        "audio": "stance.ogg"
+    },
+    {
+        "german": "nachlassen, nachgeben",
+        "english": "to subside",
+        "audio": "to_subside.ogg",
+        "alternatives": [
+            "subside"
+        ]
+    },
+    {
+        "german": "tief verwurzeln, sich etw. tief einprägen",
+        "english": "to ingrain",
+        "audio": "to_ingrain.ogg",
+        "alternatives": [
+            "ingrain"
+        ]
+    },
+    {
+        "german": "bestimmt, durchsetzungsfähig, zuversichtlich",
+        "english": "assertive",
+        "audio": "assertive.ogg"
+    },
+    {
+        "german": "beschleunigen",
+        "english": "to hasten",
+        "audio": "to_hasten.ogg",
+        "alternatives": [
+            "hasten"
+        ]
+    },
+    {
+        "german": "die Nachsicht",
+        "english": "leniency",
+        "audio": "leniency.ogg"
+    },
+    {
+        "german": "Rückgang, Rückfall",
+        "english": "backslide",
+        "audio": "backslide.ogg"
+    },
+    {
+        "german": "der Anstand. die Anständigkeit",
+        "english": "decorum",
+        "audio": "decorum.ogg"
+    },
+    {
+        "german": "Nachsicht, Schwäche, Nachgiebigkeit",
+        "english": "indulgence",
+        "audio": "indulgence.ogg"
+    },
+    {
+        "german": "Verfälschung",
+        "english": "tampering",
+        "audio": "tampering.ogg"
+    },
+    {
+        "german": "die Befriedigung, die Belohnung, die Vergütung",
+        "english": "gratification",
+        "audio": "gratification.ogg"
+    },
+    {
+        "german": "das Auftreten, das Benehmen, die Haltung",
+        "english": "demeanor",
+        "audio": "demeanor.ogg"
+    },
+    {
+        "german": "offen, offenkundig",
+        "english": "overt",
+        "audio": "overt.ogg"
+    },
+    {
+        "german": "überzogen",
+        "english": "lined",
+        "audio": "lined.ogg"
+    },
+    {
+        "german": "zackig, gezahnt",
+        "english": "serrated",
+        "audio": "serrated.ogg"
+    },
+    {
+        "german": "das Abschreckungsmittel, die Abschreckung",
+        "english": "deterrent",
+        "audio": "deterrent.ogg"
+    },
+    {
+        "german": "ausgesprochen, deutlich hervortretend",
+        "english": "pronounced",
+        "audio": "pronounced.ogg"
+    },
+    {
+        "german": "vorrangig, Haupt-, von höchstem Rang",
+        "english": "paramount",
+        "audio": "paramount.ogg"
+    },
+    {
+        "german": "lobenswert, vorbildlich",
+        "english": "commendable",
+        "audio": "commendable.ogg"
+    },
+    {
+        "german": "in Gewahrsam behalten",
+        "english": "to remand",
+        "audio": "to_remand.ogg",
+        "alternatives": [
+            "remand"
+        ]
+    },
+    {
+        "german": "zurückhaltend, zimperlich, schüchtern",
+        "english": "demure",
+        "audio": "demure.ogg"
+    },
+    {
+        "german": "det Eckel, der Abscheu, die Abneigung",
+        "english": "distaste",
+        "audio": "distaste.ogg"
+    },
+    {
+        "german": "rein, durchsichtig, unvermischt",
+        "english": "sheer",
+        "audio": "sheer.ogg"
+    },
+    {
+        "german": "herumzappeln",
+        "english": "to fidget",
+        "audio": "to_fidget.ogg",
+        "alternatives": [
+            "fidget"
+        ]
+    },
+    {
+        "german": "die Haltung, das Gleichgewicht, sicheres Auftreten",
+        "english": "poise",
+        "audio": "poise.ogg"
+    },
+    {
+        "german": "äußerster, höchster",
+        "english": "utmost",
+        "audio": "utmost.ogg"
+    },
+    {
+        "german": "einwandfrei, makellos",
+        "english": "impeccable",
+        "audio": "impeccable.ogg"
+    },
+    {
+        "german": "exakt",
+        "english": "to the letter",
+        "audio": "to_the_letter.ogg"
+    },
+    {
+        "german": "tollpatschig, ungeschickt",
+        "english": "clumsy",
+        "audio": "clumsy.ogg"
+    },
+    {
+        "german": "das Nachspiel, die Auswirkung, der Rückstoß",
+        "english": "repercussions",
+        "audio": "repercussions.ogg"
+    },
+    {
+        "german": "ausradieren, verwischen, auslöschen",
+        "english": "to obliterate",
+        "audio": "to_obliterate.ogg",
+        "alternatives": [
+            "obliterate"
+        ]
+    },
+    {
+        "german": "der Gipfel, die Bekrönung, der Kranz",
+        "english": "crest",
+        "audio": "crest.ogg"
+    },
+    {
+        "german": "die Feierlichkeit(en), die Festlichkeit(en)",
+        "english": "solemnity",
+        "audio": "solemnity.ogg"
+    },
+    {
+        "german": "standhaft, fest, unerschütterlich",
+        "english": "steadfast",
+        "audio": "steadfast.ogg"
+    }
+]

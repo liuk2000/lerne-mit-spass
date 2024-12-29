@@ -1,0 +1,236 @@
+[
+    {
+        "german": "der Po, der Popo, der Hinten",
+        "english": "bum",
+        "audio": "bum.ogg"
+    },
+    {
+        "german": "das Kleidungsstück, die Bekleidung",
+        "english": "garment",
+        "audio": "garment.ogg"
+    },
+    {
+        "german": "kribbeln, prickeln",
+        "english": "to tingle",
+        "audio": "to_tingle.ogg",
+        "alternatives": [
+            "tingle"
+        ]
+    },
+    {
+        "german": "winseln, wimmern",
+        "english": "to whimper",
+        "audio": "to_whimper.ogg",
+        "alternatives": [
+            "whimper"
+        ]
+    },
+    {
+        "german": "heulen, jammern, wimmern, winseln",
+        "english": "to whine",
+        "audio": "to_whine.ogg",
+        "alternatives": [
+            "whine"
+        ]
+    },
+    {
+        "german": "die Strumpfhose",
+        "english": "pantyhose",
+        "audio": "pantyhose.ogg"
+    },
+    {
+        "german": "zusammenzucken, zucken, wanken",
+        "english": "to flinch",
+        "audio": "to_flinch.ogg",
+        "alternatives": [
+            "flinch"
+        ]
+    },
+    {
+        "german": "die Matte, der Untersatz, die Fußmatte",
+        "english": "mat",
+        "audio": "mat.ogg"
+    },
+    {
+        "german": "die Qual, die Quälerei, die Peinigung, die Folterqual",
+        "english": "torment",
+        "audio": "torment.ogg"
+    },
+    {
+        "german": "unzüchtig, geil",
+        "english": "prurient",
+        "audio": "prurient.ogg"
+    },
+    {
+        "german": "etwas fördern, etwas unterstützen",
+        "english": "to further something",
+        "audio": "to_further_something.ogg",
+        "alternatives": [
+            "to further",
+            "further something"
+        ]
+    },
+    {
+        "german": "die Untauglichkeit, die Unangebrachtheit",
+        "english": "impropriety",
+        "audio": "impropriety.ogg"
+    },
+    {
+        "german": "sich einmischen, sich einschalten, sich in eine Diksussion einschalten",
+        "english": "to chime in",
+        "audio": "to_chime_in.ogg",
+        "alternatives": [
+            "chime in"
+        ]
+    },
+    {
+        "german": "die Angewohnheit, die Eigneheit",
+        "english": "mannerism",
+        "audio": "mannerism.ogg"
+    },
+    {
+        "german": "die Beschimpfung",
+        "english": "scolding",
+        "audio": "scolding.ogg"
+    },
+    {
+        "german": "kurios, altmodisch, altertümlich hübsch",
+        "english": "quaint",
+        "audio": "quaint.ogg"
+    },
+    {
+        "german": "die Schwuchtel",
+        "english": "poof",
+        "audio": "poof.ogg"
+    },
+    {
+        "german": "der Hosenanzug",
+        "english": "pantsuit",
+        "audio": "pantsuit.ogg"
+    },
+    {
+        "german": "beruhigend, schmerzlindernd",
+        "english": "soothing",
+        "audio": "soothing.ogg"
+    },
+    {
+        "german": "gepolstert, ausgestopft",
+        "english": "padded",
+        "audio": "padded.ogg"
+    },
+    {
+        "german": "plissiert",
+        "english": "pleated",
+        "audio": "pleated.ogg"
+    },
+    {
+        "german": "die Schnalle, das Gurtschloss",
+        "english": "buckle",
+        "audio": "buckle.ogg"
+    },
+    {
+        "german": "der Hebel",
+        "english": "lever",
+        "audio": "lever.ogg"
+    },
+    {
+        "german": "glitzern, glänzen",
+        "english": "to glisten",
+        "audio": "to_glisten.ogg",
+        "alternatives": [
+            "glisten"
+        ]
+    },
+    {
+        "german": "zurückhalten, etw. unterlassen",
+        "english": "to refrain",
+        "audio": "to_refrain.ogg",
+        "alternatives": [
+            "refrain"
+        ]
+    },
+    {
+        "german": "sorgfältig, akribisch",
+        "english": "meticulous",
+        "audio": "meticulous.ogg"
+    },
+    {
+        "german": "knistern, rascheln",
+        "english": "to rustle",
+        "audio": "to_rustle.ogg",
+        "alternatives": [
+            "rustle"
+        ]
+    },
+    {
+        "german": "zerfetzt, zackig, abgerissen",
+        "english": "ragged",
+        "audio": "ragged.ogg"
+    },
+    {
+        "german": "ablocken, schmeicheln",
+        "english": "to coax",
+        "audio": "to_coax.ogg",
+        "alternatives": [
+            "coax"
+        ]
+    },
+    {
+        "german": "verkosten, genießen",
+        "english": "to savor",
+        "audio": "to_savor.ogg",
+        "alternatives": [
+            "savor"
+        ]
+    },
+    {
+        "german": "mit Brawur",
+        "english": "with flying colors",
+        "audio": "with_flying_colors.ogg"
+    },
+    {
+        "german": "gründlich, präzis, exakt",
+        "english": "rigorous",
+        "audio": "rigorous.ogg"
+    },
+    {
+        "german": "die Missachtung, der Widerstand",
+        "english": "defiance",
+        "audio": "defiance.ogg"
+    },
+    {
+        "german": "die Unterwerfung",
+        "english": "subjugation",
+        "audio": "subjugation.ogg"
+    },
+    {
+        "german": "die Verehrung",
+        "english": "reverence",
+        "audio": "reverence.ogg"
+    },
+    {
+        "german": "die Laune, die Kaprice",
+        "english": "whim",
+        "audio": "whim.ogg"
+    },
+    {
+        "german": "frei von",
+        "english": "devoid of",
+        "audio": "devoid_of.ogg"
+    },
+    {
+        "german": "einwandfrei, makellos, tadellos",
+        "english": "immaculate",
+        "audio": "immaculate.ogg"
+    },
+    {
+        "german": "die Garderobe, die Kleidung",
+        "english": "attire",
+        "audio": "attire.ogg"
+    },
+    {
+        "german": "der Spiegem (med., techn.)",
+        "english": "speculum",
+        "audio": "speculum.ogg"
+    }
+]
