@@ -1,0 +1,236 @@
+[
+    {
+        "german": "alltäglich, banal, langweilich",
+        "english": "mundane",
+        "audio": "mundane.ogg"
+    },
+    {
+        "german": "die Besorgungen",
+        "english": "errands",
+        "audio": "errands.ogg"
+    },
+    {
+        "german": "der Laufbursche, der Botenjunge",
+        "english": "errand boy",
+        "audio": "errand_boy.ogg"
+    },
+    {
+        "german": "der Zuschauer, der Schaulustige",
+        "english": "onlooker",
+        "audio": "onlooker.ogg"
+    },
+    {
+        "german": "lebhaft",
+        "english": "vivacious",
+        "audio": "vivacious.ogg"
+    },
+    {
+        "german": "etw. anziehen",
+        "english": "to don",
+        "audio": "to_don.ogg",
+        "alternatives": [
+            "don"
+        ]
+    },
+    {
+        "german": "der Overall",
+        "english": "jumpsuit",
+        "audio": "jumpsuit.ogg"
+    },
+    {
+        "german": "einführen, hineinführen",
+        "english": "to usher",
+        "audio": "to_usher.ogg",
+        "alternatives": [
+            "usher"
+        ]
+    },
+    {
+        "german": "bezwingen, unterdrücken",
+        "english": "to quell",
+        "audio": "to_quell.ogg",
+        "alternatives": [
+            "quell"
+        ]
+    },
+    {
+        "german": "zischen, rauschen",
+        "english": "to hiss",
+        "audio": "to_hiss.ogg",
+        "alternatives": [
+            "hiss"
+        ]
+    },
+    {
+        "german": "das Summen, der Brumm",
+        "english": "hum",
+        "audio": "hum.ogg"
+    },
+    {
+        "german": "rötlich-braun, rotbraun",
+        "english": "auburn",
+        "audio": "auburn.ogg"
+    },
+    {
+        "german": "körperbetonnt",
+        "english": "body-hugging",
+        "audio": "body_hugging.ogg"
+    },
+    {
+        "german": "der Aufruhr, die Aufregung, der Tumult",
+        "english": "commotion",
+        "audio": "commotion.ogg"
+    },
+    {
+        "german": "überfließen, überlaufen",
+        "english": "to brim",
+        "audio": "to_brim.ogg"
+    },
+    {
+        "german": "gedämpft, leise",
+        "english": "hushed",
+        "audio": "hushed.ogg"
+    },
+    {
+        "german": "der (Boden)Teppich",
+        "english": "rug",
+        "audio": "rug.ogg"
+    },
+    {
+        "german": "starr, wie betäubt, benommen",
+        "english": "numbly",
+        "audio": "numbly.ogg"
+    },
+    {
+        "german": "der Wirbelwind, der Wirbelsturm",
+        "english": "whirlwind",
+        "audio": "whirlwind.ogg"
+    },
+    {
+        "german": "die Schneiderin, die Näherin",
+        "english": "seamstress",
+        "audio": "seamstress.ogg"
+    },
+    {
+        "german": "genießen, gern mögen",
+        "english": "to relish",
+        "audio": "to_relish.ogg",
+        "alternatives": [
+            "relish"
+        ]
+    },
+    {
+        "german": "Betrüger, Hochstapler, Schwindler",
+        "english": "imposter, impostor",
+        "audio": "imposter_impostor.ogg",
+        "alternatives": [
+            "imposter",
+            "impostor"
+        ]
+    },
+    {
+        "german": "ironisch, verdreht",
+        "english": "wryly",
+        "audio": "wryly.ogg"
+    },
+    {
+        "german": "einschüchternd, entmutigend, abschreckend",
+        "english": "daunting",
+        "audio": "daunting.ogg"
+    },
+    {
+        "german": "einstudieren, einüben",
+        "english": "to rehearse",
+        "audio": "to_rehearse.ogg",
+        "alternatives": [
+            "rehearse"
+        ]
+    },
+    {
+        "german": "das Schleusentor",
+        "english": "floodgate",
+        "audio": "floodgate.ogg"
+    },
+    {
+        "german": "etw. nicht wahrnehmen, sich einer Sache nicht bewusst sein",
+        "english": "to be oblivious",
+        "audio": "to_be_oblivious.ogg",
+        "alternatives": [
+            "be oblivious"
+        ]
+    },
+    {
+        "german": "das Heiligtum, das Asyl, das Schutzgebiet, der Zufluchtsort",
+        "english": "sanctuary",
+        "audio": "sanctuary.ogg"
+    },
+    {
+        "german": "der Zufluchtsort, der Rückzugsort, der Hafen",
+        "english": "haven",
+        "audio": "haven.ogg"
+    },
+    {
+        "german": "verbreiten, ausstrahlen",
+        "english": "to exude",
+        "audio": "to_exude.ogg",
+        "alternatives": [
+            "exude"
+        ]
+    },
+    {
+        "german": "abgeschlossen, abgelegen, einsam, einzeln",
+        "english": "solitary",
+        "audio": "solitary.ogg"
+    },
+    {
+        "german": "schlümmern",
+        "english": "to slumber",
+        "audio": "to_slumber.ogg",
+        "alternatives": [
+            "slumber"
+        ]
+    },
+    {
+        "german": "die Pyjamaparty",
+        "english": "slumber party",
+        "audio": "slumber_party.ogg"
+    },
+    {
+        "german": "schlank, schmal",
+        "english": "slender",
+        "audio": "slender.ogg"
+    },
+    {
+        "german": "abgetragen, abgewetzt",
+        "english": "ratty",
+        "audio": "ratty.ogg"
+    },
+    {
+        "german": "verärgert, außer sich, entnervt",
+        "english": "exasperated",
+        "audio": "exasperated.ogg"
+    },
+    {
+        "german": "stumm",
+        "english": "dumbly",
+        "audio": "dumbly.ogg"
+    },
+    {
+        "german": "die Verschmelzung, die Fusionierung",
+        "english": "merger",
+        "audio": "merger.ogg"
+    },
+    {
+        "german": "fummeln",
+        "english": "to fumble",
+        "audio": "to_fumble.ogg",
+        "alternatives": [
+            "fumble"
+        ]
+    },
+    {
+        "german": "voller Leben, belebt",
+        "english": "bustling",
+        "audio": "bustling.ogg"
+    }
+]

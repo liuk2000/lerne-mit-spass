@@ -1,0 +1,231 @@
+[
+    {
+        "german": "vertieft in",
+        "english": "engrossed in",
+        "audio": "engrossed_in.ogg"
+    },
+    {
+        "german": "staunen, sich wundern",
+        "english": "to marvel",
+        "audio": "to_marvel.ogg",
+        "alternatives": [
+            "marvel"
+        ]
+    },
+    {
+        "german": "schieben, hauen",
+        "english": "to thrust",
+        "audio": "to_thrust.ogg",
+        "alternatives": [
+            "thrust"
+        ]
+    },
+    {
+        "german": "geschmeidig, glatt, glatt und glänzend",
+        "english": "sleek",
+        "audio": "sleek.ogg"
+    },
+    {
+        "german": "umlenken, abweichen",
+        "english": "to deflect",
+        "audio": "to_deflect.ogg",
+        "alternatives": [
+            "deflect"
+        ]
+    },
+    {
+        "german": "heruntergekommenes",
+        "english": "run-down",
+        "audio": "run_down.ogg"
+    },
+    {
+        "german": "unheimlich, auf unheimliche Weise",
+        "english": "eerily",
+        "audio": "eerily.ogg"
+    },
+    {
+        "german": "die Brosche",
+        "english": "brooch",
+        "audio": "brooch.ogg"
+    },
+    {
+        "german": "der Anhänger",
+        "english": "pendant",
+        "audio": "pendant.ogg"
+    },
+    {
+        "german": "die Porzellanfigur",
+        "english": "figurine",
+        "audio": "figurine.ogg"
+    },
+    {
+        "german": "der Hexenmeister, der Zauberer",
+        "english": "sorcerer",
+        "audio": "sorcerer.ogg"
+    },
+    {
+        "german": "der Hinweis, die Spur",
+        "english": "lead",
+        "audio": "lead.ogg"
+    },
+    {
+        "german": "die Angst, die Unruhe, die Beklemmung",
+        "english": "trepidation",
+        "audio": "trepidation.ogg"
+    },
+    {
+        "german": "kaum vorhanden, unsicher, schwach",
+        "english": "tenuous",
+        "audio": "tenuous.ogg"
+    },
+    {
+        "german": "unsicher, heikel, gefährlich",
+        "english": "precarious",
+        "audio": "precarious.ogg"
+    },
+    {
+        "german": "die Reue, die Zerknirschung, die Buße",
+        "english": "contrition",
+        "audio": "contrition.ogg"
+    },
+    {
+        "german": "das Abendkleid, das Damenkleid",
+        "english": "gown",
+        "audio": "gown.ogg"
+    },
+    {
+        "german": "imposant, eindrucksvoll",
+        "english": "imposing",
+        "audio": "imposing.ogg"
+    },
+    {
+        "german": "freudig erregt, begeistert",
+        "english": "elated",
+        "audio": "elated.ogg"
+    },
+    {
+        "german": "verziert, kunstvoll",
+        "english": "ornate",
+        "audio": "ornate.ogg"
+    },
+    {
+        "german": "großer Unterschied, weiter Weg",
+        "english": "far cry",
+        "audio": "far_cry.ogg"
+    },
+    {
+        "german": "die Getränkekiste",
+        "english": "crate",
+        "audio": "crate.ogg"
+    },
+    {
+        "german": "knittern, falten, zerknicken",
+        "english": "to crease",
+        "audio": "to_crease.ogg",
+        "alternatives": [
+            "crease"
+        ]
+    },
+    {
+        "german": "wie gerufen",
+        "english": "right on cue",
+        "audio": "right_on_cue.ogg"
+    },
+    {
+        "german": "unwiderruflich, endgültig",
+        "english": "irrevocably",
+        "audio": "irrevocably.ogg"
+    },
+    {
+        "german": "pleite, verkommen",
+        "english": "down and out",
+        "audio": "down_and_out.ogg"
+    },
+    {
+        "german": "tagtäglich",
+        "english": "day in, day out",
+        "audio": "day_in_day_out.ogg"
+    },
+    {
+        "german": "jmdn. faszinieren, bezaubern",
+        "english": "to mesmerize",
+        "audio": "to_mesmerize.ogg",
+        "alternatives": [
+            "mesmerize"
+        ]
+    },
+    {
+        "german": "unpassend, ungehörig, widerspenstig, bedauerlich",
+        "english": "untoward",
+        "audio": "untoward.ogg"
+    },
+    {
+        "german": "das Zusammenspiel, das Wechselspiel",
+        "english": "interplay",
+        "audio": "interplay.ogg"
+    },
+    {
+        "german": "ermutigend",
+        "english": "heartening",
+        "audio": "heartening.ogg"
+    },
+    {
+        "german": "die Bosheit, die Tücke, die Böswilligkeit",
+        "english": "malice",
+        "audio": "malice.ogg"
+    },
+    {
+        "german": "das Wasserfass, das Gerücht",
+        "english": "scuttlebutt",
+        "audio": "scuttlebutt.ogg"
+    },
+    {
+        "german": "gesetzwidrig, rechtswidrig, unerlaubt, illegal, verboten",
+        "english": "illicit",
+        "audio": "illicit.ogg"
+    },
+    {
+        "german": "dazwischenkommen, eingreifen, sich einmischen",
+        "english": "to intervene",
+        "audio": "to_intervene.ogg",
+        "alternatives": [
+            "intervene"
+        ]
+    },
+    {
+        "german": "erziehen, großziehen",
+        "english": "to nurture",
+        "audio": "to_nurture.ogg",
+        "alternatives": [
+            "nurture"
+        ]
+    },
+    {
+        "german": "streng, strikt, ernst",
+        "english": "stern",
+        "audio": "stern.ogg"
+    },
+    {
+        "german": "unerhört, ungeheuerlich, auffalend schlecht",
+        "english": "egregious",
+        "audio": "egregious.ogg"
+    },
+    {
+        "german": "umgekehrt, im umgekehrten Fall",
+        "english": "conversely",
+        "audio": "conversely.ogg"
+    },
+    {
+        "german": "(sich) irren, fehlen, sich täuchen",
+        "english": "to err",
+        "audio": "to_err.ogg",
+        "alternatives": [
+            "err"
+        ]
+    },
+    {
+        "german": "der Ärger, der Unmut, die Verstimmung, die Verbitterung",
+        "english": "resentment",
+        "audio": "resentment.ogg"
+    }
+]
