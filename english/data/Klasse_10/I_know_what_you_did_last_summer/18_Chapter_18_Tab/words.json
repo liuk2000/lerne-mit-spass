@@ -5,37 +5,89 @@
         "audio": "to_reconsider.ogg",
         "alternatives": [
             "reconsider"
+        ],
+        "sentences": [
+            [
+                "I wish you'd",
+                "***reconsider***",
+                "and stay home tonight"
+            ]
         ]
     },
     {
         "german": "Wendung",
         "english": "twist",
-        "audio": "twist.ogg"
+        "audio": "twist.ogg",
+        "sentences": [
+            [
+                "Julie spoke the words laughingly, but she could not completely obliterate the",
+                "***",
+                "of uneasiness that stirred within her"
+            ]
+        ]
     },
     {
         "german": "Unwohlsein",
         "english": "uneasiness",
-        "audio": "uneasiness.ogg"
+        "audio": "uneasiness.ogg",
+        "sentences": [
+            [
+                "Julie spoke the words laughingly, but she could not completely obliterate the twist of",
+                "***",
+                "that stirred within her"
+            ]
+        ]
     },
     {
         "german": "Vorahnung",
         "english": "premonition",
-        "audio": "premonition.ogg"
+        "audio": "premonition.ogg",
+        "sentences": [
+            [
+                "There was something oddly disturbing about her mother's",
+                "***premonitions***"
+            ]
+        ]
     },
     {
         "german": "Handynummer",
         "english": "cell number",
-        "audio": "cell_number.ogg"
+        "audio": "cell_number.ogg",
+        "sentences": [
+            [
+                "The phone hasn't been installed yet and I don't have his",
+                "***"
+            ]
+        ]
     },
     {
         "german": "wahrscheinlich",
         "english": "probably",
-        "audio": "probably.ogg"
+        "audio": "probably.ogg",
+        "sentences": [
+            [
+                "It's",
+                "***",
+                "too late"
+            ],
+            [
+                "If their meeting had not been so simple, she",
+                "***",
+                "wouldn't have ever started dating Bud"
+            ]
+        ]
     },
     {
         "german": "Erwartung",
         "english": "anticipation",
-        "audio": "anticipation.ogg"
+        "audio": "anticipation.ogg",
+        "sentences": [
+            [
+                "When she thought back upon last year, on the hours she had spent getting ready to go out with Ray - hair always clean and wavy, makeup perfect, heart filled with excited",
+                "***",
+                "- it was like looking back at another girl in another world"
+            ]
+        ]
     },
     {
         "german": "auswählen",
@@ -43,6 +95,13 @@
         "audio": "to_select.ogg",
         "alternatives": [
             "select"
+        ],
+        "sentences": [
+            [
+                "But he had just come over to her at the library and gestured to the book she was",
+                "***selecting***",
+                "and said, \"You'll like that one. Let me you another by the same writer that's even better.\""
+            ]
         ]
     },
     {
@@ -51,12 +110,25 @@
         "audio": "to_head_in_the_same_direction.ogg",
         "alternatives": [
             "head in the same direction"
+        ],
+        "sentences": [
+            [
+                "They had left the library at the same time, and it had seemed natural that he would fall into step beside her since they",
+                "***were headed in the same direction***"
+            ]
         ]
     },
     {
         "german": "Ablenkung",
         "english": "distraction",
-        "audio": "distraction.ogg"
+        "audio": "distraction.ogg",
+        "sentences": [
+            [
+                "After that, date had followed date, because it had been easier to say yes than no. It had been a",
+                "***",
+                ", and it had gotten her through the long evenings"
+            ]
+        ]
     },
     {
         "german": "überzeugen",
@@ -64,22 +136,49 @@
         "audio": "to_convince.ogg",
         "alternatives": [
             "convince"
+        ],
+        "sentences": [
+            [
+                "She had even tried",
+                "***to convince***",
+                "herself that she might come to care for Bud if she just kept seeing him long enough"
+            ]
         ]
     },
     {
         "german": "(flüchtiger) Blick",
         "english": "glimpse",
-        "audio": "glimpse.ogg"
+        "audio": "glimpse.ogg",
+        "sentences": [
+            [
+                "She caught a",
+                "***",
+                "of her mother's face and stopped"
+            ]
+        ]
     },
     {
         "german": "dickköpfig",
         "english": "stubborn",
-        "audio": "stubborn.ogg"
+        "audio": "stubborn.ogg",
+        "sentences": [
+            [
+                "\"That's okay. I don't really want to go anyway. I was just being",
+                "***",
+                ".\" She went to the door and opened it"
+            ]
+        ]
     },
     {
         "german": "fordernd",
         "english": "demanding",
-        "audio": "demanding.ogg"
+        "audio": "demanding.ogg",
+        "sentences": [
+            [
+                "His voice was flat and",
+                "***"
+            ]
+        ]
     },
     {
         "german": "erreichen",
@@ -87,6 +186,23 @@
         "audio": "to_reach.ogg",
         "alternatives": [
             "reach"
+        ],
+        "sentences": [
+            [
+                "Remember, I wondered then how somebody as short as Megan could have",
+                "***reached***",
+                "it?"
+            ],
+            [
+                "\"There was a 911 call,\" the first of the patrolmen said as he",
+                "***reached***",
+                "them"
+            ],
+            [
+                "Mom, I can't",
+                "***reach***",
+                "him. He's just moved into an apartment"
+            ]
         ]
     },
     {
@@ -95,6 +211,12 @@
         "audio": "to_suggest.ogg",
         "alternatives": [
             "suggest"
+        ],
+        "sentences": [
+            [
+                "\"If you're so hung up on seeing the movie tonight, why don't you go ahead without me?\" she",
+                "***suggested***"
+            ]
         ]
     },
     {
@@ -103,6 +225,13 @@
         "audio": "to_dump_somebody.ogg",
         "alternatives": [
             "dump somebody"
+        ],
+        "sentences": [
+            [
+                "\"Look, Julie, we've got a date. You're not trying",
+                "***to dump me***",
+                ", are you, because your old boyfriend's back in town?\""
+            ]
         ]
     },
     {
@@ -111,6 +240,13 @@
         "audio": "to_hesitate.ogg",
         "alternatives": [
             "hesitate"
+        ],
+        "sentences": [
+            [
+                "Julie",
+                "***hesitated***",
+                ". She too wanted to turn and look at her mother, to consult with her in a glance, but to do so would have been actively rude"
+            ]
         ]
     },
     {
@@ -119,27 +255,64 @@
         "audio": "to_consult.ogg",
         "alternatives": [
             "consult"
+        ],
+        "sentences": [
+            [
+                "Julie hesitated. She too wanted to turn and look at her mother,",
+                "***",
+                "with her in a glance, but to do so would have been actively rude"
+            ]
         ]
     },
     {
         "german": "übersät von Sternen",
         "english": "studded with stars",
-        "audio": "studded_with_stars.ogg"
+        "audio": "studded_with_stars.ogg",
+        "sentences": [
+            [
+                "The night air lapped around them, soft and sweet, and overhead the sky seemed to curve like a dark bowl,",
+                "***"
+            ]
+        ]
     },
     {
         "german": "Verwirrung",
         "english": "bewilderment",
-        "audio": "bewilderment.ogg"
+        "audio": "bewilderment.ogg",
+        "sentences": [
+            [
+                "What's wrong with me? she asked herself in",
+                "***"
+            ],
+            [
+                "\"Please, tell me what this is all about,\" Mrs. James said in",
+                "***"
+            ]
+        ]
     },
     {
         "german": "Aussage",
         "english": "statement",
-        "audio": "statement.ogg"
+        "audio": "statement.ogg",
+        "sentences": [
+            [
+                "\"Funny,\" Bud said, ignoring her",
+                "***",
+                ". \"You've never called me Collie.\""
+            ]
+        ]
     },
     {
         "german": "Zustand",
         "english": "condition",
-        "audio": "condition.ogg"
+        "audio": "condition.ogg",
+        "sentences": [
+            [
+                "\"My mother isn't either,\" Bud said. \"She's in a lot worse",
+                "***",
+                "than your mother"
+            ]
+        ]
     },
     {
         "german": "mit jemandem eine Rechnung begleichen",
@@ -147,32 +320,73 @@
         "audio": "to_have_an_account_to_settle_with_somebody.ogg",
         "alternatives": [
             "have an account to settle with somebody"
+        ],
+        "sentences": [
+            [
+                "I",
+                "***have an account to settle***",
+                "with the four of you, but it hasn't all worked out as I planned it."
+            ]
         ]
     },
     {
         "german": "außer",
         "english": "except",
-        "audio": "except.ogg"
+        "audio": "except.ogg",
+        "sentences": [
+            [
+                "The hands were squeezing. There was nothing in the world now",
+                "***",
+                "those hands - the hands and the pain and the roaring in her ears and a million lights flashing behind her eyes"
+            ]
+        ]
     },
     {
         "german": "hektisch",
         "english": "frantically",
-        "audio": "frantically.ogg"
+        "audio": "frantically.ogg",
+        "sentences": [
+            [
+                "I don't want to die, Julie thought",
+                "***"
+            ]
+        ]
     },
     {
         "german": "bekannt",
         "english": "familiar",
-        "audio": "familiar.ogg"
+        "audio": "familiar.ogg",
+        "sentences": [
+            [
+                "\"She's coming out of it,\" the voice said. It was",
+                "***",
+                ". It was not a dream voice. \"Julie?\""
+            ]
+        ]
     },
     {
         "german": "Eigenschaften",
         "english": "features",
-        "audio": "features.ogg"
+        "audio": "features.ogg",
+        "sentences": [
+            [
+                "The porch light was on, and its dim yellow rays illuminated the",
+                "***",
+                "of the boy who bent over her"
+            ]
+        ]
     },
     {
         "german": "Mühe, Anstrengung",
         "english": "effort",
-        "audio": "effort.ogg"
+        "audio": "effort.ogg",
+        "sentences": [
+            [
+                "\"Ray?\" She whispered his name, and the",
+                "***",
+                "sent a thrust of agony through her throat"
+            ]
+        ]
     },
     {
         "german": "schaden",
@@ -180,12 +394,26 @@
         "audio": "to_harm.ogg",
         "alternatives": [
             "harm"
+        ],
+        "sentences": [
+            [
+                "\"Did you come here tonight, Ray, knowing that Bud was going to try",
+                "***",
+                "Julie? If so, how — \" She broke off the question"
+            ]
         ]
     },
     {
         "german": "bewustlos",
         "english": "unconscious",
-        "audio": "unconscious.ogg"
+        "audio": "unconscious.ogg",
+        "sentences": [
+            [
+                "A girl fell from a second-floor window at Four Seasons Apartments. She was knocked",
+                "***",
+                "in the fall, but when she came to, she told the people who found her that a man named Wilson had tried to attack her"
+            ]
+        ]
     },
     {
         "german": "auslöschen",
@@ -193,6 +421,13 @@
         "audio": "to_erase.ogg",
         "alternatives": [
             "erase"
+        ],
+        "sentences": [
+            [
+                "We can never",
+                "***erase***",
+                "it, she thought. What we did last summer is done. We can't undo it, ever"
+            ]
         ]
     },
     {
@@ -201,6 +436,13 @@
         "audio": "to_face_something.ogg",
         "alternatives": [
             "face something"
+        ],
+        "sentences": [
+            [
+                "What we did last summer is done. We can't undo it, ever. But we can",
+                "***face***",
+                "it. That will be something"
+            ]
         ]
     }
 ]
