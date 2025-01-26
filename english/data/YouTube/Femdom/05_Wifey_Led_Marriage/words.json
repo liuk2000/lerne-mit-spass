@@ -1,0 +1,238 @@
+[
+    {
+        "german": "boshaft, börartig, verschmitzt",
+        "english": "mischievous",
+        "audio": "mischievous.ogg"
+    },
+    {
+        "german": "Ausdauer, Beharrligkeit",
+        "english": "perseverance",
+        "audio": "perseverance.ogg"
+    },
+    {
+        "german": "anstoßen, anstupsen",
+        "english": "to nudge",
+        "audio": "to_nudge.ogg",
+        "alternatives": [
+            "nudge"
+        ]
+    },
+    {
+        "german": "knapp",
+        "english": "skimpy",
+        "audio": "skimpy.ogg"
+    },
+    {
+        "german": "betonen, hervorheben",
+        "english": "to accentuate",
+        "audio": "to_accentuate.ogg",
+        "alternatives": [
+            "accentuate"
+        ]
+    },
+    {
+        "german": "schielen, blinzeln, zwinkern",
+        "english": "to squint",
+        "audio": "to_squint.ogg",
+        "alternatives": [
+            "squint"
+        ]
+    },
+    {
+        "german": "schlau, listig",
+        "english": "sly",
+        "audio": "sly.ogg"
+    },
+    {
+        "german": "heimlich",
+        "english": "on the sly",
+        "audio": "on_the_sly.ogg"
+    },
+    {
+        "german": "der Pfiffikus, der Schlaukopf",
+        "english": "sly dog",
+        "audio": "sly_dog.ogg"
+    },
+    {
+        "german": "vergeblich, nutzlos, sinnlos",
+        "english": "futile",
+        "audio": "futile.ogg"
+    },
+    {
+        "german": "beißend, scharf, stechend",
+        "english": "pungent",
+        "audio": "pungent.ogg"
+    },
+    {
+        "german": "schneiden, schnitzen",
+        "english": "to carve",
+        "audio": "to_carve.ogg",
+        "alternatives": [
+            "carve"
+        ]
+    },
+    {
+        "german": "das Strichmännchen",
+        "english": "matchstick man",
+        "audio": "matchstick_man.ogg"
+    },
+    {
+        "german": "anlocken, ködern, verlocken",
+        "english": "to entice",
+        "audio": "to_entice.ogg",
+        "alternatives": [
+            "entice"
+        ]
+    },
+    {
+        "german": "stochern, stoßen",
+        "english": "to poke",
+        "audio": "to_poke.ogg",
+        "alternatives": [
+            "poke"
+        ]
+    },
+    {
+        "german": "zusammenschrecken, zurückschrecken, zucken",
+        "english": "to wince",
+        "audio": "to_wince.ogg",
+        "alternatives": [
+            "wince"
+        ]
+    },
+    {
+        "german": "der Strumpf, der Wasserschlauch, der Schlauch",
+        "english": "hose",
+        "audio": "hose.ogg"
+    },
+    {
+        "german": "nach etwas verlangen, sich nach etwas sehnen",
+        "english": "to yearn for something",
+        "audio": "to_yearn_for_something.ogg"
+    },
+    {
+        "german": "das Mitleid, das Mitgefühl",
+        "english": "compassion",
+        "audio": "compassion.ogg"
+    },
+    {
+        "german": "die Reue, die Gewissensbisse, schlechtes Gewissen",
+        "english": "remorse",
+        "audio": "remorse.ogg"
+    },
+    {
+        "german": "die Brennessel",
+        "english": "nettle",
+        "audio": "nettle.ogg",
+        "alternatives": [
+            "relish"
+        ]
+    },
+    {
+        "german": "der Fehler, das Versehen",
+        "english": "lapse",
+        "audio": "lapse.ogg"
+    },
+    {
+        "german": "aufgeben, verzichten, loslassen",
+        "english": "to relinquish",
+        "audio": "to_relinquish.ogg",
+        "alternatives": [
+            "relinquish"
+        ]
+    },
+    {
+        "german": "ehren, verehren",
+        "english": "to revere",
+        "audio": "to_revere.ogg",
+        "alternatives": [
+            "revere"
+        ]
+    },
+    {
+        "german": "die Schnalle, der Haken, der Verschluss, das Schloss",
+        "english": "clasp",
+        "audio": "clasp.ogg"
+    },
+    {
+        "german": "der Anstand, die Anständigkeit",
+        "english": "decorum",
+        "audio": "decorum.ogg"
+    },
+    {
+        "german": "die Qual, die Tortur, das Gotterurteil, die Geduldsprobe",
+        "english": "ordeal",
+        "audio": "ordeal.ogg"
+    },
+    {
+        "german": "der Ausguss, das Abflussrohr, sie Schnauze, der Strahl",
+        "english": "spout",
+        "audio": "spout.ogg"
+    },
+    {
+        "german": "der Ernst, sie Schwere, die Schwerkraft",
+        "english": "gravity",
+        "audio": "gravity.ogg"
+    },
+    {
+        "german": "die Wachsamkeit, die Bürgerwehr",
+        "english": "vigilance",
+        "audio": "vigilance.ogg"
+    },
+    {
+        "german": "der Fleiß, die Sorgfalt, der Eifer",
+        "english": "diligence",
+        "audio": "diligence.ogg"
+    },
+    {
+        "german": "locker, nachlässig, lasch",
+        "english": "lax",
+        "audio": "lax.ogg"
+    },
+    {
+        "german": "fleißig",
+        "english": "studiously",
+        "audio": "studiously.ogg"
+    },
+    {
+        "german": "prächtig, glänzend, strahlend",
+        "english": "resplendent",
+        "audio": "resplendent.ogg"
+    },
+    {
+        "german": "die Erscheinung, die Gestalt, die Verkleidung, der Vorwand",
+        "english": "guise",
+        "audio": "guise.ogg"
+    },
+    {
+        "german": "sich entkleiden, sich entblößen",
+        "english": "to disrobe",
+        "audio": "to_disrobe.ogg",
+        "alternatives": [
+            "disrobe"
+        ]
+    },
+    {
+        "german": "die Verwandschaft, verwandschaftliches Verhältnis",
+        "english": "kinship",
+        "audio": "kinship.ogg"
+    },
+    {
+        "german": "heimlich, versteckt, jenseitig",
+        "english": "ulterior",
+        "audio": "ulterior.ogg"
+    },
+    {
+        "german": "komisches Gerät, die Vorrichtung, neumodischer Apparat",
+        "english": "contraption",
+        "audio": "contraption.ogg"
+    },
+    {
+        "german": "schnurren",
+        "english": "to purr",
+        "audio": "to_purr.ogg",
+        "alternatives": [
+            "purr"
+        ]
+    }
+]

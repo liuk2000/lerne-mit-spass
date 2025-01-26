@@ -1,0 +1,252 @@
+[
+    {
+        "german": "der Schlupwinkel, die Höhle, das Versteck",
+        "english": "lair",
+        "audio": "lair.ogg"
+    },
+    {
+        "german": "zierlich, lecker, anmutig, zart, appetitlich",
+        "english": "dainty",
+        "audio": "dainty.ogg"
+    },
+    {
+        "german": "sich nach etwas sehnen",
+        "english": "to long for something",
+        "audio": "to_long_for_something.ogg",
+        "alternatives": [
+            "long for something",
+            "to long for",
+            "long for"
+        ]
+    },
+    {
+        "german": "die Korsage",
+        "english": "bodice",
+        "audio": "bodice.ogg"
+    },
+    {
+        "german": "biegsam, formbar, nachgiebig, zugänglich",
+        "english": "pliable",
+        "audio": "pliable.ogg"
+    },
+    {
+        "german": "ärgerlich, nervtötend",
+        "english": "pesky",
+        "audio": "pesky.ogg"
+    },
+    {
+        "german": "die Täuschung, der Betrug, die List, die Tücke",
+        "english": "deceit",
+        "audio": "deceit.ogg"
+    },
+    {
+        "german": "die Strumpfhose",
+        "english": "tights",
+        "audio": "tights.ogg"
+    },
+    {
+        "german": "die Spur, der Überrest, das Überbleibsel",
+        "english": "vestige",
+        "audio": "vestige.ogg"
+    },
+    {
+        "german": "zahm, gehorsam, sanftmütig",
+        "english": "docile",
+        "audio": "docile.ogg"
+    },
+    {
+        "german": "abschnüren, zusammenschnüren, einschränken",
+        "english": "to constrict",
+        "audio": "to_constrict.ogg",
+        "alternatives": [
+            "constrict"
+        ]
+    },
+    {
+        "german": "schlicht, rein, züchtig",
+        "english": "chaste",
+        "audio": "chaste.ogg"
+    },
+    {
+        "german": "nagend, quälend, bohrend",
+        "english": "gnawing",
+        "audio": "gnawing.ogg"
+    },
+    {
+        "german": "räumen, leerschöpfen, verarmen, verdünnen",
+        "english": "to deplete",
+        "audio": "to_deplete.ogg",
+        "alternatives": [
+            "deplete"
+        ]
+    },
+    {
+        "german": "albern",
+        "english": "simpering",
+        "audio": "simpering.ogg"
+    },
+    {
+        "german": "zappeln, sich abquälen, stolpern",
+        "english": "to flounder",
+        "audio": "to_flounder.ogg",
+        "alternatives": [
+            "flounder"
+        ]
+    },
+    {
+        "german": "schlechtmachen, herabsetzen, schmälern",
+        "english": "to belittle",
+        "audio": "to_belittle.ogg",
+        "alternatives": [
+            "belittle"
+        ]
+    },
+    {
+        "german": "die Demütigung, die Erniedrigung, die Degradierung",
+        "english": "abasement",
+        "audio": "abasement.ogg"
+    },
+    {
+        "german": "reiben, scheuern",
+        "english": "to chafe",
+        "audio": "to_chafe.ogg",
+        "alternatives": [
+            "chafe"
+        ]
+    },
+    {
+        "german": "zerren, schleppen, ziehen",
+        "english": "to tug",
+        "audio": "to_tug.ogg",
+        "alternatives": [
+            "tug"
+        ]
+    },
+    {
+        "german": "stottern",
+        "english": "to stammer",
+        "audio": "to_stammer.ogg",
+        "alternatives": [
+            "stammer"
+        ]
+    },
+    {
+        "german": "das Stechen, der Schmerz, plötzlicher Schmerz",
+        "english": "pang",
+        "audio": "pang.ogg"
+    },
+    {
+        "german": "ausgelassen sein, feiern",
+        "english": "to revel",
+        "audio": "to_revel.ogg",
+        "alternatives": [
+            "revel"
+        ]
+    },
+    {
+        "german": "zurücktreten, zurückgehen, schwinden, sinken, fallen",
+        "english": "to recede",
+        "audio": "to_recede.ogg",
+        "alternatives": [
+            "recede"
+        ]
+    },
+    {
+        "german": "der Schlüpfer, das Höschen, der Slip",
+        "english": "knickers",
+        "audio": "knickers.ogg"
+    },
+    {
+        "german": "anwenden, gebrauchen, sich anstrengen, betätigen, anspannen",
+        "english": "to exert",
+        "audio": "to_exert.ogg",
+        "alternatives": [
+            "exert"
+        ]
+    },
+    {
+        "german": "das Glied, das Körperglied",
+        "english": "limb",
+        "audio": "limb.ogg"
+    },
+    {
+        "german": "schüchtern, scheu, verlegen",
+        "english": "bashful",
+        "audio": "bashful.ogg"
+    },
+    {
+        "german": "das Grinsen",
+        "english": "grin",
+        "audio": "grin.ogg"
+    },
+    {
+        "german": "liebenswert, lieb, reizend, zärtlich",
+        "english": "endearing",
+        "audio": "endearing.ogg"
+    },
+    {
+        "german": "lauern, sich versteckt halten, herumschleichen",
+        "english": "to lurk",
+        "audio": "to_lurk.ogg",
+        "alternatives": [
+            "lurk"
+        ]
+    },
+    {
+        "german": "demütigen, kränken, besschämen",
+        "english": "to mortify",
+        "audio": "to_mortify.ogg",
+        "alternatives": [
+            "mortify"
+        ]
+    },
+    {
+        "german": "die Prüfung, genaue Untersuchung, prüfender Blick",
+        "english": "scrutiny",
+        "audio": "scrutiny.ogg"
+    },
+    {
+        "german": "kneifen, den Schwanz einziehen, sich verdrücken",
+        "english": "to chicken out",
+        "audio": "to_chicken_out.ogg",
+        "alternatives": [
+            "checken out"
+        ]
+    },
+    {
+        "german": "aussteigen, rückwärts herausfahren, zurücktreten",
+        "english": "to back out",
+        "audio": "to_back_out.ogg",
+        "alternatives": [
+            "back out"
+        ]
+    },
+    {
+        "german": "seitlich, von der Seite, seitwärts",
+        "english": "sidelong",
+        "audio": "sidelong.ogg"
+    },
+    {
+        "german": "die Entgültigkeit, die Bestimmheit, die Entscheidenheit",
+        "english": "finality",
+        "audio": "finality.ogg"
+    },
+    {
+        "german": "Ich kann ihn nicht ausstehen",
+        "english": "I can't bear him",
+        "audio": "i_cant_bear_him.ogg"
+    },
+    {
+        "german": "zerquetschen, quetschen, eine Fliege totschlagen",
+        "english": "to swat",
+        "audio": "to_swat.ogg",
+        "alternatives": [
+            "swat"
+        ]
+    },
+    {
+        "german": "die Fliegenklatsche",
+        "english": "fly swat",
+        "audio": "fly_swat.ogg"
+    }
+]
