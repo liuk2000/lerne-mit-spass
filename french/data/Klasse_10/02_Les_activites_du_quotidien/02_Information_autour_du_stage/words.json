@@ -1,0 +1,117 @@
+[
+    {
+        "german": "das Praktikum",
+        "french": "le stage",
+        "audio": "le_stage.ogg"
+    },
+    {
+        "german": "die Beobachtung",
+        "french": "la observation",
+        "audio": "la_observation.ogg"
+    },
+    {
+        "german": "etwas jemandem erlauben",
+        "french": "permettre quelque chose à quelqu'un",
+        "audio": "permettre_quelque_chose_à_quelquun.ogg"
+    },
+    {
+        "german": "entdecken",
+        "french": "découvrir",
+        "audio": "decouvrir.ogg"
+    },
+    {
+        "german": "die Arbeitswelt",
+        "french": "le monde du travail",
+        "audio": "le_monde_du_travail.ogg"
+    },
+    {
+        "german": "Beruf",
+        "french": "le métier",
+        "audio": "le_metier.ogg"
+    },
+    {
+        "german": "Unternehmen",
+        "french": "la enterprise",
+        "audio": "la_enterprise.ogg"
+    },
+    {
+        "german": "verpflichtend",
+        "french": "obligatoire",
+        "audio": "obligatoire.ogg"
+    },
+    {
+        "german": "Schulanfang",
+        "french": "la rentrée",
+        "audio": "la_rentree.ogg"
+    },
+    {
+        "german": "keinerlei",
+        "french": "aucun",
+        "audio": "aucun.ogg"
+    },
+    {
+        "german": "anbieten",
+        "french": "offrir",
+        "audio": "offrir.ogg"
+    },
+    {
+        "german": "ihnen",
+        "french": "eux",
+        "audio": "eux.ogg"
+    },
+    {
+        "german": "das Ziel",
+        "french": "le objectif",
+        "audio": "le_objectif.ogg"
+    },
+    {
+        "german": "Stelle, Job",
+        "french": "le poste",
+        "audio": "le_poste.ogg"
+    },
+    {
+        "german": "an sich",
+        "french": "proprement",
+        "audio": "proprement.ogg"
+    },
+    {
+        "german": "im eigentlichen Sinne",
+        "french": "proprement dit",
+        "audio": "proprement_dit.ogg"
+    },
+    {
+        "german": "das Gesetz",
+        "french": "la loi",
+        "audio": "la_loi.ogg"
+    },
+    {
+        "german": "vielfältig, abwechslungsreich",
+        "french": "varié",
+        "audio": "varie.ogg"
+    },
+    {
+        "german": "Überwachung",
+        "french": "la surveillance",
+        "audio": "la_surveillance.ogg"
+    },
+    {
+        "german": "verbieten",
+        "french": "interdire",
+        "audio": "interdire.ogg"
+    },
+    {
+        "german": "Minderjähriger, minderjährig",
+        "french": "mineur",
+        "audio": "mineur.ogg"
+    },
+    {
+        "german": "verantwortlich",
+        "french": "responsable",
+        "audio": "responsable.ogg"
+    },
+    {
+        "german": "beschäftigen",
+        "french": "occuper",
+        "audio": "occuper.ogg"
+    }
+]
