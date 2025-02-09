@@ -1,0 +1,265 @@
+[
+    {
+        "german": "Ich habe alles gepackt",
+        "english": "I'm all packed",
+        "audio": "im_all_packed.ogg"
+    },
+    {
+        "german": "ob",
+        "english": "whether",
+        "audio": "whether.ogg"
+    },
+    {
+        "german": "verstehen",
+        "english": "to understand (understood, understood)",
+        "audio": "to_understand_(understood_understood).ogg",
+        "alternatives": [
+            "understand"
+        ]
+    },
+    {
+        "german": "mit jemandem auskommen",
+        "english": "to get on with somebody",
+        "audio": "to_get_on_with_somebody.ogg",
+        "alternatives": [
+            "get on with somebody",
+            "to get on with",
+            "get on with"
+        ]
+    },
+    {
+        "german": "schrecklich",
+        "english": "terrible",
+        "audio": "terrible.ogg"
+    },
+    {
+        "german": "Ich würde besser",
+        "english": "I'd better (I would better)",
+        "audio": "id_better_(i_would_better).ogg"
+    },
+    {
+        "german": "obwohl",
+        "english": "although",
+        "audio": "although.ogg"
+    },
+    {
+        "german": "totmüde",
+        "english": "dead-tired",
+        "audio": "dead_tired.ogg"
+    },
+    {
+        "german": "als, sobald",
+        "english": "once",
+        "audio": "once.ogg"
+    },
+    {
+        "german": "abgeholt werden",
+        "english": "to get picked up",
+        "audio": "to_get_picked_up.ogg",
+        "alternatives": [
+            "get picked up"
+        ]
+    },
+    {
+        "german": "Koffer",
+        "english": "suitcase",
+        "audio": "suitcase.ogg"
+    },
+    {
+        "german": "etwas in einen Kofferraum stopfen",
+        "english": "to stuff something into a boot",
+        "audio": "to_stuff_something_into_a_boot.ogg"
+    },
+    {
+        "german": "leise, still",
+        "english": "quiet",
+        "audio": "quiet.ogg"
+    },
+    {
+        "german": "ziemlich",
+        "english": "quite",
+        "audio": "quite.ogg"
+    },
+    {
+        "german": "froh",
+        "english": "glad",
+        "audio": "glad.ogg"
+    },
+    {
+        "german": "seltsam",
+        "english": "strange",
+        "audio": "strange.ogg"
+    },
+    {
+        "german": "kaltes Fleisch",
+        "english": "cold meat",
+        "audio": "cold_meat.ogg"
+    },
+    {
+        "german": "gesund",
+        "english": "healthy",
+        "audio": "healthy.ogg"
+    },
+    {
+        "german": "Kloß, Knödel",
+        "english": "dumpling",
+        "audio": "dumpling.ogg"
+    },
+    {
+        "german": "begeistert von etwas sein",
+        "english": "to be keen on something",
+        "audio": "to_be_keen_on_something.ogg",
+        "alternatives": [
+            "be keen on something",
+            "to be keen on",
+            "be keen on"
+        ]
+    },
+    {
+        "german": "noch",
+        "english": "still",
+        "audio": "still.ogg"
+    },
+    {
+        "german": "ziemlich gut Englisch sprechen",
+        "english": "to speak English pretty well",
+        "audio": "to_speak_english_pretty_well.ogg",
+        "alternatives": [
+            "speak English pretty well"
+        ]
+    },
+    {
+        "german": "eine recht/ziemlich/einigermaßen kurze Fahrt",
+        "english": "a fairly short ride",
+        "audio": "a_fairly_short_ride.ogg"
+    },
+    {
+        "german": "eine Viertelstunde",
+        "english": "a quarter of an hour",
+        "audio": "a_quarter_of_an_hour.ogg"
+    },
+    {
+        "german": "sich it jemandem treffen",
+        "english": "to meet up with somebody",
+        "audio": "to_meet_up_with_somebody.ogg",
+        "alternatives": [
+            "meet up with somebody",
+            "to meet up with",
+            "meet up with",
+            "to meet up",
+            "meet up"
+        ]
+    },
+    {
+        "german": "mit jemandem auskommen",
+        "english": "to get along with somebody",
+        "audio": "to_get_along_with_somebody.ogg",
+        "alternatives": [
+            "get along with somebody",
+            "to get along with",
+            "get along with",
+            "to get along",
+            "get along"
+        ]
+    },
+    {
+        "german": "erzählen",
+        "english": "to tell (told, told)",
+        "audio": "to_tell_(told_told).ogg",
+        "alternatives": [
+            "tell"
+        ]
+    },
+    {
+        "german": "weit weg",
+        "english": "far away",
+        "audio": "far_away.ogg"
+    },
+    {
+        "german": "anders, verschieden",
+        "english": "different",
+        "audio": "different.ogg"
+    },
+    {
+        "german": "tragen, anziehen",
+        "english": "to wear (wore, worn)",
+        "audio": "to_wear_(wore_worn).ogg",
+        "alternatives": [
+            "wear"
+        ]
+    },
+    {
+        "german": "alles",
+        "english": "everything",
+        "audio": "everything.ogg"
+    },
+    {
+        "german": "sogar",
+        "english": "even",
+        "audio": "even.ogg"
+    },
+    {
+        "german": "praktische Arbeit",
+        "english": "practical work",
+        "audio": "practical_work.ogg"
+    },
+    {
+        "german": "Wir konnten es auch mal versuchen/probieren",
+        "english": "We could have a go as well",
+        "audio": "we_could_have_a_go_as_well.ogg"
+    },
+    {
+        "german": "am Nachmittag, nachmittags",
+        "english": "in the afternoon",
+        "audio": "in_the_afternoon.ogg"
+    },
+    {
+        "german": "kaufen",
+        "english": "to buy (bought, bought)",
+        "audio": "to_buy_(bought_bought).ogg",
+        "alternatives": [
+            "buy"
+        ]
+    },
+    {
+        "german": "Bierglas, Bierkrug",
+        "english": "beer mug",
+        "audio": "beer_mug.ogg"
+    },
+    {
+        "german": "etwas tun können, fähig sein etwas zu tun",
+        "english": "to be able to do something",
+        "audio": "to_be_able_to_do_something.ogg",
+        "alternatives": [
+            "be able to do something"
+        ]
+    },
+    {
+        "german": "zusammen",
+        "english": "together",
+        "audio": "together.ogg"
+    },
+    {
+        "german": "auch wenn, obwohl",
+        "english": "even though",
+        "audio": "even_though.ogg"
+    },
+    {
+        "german": "in etwas ziemlich schlecht sein",
+        "english": "to be pretty rubbish at something",
+        "audio": "to_be_pretty_rubbish_at_something.ogg",
+        "alternatives": [
+            "be pretty rubbish at something"
+        ]
+    },
+    {
+        "german": "süß",
+        "english": "cute",
+        "audio": "cute.ogg"
+    },
+    {
+        "german": "morgen Abend",
+        "english": "tomorrow evening",
+        "audio": "tomorrow_evening.ogg"
+    }
+]
