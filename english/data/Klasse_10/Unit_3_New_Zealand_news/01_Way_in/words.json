@@ -1,0 +1,188 @@
+[
+    {
+        "german": "buchstäblich",
+        "english": "literally",
+        "audio": "literally.ogg",
+        "sentences": [
+            [
+                "New Zealand is",
+                "***",
+                "on the other side of the world"
+            ]
+        ]
+    },
+    {
+        "german": "Neuseeländer(in)",
+        "english": "New Zealander",
+        "audio": "new_zealander.ogg"
+    },
+    {
+        "german": "großartig, prachtvoll",
+        "english": "magnificent",
+        "audio": "magnificent.ogg"
+    },
+    {
+        "german": "allgemein",
+        "english": "generally",
+        "audio": "generally.ogg",
+        "sentences": [
+            [
+                "I'm",
+                "***",
+                "at work from 7 o'clock"
+            ]
+        ]
+    },
+    {
+        "german": "sich bereiligen an, sich engagieren für, sich einlassen auf",
+        "english": "to get involved in",
+        "audio": "to_get_involved_in.ogg",
+        "alternatives": [
+            "get involved in",
+            "to get involved",
+            "get involved"
+        ],
+        "sentences": [
+            [
+                "Schools",
+                "***get ivolved***",
+                "in whale projects"
+            ]
+        ]
+    },
+    {
+        "german": "gestrandet",
+        "english": "stranded",
+        "audio": "stranded.ogg",
+        "sentences": [
+            [
+                "Whales were",
+                "***",
+                "on the beach"
+            ]
+        ]
+    },
+    {
+        "german": "ziehen nach",
+        "english": "to move to",
+        "audio": "to_move_to.ogg",
+        "alternatives": [
+            "move to"
+        ],
+        "sentences": [
+            [
+                "Lots of people",
+                "***move to***",
+                "New Zealand"
+            ]
+        ]
+    },
+    {
+        "german": "Maori, Maori-, maorisch",
+        "english": "Maori",
+        "audio": "maori.ogg"
+    },
+    {
+        "german": "Fernsehsender",
+        "english": "TV station",
+        "audio": "tv_station.ogg",
+        "sentences": [
+            [
+                "There is a Maori",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Tätowierung",
+        "english": "tattoo",
+        "audio": "tattoo.ogg"
+    },
+    {
+        "german": "aufführen, auftreten",
+        "english": "to perform",
+        "audio": "to_perform.ogg",
+        "alternatives": [
+            "perform"
+        ],
+        "sentences": [
+            [
+                "We will",
+                "***perform***",
+                "at the festival on Friday"
+            ]
+        ]
+    },
+    {
+        "german": "Vielfalt, Auswahl",
+        "english": "variety",
+        "audio": "variety.ogg",
+        "sentences": [
+            [
+                "There's a",
+                "***",
+                "of landscapes in New Zealand"
+            ]
+        ]
+    },
+    {
+        "german": "Gletscher",
+        "english": "glacier",
+        "audio": "glacier.ogg"
+    },
+    {
+        "german": "Fjord",
+        "english": "fjord",
+        "audio": "fjord.ogg"
+    },
+    {
+        "german": "riesig, massiv, wuchtig",
+        "english": "massive",
+        "audio": "massive.ogg"
+    },
+    {
+        "german": "gewaltig. riesig",
+        "english": "vast",
+        "audio": "vast.ogg"
+    },
+    {
+        "german": "subtropisch",
+        "english": "subtropical",
+        "audio": "subtropical.ogg"
+    },
+    {
+        "german": "überraschend",
+        "english": "surprising",
+        "audio": "surprising.ogg"
+    },
+    {
+        "german": "retten",
+        "english": "to rescue",
+        "audio": "to_rescue.ogg",
+        "alternatives": [
+            "rescue"
+        ],
+        "sentences": [
+            [
+                "We",
+                "***rescued***",
+                "three whales on Friday"
+            ]
+        ]
+    },
+    {
+        "german": "Schwanz, Schweif",
+        "english": "tail",
+        "audio": "tail.ogg"
+    },
+    {
+        "german": "Eimer",
+        "english": "bucket",
+        "audio": "bucket.ogg"
+    },
+    {
+        "german": "Kran",
+        "english": "crane",
+        "audio": "crane.ogg"
+    }
+]
