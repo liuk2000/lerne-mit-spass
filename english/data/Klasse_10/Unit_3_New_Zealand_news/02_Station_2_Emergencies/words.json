@@ -1,0 +1,141 @@
+[
+    {
+        "german": "krachen",
+        "english": "to crash",
+        "audio": "to_crash.ogg",
+        "alternatives": [
+            "crash"
+        ]
+    },
+    {
+        "german": "beben, zittern",
+        "english": "to shake",
+        "audio": "to_shake.ogg",
+        "alternatives": [
+            "shake"
+        ]
+    },
+    {
+        "german": "erschüttern",
+        "english": "to hit",
+        "audio": "to_hit.ogg",
+        "alternatives": [
+            "hit"
+        ]
+    },
+    {
+        "german": "einstürzen, zusammenbrechen, kollabieren",
+        "english": "to collapse",
+        "audio": "to_collapse.ogg",
+        "alternatives": [
+            "collapse"
+        ]
+    },
+    {
+        "german": "überschwemmen, überfluten, fluten",
+        "english": "to flood",
+        "audio": "to_flood.ogg",
+        "alternatives": [
+            "flood"
+        ]
+    },
+    {
+        "german": "zerquetscht",
+        "english": "crushed",
+        "audio": "crushed.ogg"
+    },
+    {
+        "german": "Verwirrung, Verwechslung",
+        "english": "confusion",
+        "audio": "confusion.ogg"
+    },
+    {
+        "german": "weinend, schreiend",
+        "english": "crying",
+        "audio": "crying.ogg"
+    },
+    {
+        "german": "stolpern",
+        "english": "to stumble",
+        "audio": "to_stumble.ogg",
+        "alternatives": [
+            "stumble"
+        ]
+    },
+    {
+        "german": "blockieren, verstellen",
+        "english": "to block",
+        "audio": "to_block.ogg",
+        "alternatives": [
+            "block"
+        ]
+    },
+    {
+        "german": "evakuieren",
+        "english": "to evacuate",
+        "audio": "to_evacuate.ogg",
+        "alternatives": [
+            "evacuate"
+        ]
+    },
+    {
+        "german": "Leichensack",
+        "english": "body bag",
+        "audio": "body_bag.ogg"
+    },
+    {
+        "german": "Feuerwehrmann, Feuerwehrfrau",
+        "english": "firefighter",
+        "audio": "firefighter.ogg"
+    },
+    {
+        "german": "Atem holen, verschnaufen, durchatmen",
+        "english": "to catch one's breath",
+        "audio": "to_catch_ones_breath.ogg",
+        "alternatives": [
+            "catch one's breath"
+        ]
+    },
+    {
+        "german": "Rettung, Rettungs-",
+        "english": "rescue",
+        "audio": "rescue.ogg"
+    },
+    {
+        "german": "Suche, Such-",
+        "english": "search",
+        "audio": "search.ogg"
+    },
+    {
+        "german": "umkommen, ums Leben kommen",
+        "english": "to lose one's life",
+        "audio": "to_lose_ones_life.ogg",
+        "alternatives": [
+            "lose one's life"
+        ]
+    },
+    {
+        "german": "abschneiden",
+        "english": "to cut off",
+        "audio": "to_cut_off.ogg",
+        "alternatives": [
+            "cut off"
+        ]
+    },
+    {
+        "german": "verwüsten, vernichten",
+        "english": "to devastate",
+        "audio": "to_devastate.ogg",
+        "alternatives": [
+            "devastate"
+        ]
+    },
+    {
+        "german": "klemmen, stauen, blockieren",
+        "english": "to jam",
+        "audio": "to_jam.ogg",
+        "alternatives": [
+            "jam"
+        ]
+    }
+]

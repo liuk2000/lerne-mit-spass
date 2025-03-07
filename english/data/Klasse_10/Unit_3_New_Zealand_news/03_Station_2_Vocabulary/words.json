@@ -1,0 +1,314 @@
+[
+    {
+        "german": "sich erinnern",
+        "english": "to recall",
+        "audio": "to_recall.ogg",
+        "alternatives": [
+            "recall"
+        ],
+        "sentences": [
+            [
+                "I don't",
+                "***recall***",
+                "inviting you to my party"
+            ]
+        ]
+    },
+    {
+        "german": "nett wirkend, freundlich wirkend",
+        "english": "friendly-looking",
+        "audio": "friendly_looking.ogg",
+        "sentences": [
+            [
+                "A",
+                "***",
+                "lady opened the door"
+            ]
+        ]
+    },
+    {
+        "german": "Besitzer(in)",
+        "english": "owner",
+        "audio": "owner.ogg"
+    },
+    {
+        "german": "besitzen",
+        "english": "to own",
+        "audio": "to_own.ogg",
+        "alternatives": [
+            "own"
+        ]
+    },
+    {
+        "german": "gleiten, rutschen",
+        "english": "to slide (slid, slid)",
+        "audio": "to_slide_(slid_slid).ogg",
+        "alternatives": [
+            "to slide",
+            "slide"
+        ],
+        "sentences": [
+            [
+                "Things began",
+                "***to slide***",
+                "all around us"
+            ]
+        ]
+    },
+    {
+        "german": "Boden",
+        "english": "floor",
+        "audio": "floor.ogg",
+        "sentences": [
+            [
+                "I put the box on the",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Schutz, Obdach",
+        "english": "shelter",
+        "audio": "shelter.ogg",
+        "sentences": [
+            [
+                "We found",
+                "***",
+                "under a table"
+            ]
+        ]
+    },
+    {
+        "german": "nach draußen",
+        "english": "outside",
+        "audio": "outside.ogg"
+    },
+    {
+        "german": "nach innen",
+        "english": "inside",
+        "audio": "inside.ogg"
+    },
+    {
+        "german": "Staub",
+        "english": "dust",
+        "audio": "dust.ogg",
+        "sentences": [
+            [
+                "There was lots of",
+                "***",
+                "after the earthquake"
+            ]
+        ]
+    },
+    {
+        "german": "Jemandem bewusst werden, jemandem dämmern",
+        "english": "to dawn on somebody",
+        "audio": "to_dawn_on_somebody.ogg",
+        "alternatives": [
+            "to dawn on",
+            "dawn on somebody",
+            "dawn on"
+        ],
+        "sentences": [
+            [
+                "It",
+                "***dawned on***",
+                "me (I remembered)"
+            ]
+        ]
+    },
+    {
+        "german": "verzweifelt, dringend",
+        "english": "desparately",
+        "audio": "desparately.ogg",
+        "sentences": [
+            [
+                "I'm",
+                "***",
+                "waiting to go home"
+            ]
+        ]
+    },
+    {
+        "german": "Verbindung",
+        "english": "connection",
+        "audio": "connection.ogg"
+    },
+    {
+        "german": "verbinden",
+        "english": "to connect",
+        "audio": "to_connect.ogg",
+        "alternatives": [
+            "connect"
+        ]
+    },
+    {
+        "german": "durchkommen",
+        "english": "to get through",
+        "audio": "to_get_through.ogg",
+        "alternatives": [
+            "get through"
+        ],
+        "sentences": [
+            [
+                "I couldn't",
+                "***get through***",
+                "on the phone"
+            ]
+        ]
+    },
+    {
+        "german": "mithalten (mit), Schritt halten (mit)",
+        "english": "to keep up with",
+        "audio": "to_keep_up_with.ogg",
+        "alternatives": [
+            "to keep up",
+            "keep up with",
+            "keep up"
+        ],
+        "sentences": [
+            [
+                "It was hard",
+                "***to keep up***",
+                "with Mason"
+            ]
+        ]
+    },
+    {
+        "german": "Flamme",
+        "english": "flame",
+        "audio": "flame.ogg"
+    },
+    {
+        "german": "Parkplatz",
+        "english": "car park",
+        "audio": "car_park.ogg"
+    },
+    {
+        "german": "um die Ecke biegen, um die Ecke gehen",
+        "english": "to turn the corner",
+        "audio": "to_turn_the_corner.ogg",
+        "alternatives": [
+            "turn the corner"
+        ],
+        "sentences": [
+            [
+                "We",
+                "***turned the corner***",
+                "and saw the car"
+            ]
+        ]
+    },
+    {
+        "german": "Haufen, Stapel",
+        "english": "pile",
+        "audio": "pile.ogg",
+        "sentences": [
+            [
+                "There was a",
+                "***",
+                "of clothes on the floor"
+            ]
+        ]
+    },
+    {
+        "german": "Trümmer, Schutt, Geröll",
+        "english": "rubble",
+        "audio": "rubble.ogg",
+        "sentences": [
+            [
+                "Instead of a house there was just",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "Gott sei Dank",
+        "english": "thank God",
+        "audio": "thank_god.ogg",
+        "sentences": [
+            "***",
+            "we stayed together"
+        ]
+    },
+    {
+        "german": "ruhig, fliedlich",
+        "english": "calm",
+        "audio": "calm.ogg",
+        "sentences": [
+            [
+                "I was",
+                "***",
+                "when I spoke to the police"
+            ]
+        ]
+    },
+    {
+        "german": "übrig",
+        "english": "left",
+        "audio": "left.ogg",
+        "sentences": [
+            [
+                "I don't have any money",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "wagen, sich trauen",
+        "english": "to dare",
+        "audio": "to_dare.ogg",
+        "alternatives": [
+            "dare"
+        ],
+        "sentences": [
+            [
+                "Who",
+                "***dares***",
+                "to jump off the wall?"
+            ]
+        ]
+    },
+    {
+        "german": "befreien",
+        "english": "to free",
+        "audio": "to_free.ogg",
+        "alternatives": [
+            "free"
+        ],
+        "sentences": [
+            [
+                "It took three hours",
+                "***to free***",
+                "the man"
+            ]
+        ]
+    },
+    {
+        "german": "staubbedeckt",
+        "english": "covered in dust",
+        "audio": "covered_in_dust.ogg",
+        "sentences": [
+            [
+                "Everything was",
+                "***"
+            ]
+        ]
+    },
+    {
+        "german": "für den Fall, dass ...; falls",
+        "english": "in case",
+        "audio": "in_case.ogg",
+        "sentences": [
+            [
+                "***",
+                "of a fire, call for help"
+            ]
+        ]
+    },
+    {
+        "german": "Rauch",
+        "english": "smoke",
+        "audio": "smoke.ogg"
+    }
+]
