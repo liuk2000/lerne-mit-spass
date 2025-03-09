@@ -1,0 +1,247 @@
+[
+    {
+        "german": "Ökonom, Wirtschaftswissenschaftler",
+        "french": "économiste",
+        "audio": "economiste.ogg"
+    },
+    {
+        "german": "Schottland",
+        "french": "la Écosse",
+        "audio": "la_ecosse.ogg",
+        "alternatives": [
+            "Écosse"
+        ]
+    },
+    {
+        "german": "schottisch",
+        "french": "écossais(e)",
+        "audio": "ecossais(e).ogg",
+        "alternatives": [
+            "écossais",
+            "écossaise"
+        ]
+    },
+    {
+        "german": "Bereich",
+        "french": "le secteur",
+        "audio": "le_secteur.ogg"
+    },
+    {
+        "german": "Haupt-",
+        "french": "principal(e) (pl. pricipaux, principales)",
+        "audio": "principal(e)_(pl_pricipaux_principales).ogg",
+        "alternatives": [
+            "principal",
+            "principale",
+            "principal(e)"
+        ]
+    },
+    {
+        "german": "nach, gemäß",
+        "french": "selon",
+        "audio": "selon.ogg"
+    },
+    {
+        "german": "(etwas an etwas) binden",
+        "french": "lier (quelque chose à quelque chose)",
+        "audio": "lier_(quelque_chose_à_quelque_chose).ogg",
+        "alternatives": [
+            "lier"
+        ]
+    },
+    {
+        "german": "(etwas an etwas) verbinden",
+        "french": "relier (quelque chose à quelque chose)",
+        "audio": "relier_(quelque_chose_à_quelque_chose).ogg",
+        "alternatives": [
+            "relier"
+        ]
+    },
+    {
+        "german": "Bodenschatz",
+        "french": "la ressource naturelle",
+        "audio": "la_ressource_naturelle.ogg",
+        "alternatives": [
+            "ressource naturelle"
+        ]
+    },
+    {
+        "german": "Schulanfang",
+        "french": "le matériau (pl. matériaux)",
+        "audio": "le_materiau_(pl_materiaux).ogg",
+        "alternatives": [
+            "le matériau",
+            "matériau"
+        ]
+    },
+    {
+        "german": "zusammenfassen",
+        "french": "regrouper",
+        "audio": "regrouper.ogg"
+    },
+    {
+        "german": "Rohstoff",
+        "french": "la matière primaire",
+        "audio": "la_matiere_primaire.ogg",
+        "alternatives": [
+            "matière primaire"
+        ]
+    },
+    {
+        "german": "Waldwirtschaft",
+        "french": "la exploitation forestière",
+        "audio": "la_exploitation_forestiere.ogg",
+        "alternatives": [
+            "exploitation forestière"
+        ]
+    },
+    {
+        "german": "Bergbau",
+        "french": "la exploitation minière",
+        "audio": "la_exploitation_miniere.ogg",
+        "alternatives": [
+            "exploitation minière"
+        ]
+    },
+    {
+        "german": "verstehen, enthalten, umfassen",
+        "french": "comprendre",
+        "audio": "comprendre.ogg"
+    },
+    {
+        "german": "variiert",
+        "french": "varié(e)",
+        "audio": "varie(e).ogg",
+        "alternatives": [
+            "varié",
+            "variée"
+        ]
+    },
+    {
+        "german": "nautisch",
+        "french": "nautique",
+        "audio": "nautique.ogg"
+    },
+    {
+        "german": "Bau",
+        "french": "le bâtiment",
+        "audio": "le_bâtiment.ogg",
+        "alternatives": [
+            "bâtiment"
+        ]
+    },
+    {
+        "german": "Konstruktion",
+        "french": "la construction",
+        "audio": "la_construction.ogg",
+        "alternatives": [
+            "construction"
+        ]
+    },
+    {
+        "german": "öffentlich",
+        "french": "public (f. publique)",
+        "audio": "public_(f_publique).ogg",
+        "alternatives": [
+            "public",
+            "publique"
+        ]
+    },
+    {
+        "german": "Stahlbau",
+        "french": "la construction ferroviaire",
+        "audio": "la_construction_ferroviaire.ogg",
+        "alternatives": [
+            "construction ferroviaire"
+        ]
+    },
+    {
+        "german": "Elektrogeräte (Haushalt)",
+        "french": "le électroménager",
+        "audio": "le_electromenager.ogg",
+        "alternatives": [
+            "électroménager"
+        ]
+    },
+    {
+        "german": "Papierindustrie",
+        "french": "la industrie papetière",
+        "audio": "la_industrie_papetiere.ogg",
+        "alternatives": [
+            "industrie papetière"
+        ]
+    },
+    {
+        "german": "verantwortlich",
+        "french": "(m) artisanat d'art",
+        "audio": "(m)_artisanat_dart.ogg",
+        "alternatives": [
+            "le artisanat d'art",
+            "l'artisanat d'art",
+            "artisanat d'art"
+        ]
+    },
+    {
+        "german": "Handwerk",
+        "french": "(m) artisanat",
+        "audio": "(m)_artisanat.ogg",
+        "alternatives": [
+            "le artisanat",
+            "l'artisanat",
+            "artisanat"
+        ]
+    },
+    {
+        "german": "hauptsächlich",
+        "french": "essentiellement",
+        "audio": "essentiellement.ogg"
+    },
+    {
+        "german": "Beratung",
+        "french": "le conseil",
+        "audio": "le_conseil.ogg",
+        "alternatives": [
+            "conseil"
+        ]
+    },
+    {
+        "german": "Unterhaltung, zum Erhalt von Dingen",
+        "french": "le entretien",
+        "audio": "le_entretien.ogg",
+        "alternatives": [
+            "entretien"
+        ]
+    },
+    {
+        "german": "Freizeitbeschäftigung",
+        "french": "le loisir",
+        "audio": "le_loisir.ogg",
+        "alternatives": [
+            "loisir"
+        ]
+    },
+    {
+        "german": "Reparatur",
+        "french": "la réparation",
+        "audio": "la_reparation.ogg",
+        "alternatives": [
+            "réparation"
+        ]
+    },
+    {
+        "german": "Forschung",
+        "french": "la recherche",
+        "audio": "la_recherche.ogg",
+        "alternatives": [
+            "recherche"
+        ]
+    },
+    {
+        "german": "Gesundheit",
+        "french": "la santé",
+        "audio": "la_sante.ogg",
+        "alternatives": [
+            "santé"
+        ]
+    }
+]
