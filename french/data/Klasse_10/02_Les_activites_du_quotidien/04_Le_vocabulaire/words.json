@@ -1,0 +1,78 @@
+[
+    {
+        "german": "das Abitur",
+        "french": "le baccalauréat",
+        "audio": "le_baccalaureat.ogg"
+    },
+    {
+        "german": "die Muttersprache",
+        "french": "la langue maternelle",
+        "audio": "la_langue_maternelle.ogg"
+    },
+    {
+        "german": "die Geburt",
+        "french": "la naissance",
+        "audio": "la_naissance.ogg"
+    },
+    {
+        "german": "der Kindergarden",
+        "french": "l'école maternelle",
+        "audio": "lecole_maternelle.ogg",
+        "alternatives": [
+            "la école maternelle"
+        ]
+    },
+    {
+        "german": "der Mechaniker",
+        "french": "le mécanicien",
+        "audio": "le_mecanicien.ogg"
+    },
+    {
+        "german": "die Mechanikerin",
+        "french": "la mécanicienne",
+        "audio": "la_mecanicienne.ogg"
+    },
+    {
+        "german": "die Grundschule",
+        "french": "l'école primaire",
+        "audio": "lecole_primaire.ogg",
+        "alternatives": [
+            "la école primaire"
+        ]
+    },
+    {
+        "german": "die lebendige Sprache",
+        "french": "la langue vivante",
+        "audio": "la_langue_vivante.ogg"
+    },
+    {
+        "german": "als",
+        "french": "en tant que",
+        "audio": "en_tant_que.ogg"
+    },
+    {
+        "german": "seit",
+        "french": "depuis",
+        "audio": "depuis.ogg"
+    },
+    {
+        "german": "von 2010 bis 2015",
+        "french": "de 2010 à 2015",
+        "audio": "de_2010_à_2015.ogg"
+    },
+    {
+        "german": "eine Werbeagentur",
+        "french": "une agence de publicité",
+        "audio": "une_agence_de_publicite.ogg"
+    },
+    {
+        "german": "eine alte Person",
+        "french": "une personne agée",
+        "audio": "une_personne_agee.ogg"
+    },
+    {
+        "german": "die Physiotherapie",
+        "french": "la kinésithérapie",
+        "audio": "la_kinesitherapie.ogg"
+    }
+]
