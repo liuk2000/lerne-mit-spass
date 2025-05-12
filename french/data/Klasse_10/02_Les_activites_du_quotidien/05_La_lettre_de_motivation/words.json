@@ -1,0 +1,156 @@
+[
+    {
+        "german": "jmd etw anbieten",
+        "french": "offrir qc à qn",
+        "audio": "offrir_qc_à_qn.ogg",
+        "alternatives": [
+            "offrir quelque chose à quelqu'un"
+        ]
+    },
+    {
+        "german": "der Kunde",
+        "french": "le client",
+        "audio": "le_client.ogg"
+    },
+    {
+        "german": "die Kundin",
+        "french": "la cliente",
+        "audio": "la_cliente.ogg"
+    },
+    {
+        "german": "der Mitarbeiter",
+        "french": "le colaborateur",
+        "audio": "le_colaborateur.ogg"
+    },
+    {
+        "german": "die Mitarbeiterin",
+        "french": "la colaboratrice",
+        "audio": "la_colaboratrice.ogg"
+    },
+    {
+        "german": "gemeinsam",
+        "french": "commun",
+        "audio": "commun.ogg"
+    },
+    {
+        "german": "mit denen, mit welchen",
+        "french": "avec lesquels",
+        "audio": "avec_lesquels.ogg"
+    },
+    {
+        "german": "mit denen, mit welchen",
+        "french": "avec lesquelles",
+        "audio": "avec_lesquelles.ogg"
+    },
+    {
+        "german": "größte",
+        "french": "le plus grand",
+        "audio": "le_plus_grand.ogg"
+    },
+    {
+        "german": "Lehre",
+        "french": "le apprentissage",
+        "audio": "le_apprentissage.ogg"
+    },
+    {
+        "german": "die Umgegebung",
+        "french": "le environment",
+        "audio": "le_environment.ogg"
+    },
+    {
+        "german": "etw entdecken",
+        "french": "découvrir qc",
+        "audio": "decouvrir_qc.ogg",
+        "alternatives": [
+            "découvrir quelque chose"
+        ]
+    },
+    {
+        "german": "der Beruf",
+        "french": "le métier",
+        "audio": "le_metier.ogg"
+    },
+    {
+        "german": "Dienst",
+        "french": "le service",
+        "audio": "le_service.ogg"
+    },
+    {
+        "german": "Gemeinde, Gemeinschaft",
+        "french": "la collectivité",
+        "audio": "la_collectivite.ogg"
+    },
+    {
+        "german": "jmd/etw empfangen",
+        "french": "accueillir qn/qc",
+        "audio": "accueillir_qnqc.ogg",
+        "alternatives": [
+            "accueillir quelque chose / quelqu'un"
+        ]
+    },
+    {
+        "german": "Empfang",
+        "french": "le accueil",
+        "audio": "le_accueil.ogg"
+    },
+    {
+        "german": "die Ausbildung",
+        "french": "la formation",
+        "audio": "la_formation.ogg"
+    },
+    {
+        "german": "der Vertrag",
+        "french": "le contrat",
+        "audio": "le_contrat.ogg"
+    },
+    {
+        "german": "Dauer",
+        "french": "la durée",
+        "audio": "la_duree.ogg"
+    },
+    {
+        "german": "jmd/etw empfangen",
+        "french": "recevoir qn/qc",
+        "audio": "recevoir_qnqc.ogg"
+    },
+    {
+        "german": "Einrichtung",
+        "french": "le établissement",
+        "audio": "le_etablissement.ogg"
+    },
+    {
+        "german": "Unterhaltung, Gespräch",
+        "french": "le entretien",
+        "audio": "le_entretien.ogg"
+    },
+    {
+        "german": "jmd etw bringen",
+        "french": "apporter qc à qn",
+        "audio": "apporter_qc_à_qn.ogg"
+    },
+    {
+        "german": "voraus",
+        "french": "avance",
+        "audio": "avance.ogg"
+    },
+    {
+        "german": "im Voraus",
+        "french": "par avance",
+        "audio": "par_avance.ogg"
+    },
+    {
+        "german": "verfügbar",
+        "french": "disponible",
+        "audio": "disponible.ogg"
+    },
+    {
+        "german": "jmd treffen",
+        "french": "rencontrer qn",
+        "audio": "rencontrer_qn.ogg"
+    },
+    {
+        "german": "im Laufe von",
+        "french": "au cours de qc",
+        "audio": "au_cours_de_qc.ogg"
+    }
+]
