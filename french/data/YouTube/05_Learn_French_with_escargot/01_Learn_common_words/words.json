@@ -1,0 +1,232 @@
+[
+    {
+        "german": "rudern",
+        "french": "ramer",
+        "audio": "ramer.ogg"
+    },
+    {
+        "german": "(aus)rutschen, gleiten",
+        "french": "glisser",
+        "audio": "glisser.ogg"
+    },
+    {
+        "german": "werfen, starten",
+        "french": "lancer",
+        "audio": "lancer.ogg"
+    },
+    {
+        "german": "(be)streuen",
+        "french": "saupoudrer",
+        "audio": "saupoudrer.ogg"
+    },
+    {
+        "german": "fegen, (auf)kehren",
+        "french": "balayer",
+        "audio": "balayer.ogg"
+    },
+    {
+        "german": "auspressen, trocken schleudern",
+        "french": "essorer",
+        "audio": "essorer.ogg"
+    },
+    {
+        "german": "sich kämmen",
+        "french": "se peigner",
+        "audio": "se_peigner.ogg"
+    },
+    {
+        "german": "bestreichen, schmieren",
+        "french": "tartiner",
+        "audio": "tartiner.ogg"
+    },
+    {
+        "german": "klettern, hinaufsteigen",
+        "french": "grimper",
+        "audio": "grimper.ogg"
+    },
+    {
+        "german": "braten, backen, frittieren",
+        "french": "frire",
+        "audio": "frire.ogg"
+    },
+    {
+        "german": "sich die Schuhe anziehen",
+        "french": "se chausser",
+        "audio": "se_chausser.ogg"
+    },
+    {
+        "german": "das Gesicht waschen, das Gesicht waschen",
+        "french": "débarbouiller",
+        "audio": "debarbouiller.ogg"
+    },
+    {
+        "german": "niesen",
+        "french": "éternuer",
+        "audio": "eternuer.ogg"
+    },
+    {
+        "german": "auseinanerreißen, zerfetzen",
+        "french": "déchirer",
+        "audio": "dechirer.ogg"
+    },
+    {
+        "german": "der Dauerstau, der Stau",
+        "french": "le embouteillage",
+        "audio": "le_embouteillage.ogg"
+    },
+    {
+        "german": "Au! Aua! Autsch!",
+        "french": "Aïe",
+        "audio": "aïe.ogg"
+    },
+    {
+        "german": "kurz schneiden",
+        "french": "tondre",
+        "audio": "tondre.ogg"
+    },
+    {
+        "german": "schlürfen, langsam und genüsslich trinken",
+        "french": "siroter",
+        "audio": "siroter.ogg"
+    },
+    {
+        "german": "schnarchen",
+        "french": "ronfler",
+        "audio": "ronfler.ogg"
+    },
+    {
+        "german": "pfeifen",
+        "french": "siffler",
+        "audio": "siffler.ogg"
+    },
+    {
+        "german": "(aus)graben, (aus)heben",
+        "french": "creuser",
+        "audio": "creuser.ogg"
+    },
+    {
+        "german": "aufsammeln, einsammeln, aufheben",
+        "french": "ramasser",
+        "audio": "ramasser.ogg"
+    },
+    {
+        "german": "bügeln, wieder vorbeikommen",
+        "french": "repasser",
+        "audio": "repasser.ogg"
+    },
+    {
+        "german": "stricken, sich aus dem Staub machen",
+        "french": "tricoter",
+        "audio": "tricoter.ogg"
+    },
+    {
+        "german": "gähnen",
+        "french": "bailler",
+        "audio": "bailler.ogg"
+    },
+    {
+        "german": "reiben, schaben, kratzen",
+        "french": "râper",
+        "audio": "râper.ogg"
+    },
+    {
+        "german": "einschenken, eingießen",
+        "french": "verser",
+        "audio": "verser.ogg"
+    },
+    {
+        "german": "niederstoßen, umstoßen, umkippen",
+        "french": "renverser",
+        "audio": "renverser.ogg"
+    },
+    {
+        "german": "anstoßen. prosten",
+        "french": "trinquer",
+        "audio": "trinquer.ogg"
+    },
+    {
+        "german": "gurgeln",
+        "french": "se gargariser",
+        "audio": "se_gargariser.ogg"
+    },
+    {
+        "german": "(aus)spucken",
+        "french": "cracher",
+        "audio": "cracher.ogg"
+    },
+    {
+        "german": "gießen, wässern",
+        "french": "arroser",
+        "audio": "arroser.ogg"
+    },
+    {
+        "german": "(ver)packen",
+        "french": "emballer",
+        "audio": "emballer.ogg"
+    },
+    {
+        "german": "entpacken",
+        "french": "déballer",
+        "audio": "deballer.ogg"
+    },
+    {
+        "german": "flüstern, wispern",
+        "french": "susurrer",
+        "audio": "susurrer.ogg"
+    },
+    {
+        "german": "abtropfen",
+        "french": "s'égoutter",
+        "audio": "segoutter.ogg"
+    },
+    {
+        "german": "einweichen, tränken, durchnässen",
+        "french": "tremper",
+        "audio": "tremper.ogg"
+    },
+    {
+        "german": "nähen, schneidern",
+        "french": "coudre",
+        "audio": "coudre.ogg"
+    },
+    {
+        "german": "zerknittern, zerknüllen",
+        "french": "froisser",
+        "audio": "froisser.ogg"
+    },
+    {
+        "german": "durchkneten, kneten, rühren",
+        "french": "pétrir",
+        "audio": "petrir.ogg"
+    },
+    {
+        "german": "durchkommen, (durch)bohren",
+        "french": "percer",
+        "audio": "percer.ogg"
+    },
+    {
+        "german": "rubbeln, reiben",
+        "french": "frotter",
+        "audio": "frotter.ogg"
+    },
+    {
+        "german": "pupsen, furzen, platzen",
+        "french": "péter",
+        "audio": "peter.ogg"
+    },
+    {
+        "german": "strecken, dehnen",
+        "french": "s'étirer",
+        "audio": "setirer.ogg"
+    },
+    {
+        "german": "sich die Nase putzen",
+        "french": "se moucher",
+        "audio": "se_moucher.ogg"
+    },
+    {
+        "german": "starten, abfliegen",
+        "french": "décoller",
+        "audio": "decoller.ogg"
+    }
+]

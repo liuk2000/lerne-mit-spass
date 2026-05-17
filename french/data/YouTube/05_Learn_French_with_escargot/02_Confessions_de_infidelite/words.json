@@ -1,0 +1,202 @@
+[
+    {
+        "german": "unklar, undeutlich, verschwommen",
+        "french": "flou",
+        "audio": "flou.ogg"
+    },
+    {
+        "german": "der Junggesellinnenabschied",
+        "french": "le enterrement de vie de jeune fille",
+        "audio": "le_enterrement_de_vie_de_jeune_fille.ogg"
+    },
+    {
+        "german": "Schwung, Auftrieb, Impuls, Anstoß",
+        "french": "le élan",
+        "audio": "le_elan.ogg"
+    },
+    {
+        "german": "einrichten, aufbauen, aufstellen",
+        "french": "mettre en place",
+        "audio": "mettre_en_place.ogg"
+    },
+    {
+        "german": "Augenbraue",
+        "french": "le sourcil",
+        "audio": "le_sourcil.ogg"
+    },
+    {
+        "german": "Lob, Lobpreisung, Anerkennung",
+        "french": "éloge",
+        "audio": "eloge.ogg"
+    },
+    {
+        "german": "der Einsatz, die Herausforderung",
+        "french": "le enjeu",
+        "audio": "le_enjeu.ogg"
+    },
+    {
+        "german": "furchtbar, schrecklich, furchteinflößend",
+        "french": "redoutable",
+        "audio": "redoutable.ogg"
+    },
+    {
+        "german": "der Kater, der Katzenjammer",
+        "french": "la gueule de bois",
+        "audio": "la_gueule_de_bois.ogg"
+    },
+    {
+        "german": "zustimmen, beipflichten, einwilligen",
+        "french": "acquiescer",
+        "audio": "acquiescer.ogg"
+    },
+    {
+        "german": "der Überschuss, die Überladung, der Überfluss, Zuviel, das Übermaß",
+        "french": "le excès",
+        "audio": "le_exces.ogg"
+    },
+    {
+        "german": "vergraben, verbergen",
+        "french": "enfouir",
+        "audio": "enfouir.ogg"
+    },
+    {
+        "german": "der Urlaub, die Ferien",
+        "french": "le congé",
+        "audio": "le_conge.ogg"
+    },
+    {
+        "german": "steif, starr, seil",
+        "french": "raide",
+        "audio": "raide.ogg"
+    },
+    {
+        "german": "der Nacken, der Genick",
+        "french": "le nuque",
+        "audio": "le_nuque.ogg"
+    },
+    {
+        "german": "glatt, geschmeidig",
+        "french": "lisse",
+        "audio": "lisse.ogg"
+    },
+    {
+        "german": "summen, brummen, vor sich hin singen",
+        "french": "fredonner",
+        "audio": "fredonner.ogg"
+    },
+    {
+        "german": "irgendetwas stimmt nicht, etwas ist faul",
+        "french": "quelque chose cloche",
+        "audio": "quelque_chose_cloche.ogg"
+    },
+    {
+        "german": "sich den Kopf zerbrechen, sich den Kopf über etwas zerbrechen",
+        "french": "se défoncer",
+        "audio": "se_defoncer.ogg"
+    },
+    {
+        "german": "halb, ein wenig, einen Spalt (weit) öffnen",
+        "french": "entrouvrir",
+        "audio": "entrouvrir.ogg"
+    },
+    {
+        "german": "palpitierend, aufregend, spannend",
+        "french": "palpitant",
+        "audio": "palpitant.ogg"
+    },
+    {
+        "german": "Aussehen, Erscheinungsbild, Optik",
+        "french": "allure",
+        "audio": "allure.ogg"
+    },
+    {
+        "german": "streifen, berühren, leicht berühren",
+        "french": "effleurer",
+        "audio": "effleurer.ogg"
+    },
+    {
+        "german": "flüchtig, vergänglich, kurzlebig",
+        "french": "fugace",
+        "audio": "fugace.ogg"
+    },
+    {
+        "german": "weit, locker, luftig",
+        "french": "ample",
+        "audio": "ample.ogg"
+    },
+    {
+        "german": "knistern",
+        "french": "crépiter",
+        "audio": "crepiter.ogg"
+    },
+    {
+        "german": "die Augen aufreißen, die Augen weit öffnen",
+        "french": "écarquiller les yeux",
+        "audio": "ecarquiller_les_yeux.ogg"
+    },
+    {
+        "german": "elleuchten, erhellen, beleuchten",
+        "french": "éclairer",
+        "audio": "eclairer.ogg"
+    },
+    {
+        "german": "der Funke",
+        "french": "la étincelle",
+        "audio": "la_etincelle.ogg"
+    },
+    {
+        "german": "verzaubern, bezaubern, in den Bann ziehen",
+        "french": "envoûter",
+        "audio": "envoûter.ogg"
+    },
+    {
+        "german": "Laufband, Fließband",
+        "french": "le tapis roulant",
+        "audio": "le_tapis_roulant.ogg"
+    },
+    {
+        "german": "die Hochzeitsnacht",
+        "french": "la nuit de noces",
+        "audio": "la_nuit_de_noces.ogg"
+    },
+    {
+        "german": "der Blitz, der Blitzschlag",
+        "french": "foudre",
+        "audio": "foudre.ogg"
+    },
+    {
+        "german": "etwas anknabbern, etwas anbeißen",
+        "french": "mordiller qc.",
+        "audio": "mordiller_qc.ogg"
+    },
+    {
+        "german": "die Ruhepause, die Veschnaufpause, die Atempause",
+        "french": "la trêve",
+        "audio": "la_trêve.ogg"
+    },
+    {
+        "german": "ruckartig, abrupt, unregelmäßig",
+        "french": "saccadé",
+        "audio": "saccade.ogg"
+    },
+    {
+        "german": "wild, grausam, brutal",
+        "french": "féroce",
+        "audio": "feroce.ogg"
+    },
+    {
+        "german": "der Dachboden, der Speicher",
+        "french": "le grenier",
+        "audio": "le_grenier.ogg"
+    },
+    {
+        "german": "der Keller, die Weinkeller",
+        "french": "la cave",
+        "audio": "la_cave.ogg"
+    },
+    {
+        "german": "die Säge",
+        "french": "la scie",
+        "audio": "la_scie.ogg"
+    }
+]
